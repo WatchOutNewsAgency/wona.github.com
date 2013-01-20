@@ -11,36 +11,44 @@ categories: literary
 And that's when my eternally crazy, philosophy-tinted mind made a rather far-fetched link to my own ignorance, and my ignorance of my own ignorance. The madman within me screamed at me to express the revelation. I quelled the insanity.
 He ultimately won, though.
 </em>
-A city of blissful mortals and mournful souls
-Within weary walls, and the winter cold.
-Under a gloomy sun behind a misty veil,
-In an year of a single night and a single day.
- 
-Voices of the unquenchable soul, unheard
-In the peaceful silence of existence. 
-Captured and bound by earthly vows,
-Driven to despair by an unseen foe.
- 
-A musty past, scrolls of seekers lost
-The only remnants of a fading quest.
-As a forgotten god, a bottomless well,
-Hollow and unfulfilled it shall be.
- 
-Puppets dancing to self made strings,
-Without a master, without a cause.
-Echoes of music from beyond the veil
-Resonate within their empty souls.
- 
-Illusion of conviction, conjured
-By the shadowy trickster of guile.
-He who pulled the greatest trick of all
-Lies shrouded in the shadow of the cloud.
- 
-The future holds the answer,
-To the unasked question,
-Will lightning strike?
-Or will nighttime fall?
+<p>
+A city of blissful mortals and mournful souls<br/>
+Within weary walls, and the winter cold.<br/>
+Under a gloomy sun behind a misty veil,<br/>
+In an year of a single night and a single day.<br/>
+</p>
 
+<p> 
+Voices of the unquenchable soul, unheard<br/>
+In the peaceful silence of existence.<br/> 
+Captured and bound by earthly vows,<br/>
+Driven to despair by an unseen foe.<br/>
+</p>
+
+<p>
+A musty past, scrolls of seekers lost<br/>
+The only remnants of a fading quest.<br/>
+As a forgotten god, a bottomless well,<br/>
+Hollow and unfulfilled it shall be.<br/>
+</p>
+<p> 
+Puppets dancing to self made strings,<br/>
+Without a master, without a cause.<br/>
+Echoes of music from beyond the veil<br/>
+Resonate within their empty souls.<br/>
+</p>
+<p> 
+Illusion of conviction, conjured<br/>
+By the shadowy trickster of guile.<br/>
+He who pulled the greatest trick of all<br/>
+Lies shrouded in the shadow of the cloud.<br/>
+</p>
+<p> 
+The future holds the answer,<br/>
+To the unasked question,<br/>
+Will lightning strike?<br/>
+Or will nighttime fall?<br/>
+</p>
 
 <em>Jayant Jain</em>
 <em>II Year, Mech</em>

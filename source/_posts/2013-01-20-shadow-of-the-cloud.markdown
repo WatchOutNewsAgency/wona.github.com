@@ -6,12 +6,19 @@ comments: true
 categories: literary 
 ---
 
+<div class="authorline">
+By Jayant Jain, II Year, Mech
+</div>
+
 <em>I was staring out the window, distracted from the unenviable task of dimensioning a long-forgotten machine. As I stared at a shadow moving along the ground (yes, that's how unenviable my task was), I noticed the shadows that had been previously hidden, being revealed by its motion. That's when I realized how most shadows stayed hidden and unnoticed within all the other shadows. 
 </em>
 <em>
 And that's when my eternally crazy, philosophy-tinted mind made a rather far-fetched link to my own ignorance, and my ignorance of my own ignorance. The madman within me screamed at me to express the revelation. I quelled the insanity.
 He ultimately won, though.
 </em>
+
+<!--more-->
+
 <p>
 A city of blissful mortals and mournful souls<br/>
 Within weary walls, and the winter cold.<br/>
@@ -51,6 +58,4 @@ Will lightning strike?<br/>
 Or will nighttime fall?<br/>
 </p>
 
-<em>Jayant Jain</em>
-<em>II Year, Mech</em>
 

@@ -5,6 +5,10 @@ date: 2011-09-19 17:13
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Hetu Ashara, III Year, Elec
+</div>
+
 Not so long long ago was a man of great valour. A bastion of strength. A man with a  spirit to conquer the world. An astonishing urge to dominate the world. Stand what may come attitude bolstered by a unprecedented determination, flaring through the eyes. No one even lurked near him, such was his aura. After a worthy yet connoting introduction I present to you ladies and gentlemen the protagonist - GHISSU .
 
 Ghissu was a boy of straight  A+s. He demoralized the professors (!) of his college by hitting a spot on, bulls eye, perfect 10 SGPA in the first semester. He had achieved this unique feat all thanks to the qualities described above.

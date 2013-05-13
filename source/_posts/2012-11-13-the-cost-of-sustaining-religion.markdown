@@ -5,11 +5,18 @@ date: 2012-11-13 12:38
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Abhay Rana, IV Year, P&amp;I
+</div>
+
+
 <b>Disclaimer:</b> The views are the author's alone. The reader is advised to adopt an open mind.
 
 When I came to IIT-Roorkee, I was an agnostic-turning-to-atheism, hoping that I would be guided the right way. However, meeting so many people with so many different views to life made me move away from religion, if anything. The more I tried to understand faith, the more it got away.
 
 India, as a rich and diverse country, has its own share of religions, superstitions, and weird laws that come with these religions. For instance, changing your religion is illegal in several states, while some others may require you to give a one month notice or else face fines. India is one of the few secular countries which governs several laws based on religion. We have different marriage laws for different religions.
+
+<!--more-->
 
 Are you worried about politics in India mixing with religion? I’m worried about the lack of atheist support in India. Our most recent census does not include a section for atheists, and assumes all Indians are believers. At the same time, we have many of our politicians swearing oaths as atheists. Our first Prime Minister was openly an atheist, and having another such is unthinkable at times like these. Recently, a pic doing the rounds on the internet argued that the theoretical taxing of religious organizations in the US would lead to enough budget($71 billion/year) for NASA to send 28 Curiosity rovers per year, forever to Mars. Taking on a similar hypothetical question I wondered: “How much could India benefit, if India suddenly embraced atheism”. As it turns out, the answer is a lot.
 

@@ -5,6 +5,9 @@ date: 2011-10-19 13:19
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Nisha C, III Year, Mech
+</div>
 
 Yesterday morning I had found my cycle punctured when I had already been running late to class by five minutes. Irked at my cycle's betrayal, struck by the sudden realization that I had no time for an afternoon nap, having the accuser in me smirking at the guilty mulling over how nothing useful had transpired during the vacations, I was convinced that that was the best time for apocalypse. In fact, I was so convinced that I  removed the  otherwise pointless drawing sheet with very ugly views of die-casters, acting as a sun-shield, from my head, in a move to encounter whatever, head on. Stumbling feebly across the road, there was a puny little kid, who, in a series of serendipitous events, was evading being hit by vehicles honking and zooming past her.
 

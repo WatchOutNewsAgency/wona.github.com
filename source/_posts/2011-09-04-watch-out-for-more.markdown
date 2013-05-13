@@ -5,6 +5,9 @@ date: 2011-09-04 16:05
 comments: true
 categories: 
 ---
+<div class="authorline">
+By MK Arun Kumar, IV Year, Meta
+</div>
 
 There comes a time in every person’s life when he is asked to bark like a dog in front of a few extraordinary gentlemen, his selection into their beloved organisation conditional on him performing said demeaning task. He can choose to swallow the ignominy in silence and leave the scene without making a fuss. Or he could accept the challenge as his forthcoming baptism by fire, and get ready to unleash the canine within him in all its guttural glory. Either way, he risks getting stuck with a life-long regret. On an eventful early August afternoon 6 semesters ago, some higher power decreed that I throw caution to the winds and bark my heart out. In a life characterised by idiocy and imprudence, that remains one of the wiser decisions I have ever made.
 

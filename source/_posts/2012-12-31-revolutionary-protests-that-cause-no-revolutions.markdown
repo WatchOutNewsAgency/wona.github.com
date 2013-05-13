@@ -6,9 +6,14 @@ comments: true
 categories: societal 
 published: false
 ---
+<div class="authorline">
+  By Nisha Chandramoorthy, III Year, Mech
+</div>
 
 
 Speaking in cliches is an easy thing to do. Sometimes, you let slip a few words that are supposed to be spoken in particular circumstances like a programmed machine. You trust they are appropriate and don't stop to ponder about what they truly mean. It is a call for action, they say, or May her death not go in vain. In a moment of hatred, of protest and rebellion, you, inconsiderate reader, start to accuse everyone; your blood curdles on hearing cliches. You despise the random bloke who made sexist remarks, it galls you to think of Prime Ministers who gaffed inadvertently while addressing nations, of grey-haired Chief Ministers who make speeches that count for naught. In the heat of rage, you, thoughtless reader, turn misanthropic and ruthless in your criticisms.
+
+<!--more-->
 
 God forbid, had the tiniest part of the unfortunate event that occurred in the moving bus in New Delhi two weeks ago happened to me - I am sorry I can't finish this sentence because I don't have the courage to even think of the possibility. Yes, unkind reader, it is of fear that I speak. Abashedly huge fear, nothing poetic and great about it. Not of darkness, but of the people who are its whelp. They have a heart black as coal, they don't feel the slightest prickle on their skin when they hurt another and they have enormous physical strength. Much greater than my own. 
 

@@ -5,11 +5,18 @@ date: 2012-08-26 21:07
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Anonymous
+</div>
+
 
 “An educated person is one who has learned that information almost always turns out to be at best incomplete and very often false, misleading, fictitious, mendacious - just dead wrong. “
 Russel
 
 B.Tech in Pulp and Paper Engineering, the brochure reads. Placements have been good in this field in the recent years. And as a small aside- the course is run in Saharanpur Campus, 50 km from Roorkee. The descriptions of  Polymer Science and Technology and Process Engineering with MBA, run along the same lines.
+
+<!--more-->
+
 Every year, groups of students who clear the JEE, but only just,grab this course along their only path to become an IITian. Sacrificing the chance to learn their favorite courses at rather less reputed institutions, they put all their faith in the hallowed name of IIT, sometimes leaving their homes thousands of kilometers behind. Alas! Fate is cruel to them- they get a rude shock soon after arriving to take their place in the halls of their dreams. Nothing in their worst nightmares could have prepared them for the mental distress which plagues everyone in this institute. Isolated from their classmates, unrecognized as IITians even by the shopkeepers nearby, they are soon struck by the realization that this was certainly not what they signed up for, and definitely not what they deserved.
 
 Soon plagued by the contagious depression that infects this campus,they start feeling imprisoned.

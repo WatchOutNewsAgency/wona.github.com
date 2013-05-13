@@ -5,6 +5,10 @@ date: 2011-09-04 12:26
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Mrinal Tripathi, III Year, Chem
+</div>
+
 I swear,
 “I never was the purple cow
 I only got to see some

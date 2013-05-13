@@ -5,6 +5,9 @@ date: 2011-11-22 06:14
 comments: true
 categories: 
 ---
+<div class="authorline">
+By an anonymous crusader
+</div>
 
 Our institute takes a rather ambiguous stance on the attendance shortage rule. While technically, a student should be forced to repeat a course if his attendance falls below that magical 75% mark, this dictum seldom comes into play owing to general leniency shown by professors and departments. Unless the figure under consideration has reached unspeakably abysmal levels, in which case the student probably knows what’s coming. Regardless of the course or professor or department in question, students generally breathe easy if they are somewhere near the 65 to 70% mark.
 

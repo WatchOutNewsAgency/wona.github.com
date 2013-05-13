@@ -5,10 +5,16 @@ date: 2011-10-24 04:56
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Abhishek Pandey, III Year, Meta
+</div>
+
+
 You told me to observe and learn from everything that happened around me. That way you said I would grow up to be an intelligent man. But of late it feels I have seen enough. Every new thing is not exactly new. Every event differs from its predecessor in the mode in which it occurs. The underlying sentiments somehow seem to be the same everywhere. I want to share something with you.
 
-<!--more-->
 Just next to my hostel, in college, there is a small playground. It’s not actually that large to be called a playground, just a small stretch of underutilized land. At one end of this stretch there are a few residential quarters, allotted to the mess workers. Twenty steps from these quarters is a small Shiv temple. From the bathroom of the floor I live in, one gets a clear view of the temple and the quarters. So every time I went to brush my teeth in the mornings or to take a bath, I would come across their life, their style of living. Basic stuff they did in the morning. Men of the household sipping tea, reading the newspaper while the women used to cut vegetables sitting by, preparing breakfast. Watching them do all this stuff became a routine for me as well. Nothing of that was much of my interest, except for one thing. Every day the old lady of the house would walk with the youngest kid to the Shiv temple and offer her prayers. The kid absolutely oblivious of what his grandmother was chanting would just close his eyes and bowed his head down. This scene reminded me vividly of how I as a kid used to travel to the nearby temple with grandmother. This thought made me happy and somehow it felt as if the day had begun well.
+
+<!--more-->
 
 All of this happened before I went home for the holidays.
 

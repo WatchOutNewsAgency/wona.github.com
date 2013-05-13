@@ -5,9 +5,14 @@ date: 2012-01-11 15:37
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Abhishek Pandey, IV Year, Chem
+</div>
 
 The summers are always long. No matters how good a family you got, or how much money to spend; they do at some point or other start boring you. The point is everybody starts looking out for unconventional ways of killing time.
 I am 21, single, with no interest left in my education. I am miserable. Therefore my drive to find crazy ways to kill my time is much stronger than the rest of the population. One such way is dirt biking. I usually take my bike out in the morning or late evenings and set off to far off villages. Well most of these villages are not electrified, neither does any of them has roads laid out. I believe that these villages can be developed as great dirt biking locations, although I am not pretty much certain that they are fit enough for human settlement. During one such expedition I came face to face with what movie analysts would call dark comedy.
+
+<!--more-->
 
 There is this hamlet called Haidurganj on the Gorakhpur-Basti highway. This Muslim dominated locality is exactly like the dozen other villages spread across the highway, except for the fact that it has a mosque which is more magnificent than any other you would find in entire Gorakhpur. The floor is entirely laid with high quality marble. The marble was specially imported from Rajasthan for the construction of the mosque. There is brilliant calligraphy done on the inner side of the dome wall. It would make Steve Jobs proud.  Rahman Chacha tells me those are verses from the Quran. He knows the best. He did it.
 

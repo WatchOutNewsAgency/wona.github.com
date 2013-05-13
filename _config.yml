@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://wona.github.com
-title: WONA Blog
+title: Watch Out! News Agency Blog
 subtitle:
 author: Watchout NewsAgency, IIT-R
 simple_search: http://google.com/search
@@ -90,7 +90,7 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: wonablog
-disqus_show_comment_count: true
+disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-35663579-1

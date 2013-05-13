@@ -5,10 +5,16 @@ date: 2012-10-25 17:13
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Nisha C, III Year, Mech
+</div>
 
 
 Perusing the notice boards in the departments and the hostels is a useful habit well-cultivated by many on campus, perhaps on seniors' insistence and their own observations regarding the importance of the information that the notice boards usually carry. I am not a perfectly regular notice board-reader but I was standing there, nevertheless, scanning long sheets of shabbily clipped paper, for something significant. A breach of the code of conduct here, a hijacking of disciplinary marks there, a warning for participation in a hunger strike here and a suspension order for misconduct there.<br />
 <br />
+
+<!--more-->
+
 I checked again to see if it was true that there was nothing else the department wanted me know at that moment. My doubts had been well-reasoned after all. There was going to be a conference on advances in friction welding. Exciting, surely. I mean, I remembered how heroic I had felt donning that threadbare apron which I was sure was older than I was, those sooted gloves that would have been an unmistakable fit for Mr.<a href="http://en.wikipedia.org/wiki/Sultan_K%C3%B6sen" target="_blank">Sultan Kosen</a> if manual welding ever struck his fancy, and going bzzzzz...over Cast Iron to make a butt joint. If I had had more confidence in the safety of the dingy advanced welding(which is more accurate and automatic) lab, I would have easily slept through the practical or something. Naturally, I was just thinking about the other notices and this one just made want to distort the whole notice board, with the welding torch, if possible.<br />
 <br />
 We used to have <a href="http://chennai.burrp.com/listing/mcrennett-bakery_gopalapuram_chennai_bakery-shops-dessert-shops/1945021415" target="_blank">McRennett </a>opposite our school. For the most ridiculous of reasons, the school administration decided that we should pass up a chance to have the most delicious cakes in the world(it's been years since I had my last, but, believe me the taste lingers) after school hours. We weren't allowed to go. Of course, when rules become cold, they can be forgotten and indifference to them can be forgiven. Everyone started frequenting the bakery again but I wouldn't go for a while. My excuse was always the same. I would say that I am not one for answering uncomfortable questions if worse came to worst and some teacher chastised me. For the record, that never happened. My school had a set of unbelievably kind teachers. Despite being busy with churning out maximum marks in the board exam, my school did give each one of its pupils pleasant memories to cherish.<br />

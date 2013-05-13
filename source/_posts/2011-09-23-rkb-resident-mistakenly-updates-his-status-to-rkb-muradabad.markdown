@@ -5,6 +5,10 @@ date: 2011-09-23 11:14
 comments: true
 categories: 
 ---
+<div class="authorline">
+By Bhavya Vats, III Year, Meta
+</div>
+
 
 <strong>Roorkee</strong> The day when his fellow inmates were hailing the newly operational 1 Gbps internet by putting up status updates on the social networking site Facebook, a 3rd year B. Tech student at Radhakrishnan Bhawan, IIT Roorkee created an uproar in his hostel wing by putting up a controversial status.
 

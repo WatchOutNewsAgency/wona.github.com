@@ -1,0 +1,63 @@
+---
+layout: layout
+---
+
+{% for post in site.categories.edc %}
+	{% if post.category == 'cover' %}
+		<section class="cover">
+			<a href="{{ post.url }}">
+				<img src="/images/posts/{{post.image}}" alt="">
+				<div class="details">
+					<h2>{{ post.title }}</h2>
+					{{ post.excerpt | markdownify }}
+				</div>
+			</a>
+		</section>
+	{% endif %}
+{% endfor %}
+
+<div class="content masonry">
+	{% for post in site.categories.edc %}
+			
+		<span style="display:none;">{% increment count %}</span>
+
+		{% if count <= 10 %}
+			<div class="article-container">
+				<div class="article">
+					<a href="{{ post.url }}">
+						{% if post.image %}
+							<img src="/images/posts/{{ post.image }}" alt="">
+						{% endif %}
+						<div class="details">
+							<h3>{{ post.title }}</h3>
+							{{ post.excerpt | markdownify }}
+						</div>
+					</a>
+				</div>
+			</div>
+		{% else %}
+			<div class="article-container">
+				<div class="article">
+					<a href="{{ post.url }}">
+						<div class="details">
+							<h3>{{ post.title }}</h3>
+							{{ post.excerpt | markdownify }}
+						</div>
+					</a>
+				</div>
+			</div>			
+		{% endif %}
+	{% endfor %}
+</div>
+
+<script>
+	window.onload = function(){
+		width = document.getElementsByClassName('content')[0].offsetWidth;
+		width = Math.floor(width/3) - 1;
+		container = document.querySelector('.content');
+		msnry = new Masonry( container, {
+				columnWidth: width,
+				itemSelector: '.article-container'
+		});
+	}
+</script>

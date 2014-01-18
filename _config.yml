@@ -1,0 +1,11 @@
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:title
+rdiscount:
+  extensions: [smart]
+
+name: WONA
+url: http://wona.co.in
+description: The official news magazine of IIT Roorkee.
+paginate: 10
+paginate_path: "/page/:num"

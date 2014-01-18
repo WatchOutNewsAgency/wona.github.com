@@ -1,0 +1,55 @@
+---
+layout: layout
+title: "News"
+---
+
+<section class="cover">
+	<img src="/images/news.png" alt="">
+</section>
+
+<div class="content masonry">
+	{% for post in site.posts %}
+		{% if post.categories contains 'news' %}
+			<div class="article-container">
+				<div class="article {{post.tag}}">
+					<a href="{{ post.url }}">
+						{% if post.tag %}
+							<img src="/images/tags/{{post.tag}}.png" class="tag">
+						{% endif %}
+
+						{% if post.image %}
+							<img src="/images/posts/{{ post.image }}" class="article-cover">
+						{% else %}
+							<br><br>
+						{% endif %}
+						<div class="details">
+							<h3>{{ post.title }}</h3>
+							{{ post.excerpt | markdownify }}
+						</div>
+					</a>
+				</div>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
+
+<script>
+	window.onload = function(){
+		width = document.getElementsByClassName('content')[0].offsetWidth;
+		width = Math.floor(width/3) - 1;
+		container = document.querySelector('.content');
+		msnry = new Masonry( container, {
+			columnWidth: width,
+			itemSelector: '.article-container'
+		});
+	}
+</script>
+
+<!--   <ul class="listing">
+		{% for post in site.posts %}
+		<li>
+			<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+			<span><img src="/images/posts/{{ post.image }}">
+		</li>
+		{% endfor %}
+	</ul> -->

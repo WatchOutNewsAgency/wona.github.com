@@ -1,0 +1,23 @@
+---
+layout: layout
+---
+
+{% if page.image %}
+	<div class="cover">
+		<img src="/images/posts/{{ page.image }}" alt="">
+	</div>
+{% endif %}
+
+<section class="post">
+
+	<h1>
+		<a href="{{ page.url }}">{{ page.title }}</a>
+	</h1>
+
+	<section class="byline">
+		{{ page.date | date: "%B %e, %Y" }}
+	</section>
+
+	{{ content }}
+
+</section>

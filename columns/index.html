@@ -1,0 +1,47 @@
+---
+layout: layout
+title: "Columns"
+---
+
+<section class="cover">
+	<img src="/images/columns.png" alt="">
+</section>
+
+<div class="content masonry">
+	{% for post in site.posts %}
+		{% if post.categories contains 'column' %}
+			<div class="article-container">
+				<div class="article {{post.tag}}">
+
+					{% if post.tag %}
+						<img src="/images/tags/{{post.tag}}.png" class="tag">
+					{% endif %}
+					
+					<a href="{{ post.url }}">
+						{% if post.image %}
+							<img src="/images/posts/{{ post.image }}" class="article-cover">
+						{% else %}
+							<br><br>
+						{% endif %}
+						<div class="details">
+							<h3>{{ post.title }}</h3>
+							{{ post.excerpt | markdownify }}
+						</div>
+					</a>
+				</div>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
+
+<script>
+	window.onload = function(){
+		width = document.getElementsByClassName('content')[0].offsetWidth;
+		width = Math.floor(width/3) - 1;
+		container = document.querySelector('.content');
+		msnry = new Masonry( container, {
+			columnWidth: width,
+			itemSelector: '.article-container'
+		});
+	}
+</script>

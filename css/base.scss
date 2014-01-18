@@ -172,6 +172,7 @@ header {
 	display: block;
 	position: relative;
 	margin-bottom: 30px;
+	z-index: 100;
 	@include shadow();
 
 	img {

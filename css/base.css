@@ -116,6 +116,7 @@ header {
   display: block;
   position: relative;
   margin-bottom: 30px;
+  z-index: 100;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
   -ms-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);

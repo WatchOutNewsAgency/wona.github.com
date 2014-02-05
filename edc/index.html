@@ -2,6 +2,10 @@
 layout: layout
 ---
 
+<section class="cover">
+	<img src="/images/edc_cover.png" alt="">
+</section>
+
 {% for post in site.categories.edc %}
 	{% if post.category == 'cover' %}
 		<section class="cover">
@@ -26,7 +30,7 @@ layout: layout
 				<div class="article">
 					<a href="{{ post.url }}">
 						{% if post.image %}
-							<img src="/images/posts/{{ post.image }}" alt="">
+							<img src="/images/posts/{{ post.image }}" alt="" class="article-cover" >
 						{% endif %}
 						<div class="details">
 							<h3>{{ post.title }}</h3>

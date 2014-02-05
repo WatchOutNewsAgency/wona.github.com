@@ -232,6 +232,7 @@ header {
 	width: 30%;
 	margin: 0 1.5%;
 	margin-bottom: 50px;
+	float: left;
 	@include box-sizing();
 }
 
@@ -245,6 +246,9 @@ header {
 
 	&:hover {
 		color: #333;
+		img.article-cover {
+			opacity: 1;		
+		}
 	}
 
 	a:hover {
@@ -271,11 +275,6 @@ header {
 		width: 100%;
 		opacity: 0.8;
 		@include transition(all, 0.2s, ease-in);
-
-		&:hover {
-			opacity: 1;
-			@include transition(all, 0.2s, ease-in);
-		}
 	}
 
 	.tag {
@@ -390,3 +389,19 @@ footer {
 }
 
 // ============== /TEAM ============== //
+
+.img {
+	padding: 10px 0px 10px 10px;
+
+	&.right img{
+		float: right;
+		width: 300px;
+	}
+	&.left img{
+		float: left;
+		width: 300px;
+	}
+	&.center {
+		text-align: center;
+	}
+}

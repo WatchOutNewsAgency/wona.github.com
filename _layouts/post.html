@@ -1,11 +1,12 @@
 ---
 layout: layout
 ---
-
-{% if page.image %}
-	<div class="cover">
-		<img src="/images/posts/{{ page.image }}" alt="">
-	</div>
+{% if page.isImageCover != false %}
+	{% if page.image %}
+		<div class="cover">
+			<img src="/images/posts/{{ page.image }}" alt="">
+		</div>
+	{% endif %}
 {% endif %}
 
 <section class="post">
@@ -21,3 +22,11 @@ layout: layout
 	{{ content }}
 
 </section>
+
+{% if page.isImageCover == false %}
+	{% if page.image %}
+		<div class="cover">
+			<img src="/images/posts/{{ page.image }}" alt="">
+		</div>
+	{% endif %}
+{% endif %}

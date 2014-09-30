@@ -209,6 +209,7 @@ header {
     border-bottom: 1px solid #ccc;
     width: 100%;
     opacity: 0.8;
+    overflow-y: hidden;
     -webkit-transition: all 0.2s ease-in;
     -moz-transition: all 0.2s ease-in;
     -ms-transition: all 0.2s ease-in;
@@ -235,6 +236,10 @@ header {
     border-top: 2px solid #1ABC9C; }
   .article.almostfamous {
     border-top: 2px solid #34495E; }
+  .article-cover-container {
+    height: 200px; 
+    overflow: hidden;
+}
 
 .post {
   background: white;

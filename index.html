@@ -32,7 +32,9 @@ title: "Home"
 						
 						<a href="{{ post.url }}">
 							{% if post.image %}
-								<img src="/images/posts/{{ post.image }}" class="article-cover">
+								<div class="article-cover-container">
+									<img src="/images/posts/{{ post.image }}" class="article-cover">
+								</div>
 							{% else %}
 								<br><br>
 							{% endif %}

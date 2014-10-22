@@ -32,3 +32,7 @@ The decision wasn’t tough because it had been decided ever since I left colleg
 Most definitely. The social stigma prevalent here in India prevents you to open an enterprise. Also, people are hesitant to work in startups while the condition is quite different on the other side of the globe. This is an environment India should cultivate.
 Would you like to give a message to the young entrepreneurs of this institute?
 My message to them would be that you have a dream then you should not give up. Firms like Azim Premji Foundation and TATA Venture Capital provides funding to the business ideas. Hence, if you have good ideas and a sincere attitude, you have plenty of chances to rise up. So, just seize the day! Most importantly the companies today invest not in idea but in the man. You have to prove that you have the substance to achieve what you set out to achieve.
+
+###Would you like to give a message to the young entrepreneurs of this institute?
+
+My message to them would be that you have a dream then you should not give up. Firms like Azim Premji Foundation and TATA Venture Capital provides funding to the business ideas. Hence, if you have good ideas and a sincere attitude, you have plenty of chances to rise up. So, just seize the day! Most importantly the companies today invest not in idea but in the man. You have to prove that you have the substance to achieve what you set out to achieve.

@@ -9,7 +9,7 @@ Mr Partha Sen, an IIT Roorkee alumnus, completed his Majors in Computer Science 
 
 ###How does it feel to be back here?
 
-Grea! I am taken aback by the lush greenery and cleanliness of the campus. A lot of new things have come up in the campus. The greatest establishment would be the MGM library and various hostels for the students and the teachers. It felt good to see the new placement office and the Department for Management Studies. What is remarkable is that even with or without these buildings the soothing environment of the college is intact.
+Great! I am taken aback by the lush greenery and cleanliness of the campus. A lot of new things have come up in the campus. The greatest establishment would be the MGM library and various hostels for the students and the teachers. It felt good to see the new placement office and the Department for Management Studies. The thing that I found quite remarkable was that even the soothing environment of the college is intact.
 
 ###Tell us something about the placement process and your plans.
 

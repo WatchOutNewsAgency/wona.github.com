@@ -5,7 +5,7 @@ categories: [wona, column, verbatim]
 tag: verbatim
 ---
 
-Mr Partha Sen, an IIT Roorkee alumnus, completed his Majors in Computer Science and Minors in Mathematics from IITR in the year 1990. Right after college he worked with TATA Consultancy Services before joining the Bank of America. He entered the world of entrepreneurship after founding Fuzzy Logix in 2007. Recently he visited IITR, offering internships and placement offers for the students. We got an opportunity to talk to him about his return, future plans and life, in-general. In conversation with Mr. Sen:
+Mr Partha Sen, an IIT Roorkee alumnus, completed his Majors in Computer Science and Minors in Mathematics from IITR in the year 1990. Right after college he worked with TATA Consultancy Services before joining the Bank of America. He entered the world of entrepreneurship after founding Fuzzy Logix in 2007.  For a period of about 12 years from 1995 to 2007, Mr.Sen has pursued this passion as a hobby and developed about 100 algorithms and over 700 quantitative models. These algorithms and models are the basis for the solutions being implemented by Fuzzy Logix today Recently he visited IITR, offering internships and placement offers for the students. We got an opportunity to talk to him about his return, future plans and life, in-general. In conversation with Mr. Sen:
 
 ###How does it feel to be back here?
 

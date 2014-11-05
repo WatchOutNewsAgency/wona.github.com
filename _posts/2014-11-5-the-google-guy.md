@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Google Guy
-image: the-google-guy.jpg
+image: the-google-guy-2.jpg
 categories: [wona, column, cover]
 tag: coverstory
 excerpt: Amitabh Kumar "Amit" Singhal is senior vice president and software engineer at Google Inc., a Google Fellow, and the head of Google's core ranking team. Born in Jhansi, a city in the state of Uttar Pradesh, India, Amit received a Bachelor of Engineering degree in computer science from IIT Roorkee in 1989.
@@ -28,7 +28,7 @@ Oh, one time I got busted ragging some of the freshmen. That was a bad idea, by 
 
 ##WONA: From UoR to Minnesota to Cornell and finally Google. What changes have you observed in yourself? Is there something that has remained  constant?
 
-Clearly, one thing that comes with time is experience. You learn a lot. But the key to that is you should be open to learn. So to grow, and I feel that i have grown tremendously, as a professional and as a human being, you have to be open to new ideas. Keep your mind open and learn all the time no matter how old you are, is pretty much what I have done my entire life. It gives a valuable insight into how people perceive things and how people behave. To sum up, I would just say that I want to learn all the time. In some sense, learning has been constant for me.
+Clearly, one thing that comes with time is experience. You learn a lot. But the key to that is you should be open to learn. So to grow, and I feel that I have grown tremendously, as a professional and as a human being, you have to be open to new ideas. Keep your mind open and learn all the time no matter how old you are- that is pretty much what I have done my entire life. It gives a valuable insight into how people perceive things and how people behave. To sum up, I would just say that I want to learn all the time. In some sense, learning has been constant for me.
 
 ##WONA: How did you spend your free-time here in Roorkee?
 
@@ -38,23 +38,21 @@ I was noticing this last evening. In my time, at 11pm, the campus would be buzzi
 
 No. I did not. 
 
-The interviewers at this point feel proud that they are on the same page with Mr. Singhal on this particular issue.
+The interviewers at this point felt proud that they are on the same page with Mr. Singhal on this particular issue.
 
-##WONA: After 25 glorious years, which includes rewriting the algorithm that has now redefined lives of billions of people and 
-becoming one of the smartest people in tech on this planet, what keeps you moving?
+##WONA: After 25 glorious years, which includes rewriting the algorithm that has now redefined lives of billions of people and becoming one of the smartest people in tech on this planet, what keeps you moving?
 
 Look, you have to realize that we are here on earth for a limited period of time. And sooner or later, we all have to leave this inherited place for the better. All of us have an important purpose in life. You have got to really love what you do. And honestly, I tremendously love what I do. This just keeps me moving. I work with an exceptional team for a company that really has had a huge positive impact on earth. It’s a dream job. And I have a beautiful family.
 A beautiful family combined with my dream job gives me a beautiful journey, which is on going.
 
-##WONA: Sir, you are an inspiration for all of us here in IIT R. We were curious to know: From where do you draw your 
-inspiration?
+##WONA: Sir, you are an inspiration for all of us here in IIT R. We were curious to know: From where do you draw your inspiration?
 
-My inspirations change over time as I have gotten older. Earlier on and even now, I draw inspiration from scientists who had played great roles in solving the problems of the world. I wanted to be like one of them. It was my dream. Albert Einstein and my advisor at Cornell, Gerard Salton, who pretty much invented the field of ‘search’ were my inspiration. At the same time, now I am hugely inspired by people who do something for the word who are completely selfless and make this world a better place to live, like Mother Teresa and Malala Yousafzai
+My inspirations change over time as I have gotten older. Earlier on and even now, I draw inspiration from scientists who had played great roles in solving the problems of the world. I wanted to be like one of them. It was my dream. Albert Einstein and my advisor at Cornell, Gerard Salton, who pretty much invented the field of ‘search’ were my inspiration. At the same time, now I am hugely inspired by people who do something for the word who are completely selfless and make this world a better place to live, like Mother Teresa and Malala Yousafzai.
 
 ##WONA: One lesson in life that you’d like to share with the students of IITR?
 
 Of course. There are so many lessons I have learnt over the course of time! I don’t even know where to start. Maybe if you can get me to talk for an hour or so, all of them would eventually come out. However, there’s one of the simple things that I have learnt: Whenever you stand on a fork, make a decision and never look back. And I can give a hundred anecdotes from my life when I have done that. 
-Make a decision and never look back because a wise man once said, there are no right decisions; you make the decisions right.
+Make a decision and never look back because a wise man once said, there are no right decisions; you make decisions right.
 
 ##WONA: What is the one thing you still miss about Roorkee?
 

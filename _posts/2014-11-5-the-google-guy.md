@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Google Guy
-image: the-google-guy-2.jpg
+image: the-google-guy.jpg
 categories: [wona, column, cover]
 tag: coverstory
 excerpt: Amitabh Kumar "Amit" Singhal is senior vice president and software engineer at Google Inc., a Google Fellow, and the head of Google's core ranking team. Born in Jhansi, a city in the state of Uttar Pradesh, India, Amit received a Bachelor of Engineering degree in computer science from IIT Roorkee in 1989.

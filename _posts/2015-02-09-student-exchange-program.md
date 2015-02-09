@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "The Student Exchange Program"
-image: student-exchange-program.jpg
+image: student-exchange-program.png
 categories: [wona, column]
 tag: verbatim
+excerpt: WONA brings you the coverage of the opportunities at your disposal, in an interview with Mrs. Purnima Govind, the Executive Assistant at the office of Dean of Alumni Affairs.
 ---
 A eurotrip is the dream of every IITian. The notion of uploading your n-gigabytes of pictures on social media at exotic locations that you once saw on Discovery Channel dominates almost all the desires of any random, yoga-class attending student of IITR. 
 What if we told you that there exists a process by which you can achieve the aforementioned without dropping those infinite mails to random Professors of foreign land, boasting about your dedication and sincerity to their respective fields of interest? What if we told you that you could get a Student Exchange to a foreign university based in a european destination like Sweden or Germany? Expecting an affirmation to some of the posed questions from almost every student of the institute, __WONA__ brings you the coverage of the opportunities at your disposal, in an interview with Mrs. Purnima Govind, the Executive Assistant at the office of Dean of Alumni Affairs.

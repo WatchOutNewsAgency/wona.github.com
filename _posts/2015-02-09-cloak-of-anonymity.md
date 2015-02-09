@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Editorial: The Cloak Of Anonymity"
-image: incognito.jpg
+image: incognito.png
 categories: [wona, column]
 tag: editorial
+excerpt: "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_	
+- **Oscar Wilde**
+Anonymity over the internet and the effect it has on people raises several interesting questions about human nature, especially in the aftermath of Wikileaks and The Fappening.
 ---
 _"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_	
 - **Oscar Wilde**

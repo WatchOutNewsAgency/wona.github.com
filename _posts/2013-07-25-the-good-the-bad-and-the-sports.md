@@ -2,7 +2,7 @@
 layout: post
 title: The Good, The Bad and The Sports
 image: the-good-the-bad-and-the-sports.jpg
-categories: [wona, column, cover]
+categories: [wona, column]
 tag: coverstory 
 ---
 

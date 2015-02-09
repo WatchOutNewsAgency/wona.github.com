@@ -3,7 +3,7 @@ layout: post
 title: "Pheking News: Freemasonry at IITR"
 image: all-seeing-eye.jpg
 categories: [wona, column]
-tag: freemasonry
+tag: phekingnews
 ---
 Under the guidance of the Humanities Department, several thought provoking sign boards have been installed all over the campus. These signs have a simple objective. To make the students take a moment’s break from their busy lives and be conscious of the miracle of mere existence. Because when you actually observe, not superficially but in the deepest sense of the verb, you will see in the chaos around you a living breathing world, the beauty of which is just impossible for your nervous system to comprehend. The ‘sublime and beautiful’, as the romanticists would call it. The increasing enthusiasm in yoga classes among students and the deserting of Gaylord are just a couple of the numerous benefits sought by the admin with the introduction of these signs. These sign boards read: _Rukiye, Dekhiye, Jayiye._
 

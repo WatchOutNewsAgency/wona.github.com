@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Editorial: The Cloak Of Anonymity"
+title: "The Cloak Of Anonymity"
 image: incognito.png
 categories: [wona, column]
 tag: editorial
-excerpt: "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_	
-- **Oscar Wilde**
-Anonymity over the internet and the effect it has on people raises several interesting questions about human nature, especially in the aftermath of Wikileaks and The Fappening.
+excerpt: Anonymity over the internet and the effect it has on people raises several interesting questions about human nature, especially in the aftermath of Wikileaks and The Fappening. While the first utilized this anonymity to raise a voice against world governments, the other used the same for depraved motives.
 ---
-_"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_	
-- **Oscar Wilde**
+_"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_
+- __Oscar Wilde__
 Anonymity over the internet and the effect it has on people raises several interesting questions about human nature, especially in the aftermath of Wikileaks and The Fappening. While the first utilized this anonymity to raise a voice against world governments, the other used the same for depraved motives. What remains beyond question is that humans behave differently when under the shroud of anonymity. But do people behave irrationally due to this newfound freedom or does anonymity just bring out the real person we hide behind a self we pretend to be in order to gain social acceptance? And if the second case is true, are websites that allow user anonymously to blame to any extent, considering they only bring out the truth?
 It is usually accepted that the internet is a means to escape from the heartless mistress that reality is, a place where we can pretend to be whoever we want to be. Once a person has an entity or more precisely, a representation of himself on this network in the form of a profile or an avatar, he is still held responsible for his activities. However, there are a number of popular internet sites that don’t require the user to submit any kind of identification information. It is not very surprising then, when a 4chan user hacks into celebrities’ clouds and leaks their private photographs. Never before has mankind been exposed to such freedom from social responsibility, something which not everyone can handle.
 
@@ -17,4 +15,4 @@ Deindividuation, which in many cases is a direct result of anonymity, bears expl
 So, what exactly causes the un-masked trick-or-treaters to refrain swiping a few extra candies?
 The most obvious answer would be accountability. In a society, we are responsible for anything and everything that comes from us. By imagining a situation where no one is able to question us for our actions, we realize that being anonymous is the same as being invisible in the contemporary world. Although, the cloak of invisibility brings out the best in Harry, in Rowling’s universe, it nevertheless continues to be a potentially lethal object. The cloak of anonymity on the internet gives us great power, and with great power comes Uncle Ben’s clichéd quote which, in fact, has never rung truer.
 We find that, after spending a staggering amount of time on social media, people in general are rude over the internet. This could be a consequence of the step-by-step accumulation of a person’s anger, when he types down the text. In many cases, however, the person’s anonymity might be one of the reasons behind this phenomenon.  
-Ever sat behind the wheel of a car and felt moved to scream abuses at the person in front who is slow in turning right? Or ever wondered what could possibly motivate a responsible, educated father-of-two to yell crude expletives at the opposition- words he wouldn’t usually use in civilized company? It’s the cover of the crowd and the insides of the car that provides an alias or a security. It removes the condition of accountability and dilutes the guilt (if any). And hence, the cloak shows its lethal nature. The person in question loses self consciousness and succumbs to the animal instinct of the herd. The dam of patience gets broken and the first stone gets thrown. Anonymity, thus, like a sinful gift from Lucifer claims its victim.
+Ever sat behind the wheel of a car and felt moved to scream abuses at the person in front who is slow in turning right? Or ever wondered what could possibly motivate a responsible, educated father-of-two to yell crude expletives at the opposition- words he wouldn’t usually use in civilized company? It’s the cover of the crowd and the insides of the car that provides an alias or a security. It removes the condition of accountability and dilutes the guilt (if any). And hence, the cloak shows its lethal nature. The person in question loses self consciousness and succumbs to the animal instinct of the herd. The dam of patience gets broken and the first stone gets thrown. Anonymity, thus, like a sinful gift from Lucifer claims its victim. 

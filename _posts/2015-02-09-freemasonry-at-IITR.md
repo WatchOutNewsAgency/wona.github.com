@@ -16,11 +16,15 @@ After following a long trail of paperwork and tips from several anonymous source
 
 For some time, the signs of freemasons have been quite obvious on the campus. In a way that can give buzzfeed a run for its money, we present to you the findings of our investigation: **How IITR is being taken over by the New World Order supported by Freemasons?**
 
-For a long time now prominent members of the Debating Society have been spotted doing an obscure, elaborate combination of movements right in front of the hobbies club. Though one might think that this is largely due to social rejection as a result of being annoying, it might be what we assume to be some sort of a mandatory entrance ritual to a secret chamber inside. 
-The main building was unceremoniously renamed the James ThoMASON building earlier this year. We believe that it was for a reason. A very particular reason.
-That squabble of illegible words on the top of what is possibly the most beautiful part of the campus, is a visible evidence to the Gothic sub-culture of IITR. For those who were questioning the Thomso team regarding their blog posts about our insti having a Gothic past, here is your answer.  
-The 10 PM deadline and Rs.6 for butter. Count the number of letters in ‘Masons’. And now count the number of words in ‘Freemasons’. You get our point?
+1. For a long time now prominent members of the Debating Society have been spotted doing an obscure, elaborate combination of movements right in front of the hobbies club. Though one might think that this is largely due to social rejection as a result of being annoying, it might be what we assume to be some sort of a mandatory entrance ritual to a secret chamber inside. 
 
+2.The main building was unceremoniously renamed the James ThoMASON building earlier this year. We believe that it was for a reason. A very particular reason.
+
+3. That squabble of illegible words on the top of what is possibly the most beautiful part of the campus, is a visible evidence to the Gothic sub-culture of IITR. For those who were questioning the Thomso team regarding their blog posts about our insti having a Gothic past, here is your answer.  
+
+4. The long-standing 10 PM deadline and Rs.6 for butter. Count the number of letters in ‘Masons’. And now count the number of words in ‘Freemasons’. You get our point?
+
+**Update**: After we published this article in the magazine the previous semester, the almost-Masonic administration was quick enough to revise the 10 PM rule to avoid suspicion. So, to all you love-birds out there, you now know who to thank for the change.
 **Disclaimer**: We can assure our readers that Watch Out is not a part of this cult. We have introduced a simple Freemason-detection test as a part of our recruitment process.
 We show the first year students a 100 dollar bill. If we don’t have the bill with us at the end of the interview, we send them to the Finance cell. If they get turned on, we immediately know that we are dealing with the New World order. Any reference to our symbol ‘W’ being referred to as an inverted ‘M’ with the Mason’s symbolic eye on top, is rubbish and a mere coincidence.
 

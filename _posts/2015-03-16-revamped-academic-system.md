@@ -8,6 +8,8 @@ excerpt: After months of deliberation, long sessions of brainstorming by the Dea
 As the semester approaches towards its inevitable end, the students can undoubtedly be found indulging themselves (read: filling last minute preferences after asking their BFFs about their choices) into the list of  in a plethora of institute electives offered by various departments, ranging from Humanities and Management to those by Maths and Earthquake. After months of deliberation, long sessions of brainstorming by the Dean of Academics and the concerned committee, supplemented by remarks from the graduated batches, the new academic system came into action in 2013. It must be noted that the change was introduced for the freshers batch of 2013-14. Through this article, Watch Out! intends to give the students of IITR an insight into the diversity and flexibility of the courses being offered by the institute, in case they happen to be in their sophomore year. In case you are a 3rd year student, you are welcome to share the pain of the editor of this article. 
 
 The new academic system divides the B-Tech programme in 3 categories:
+
+
 *	The simple B-Tech. (or the “Vanilla” B.Tech. as the Dean himself puts it): Here all the core courses in most of the         	departments are finished by the 5th semester. This programme consists of 1 Institute elective, 6 departmental electives (		Category (1) - 2 general electives, ones which everybody would like to take, and are covered in the 3rd year. Category (2) 		- 4 specialised courses, to be covered in 4th year, 2 in each semester which happen to be M-Tech courses in general)
 
 

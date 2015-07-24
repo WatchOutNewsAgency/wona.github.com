@@ -2,7 +2,7 @@
 layout: post
 title: The Curious Case of Missing Technology
 image: technology-cover-story.png
-categories: [wona, column, cover]
+categories: [wona, column]
 tag: coverstory
 excerpt: An institute of technology we maybe, but IITR definitely does not use technology. WONA takes a look at the archaic methods that still exist on the campus. 
 ---

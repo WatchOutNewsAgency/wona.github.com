@@ -3,12 +3,12 @@ layout: layout
 title: "Home"
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 	{% if post.categories contains 'cover' %}
 		<section class="cover">
 			<img src="/images/tags/featured.png" class="tag">
 			<a href="{{ post.url }}">
-				<img src="/images/posts/{{post.image}}" alt="">
+        <img src="/images/posts/{{post.image}}" alt="" {% if post.image == 'hidden' %} class="hidden" {% endif %}>
 				<div class="details">
 					<h2>{{ post.title }}</h2>
 					{{ post.excerpt | markdownify }}

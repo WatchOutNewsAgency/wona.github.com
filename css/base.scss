@@ -185,6 +185,11 @@ header {
 			opacity: 1;
 			@include transition(all, 0.2s, ease-in);
 		}
+    
+    &.hidden {
+      visibility: hidden;
+      height: 10em;
+    }
 	}
 
 	.tag {

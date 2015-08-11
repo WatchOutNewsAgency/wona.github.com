@@ -138,6 +138,10 @@ header {
       -ms-transition: all 0.2s ease-in;
       -o-transition: all 0.2s ease-in;
       transition: all 0.2s ease-in; }
+      .cover img.hidden {
+        visibility: hidden;
+        height: 10em;
+      }
   .cover .tag {
     width: 100px;
     position: absolute;

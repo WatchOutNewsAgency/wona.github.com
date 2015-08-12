@@ -3,7 +3,7 @@ layout : post
 title : A talk with the DoSW
 image: dosw-verbatim.jpg
 categories: [wona, column]
-tag: coverstory
+tag: verbatim
 excerpt: The world is abuzz with the news about the expulsion of 73 students who have just now completed their first year at IITR. Protests are growing by the day with students and political parties throwing their hats in the ring.
 ---
 ###In Conversation with Prof. D.K.Nauriyal, Dean of Student Welfare, IIT Roorkee  

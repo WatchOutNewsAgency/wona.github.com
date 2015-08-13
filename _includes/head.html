@@ -1,16 +1,34 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+
+  {% assign title =  site.name %}
+  {% if page.title %}
+  {% assign title = page.title + " &mdash; " + title %}
+  {% endif %}
+
+  {% if page.excerpt %}
+  {% assign desc = page.excerpt %}
+  {% else %}
+  {% assign desc = site.description %}
+  {% endif %}
+
   <meta charset="utf-8">
   <title>
-    {% if page.title %}
-      {{ page.title }} &mdash;
-    {% endif %}
-    {{ site.name }}
+    {{ title }}
   </title>
 
+  <!-- Open Graph protocol -->
+  <meta property="og:site_name" content="Watch Out! News Agency" />
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:type" content="{% if page.excerpt %}article{% else %}website{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:image" content="{{ site.url }}/images/{% if page.image %}posts/{{page.image}}{% else %}logo.png{% endif %}" />
+  <meta property="og:description" content="{{ desc }}" />
+  <!-- Open Graph protocol -->
+
   <meta name="author" content="{{ site.name }}" />
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="description" content="{{ desc }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta property="og:image" content="/images/posts/main-building.jpg">
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />

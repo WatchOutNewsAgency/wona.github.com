@@ -18,7 +18,7 @@ Needless to say, the factionalism involved during the election process makes for
 
 With such a break in the election procedure, the Council hitherto had been inefficient in catering to the needs of the IITR junta. In response, the administration decided to revamp the political system starting this year. The new senate will have a higher number of directly elected representatives. The former system of SAC-1 internally electing for SAC-2 has dissolved, in lieu of which institute level positions will now be elected by the entire student body. Doing away with most of the earlier established positions, the new system is akin to what is in place in other IITs.  
 
-At the Bhawan level we now have six positions, discarding the constituency system with new positions complimenting the new Bhawan allotment policy intended to build a Bhawan culture. The six posts are as follows -
+At the Bhawan level we now have six positions, discarding the constituency system with new positions complementing the new Bhawan allotment policy intended to build a Bhawan culture. The six posts are as follows -
 
 -	_Mess secretary_ – Head of the mess council.
 

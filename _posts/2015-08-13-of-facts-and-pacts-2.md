@@ -2,7 +2,7 @@
 layout: post
 title: "OF PACTS AND FACTS #2 - THE STRUCTURE"
 categories: [wona, column]
-tag: Editorial
+tag: editorial
 image: hidden
 excerpt: In this piece, the second of a series, Watch Out! takes a look at the reasons behind this perception and at the reforms which have been announced to how the junta elects its representatives.
 ---

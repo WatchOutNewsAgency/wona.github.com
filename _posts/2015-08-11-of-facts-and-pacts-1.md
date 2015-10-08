@@ -3,7 +3,7 @@ layout: post
 title: "OF PACTS AND FACTS #1 : AN OVERVIEW"
 categories: [wona, column]
 image: hidden
-tag: Editorial
+tag: editorial
 excerpt: It is something everyone talks about and takes a passing interest in. But when it comes to casting votes, most of the junta can be found feigning sweet slumber on that fateful Sunday morning. And hence, politics at IIT Roorkee inevitably boils down to a select set of kingmakers and their minions.
 ---
 In one, among the last few senate sessions of the previous semester, a bill was passed, that changed the face of student representation on the campus once and for all. The regular structure of SAC was dissolved and replaced by an independent system where anyone could contest and everyone would vote.

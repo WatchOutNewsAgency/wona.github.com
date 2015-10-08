@@ -2,7 +2,7 @@
 layout: layout
 ---
 {% if page.isImageCover != false %}
-	{% if page.image and page.image != 'hidden' %}
+	{% if page.image %}
 		<div class="cover">
 			<img src="/images/posts/{{ page.image }}" alt="">
 		</div>

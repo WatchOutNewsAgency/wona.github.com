@@ -19,7 +19,9 @@ layout: layout
 		{{ page.date | date: "%B %e, %Y" }}
 	</section>
 
-	{{ content }}
+  <section class="content{% if page.justify %} justify{% endif %}">
+    {{ content }}
+  </section>
 
 </section>
 

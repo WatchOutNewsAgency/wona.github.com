@@ -4,6 +4,7 @@ title: "Interview with R. Balasubramaniam"
 categories: [wona, column, cover]
 tag: verbatim
 image: rbalu.jpg
+justify: true
 excerpt: Dr. Balu, a physician by qualification and a humanist by instincts has been an activist for more than three decades. His constructs of social movement to uplift the rural and tribal of our nation goes parallel with his academic accolades.
 ---
 

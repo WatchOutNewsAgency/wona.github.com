@@ -1,3 +1,6 @@
+---
+---
+
 @charset "UTF-8";
 
 // ============== MIXINS ============== //
@@ -333,6 +336,10 @@ header {
 		max-width: 100%;
 		padding: 5px 0px;
 	}
+
+  .justify {
+    text-align: justify;
+  }
 }
 
 // ============== /POST ============== //

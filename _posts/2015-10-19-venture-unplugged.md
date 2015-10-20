@@ -32,4 +32,4 @@ The final remarks were made by Sonesh Jain from the crowd. A 2014 graduate of R 
 
 This discussion on Day1 of Thomso set the bar quite high, only to watch it fall flat, as all the other interactive sessions opened to a half empty auditorium at best.
 
-WatchOut lauds EDC on the meticulous organization, and hopes this turns to be a regular addition to their calendar.
+WatchOut lauds EDC and Thomso’15 on the meticulous organization, and hopes this turns to be a regular addition to their calendars.

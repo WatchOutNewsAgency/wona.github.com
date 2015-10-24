@@ -3,15 +3,14 @@ layout: post
 title: "In conversation with Shazia Ilmi"
 categories: [wona, column]
 tag: verbatim
-image: shazia.jpg
 justify: true
-excerpt: Shazia Ilmi been the spokesperson and media strategist of the India Against Corruption Movement, and later, the Aam Admi Party. Currently she sides with the BJP after relinquishing her membership of AAP in 2014.
+excerpt: Shazia Ilmi has been the spokesperson and media strategist of the India Against Corruption Movement, and later, the Aam Admi Party. Currently she sides with the BJP after relinquishing her membership of AAP in 2014.
 ---
 On the first day of Thomso, curtains of the Mac Auditorium rose to a guest lecture by journalist-turned-politician Shazia Ilmi. She has been the spokesperson and media strategist of the India Against Corruption Movement, and later, the Aam Admi Party. Currently she sides with the BJP after relinquishing her membership of AAP in 2014.
 
 Shazia Ilmi was born an activist at heart. She spoke at length of her journey from a journalist to a politician in the pursuit of bringing about the transformation so that the next generation doesn’t have to face the same obstacles as she did. She tenaciously upheld her motion against sanctimonious gender biased prejudices that proliferate the country as of today. She spoke vociferously about her fight to obliterate the deep rooted hegemony in the Indian political system.
 Although the speech skimmed over a rather diverse set of subjects, she did manage to encourage many to get up on their feet to join the uphill battle.
-After the lecture (and the hour long selfie session that followed), WatchOut! got the opportunity to interview this strong lady and ask her more about her unfaltering will for change and her aspirations.
+After the lecture, WatchOut! got the opportunity to interview this strong lady and ask her more about her unfaltering will for change and her aspirations.
 
 __WONA- What motivated you to become a journalist? What was that one defining moment?__
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with R. Balasubramaniam"
-categories: [wona, column, cover]
+categories: [wona, column]
 tag: verbatim
 image: rbalu.jpg
 justify: true

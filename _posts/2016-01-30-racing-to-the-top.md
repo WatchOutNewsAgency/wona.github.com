@@ -6,6 +6,8 @@ image: racing-to-the-top.jpg
 tag: news
 excerpt: After a splendid performance in Australia this December, the IITR Motorsports team (FSAE team) shot up the rankings to be crowned the top ranked Motorsports team in India in the Electric category. WatchOut catches up with the team to shed some light on its workings, accolades and future prospects.
 ---
+--*Pranav Gujrathi, Soumya Ranjan, Vikrant Saha, Ronak Agarwal*
+
 
 Started in 2010 by a handful of automotive enthusiasts or ‘Gearheads’ as they liked to call themselves, the IITR Motorsports team (commonly known as FSAE team) has come a long way since their inception. The Race cars have already flown worldwide, from Australia in 2011 to UK in 2013. After a splendid performance in Australia this December, the team shot up the rankings to be crowned the top ranked Motorsports team in India in the Electric category. WatchOut catches up with the team to shed some light on its workings, accolades and future prospects.
 

@@ -1,19 +1,20 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
 
   {% assign title =  site.name %}
   {% if page.title %}
-  {% assign title = page.title + " &mdash; " + title %}
+    {% assign title = page.title + " &mdash; " + title %}
   {% endif %}
 
   {% if page.excerpt %}
-  {% assign desc = page.excerpt %}
+    {% assign desc = page.excerpt %}
   {% else %}
-  {% assign desc = site.description %}
+    {% assign desc = site.description %}
   {% endif %}
 
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>
     {{ title }}
   </title>
@@ -27,14 +28,20 @@
   <meta property="og:description" content="{{ desc }}" />
   <!-- Open Graph protocol -->
 
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
   <meta name="author" content="{{ site.name }}" />
   <meta name="description" content="{{ desc }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
-  <link rel="stylesheet" href="/css/pure.css" type="text/css" media="screen, projection" />
-  <link rel="stylesheet" href="/css/pygments.css" type="text/css" />
   <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="/js/masonry.min.js"></script>
   <script type="text/javascript" src="/js/application.js"></script>
 </head>

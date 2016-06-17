@@ -1,6 +1,18 @@
 ---
 ---
 
+// ================ VARS ===============//
+
+$navbar-default-link-color: white;
+$navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
+$navbar-default-link-hover-color: darken($navbar-default-link-color, 35%);
+$carousel-bg-color: #312d2a;
+$carousel-height: 500px;
+
+// =============== /VARS ===============//
+
+@import "bootstrap";
+
 @charset "UTF-8";
 
 // ============== MIXINS ============== //
@@ -53,7 +65,6 @@
 body {
 	font-size: 13px;
 	color: #081522;
-	border-top: 10px solid #363845;
 	background: #ddd url('/images/bg.png');
 	@include box-sizing();
 }
@@ -61,7 +72,6 @@ body {
 *{	
 	font-family: Open Sans, sans-serif;
 }
-
 
 // ============== COMPONENTS ============== //
 
@@ -111,13 +121,97 @@ blockquote {
 
 // ============== /COMPONENETS ============== //
 
-// ============== HEADER ============== //
+// ================ NAV ================//
 
-.redhead {
-	background: #e74c3c;
-	border-bottom: 1px solid #c0bfc4;
-	min-height: 200px;
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+  
+  > .container {
+    width: 100%
+  }
+
 }
+
+
+.navbar-logo {
+  @media (min-width: $screen-sm-min) {
+    height: 6.5em;
+  }
+  @media (max-width: $screen-xs-max) {
+    height: 5.5em;
+  }
+  padding: .5em;
+}
+
+.navbar {
+  background: transparent;
+  @include gradient-vertical($start-color: darken($carousel-bg-color, 3%), $end-color: rgba($carousel-bg-color, 0));
+  border: none;
+  padding-top: 5px;
+  font-weight: bold;
+
+  .navbar-toggle {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .active  a {
+    background: transparent !important;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    .navbar-nav {
+      display: inline-block;
+      float: none;
+      vertical-align: top;
+      font-size: 15px;
+      text-transform: uppercase;
+    }
+
+    .navbar-collapse {
+      text-align: center;
+
+    }
+  }
+}
+// ================ /NAV ================//
+
+// ============= CAROUSEL ============= //
+
+/* Carousel base class */
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+
+}
+
+.carousel-caption {
+    z-index: 10;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: $carousel-height;;
+  background-color: $carousel-bg-color;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+
+}
+// ============ /CAROUSEL ============= //
+
+
+// ============== HEADER ============== //
 
 header {
 	font-family: AvenirNext, Sans-serif;
@@ -161,21 +255,13 @@ header {
 // ============== /HEADER ============== //
 
 // ============== CONTENT ============== //
-
-.container {
-	position: relative;
-	top: -30px;
-	margin: auto;
-	display: block;
-}
-
 .cover {
 	background: white;
 	margin: auto;
 	display: block;
 	position: relative;
 	margin-bottom: 30px;
-	z-index: 100;
+	z-index: 10;
 	@include shadow();
 
 	img {

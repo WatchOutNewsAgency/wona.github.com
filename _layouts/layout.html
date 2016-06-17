@@ -1,19 +1,22 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-<body>
+  {% include head.html %}
 
-	{% include header.html %}
-	
-	<div class="pure-g">
-		<div class="pure-u-2-3 container">
-			{{ content }}
-		</div>
-	</div>
+  <body>
 
-	{% include google_analytics.html %}
+    {% include header.html %}
+    
+    <div class="pure-g">
+      <div class="pure-u-2-3 container">
+        {{ content }}
+      </div>
+    </div>
 
-	{% include footer.html %}
+    {% include google_analytics.html %}
 
-</body>
+    {% include footer.html %}
+
+  </body>
 
 </html>

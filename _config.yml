@@ -1,8 +1,14 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:title
+
 rdiscount:
   extensions: [smart]
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
 
 name: WONA
 url: http://wona.co.in

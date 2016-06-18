@@ -40,6 +40,27 @@ $carousel-height: 500px;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1);
 }
 
+@mixin center-vertical() {
+  -ms-transform: translateY(50%);
+  -webkit-transform: translateY(50%);
+  transform: translateY(50%);
+  bottom: 50%;
+}
+
+@mixin center-horizontal() {
+  -ms-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  left: 50%;
+}
+
+@mixin center-both() {
+  -ms-transform: translate(-50%, 50%);
+  -webkit-transform: translate(-50%, 50%);
+  transform: translate(-50%, 50%);
+  left: 50%;
+  bottom: 50%;
+}
 // ============== /MIXINS ============== //
 
 @font-face {
@@ -74,53 +95,6 @@ body {
 	font-family: Open Sans, sans-serif;
 }
 
-// ============== COMPONENTS ============== //
-
-a {
-	color: inherit;
-	text-decoration: none;
-	@include transition(all, 0.2s, ease-in);
-
-	&:hover{
-		color: #e74c3c;
-		border-bottom: 1px solid #e74c3c;
-		@include transition(all, 0.2s, ease-in);
-	}
-}
-
-blockquote {
-	border-left: 5px solid #e74c3c;
-	padding-left: 10px;
-	font-style: italic;
-}
-
-.pagination {
-	text-align: center;
-	font-style: italic;
-
-	img {
-		position: relative;
-		top: 12px;
-		opacity: 0.7;
-		cursor: pointer;
-		@include transition(all, 0.2s, ease-in);
-
-		&:hover {
-			opacity: 1;
-			@include transition(all, 0.2s, ease-in);
-		}
-
-		&.disabled {
-			opacity: 0.5;
-
-			&:hover {
-				opacity: 0.5;
-			}
-		}
-	}
-}
-
-// ============== /COMPONENETS ============== //
 
 // ================ NAV ================//
 
@@ -179,18 +153,20 @@ blockquote {
 // ============= HOME-HEADER ============= //
 
 #home-header {
+  position: relative;
   height: 500px;
   margin-bottom: -60px;
   background: $home-header-bg-color;
   padding: 0;
+  z-index: -10;
+  overflow: hidden;
 
   .cover {
     position: absolute;
     z-index: 10;
-    bottom: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
+    @include center-vertical();
+    @include center-horizontal();
+   color: white;
   }
 
   .title {
@@ -198,6 +174,16 @@ blockquote {
     font-size: 42px;
     font-weight: bold;
     color: #ffffff;
+  }
+
+  .cover-image {
+    width: 100%;
+    position: absolute;
+    @include center-vertical();
+
+    .img-responsive {
+      width: 100%;
+    }
   }
   
    .left {
@@ -220,6 +206,18 @@ blockquote {
   }
 }
 // ============= /HOME-HEADER ============= //
+
+// ============= NEW-ARTICLES ============ //
+#new-articles {
+  .img-container {
+    position: absolute;
+    margin: 0 auto;
+    width: 250px;
+    height: 175px;
+    overflow: hidden;
+  }
+}
+// ============ /NEW-ARTICLES ============ //
 
 // ============= CAROUSEL ============= //
 
@@ -250,49 +248,67 @@ blockquote {
 }
 // ============ /CAROUSEL ============= //
 
+// ============== COMPONENTS ============== //
 
-// ============== HEADER ============== //
+.img-center-fill {
+  position: absolute;
+  @include center-both();
+  width: 100%;
 
-header {
-	font-family: AvenirNext, Sans-serif;
-	color: white;
-	padding: 10px 10px;
-	margin: auto;
-	text-align: center;	
-	
-	&.pure-u-2-3{
-		display: block;
+  &.wide {
+    height: 100%
+  }
+  
+  &.tall {
+    width: 100%;
+  }
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	@include transition(all, 0.2s, ease-in);
+
+	&:hover{
+		color: #e74c3c;
+		border-bottom: 1px solid #e74c3c;
+		@include transition(all, 0.2s, ease-in);
 	}
-	
-	h1, h3 {
-		margin: 0px;
-	}
-	
-	h3 {
-		font-weight: 500;
-	}
+}
+
+blockquote {
+	border-left: 5px solid #e74c3c;
+	padding-left: 10px;
+	font-style: italic;
+}
+
+.pagination {
+	text-align: center;
+	font-style: italic;
 
 	img {
-		width: 30px;
-	}
+		position: relative;
+		top: 12px;
+		opacity: 0.7;
+		cursor: pointer;
+		@include transition(all, 0.2s, ease-in);
 
-	nav {
-		padding: 10px 0px 50px 0px;
-		margin-top: 30px;
+		&:hover {
+			opacity: 1;
+			@include transition(all, 0.2s, ease-in);
+		}
 
-		a {
-			margin: 0px 10px;
-			padding: 2px 0px;
+		&.disabled {
+			opacity: 0.5;
 
-			&:hover{
-				color: #333;
-				border-bottom: 1px solid #333;
+			&:hover {
+				opacity: 0.5;
 			}
 		}
 	}
 }
 
-// ============== /HEADER ============== //
+// ============== /COMPONENETS ============== //
 
 // ============== CONTENT ============== //
 .cover-oold {

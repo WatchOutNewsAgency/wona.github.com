@@ -6,20 +6,22 @@ title: "Home"
 {% include home_header.html %}
 
 <div class="container">
-  {% for post in site.posts %}
-    {% if post.categories contains 'cover' %}
-      <section class="cover">
-        <img src="/images/tags/featured.png" class="tag">
-        <a href="{{ post.url }}">
-          <img src="/images/posts/{{post.image}}" alt="" {% if post.image == null %} class="hidden" {% endif %}>
-          <div class="details">
-            <h2>{{ post.title }}</h2>
-            {{ post.excerpt | markdownify }}
-          </div>
-        </a>
-      </section>
-    {% endif %}
+  <section id="new-articles" class="row">
+
+  {% for post in site.posts limit: 4 %}
+    <div class="col-sm-3">
+      <a href="{{ post.url }}">
+        <div class="img-container">
+          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+        </div>
+        <div class="details">
+          <h2>{{ post.title }}</h2>
+          {{ post.excerpt | markdownify }}
+        </div>
+      </a>
+    </div>
   {% endfor %}
+  </section>
 
   <div class="content masonry">
     {% for post in paginator.posts %}

@@ -3,67 +3,71 @@ layout: layout
 title: "Home"
 ---
 
-{% for post in site.posts %}
-	{% if post.categories contains 'cover' %}
-		<section class="cover">
-			<img src="/images/tags/featured.png" class="tag">
-			<a href="{{ post.url }}">
-        <img src="/images/posts/{{post.image}}" alt="" {% if post.image == null %} class="hidden" {% endif %}>
-				<div class="details">
-					<h2>{{ post.title }}</h2>
-					{{ post.excerpt | markdownify }}
-				</div>
-			</a>
-		</section>
-	{% endif %}
-{% endfor %}
+{% include home_header.html %}
 
-<div class="content masonry">
-	{% for post in paginator.posts %}
-		{% if post.categories contains 'wona' %}
-			{% if post.categories contains 'cover' %}
-			{% else %}
-				<div class="article-container">
-					<div class="article {{post.tag}}">
+<div class="container">
+  {% for post in site.posts %}
+    {% if post.categories contains 'cover' %}
+      <section class="cover">
+        <img src="/images/tags/featured.png" class="tag">
+        <a href="{{ post.url }}">
+          <img src="/images/posts/{{post.image}}" alt="" {% if post.image == null %} class="hidden" {% endif %}>
+          <div class="details">
+            <h2>{{ post.title }}</h2>
+            {{ post.excerpt | markdownify }}
+          </div>
+        </a>
+      </section>
+    {% endif %}
+  {% endfor %}
 
-						{% if post.tag %}
-							<img src="/images/tags/{{post.tag}}.png" class="tag">
-						{% endif %}
-						
-						<a href="{{ post.url }}">
-							{% if post.image %}
-								<div class="article-cover-container">
-									<img src="/images/posts/{{ post.image }}" class="article-cover">
-								</div>
-							{% else %}
-								<br><br>
-							{% endif %}
-							<div class="details">
-								<h3>{{ post.title }}</h3>
-								{{ post.excerpt | markdownify }}
-							</div>
-						</a>
-					</div>
-				</div>
-			{% endif %}
-		{% endif %}
-	{% endfor %}
-</div>
+  <div class="content masonry">
+    {% for post in paginator.posts %}
+      {% if post.categories contains 'wona' %}
+        {% if post.categories contains 'cover' %}
+        {% else %}
+          <div class="article-container">
+            <div class="article {{post.tag}}">
 
-<div class="pagination">
-	{% if paginator.previous_page == 1 %}
-		<a href="/" class="previous"><img src="/images/left.png"></a>
-	{% elsif paginator.previous_page %}
-		<a href="/page/{{ paginator.previous_page }}" class="previous"><img src="/images/left.png"></a>
-	{% else %}
-		<span class="previous"><img src="/images/left.png" class="disabled"></span>
-	{% endif %}
-		<span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.next_page %}
-		<a href="/page/{{ paginator.next_page }}" class="next"><img src="/images/right.png"></a>
-	{% else %}
-		<span class="next "><img src="/images/right.png" class="disabled"></span>
-	{% endif %}
+              {% if post.tag %}
+                <img src="/images/tags/{{post.tag}}.png" class="tag">
+              {% endif %}
+              
+              <a href="{{ post.url }}">
+                {% if post.image %}
+                  <div class="article-cover-container">
+                    <img src="/images/posts/{{ post.image }}" class="article-cover">
+                  </div>
+                {% else %}
+                  <br><br>
+                {% endif %}
+                <div class="details">
+                  <h3>{{ post.title }}</h3>
+                  {{ post.excerpt | markdownify }}
+                </div>
+              </a>
+            </div>
+          </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="previous"><img src="/images/left.png"></a>
+    {% elsif paginator.previous_page %}
+      <a href="/page/{{ paginator.previous_page }}" class="previous"><img src="/images/left.png"></a>
+    {% else %}
+      <span class="previous"><img src="/images/left.png" class="disabled"></span>
+    {% endif %}
+      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="/page/{{ paginator.next_page }}" class="next"><img src="/images/right.png"></a>
+    {% else %}
+      <span class="next "><img src="/images/right.png" class="disabled"></span>
+    {% endif %}
+  </div>
 </div>
 
 <script>

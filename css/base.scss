@@ -6,7 +6,8 @@
 $navbar-default-link-color: white;
 $navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
 $navbar-default-link-hover-color: darken($navbar-default-link-color, 35%);
-$carousel-bg-color: #312d2a;
+$home-header-bg-color: #333;
+$carousel-bg-color: #333;
 $carousel-height: 500px;
 
 // =============== /VARS ===============//
@@ -129,11 +130,6 @@ blockquote {
   right: 0;
   left: 0;
   z-index: 20;
-  
-  > .container {
-    width: 100%
-  }
-
 }
 
 
@@ -149,7 +145,7 @@ blockquote {
 
 .navbar {
   background: transparent;
-  @include gradient-vertical($start-color: darken($carousel-bg-color, 3%), $end-color: rgba($carousel-bg-color, 0));
+  @include gradient-vertical($start-color: rgba(0,0,0,.4), $end-color: rgba(0,0,0,.0001));
   border: none;
   padding-top: 5px;
   font-weight: bold;
@@ -180,13 +176,57 @@ blockquote {
 }
 // ================ /NAV ================//
 
+// ============= HOME-HEADER ============= //
+
+#home-header {
+  height: 500px;
+  margin-bottom: -60px;
+  background: $home-header-bg-color;
+  padding: 0;
+
+  .cover {
+    position: absolute;
+    z-index: 10;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  .title {
+    font-family: Merriweather;
+    font-size: 42px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+   .left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 10%;
+    @include gradient-horizontal($start-color: rgba(0,0,0,.4), $end-color: rgba(0,0,0,.0001));
+  }
+   .right {
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: 0;
+    bottom: 0;
+
+    width: 10%;
+    @include gradient-horizontal($start-color: rgba(0,0,0,.0001), $end-color: rgba(0,0,0,.4));
+  }
+}
+// ============= /HOME-HEADER ============= //
+
 // ============= CAROUSEL ============= //
 
 /* Carousel base class */
 .carousel {
   height: 500px;
-  margin-bottom: 60px;
-
+  margin-bottom: -60px;
 }
 
 .carousel-caption {
@@ -255,7 +295,7 @@ header {
 // ============== /HEADER ============== //
 
 // ============== CONTENT ============== //
-.cover {
+.cover-oold {
 	background: white;
 	margin: auto;
 	display: block;

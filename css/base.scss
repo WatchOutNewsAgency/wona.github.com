@@ -249,6 +249,7 @@ body {
       top: -0.1 * $article-cover-img-height;
       background: $featured-articles-bg-color;
       width: 0.9 * $article-cover-img-width; ;
+      height: 120px;
 
       .tag {
         position: absolute;

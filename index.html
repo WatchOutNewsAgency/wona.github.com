@@ -5,55 +5,57 @@ title: "Home"
 
 {% include home_header.html %}
 
-<div class="container">
+<div class="container content">
   <section id="new-articles" class="row">
 
-  {% for post in site.posts limit: 4 %}
-    <div class="col-sm-3">
+  {% for post in site.posts limit: 4 offset: 1 %}
+    <div class="new-article col-sm-3">
       <a href="{{ post.url }}">
-        <div class="img-container">
+        <div class="center-fill-container img-container">
           <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
         </div>
-        <div class="details">
-          <h2>{{ post.title }}</h2>
-          {{ post.excerpt | markdownify }}
+        <div class="details text-center ">
+          <h3 class="title">{{ post.title | truncatewords: 4}}</h3>
+          <p class="tag">{{ post.tag}}</p>
         </div>
       </a>
     </div>
   {% endfor %}
   </section>
+</div>
 
-  <div class="content masonry">
-    {% for post in paginator.posts %}
-      {% if post.categories contains 'wona' %}
-        {% if post.categories contains 'cover' %}
-        {% else %}
-          <div class="article-container">
-            <div class="article {{post.tag}}">
+<div id="featured-articles-container" class=" container-fluid">
+  <div id="featured-articles" class=" container">
+    <div class="row">
+      <h1 class="col-sm-12" id="featured-articles-title">Featured Articles</h1>
+      {% for cat in site.categories %}
+        {{ cat | inspect }}
+        {% assign post = cat.second.first %}
+        {% if post.categories contains 'wona' and post.image != null %}
+            <div class="article-container col-sm-4">
+              <div class="article {{post.tag}}">
 
-              {% if post.tag %}
-                <img src="/images/tags/{{post.tag}}.png" class="tag">
-              {% endif %}
-              
-              <a href="{{ post.url }}">
-                {% if post.image %}
-                  <div class="article-cover-container">
-                    <img src="/images/posts/{{ post.image }}" class="article-cover">
+                <a href="{{ post.url }}">
+                  {% if post.image %}
+                    <div class="center-fill-container article-cover-container">
+                      <img src="/images/posts/{{ post.image }}" class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+                    </div>
+                  {% else %}
+                    <br><br>
+                  {% endif %}
+                  <div class="details text-center">
+                    <span class="tag">{{ post.tag }}</span>
+                    <h3 class="title">{{ post.title  | truncatewords: 4}}</h3>
+                    <p class="excerpt">{{ post.excerpt | markdownify | truncate: 75 }}</p>
                   </div>
-                {% else %}
-                  <br><br>
-                {% endif %}
-                <div class="details">
-                  <h3>{{ post.title }}</h3>
-                  {{ post.excerpt | markdownify }}
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
-          </div>
         {% endif %}
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
+</div>
 
   <div class="pagination">
     {% if paginator.previous_page == 1 %}
@@ -70,16 +72,3 @@ title: "Home"
       <span class="next "><img src="/images/right.png" class="disabled"></span>
     {% endif %}
   </div>
-</div>
-
-<script>
-	window.onload = function(){
-		width = document.getElementsByClassName('content')[0].offsetWidth;
-		width = Math.floor(width/3) - 1;
-		container = document.querySelector('.content');
-		msnry = new Masonry( container, {
-			columnWidth: width,
-			itemSelector: '.article-container'
-		});
-	}
-</script>

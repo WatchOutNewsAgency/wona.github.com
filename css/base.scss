@@ -7,6 +7,14 @@ $navbar-default-link-color: white;
 $navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
 $navbar-default-link-hover-color: darken($navbar-default-link-color, 35%);
 $home-header-bg-color: #333;
+$new-article-img-height: 150px;
+$new-article-img-width: 225px;
+$new-article-title-color: black;
+$new-article-tag-color: #e5cb52;
+$featured-articles-bg-color: #f7f7f7;
+$featured-articles-title-color: #373737;
+$article-cover-img-width: 355px;
+$article-cover-img-height: 190px;
 $carousel-bg-color: #333;
 $carousel-height: 500px;
 
@@ -40,27 +48,7 @@ $carousel-height: 500px;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1);
 }
 
-@mixin center-vertical() {
-  -ms-transform: translateY(50%);
-  -webkit-transform: translateY(50%);
-  transform: translateY(50%);
-  bottom: 50%;
-}
 
-@mixin center-horizontal() {
-  -ms-transform: translateX(-50%);
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  left: 50%;
-}
-
-@mixin center-both() {
-  -ms-transform: translate(-50%, 50%);
-  -webkit-transform: translate(-50%, 50%);
-  transform: translate(-50%, 50%);
-  left: 50%;
-  bottom: 50%;
-}
 // ============== /MIXINS ============== //
 
 @font-face {
@@ -87,12 +75,12 @@ $carousel-height: 500px;
 body {
 	font-size: 13px;
 	color: #081522;
-	background: #ddd url('/images/bg.png');
+	background: #fff;
 	@include box-sizing();
 }
 
 *{	
-	font-family: Open Sans, sans-serif;
+	font-family: Merriweather, Open Sans, sans-serif;
 }
 
 
@@ -155,18 +143,15 @@ body {
 #home-header {
   position: relative;
   height: 500px;
-  margin-bottom: -60px;
+  margin-bottom: -($new-article-img-height / 4);
   background: $home-header-bg-color;
   padding: 0;
   z-index: -10;
   overflow: hidden;
 
   .cover {
-    position: absolute;
     z-index: 10;
-    @include center-vertical();
-    @include center-horizontal();
-   color: white;
+    color: white;
   }
 
   .title {
@@ -179,7 +164,6 @@ body {
   .cover-image {
     width: 100%;
     position: absolute;
-    @include center-vertical();
 
     .img-responsive {
       width: 100%;
@@ -210,15 +194,86 @@ body {
 // ============= NEW-ARTICLES ============ //
 #new-articles {
   .img-container {
-    position: absolute;
-    margin: 0 auto;
-    width: 250px;
-    height: 175px;
-    overflow: hidden;
+    width: $new-article-img-width;
+    height: $new-article-img-height;
+    border-radius: 1%;
+  }
+
+  .details {
+    margin: 10 auto;
+    font-weight: bold;
+
+    .title {
+      color: $new-article-title-color;
+      text-transform: capitalize;
+      font-size: 20px;
+    }
+
+    .tag {
+      text-transform: uppercase;
+      font-family: AvenirNext;
+      font-size: 14px;
+      color: $new-article-title-color;
+    }
   }
 }
 // ============ /NEW-ARTICLES ============ //
 
+// ========== FEATURED-ARTICLE =========== //
+#featured-articles-container {
+  background: $featured-articles-bg-color;
+}
+
+#featured-articles-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: $featured-articles-title-color;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+#featured-articles {
+  .article-cover-container {
+    width: $article-cover-img-width;
+    height: $article-cover-img-height;
+    box-shadow: 0px 35px 40px -20px;
+  }
+
+  .article-container {
+    margin-bottom: 10px + 0.1 * $article-cover-img-height;
+
+    .details {
+      position: relative;
+      z-index: 10;
+      margin: 0 auto;
+      top: -0.1 * $article-cover-img-height;
+      background: $featured-articles-bg-color;
+      width: 0.9 * $article-cover-img-width; ;
+
+      .tag {
+        position: absolute;
+        top:0;
+        left: 50%;
+        transform: translate(-50%,-100%); 
+        text-transform: capitalize;
+        font-weight: bold;
+        font-size: 14px;
+        color: #ffffff;
+      }
+
+      .title {
+
+      }
+      &:before {
+        content: " ";
+        display: table;
+
+      }
+
+    }
+  }
+}
+// ========= /FEATURED-ARTICLES ========== //
 // ============= CAROUSEL ============= //
 
 /* Carousel base class */
@@ -249,10 +304,38 @@ body {
 // ============ /CAROUSEL ============= //
 
 // ============== COMPONENTS ============== //
+.center-vertical {
+  position: absolute;
+  -ms-transform: translateY(50%);
+  -webkit-transform: translateY(50%);
+  transform: translateY(50%);
+  bottom: 50%;
+}
+
+.center-horizontal {
+  -ms-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  left: 50%;
+}
+
+.center-both {
+  position: absolute;
+  -ms-transform: translate(-50%, 50%);
+  -webkit-transform: translate(-50%, 50%);
+  transform: translate(-50%, 50%);
+  left: 50%;
+  bottom: 50%;
+}
+
+.center-fill-container {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+}
 
 .img-center-fill {
   position: absolute;
-  @include center-both();
   width: 100%;
 
   &.wide {
@@ -370,23 +453,7 @@ blockquote {
 }
 
 
-.content {
-	.pure-u-1-3 {
-		@include box-sizing();
-	}
-}
-
-
-.article-container {
-	/*width: 280px;*/
-	width: 30%;
-	margin: 0 1.5%;
-	margin-bottom: 50px;
-	float: left;
-	@include box-sizing();
-}
-
-.article {
+.article-old {
 	border: 1px solid #ccc;
 	background: white;
 	padding-bottom: 10px;

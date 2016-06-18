@@ -1,7 +1,7 @@
-{% assign cover_post =  site.categories.cover.first %}
+{% assign cover_post =  site.posts.first %}
 <div id="home-header" class="container-fluid">
-  <div class="cover-image"><img class="img-responsive" src="/images/posts/{{ cover_post.image }}" alt=""></div>
-  <div class="cover text-center">
+  <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="/images/posts/{{ cover_post.image }}" alt=""></div>
+  <div class="cover center-both text-center">
     <h1 class="title">{{ cover_post.title }}</h1>
     <!--<p>{{ cover_post.excerpt | markdownify }}</p>-->
   </div>

@@ -23,13 +23,13 @@
                 <ul class="dropdown-menu">
                   {% for subcat in cat.subcategories %}
                    {% if site.categories[subcat] != nil %}
-                    <li><a href="/category/{{ subcat }}">{{ subcat | uppercase }}</a></li>
+                    <li><a href="/category/{{ subcat }}/">{{ subcat | uppercase }}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
               </li>
-              {% else %}
-              <li><a href="/category/{{ cat.name }}">{{ cat.name | uppercase }}</a></li>
+              {% elsif  site.categories[cat.name] != nil%}
+              <li><a href="/category/{{ cat.name }}/">{{ cat.name | uppercase }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>

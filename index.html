@@ -16,7 +16,7 @@ title: "Home"
         </div>
         <div class="details text-center ">
           <h3 class="title">{{ post.title | truncatewords: 4}}</h3>
-          <p class="tag">{{ post.subcategory }}</p>
+          <p class="tag">{{ post.tag }}</p>
         </div>
       </a>
     </div>
@@ -73,6 +73,11 @@ title: "Home"
         {% for video in site.data.youtube %}
         <div class="item {% if forloop.first %}active{% endif %}">
           <div class="container">
+            <div class="video-container center-both">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
             <div class="carousel-caption">
               <h1>{{ video.title }}</h1>
             </div>
@@ -96,4 +101,3 @@ title: "Home"
               class="sr-only">Next</span>
       </a>
     </div><!-- /.carousel -->
-

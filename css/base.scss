@@ -16,7 +16,7 @@ $featured-articles-title-color: #373737;
 $article-cover-img-width: 355px;
 $article-cover-img-height: 190px;
 $carousel-bg-color: #333;
-$carousel-height: 500px;
+$carousel-height: 625px;
 
 // =============== /VARS ===============//
 
@@ -197,6 +197,7 @@ body {
     width: $new-article-img-width;
     height: $new-article-img-height;
     border-radius: 1%;
+    box-shadow: 0 0 15px;
   }
 
   .details {
@@ -213,7 +214,7 @@ body {
       text-transform: uppercase;
       font-family: AvenirNext;
       font-size: 14px;
-      color: $new-article-title-color;
+      color: $new-article-tag-color;
     }
   }
 }
@@ -279,14 +280,19 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
-  margin-bottom: -60px;
+  height: $carousel-height;
 }
 
 .carousel-caption {
     z-index: 10;
     top: 50%;
     transform: translateY(-50%);
+    h1 {
+      font-weight: bold;
+      line-height: 0.98;
+      text-align: center;
+      color: #ffffff;
+    }
 }
 
 /* Declare heights because of positioning of img element */
@@ -294,13 +300,19 @@ body {
   height: $carousel-height;;
   background-color: $carousel-bg-color;
 }
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
+.carousel-inner{
 
+  .video-container {
+    height: 90%;
+  }
+
+  > .item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+  }
 }
 // ============ /CAROUSEL ============= //
 
@@ -365,170 +377,7 @@ blockquote {
 	padding-left: 10px;
 	font-style: italic;
 }
-
-.pagination {
-	text-align: center;
-	font-style: italic;
-
-	img {
-		position: relative;
-		top: 12px;
-		opacity: 0.7;
-		cursor: pointer;
-		@include transition(all, 0.2s, ease-in);
-
-		&:hover {
-			opacity: 1;
-			@include transition(all, 0.2s, ease-in);
-		}
-
-		&.disabled {
-			opacity: 0.5;
-
-			&:hover {
-				opacity: 0.5;
-			}
-		}
-	}
-}
-
 // ============== /COMPONENETS ============== //
-
-// ============== CONTENT ============== //
-.cover-oold {
-	background: white;
-	margin: auto;
-	display: block;
-	position: relative;
-	margin-bottom: 30px;
-	z-index: 10;
-	@include shadow();
-
-	img {
-		width: 100%;
-		display: block;
-		opacity: 0.8;
-		@include transition(all, 0.2s, ease-in);
-
-		&:hover {
-			opacity: 1;
-			@include transition(all, 0.2s, ease-in);
-		}
-    
-    &.hidden {
-      visibility: hidden;
-      height: 10em;
-    }
-	}
-
-	.tag {
-		width: 100px;
-		position: absolute;
-		top: 0px;
-		right: 0px;
-		z-index: 1;
-	}
-
-	a:hover {
-		border: none;
-		color: #000;
-	}
-
-	.details {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-		background: rgba(255,255,255,0.8);
-		padding: 20px 20px;
-		@include box-sizing();
-
-		h2 {
-			font-weight: 500;
-			margin: 0 0 5px 0;
-		}
-
-		p {
-			margin: 0;
-		}
-	}
-}
-
-
-.article-old {
-	border: 1px solid #ccc;
-	background: white;
-	padding-bottom: 10px;
-	color: #6D6D6D;
-	@include shadow();
-	@include box-sizing();
-
-	&:hover {
-		color: #333;
-		img.article-cover {
-			opacity: 1;		
-		}
-	}
-
-	a:hover {
-		border: none;
-		color: #000;
-	}
-	
-	.details {
-		padding: 5px 10px;
-
-		h3 {
-			margin: 0 0 10px 0;
-			color: #363845;
-		}
-
-		blockquote, p {
-			margin: 0;
-			border: none;
-		}
-	}
-
-	img.article-cover {
-		border-bottom: 1px solid #ccc;
-		width: 100%;
-		opacity: 0.8;
-		@include transition(all, 0.2s, ease-in);
-	}
-
-	.tag {
-		width: 100px;
-		position: absolute;
-		top: 0px;
-		z-index: 1;
-	}
-
-	&.faceoff {
-		border-top: 2px solid #E67E22;
-	}
-	&.bigstory {
-		border-top: 2px solid #4390DF;
-	}
-	&.coverstory {
-		border-top: 2px solid #FF5050;
-	}
-	&.techila {
-		border-top: 2px solid #9B59B6;
-	}
-	&.phekingnews {
-		border-top: 2px solid #F1C40F;
-	}
-	&.editorial {
-		border-top: 2px solid #2ECC71;
-	}
-	&.news {
-		border-top: 2px solid #1ABC9C;
-	}
-	&.almostfamous {
-		border-top: 2px solid #34495E;
-	}
-}
-
-// ============== CONTENT ============== //
 
 // ============== POST ============== //
 
@@ -557,22 +406,11 @@ blockquote {
 // ============== FOOTER ============== //
 
 footer {
-	background: white;
-
-	div{
-		display: block;
-		margin: auto;
-	}
-
-	nav {
-		margin: 1em 0;
-		float: right;
-
-		a {
-			margin: 0px 10px;
-			padding: 2px 0px;
-		}
-	}
+  position: relative;
+	background: #1c1c1c;
+  height: 65px;
+  font-weight: normal;
+  color: #ffffff;
 }
 
 // ============== /FOOTER ============== //

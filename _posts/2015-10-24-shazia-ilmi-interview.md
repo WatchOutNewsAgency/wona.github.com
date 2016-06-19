@@ -4,6 +4,7 @@ title: "In conversation with Shazia Ilmi"
 tags: [wona, column]
 category: verbatim
 justify: true
+image: shazia-i.jpg
 excerpt: Shazia Ilmi has been the spokesperson and media strategist of the India Against Corruption Movement, and later, the Aam Admi Party. Currently she sides with the BJP after relinquishing her membership of AAP in 2014.
 ---
 On the first day of Thomso, curtains of the Mac Auditorium rose to a guest lecture by journalist-turned-politician Shazia Ilmi. She has been the spokesperson and media strategist of the India Against Corruption Movement, and later, the Aam Admi Party. Currently she sides with the BJP after relinquishing her membership of AAP in 2014.

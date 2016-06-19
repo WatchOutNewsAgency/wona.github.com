@@ -3,8 +3,10 @@
   {% assign post = page %}
 {% endif %}
 
-<div id="home-header" class="container-fluid">
+<div id="header" class="container-fluid {% if page.is_post %}post-header{% endif %}">
+  {% if post.image != nil %}
   <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt=""></div>
+  {% endif %}
   <div class="cover center-both text-center">
     <h1 class="title">{{ post.title }}</h1>
   </div>
@@ -12,7 +14,7 @@
   <div class="left">
   {% if page.is_post and post.next %}
     <a class="center-both scroll-buttons" href="{{ post.next.url }}">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
   {% endif %}
@@ -21,7 +23,7 @@
   <div class="right">
   {% if page.is_post and post.next %}
     <a class="center-both scroll-buttons" href="{{ post.previous.url }}">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
   {% endif %}

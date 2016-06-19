@@ -6,7 +6,7 @@ title: "Home"
   <section id="new-articles" class="row">
 
   {% for post in site.posts limit: 4 offset: 1 %}
-    <div class="new-article col-sm-3">
+    <div class="article col-sm-3">
       <a href="{{ post.url }}">
         <div class="center-fill-container img-container">
           <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">

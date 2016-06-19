@@ -140,7 +140,7 @@ body {
 
 // ============= HOME-HEADER ============= //
 
-#home-header {
+#header {
   position: relative;
   height: 500px;
   margin-bottom: -($new-article-img-height / 4);
@@ -197,7 +197,7 @@ body {
 // ============= /HOME-HEADER ============= //
 
 // ============= NEW-ARTICLES ============ //
-#new-articles {
+#new-articles, #related-articles {
   z-index: 10;
 
   .img-container {
@@ -389,12 +389,15 @@ blockquote {
 // ============== POST ============== //
 
 .post {
+  z-index: 10;
+  position: relative;
 	background: white;
 	padding: 10px 50px;
-	@include shadow();
+  margin-bottom: 20px;
 	font-size: 1.1em;
 	line-height: 1.5em;
 	color: #333332;
+  font-family: AvenirNext;
 
 	p img {
 		display: block;
@@ -408,7 +411,21 @@ blockquote {
   }
 }
 
+.post-header {
+  box-shadow: 0 100px 125px -100px;
+}
+
 // ============== /POST ============== //
+
+// ========= RELATED-ARTICLES ======== //
+
+#related-articles {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background: #f0f0f0;
+}
+
+// ========= /RELATED-ARTICLES ======= //
 
 // ============== FOOTER ============== //
 

@@ -1,12 +1,7 @@
 ---
 layout: layout
 ---
-<section class="post">
-
-	<h1>
-		<a href="{{ page.url }}">{{ page.title }}</a>
-	</h1>
-
+<section class="post container">
 	<section class="byline">
 		{{ page.date | date: "%B %e, %Y" }}
 	</section>
@@ -17,10 +12,21 @@ layout: layout
 
 </section>
 
-{% if page.isImageCover == false %}
-	{% if page.image %}
-		<div class="cover">
-			<img src="/images/posts/{{ page.image }}" alt="">
-		</div>
-	{% endif %}
-{% endif %}
+<div id="related-articles-container" class="container-fluid">
+  <section id="related-articles" class="row">
+
+  {% for post in site.related_posts limit: 4 %}
+    <div class="article col-sm-3">
+      <a href="{{ post.url }}">
+        <div class="center-fill-container img-container">
+          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+        </div>
+        <div class="details text-center ">
+          <h3 class="title">{{ post.title | truncatewords: 4}}</h3>
+          <p class="tag">{{ post.tag }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+  </section>
+</div>

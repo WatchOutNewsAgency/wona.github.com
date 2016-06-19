@@ -1,0 +1,28 @@
+---
+layout: layout
+no_header: true
+---
+
+{% include cat_header.html %}
+
+<div class="category-posts container">
+  {% for post in site.categories[page.category] %}
+    <div class="category-post row">
+      {% if post.image != nil %}
+        <div class="col-sm-3 center-fill-container img-container">
+          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+        </div>
+        <div class="col-sm-9 details">
+          <h3 class="title">{{ post.title}}</h3>
+          <p class="tag">{{ post.excerpt }}</p>
+        </div>
+      {% else %}
+        <div class="col-sm-12 details">
+          <h3 class="title">{{ post.title}}</h3>
+          <p class="tag">{{ post.excerpt }}</p>
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+

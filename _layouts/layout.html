@@ -7,7 +7,9 @@
 
     {% include navbar.html %}
 
-    {% include header.html %}
+    {% if page.no_header %}
+      {% include header.html %}
+    {% endif %}
     
     {{ content }}
 

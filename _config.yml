@@ -16,6 +16,11 @@ defaults:
       type: posts   # limit to posts
     values:
       is_post: true # automatically set is_post=true for all posts
+  - scope:
+      path: "category"
+    values:
+      is_category_page: true
+      layout: category
 
 name: WONA
 url: http://wona.co.in

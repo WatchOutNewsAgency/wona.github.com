@@ -148,6 +148,11 @@ body {
   padding: 0;
   overflow: hidden;
 
+  &.category-header {
+    height: 300px;
+    box-shadow: 0 100px 125px -100px;
+  }
+
   .cover {
     z-index: 10;
     color: white;
@@ -438,6 +443,25 @@ footer {
 }
 
 // ============== /FOOTER ============== //
+
+// ============== CATEGORY-POSTS ===========//
+.category-posts {
+  position: relative;
+  z-index: 10;
+  background: white;
+  padding-top: 10px;
+
+  .category-post {
+    margin-bottom: 30px;
+    padding: 0 10px 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .img-container {
+    height: $article-cover-img-height;
+  }
+}
+// ============= /CATEGORY-POSTS ===========//
 
 // ============== TEAM ============== //
 

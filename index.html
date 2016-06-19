@@ -14,7 +14,7 @@ category_page: news
         </div>
         <div class="details text-center ">
           <h3 class="title">{{ post.title | truncatewords: 4}}</h3>
-          <p class="tag">{{ post.tag }}</p>
+          <p class="tag">{{ post.category }}</p>
         </div>
       </a>
     </div>
@@ -26,19 +26,18 @@ category_page: news
   <div id="featured-articles" class=" container">
     <div class="row">
       <h1 class="col-sm-12" id="featured-articles-title">Featured Articles</h1>
-      {% for tag in site.data.homepage_categories %}
-        {% assign posts = site.posts |  where: "tag", tag %}
-        {% for post in posts %}
+      {% for cat in site.data.homepage_categories %}
+        {% for post in site.categories[cat] %}
           {% if post.image != null %}
             <div class="article-container col-sm-4">
-              <div class="article {{post.tag}}">
+              <div class="article {{post.category}}">
 
                 <a href="{{ post.url }}">
                     <div class="center-fill-container article-cover-container">
                       <img src="/images/posts/{{ post.image }}" class="img-center-fill {% if post.image == null %}hidden{% endif %}">
                     </div>
                   <div class="details text-center">
-                    <span class="tag">{{ post.tag }}</span>
+                    <span class="tag">{{ post.category }}</span>
                     <h3 class="title">{{ post.title  | truncatewords: 4}}</h3>
                     <p class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify | truncate: 75 }}{% endif %}</p>
                   </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SAC Meeting Review"
-categories: [wona, news]
+tags: [wona, news]
 image: main-building.jpg
 category: news
 excerpt: This year’s first SAC meeting on 4th November convened on a 12 point agenda that constituted a range of issues from the removal of the girls’ timing restrictions to the problems of commuting regular students from Saharanpur campus.

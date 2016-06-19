@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heart to heart with a Faker at IITR
-categories: [wona, column]
+tags: [wona, column]
 category: phekingnews
 excerpt: Pheking news interviews Faking news. Umm, what?
 ---

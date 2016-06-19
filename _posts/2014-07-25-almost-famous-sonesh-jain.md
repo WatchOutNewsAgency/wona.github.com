@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost Famous, Sonesh Jain
-categories: [wona, column]
+tags: [wona, column]
 category: almostfamous
 ---
 

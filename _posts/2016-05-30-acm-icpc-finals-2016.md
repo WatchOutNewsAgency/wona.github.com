@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To Phuket and back : IITR at ACM-ICPC"
-categories: [wona, cover, news]
+tags: [wona, cover, news]
 image: news/acm-2016-finals.jpg
 category: news
 excerpt: The 40th ACM-ICPC World Finals were held in Prince of Songkla University, Phuket, Thailand from May 15th-20th this year. The team ‘11coders’ comprising of Anubhav Bindlish, Kshitij Bathla and Aman Kedia represented IIT Roorkee and secured a world rank- 72. The team had earlier proved their mettle by securing 2nd rank in Chennai regionals among all the participant teams from India.

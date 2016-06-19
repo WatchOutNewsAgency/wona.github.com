@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On track, on field"
-categories: [wona, news]
+tags: [wona, news]
 image: on-track-on-field.jpg
 category: news
 excerpt: Watch Out News Agency, in a talk with Kuber Dutt Sharma, GS Sports, attempted to analyse the plans of the Sports Council following the cancellation of the meet, the performance of IIT-R contingent at the Inter IIT aquatics meet, and probe into some lesser known behind-the-scenes facts about the Sports division.

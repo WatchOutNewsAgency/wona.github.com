@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life After Convocation
-categories: [wona, column]
+tags: [wona, column]
 category: bigstory
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arunima Sinha's Guest Talk
-categories: [wona, news]
+tags: [wona, news]
 category: news
 image: news/arunimasinha.jpg
 ---

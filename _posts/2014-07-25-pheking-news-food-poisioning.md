@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pheking News: Food poisoning, bun samosas and radical beards'
-categories: [wona, column]
+tags: [wona, column]
 category: phekingnews
 ---
 

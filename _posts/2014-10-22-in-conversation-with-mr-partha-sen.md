@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In conversation with Mr. Partha Sen, founder (Fuzzy Logix)
-categories: [wona, column, verbatim]
+tags: [wona, column, verbatim]
 category: verbatim
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 image: elective.jpg
-categories: [wona, column]
+tags: [wona, column]
 category: 
 isImageCover: false
 ---

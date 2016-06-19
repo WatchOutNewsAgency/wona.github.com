@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OF PACTS AND FACTS #1 : AN OVERVIEW"
-categories: [wona, column]
+tags: [wona, column]
 category: editorial
 excerpt: It is something everyone talks about and takes a passing interest in. But when it comes to casting votes, most of the junta can be found feigning sweet slumber on that fateful Sunday morning. And hence, politics at IIT Roorkee inevitably boils down to a select set of kingmakers and their minions.
 ---

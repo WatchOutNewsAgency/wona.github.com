@@ -2,7 +2,7 @@
 layout: post
 title: "The Student Exchange Program"
 image: student-exchange-program.png
-categories: [wona, column]
+tags: [wona, column]
 category: verbatim
 excerpt: WONA brings you the coverage of the opportunities at your disposal, in an interview with Mrs. Purnima Govind, the Executive Assistant at the office of Dean of Alumni Affairs.
 ---

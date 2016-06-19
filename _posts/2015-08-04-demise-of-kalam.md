@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IITR mourns Dr. Kalam's demise
-categories: [wona, news]
+tags: [wona, news]
 category: news
 image: news/kalam.jpg
 ---

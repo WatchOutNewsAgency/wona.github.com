@@ -2,7 +2,7 @@
 layout: post
 title: The Promising Tale Of Student-Driven Activities
 image: bigstory/student-activities.jpg
-categories: [wona, column]
+tags: [wona, column]
 category: bigstory
 ---
 

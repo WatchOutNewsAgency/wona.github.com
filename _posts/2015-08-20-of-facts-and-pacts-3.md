@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OF PACTS AND FACTS #3 : THE ANALYSIS"
-categories: [wona, column]
+tags: [wona, column]
 category: editorial
 excerpt: The pre-existing power has been broken down to pieces and redistributed. But further empowerment has been ominously disregarded. Even more disturbingly, there has been no discussion of handing more power to the students. The system is still wholly patronizing, regarding a campus full of adults like petulant children unable to think for themselves.
 ---

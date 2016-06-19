@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EDC Alumni Interactive Session
-categories: [edc]
+tags: [edc]
 category: editorial
 image: edc/alumni_talk.jpg
 ---

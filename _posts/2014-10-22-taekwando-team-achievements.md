@@ -2,7 +2,7 @@
 layout: post
 title: IITR's Taekwando Team Shines at National Level
 excerpt: This year 2 students from IIT Roorkee Puneet Kumar – ECE 4th Year and Jyoti Chopra – Chemical 3rd Year, represented the Uttarakhand state team in National Taekwondo (Poomsae) Championship. The 7th Taekwondo nationals were held on 31st August at the Sawai Man Singh Stadium, Jaipur. The duo made it to the quarterfinals of pair poomsae where they finished 6th out of 24 teams. Jyoti went on to the finals where after a tough fight she fell short. Kudos to the two as well as our Taekwondo coach Mr. Anand Krishna Yadav who himself is a Bronze medalist at the 2011 Commonwealth Taekwondo Championship.
-categories: [wona, column, news]
+tags: [wona, column, news]
 category: news
 ---
 

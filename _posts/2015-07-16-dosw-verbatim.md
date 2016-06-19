@@ -2,7 +2,7 @@
 layout : post
 title : A talk with the DoSW
 image: dosw-verbatim.jpg
-categories: [wona, column]
+tags: [wona, column]
 category: verbatim
 excerpt: The world is abuzz with the news about the expulsion of 73 students who have just now completed their first year at IITR. Protests are growing by the day with students and political parties throwing their hats in the ring.
 ---

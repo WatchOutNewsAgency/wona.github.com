@@ -1,0 +1,20 @@
+---
+- name: news
+  subcategories:
+    - acads
+    - sports
+    - cultural
+    - tech
+    - sac
+    - phekingnews
+- name: columns
+  subcategories:
+    - coverstory
+    - bigstory
+    - editorial
+    - almostfamous
+    - guestcomentary
+- name: career
+  subcategories:
+- name: archives 
+  subcategories:

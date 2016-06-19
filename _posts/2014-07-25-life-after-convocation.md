@@ -2,7 +2,7 @@
 layout: post
 title: Life After Convocation
 categories: [wona, column]
-tag: bigstory
+category: bigstory
 ---
 
 Life is simple. We take birth. We survive. We leave a few imprints of our existence. And then we die. However, inevitably, there comes one unruly and inexplicable moment somewhere in between these phases that baffles, frightens and creates anxiety amongst even the most brilliant and organized minds: ‘The end of college life’. Our institute may be visualised as a giant archway into the woods, from which several roads diverge. The roads are long and windy with their ends invisible, with some leading to known or heard of destinations and others leading to unknown paths and destinations.  Although this road-traveling analogy may be similar to one famous work of the prolific poet Robert Frost, one can’t really question its relevance in this context. For the first time many people face the predicament of answering the ultimate question: What now?

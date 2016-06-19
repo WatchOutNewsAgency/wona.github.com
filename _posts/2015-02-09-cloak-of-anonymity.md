@@ -3,7 +3,7 @@ layout: post
 title: "The Cloak Of Anonymity"
 image: incognito.png
 categories: [wona, column]
-tag: editorial
+category: editorial
 excerpt: Anonymity over the internet and the effect it has on people raises several interesting questions about human nature, especially in the aftermath of Wikileaks and The Fappening. While the first utilized this anonymity to raise a voice against world governments, the other used the same for depraved motives.
 ---
 _"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."_

@@ -2,7 +2,7 @@
 layout: post
 title: Almost Famous, Sonesh Jain
 categories: [wona, column]
-tag: almostfamous
+category: almostfamous
 ---
 
 We’ve had a lot of people in this space but rarely have we ever interviewed someone who claims to have had a turnover of Rs 2.5 crore while still in college. In this edition of Almost Famous, we spoke to a man who has become synonymous with entrepreneurship in IITR, Sonesh Jain, co-founder and creative head of “Audegn”. 

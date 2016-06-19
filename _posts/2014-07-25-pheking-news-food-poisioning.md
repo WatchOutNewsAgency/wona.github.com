@@ -2,7 +2,7 @@
 layout: post
 title: 'Pheking News: Food poisoning, bun samosas and radical beards'
 categories: [wona, column]
-tag: phekingnews
+category: phekingnews
 ---
 
 Disclaimer: All animals harmed while researching for this article had signed complicated consent forms. 

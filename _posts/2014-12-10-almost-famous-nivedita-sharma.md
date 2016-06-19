@@ -3,7 +3,7 @@ layout: post
 title: "Almost Famous: Nivedita Sharma"
 image: almostfamous/nivedita.jpg
 categories: [wona, column]
-tag: almostfamous
+category: almostfamous
 ---
 
 20 gold medals, 5 championship trophies, countless laps in the swimming pool and a smile that could make your day, **Nivedita Sharma**, is probably the greatest athlete IIT Roorkee has seen in recent years. Clearly, after her recent performance in the inter-IIT aquatics meet at IIT Bombay has rendered the name of this column as a misnomer: She’s famous. In her final year at the Saharanpur campus, she managed to spare a few minutes out of conundrum created by placement season and approaching exams, for us. In conversation with Nivedita Sharma, the lady behind IITR’s fifth consecutive trophy in the Inter-IIT aquatics meet:

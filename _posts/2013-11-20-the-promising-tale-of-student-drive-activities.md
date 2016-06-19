@@ -3,7 +3,7 @@ layout: post
 title: The Promising Tale Of Student-Driven Activities
 image: bigstory/student-activities.jpg
 categories: [wona, column]
-tag: bigstory
+category: bigstory
 ---
 
 We may carp ad infinitum and begrudge this campus, its lack of facilities, poor infrastructure and a myriad inadequacies that we see this place as strewn with. While it may be true that most sections of our Hobbies club and the Cultural Council are conspicuous only by their absence outside the campus and that our campus, standing as it does in seclusion, is what seems to be the biggest scourge of itself, it is also quite true that as far as the tangible is concerned , facilities are not as meagre as we make them out to be.

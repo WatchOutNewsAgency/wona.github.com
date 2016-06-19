@@ -3,7 +3,7 @@ layout: post
 title: The Good, The Bad and The Sports
 image: the-good-the-bad-and-the-sports.jpg
 categories: [wona, column]
-tag: coverstory 
+category: coverstory 
 ---
 
 Far out on a pale blue dot in the Western Spiral Arm of the Milky Way (more accurately ZZ9 Plural Z Alpha), amazingly primitive carbon based bipedals have always engaged in competitions to establish physical supremacy over other males in the herd. Sports, as they call these competitions, culturally evolved as signaling systems that serve a function similar to courtship rituals in other life forms. Though other signaling systems like name-calling and banging on chests are dying out slowly, sports remains an integral part of these lives. This can be attributed to the huge following for sporting events (and a severe lack of chest banging competitions). Some of the major sporting events with a widespread following on the radio, TV and telepathic channels are The Intergalactic Thumb Wrestling Championship, popularly known as The Olympics, the other Olympics which is organised by the Earth every four years and the Inter IIT Sports Meet which was organised by IIT Guwahati last year.

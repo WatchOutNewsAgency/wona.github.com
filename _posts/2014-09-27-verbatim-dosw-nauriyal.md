@@ -2,7 +2,7 @@
 layout: post
 title: In conversation with Prof. D.K. Nauriyal, the DOSW IIT Roorkee
 categories: [wona, column, verbatim]
-tag: verbatim 
+category: verbatim 
 ---
 
 It’s been two months in the Autumn Semester and IITR has already seen a lot of interesting changes on the campus: A new Bhawan allotment policy (that made election candidates cry), the newly elected Students’ Affairs Council and an innovative regime of punishment (read: yoga classes). Watch Out! News Agency thanks Prof. D.K. Nauriyal, the Dean of Students’ Welfare, IIT Roorkee, for sparing some of his precious time and explaining IITR administration’s point of view, pertaining to the much debated topics of this semester. 

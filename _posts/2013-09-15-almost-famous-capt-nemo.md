@@ -3,7 +3,7 @@ layout: post
 title: Almost Famous, Capt. Nemo
 image: almostfamous/cover.jpg
 categories: [wona, column]
-tag: almostfamous
+category: almostfamous
 ---
 
 Few people have had the privilege of being part of IITR folklore. Captain Nemo, sometimes called Abhay Bir Singh Rana, has been a famous pirate, hacker, mentor, blogger, quizzer, web developer and a friendly bot. What he has never been, we can swear by the lines of code that went into Muzi, is just almost famous. Well, not many were surprised when during the interactive session of TEDxIITR , people swarmed him instead of the panelists.

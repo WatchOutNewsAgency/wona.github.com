@@ -2,7 +2,7 @@
 layout: post
 title: Revolutionary Protests That Cause No Revolutions
 categories: [wona, column]
-tag: editorial
+category: editorial
 ---
 Speaking in cliches is an easy thing to do. Sometimes, you let slip a few words that are supposed to be spoken in particular circumstances like a programmed machine. You trust they are appropriate and don’t stop to ponder about what they truly mean. It is a call for action, they say, or May her death not go in vain. In a moment of hatred, of protest and rebellion, you, inconsiderate reader, start to accuse everyone; your blood curdles on hearing cliches. You despise the random bloke who made sexist remarks, it galls you to think of Prime Ministers who gaffed inadvertently while addressing nations, of grey-haired Chief Ministers who make speeches that count for naught. In the heat of rage, you, thoughtless reader, turn misanthropic and ruthless in your criticisms.
 

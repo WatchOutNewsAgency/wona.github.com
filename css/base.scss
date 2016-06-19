@@ -146,7 +146,6 @@ body {
   margin-bottom: -($new-article-img-height / 4);
   background: $home-header-bg-color;
   padding: 0;
-  z-index: -10;
   overflow: hidden;
 
   .cover {
@@ -169,8 +168,14 @@ body {
       width: 100%;
     }
   }
-  
-   .left {
+
+  .scroll-buttons {
+    color: white;
+    font-size: 32px;
+
+  }
+
+  .left {
     position: absolute;
     top: 0;
     left: 0;
@@ -178,7 +183,7 @@ body {
     width: 10%;
     @include gradient-horizontal($start-color: rgba(0,0,0,.4), $end-color: rgba(0,0,0,.0001));
   }
-   .right {
+  .right {
     position: absolute;
     top: 0;
     left: auto;
@@ -193,6 +198,8 @@ body {
 
 // ============= NEW-ARTICLES ============ //
 #new-articles {
+  z-index: 10;
+
   .img-container {
     width: $new-article-img-width;
     height: $new-article-img-height;

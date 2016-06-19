@@ -9,6 +9,13 @@ sass:
   style: :compressed
   sass_dir: _sass
 
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
 
 name: WONA
 url: http://wona.co.in

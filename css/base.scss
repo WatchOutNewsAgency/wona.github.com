@@ -72,6 +72,12 @@ $carousel-height: 625px;
   src: local('Avenir Next Bold'), local('Avenir Next Bold'), url(/fonts/avenirnext-bold.woff) format('woff');
 }
 
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  src: local('Merriweather'), local('Merriweather Regular'), url(/fonts/Merriweather-Regular.ttf) format('woff');
+}
+
 body {
 	font-size: 13px;
 	color: #081522;
@@ -163,6 +169,7 @@ body {
     font-size: 42px;
     font-weight: bold;
     color: #ffffff;
+    text-shadow: 1px 1px 10px #000000;
   }
 
   .cover-image {
@@ -378,8 +385,8 @@ a {
 	@include transition(all, 0.2s, ease-in);
 
 	&:hover{
-		color: #e74c3c;
-		border-bottom: 1px solid #e74c3c;
+		color: #2c45cc;
+		border-bottom: 1px solid #2c45cc;
 		@include transition(all, 0.2s, ease-in);
 	}
 }

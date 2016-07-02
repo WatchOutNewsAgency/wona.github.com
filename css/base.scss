@@ -164,12 +164,28 @@ body {
     color: white;
   }
 
+  .cover-link {
+    text-decoration: none;
+  }
+
+  .cover-link:hover {
+    text-decoration: none;
+  }
+
   .title {
     font-family: Merriweather;
     font-size: 42px;
     font-weight: bold;
     color: #ffffff;
     text-shadow: 1px 1px 10px #000000;
+    -webkit-transition: text-shadow 0.5s ease;
+    -moz-transition: text-shadow 0.5s ease;
+    -o-transition: text-shadow 0.5s ease;
+    transition: text-shadow 0.5s ease;
+  }
+
+  .title:hover {
+    text-shadow: 1px 1px 10px #777777;
   }
 
   .cover-image {

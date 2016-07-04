@@ -2,7 +2,8 @@
 layout: post
 title: "A New Hope: Revamped Academic System in a Nutshell"
 image: main-building.jpg
-tags: [wona, column]
+tags: [wona, news, acad]
+category: news
 excerpt: After months of deliberation, long sessions of brainstorming by the Dean of Academics and the concerned committee, supplemented by remarks from the graduated batches, the new academic system came into action in 2013.
 ---
 As the semester approaches towards its inevitable end, the students can undoubtedly be found indulging themselves (read: filling last minute preferences after asking their BFFs about their choices) into the list of  in a plethora of institute electives offered by various departments, ranging from Humanities and Management to those by Maths and Earthquake. After months of deliberation, long sessions of brainstorming by the Dean of Academics and the concerned committee, supplemented by remarks from the graduated batches, the new academic system came into action in 2013. It must be noted that the change was introduced for the freshers batch of 2013-14. Through this article, Watch Out! intends to give the students of IITR an insight into the diversity and flexibility of the courses being offered by the institute, in case they happen to be in their sophomore year. In case you are a 3rd year student, you are welcome to share the pain of the editor of this article. 

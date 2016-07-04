@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inter IIT Aquatics meet
-tags: [wona, news]
+tags: [wona, news, sports]
 category: news
 excerpt: IITR's performance in Inter IIT Aquatics meet, 2013
 ---

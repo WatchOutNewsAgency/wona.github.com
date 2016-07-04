@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pheking News: Freemasonry at IITR"
+title: "Freemasonry at IITR"
 image: all-seeing-eye.jpg
 tags: [wona, column]
 category: phekingnews

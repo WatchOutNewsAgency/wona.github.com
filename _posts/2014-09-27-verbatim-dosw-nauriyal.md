@@ -1,7 +1,7 @@
 ---
 layout: post
-title: In conversation with Prof. D.K. Nauriyal, the DOSW IIT Roorkee
-tags: [wona, column, verbatim]
+title: In conversation with Prof. D.K. Nauriyal, DOSW IIT Roorkee
+tags: [wona, column]
 category: verbatim 
 ---
 

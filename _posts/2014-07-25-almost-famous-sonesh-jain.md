@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Almost Famous, Sonesh Jain
+title: Sonesh Jain
 tags: [wona, column]
 category: almostfamous
 ---

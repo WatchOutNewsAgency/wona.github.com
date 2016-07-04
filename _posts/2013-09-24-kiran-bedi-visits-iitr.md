@@ -2,7 +2,7 @@
 layout: post
 title: Kiran Bedi Visits IIT Roorkee
 image: news/kiranbedi.jpg
-tags: [wona, news]
+tags: [wona, news, cultural]
 category: news
 ---
 

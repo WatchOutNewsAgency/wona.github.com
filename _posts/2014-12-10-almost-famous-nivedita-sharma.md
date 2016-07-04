@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Almost Famous: Nivedita Sharma"
+title: Nivedita Sharma
 image: almostfamous/nivedita.jpg
 tags: [wona, column]
 category: almostfamous

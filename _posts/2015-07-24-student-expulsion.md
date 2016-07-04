@@ -1,8 +1,8 @@
 ---
 layout : post
-title : IITR- Students protest against expulsion
+title : IITR Students protest against expulsion
 image: protests.jpg
-tags: [wona, news]
+tags: [wona, news, acad]
 category: news
 excerpt: As the campus simmers with protests, lots of questions remain unanswered regarding the authenticity of the arguments put forth by the administration and the rationality of such harsh decisions. 
 ---

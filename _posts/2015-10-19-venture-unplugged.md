@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venture Unplugged
-tags: [wona, news]
+tags: [wona, news, cultural]
 category: news
 image: news/venture.jpg
 excerpt: On the first day of Thomso’15, The Entrepreneurial Development Cell (EDC) organised ‘Venture Unplugged’, a panel discussion with the who’s who of the entrepreneurial world. The audience primarily consisted of self-providing enthusiasts who themselves aspired to venture into business in later part of their life and were delighted to see these dignitaries on the stage.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Almost Famous, Capt. Nemo
+title: Capt. Nemo
 image: almostfamous/cover.jpg
 tags: [wona, column]
 category: almostfamous

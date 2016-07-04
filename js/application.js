@@ -6,3 +6,23 @@ $(function() {
     $(this).addClass(imgClass);
   })
 });
+
+function onYouTubeIframeAPIReady() {
+  $('.youtube-video').each(function() {
+    var id = $(this).data('id');
+
+    var player = new YT.Player('youtube-video-' + id, {
+      events: {
+        'onStateChange': onPlayerStateChange
+      }
+    });
+
+    function onPlayerStateChange(event) {
+      if(event.data === YT.PlayerState.ENDED || event.data === YT.PlayerState.PAUSED)
+        $('#youtube-title-' + id).show();
+      else
+        $('#youtube-title-' + id).hide();
+    }
+
+  });
+}

@@ -73,10 +73,10 @@ title: "Home"
           <div class="container">
             <div class="video-container center-both">
               <div class="embed-responsive embed-responsive-16by9">
-                <iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0" allowfullscreen></iframe>
+                <iframe class="youtube-video" id="youtube-video-{{ video.id }}" data-id="{{ video.id }}" src="https://www.youtube.com/embed/{{ video.id }}?enablejsapi=1" allowfullscreen></iframe>
               </div>
             </div>
-            <div class="carousel-caption">
+            <div class="carousel-caption" id="youtube-title-{{ video.id }}" data-id="{{ video.id }}">
               <h1>{{ video.title }}</h1>
             </div>
           </div>
@@ -97,4 +97,5 @@ title: "Home"
         <span
               class="sr-only">Next</span>
       </a>
+      <script type="text/javascript" src="https://www.youtube.com/iframe_api" async></script>
     </div><!-- /.carousel -->

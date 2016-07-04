@@ -323,6 +323,7 @@ body {
     z-index: 10;
     top: 50%;
     transform: translateY(-50%);
+    pointer-events: none;
     h1 {
       font-weight: bold;
       line-height: 0.98;
@@ -339,7 +340,8 @@ body {
 .carousel-inner{
 
   .video-container {
-    height: 90%;
+    width: 70%;
+    padding: 2%;
   }
 
   > .item > img {

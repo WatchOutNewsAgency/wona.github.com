@@ -102,8 +102,13 @@ body {
 
   &.affix {
     position: fixed;
-  }
+    background: rgba(0, 0, 0, .6);
 
+    &.darken {
+      background: rgba(0, 0, 0, 1);
+    }
+
+  }
 }
 
 
@@ -122,8 +127,8 @@ body {
   border: none;
   padding-top: 5px;
   font-weight: bold;
-  font-family: Merriweather;
-  font-size: 25px;
+  font-family: montserrat;
+  font-size: 14px;
   margin-bottom: 0px;
   border-bottom: 0px;
 
@@ -131,11 +136,8 @@ body {
     margin-top: 0.2em;
   }
 
-  .navbar-title {
+  .navbar-brand {
     text-transform: uppercase;
-    color: #ffffff;
-    line-height: normal;
-    padding-top: 5px;
   }
 
   .navbar-toggle {
@@ -152,7 +154,6 @@ body {
       display: inline-block;
       float: none;
       vertical-align: top;
-      font-size: 15px;
       text-transform: uppercase;
     }
 

@@ -7,6 +7,18 @@ $(function() {
   })
 });
 
+$(window).scroll(function() {
+  var scroll = $(window).scrollTop();
+  var fTop = $('#new-articles').position().top + $('#new-articles').height();
+  if (scroll >= fTop) {
+    $(".navbar-wrapper").addClass("darken");
+
+  } else {
+    $(".navbar-wrapper").removeClass("darken");
+
+  }
+});
+
 function onYouTubeIframeAPIReady() {
   $('.youtube-video').each(function() {
     var id = $(this).data('id');

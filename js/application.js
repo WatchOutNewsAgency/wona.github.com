@@ -5,18 +5,18 @@ $(function() {
     var imgClass = (this.width/this.height > parent.width()/parent.height()) ? 'wide' : 'tall';
     $(this).addClass(imgClass);
   })
-});
 
-$(window).scroll(function() {
-  var scroll = $(window).scrollTop();
-  var fTop = $('#new-articles').position().top + $('#new-articles').height();
-  if (scroll >= fTop) {
-    $(".navbar-wrapper").addClass("darken");
+  var switchPos = $('#new-articles').position().top + $('#new-articles').height();
 
-  } else {
-    $(".navbar-wrapper").removeClass("darken");
+  $(window).scroll(function() {
+    var scroll = $(window).scrollTop();
+    if (scroll >= switchPos) {
+      $(".navbar-wrapper").addClass("darken");
 
-  }
+    } else {
+      $(".navbar-wrapper").removeClass("darken");
+    }
+  });
 });
 
 function onYouTubeIframeAPIReady() {

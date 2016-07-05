@@ -93,11 +93,17 @@ body {
 // ================ NAV ================//
 
 .navbar-wrapper {
-  position: absolute;
+  position: relative;
   top: 0;
   right: 0;
   left: 0;
   z-index: 20;
+  background: black;
+
+  &.affix {
+    position: fixed;
+  }
+
 }
 
 
@@ -113,10 +119,24 @@ body {
 
 .navbar {
   background: transparent;
-  @include gradient-vertical($start-color: rgba(0,0,0,.4), $end-color: rgba(0,0,0,.0001));
   border: none;
   padding-top: 5px;
   font-weight: bold;
+  font-family: Merriweather;
+  font-size: 25px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+
+  .navbar-header {
+    margin-top: 0.2em;
+  }
+
+  .navbar-title {
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: normal;
+    padding-top: 5px;
+  }
 
   .navbar-toggle {
     margin-top: 10px;

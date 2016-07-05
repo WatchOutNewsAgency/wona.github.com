@@ -2,7 +2,7 @@
 layout: post
 title: IITR mourns Dr. Kalam's demise
 tags: [wona, news]
-category: news
+category: cultural
 image: news/kalam.jpg
 ---
 IIT Roorkee students’ fraternity mourns the unfortunate demise of Dr. APJ Abdul Kalam.

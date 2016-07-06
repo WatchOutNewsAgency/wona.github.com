@@ -2,7 +2,7 @@
 layout: post
 title: IIT Roorkee revokes mass expulsion
 tags: [wona, news, acad]
-category: acads
+category: academics
 image: news/revoking-notice.png
 excerpt: The IIT Roorkee administration decided to revoke the expulsion of 72 students from the institute.
 ---

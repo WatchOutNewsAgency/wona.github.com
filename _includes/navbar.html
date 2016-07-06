@@ -22,8 +22,8 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.name | uppercase }} <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   {% for subcat in cat.subcategories %}
-                   {% if site.categories[subcat] != nil %}
-                    <li><a href="/category/{{ subcat }}/">{{ subcat | uppercase }}</a></li>
+                   {% if site.categories[subcat.name] != nil %}
+                    <li><a href="/category/{{ subcat.name }}/">{{ subcat.title | uppercase }}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>

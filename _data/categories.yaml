@@ -1,22 +1,29 @@
 ---
-- name: news
+- name: acads
   subcategories:
-    - acads
-    - sports
-    - cultural
-    - tech
-    - sac
-    - phekingnews
+- name: cultural
+  subcategories:
+- name: tech
+  subcategories:
+- name: sac
+  subcategories:
 - name: columns
   subcategories:
-    - coverstory
-    - bigstory
-    - editorial
-    - almostfamous
-    - guestcomentary
+    - name: coverstory
+      title: Cover Story
+    - name: bigstory
+      title: Big Story
+    - name: almostfamous
+      title: Almost Famous
+    - name: phekingnews
+      title: Pheking News
+    - name: guestcomentary
+      title: Guest Comentary
+- name: editorial
+  title: Editorial
 - name: verbatim
   subcategories:
 - name: career
   subcategories:
-- name: archives 
+- name: sports
   subcategories:

@@ -2,7 +2,7 @@
 layout: post
 title: The Story of Bookshelf
 tags: [edc]
-category: editorial
+category: career
 image: edc/bookshelf.jpg
 ---
 

@@ -432,6 +432,7 @@ a {
 	&:hover{
 		color: #2c45cc;
 		border-bottom: 1px solid #2c45cc;
+    text-decoration: none;
 		@include transition(all, 0.2s, ease-in);
 	}
 }

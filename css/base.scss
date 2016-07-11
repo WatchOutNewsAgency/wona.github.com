@@ -3,6 +3,7 @@
 
 // ================ VARS ===============//
 
+$font-color: #2b2b2b;
 $navbar-default-link-color: white;
 $navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
 $navbar-default-link-hover-color: darken($navbar-default-link-color, 35%);
@@ -80,7 +81,7 @@ $carousel-height: 625px;
 
 body {
 	font-size: 13px;
-	color: #081522;
+	color: $font-color;
 	background: #fff;
 	@include box-sizing();
 }
@@ -258,7 +259,7 @@ body {
     width: $new-article-img-width;
     height: $new-article-img-height;
     border-radius: 1%;
-    box-shadow: 0 0 15px;
+    box-shadow: 0 0 15px 0 rgba(0,0,0, 0.5);
   }
 
   .details {
@@ -295,11 +296,26 @@ body {
 }
 
 #featured-articles {
+  color: lighten($font-color, 10%);
+
   .article-cover-container {
     width: $article-cover-img-width;
     height: $article-cover-img-height;
-    box-shadow: 0px 35px 40px -20px;
+    box-shadow: 0px 35px 40px -20px rgba(0,0,0, 0.5);
   }
+
+  a {
+      &:hover{
+      color: darken($font-color, 10%);
+      text-decoration: none;
+      @include transition(all, 0.2s, ease-in);
+
+      .details {
+        box-shadow: -3px -3px 15px 0 rgba(0,0,0,0.25);
+      }
+    }
+  }
+
 
   .article-container {
     margin-bottom: 10px + 0.1 * $article-cover-img-height;

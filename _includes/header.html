@@ -7,9 +7,11 @@
   {% if post.image != nil %}
   <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt=""></div>
   {% endif %}
+  {% unless page.is_post == true %}
   <div class="cover center-both text-center">
    <a  href="{{ post.url }}" class="cover-link"> <h1 class="title">{{ post.title }}</h1></a>
   </div>
+   {% endunless %}
 
   <div class="left">
   {% if page.is_post and post.next %}

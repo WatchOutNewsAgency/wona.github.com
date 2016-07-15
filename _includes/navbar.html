@@ -19,17 +19,17 @@
             {% for cat in site.data.categories %}
               {% if cat.subcategories != nil %}
               <li class = "dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.name | uppercase }} <span class="caret"></span></a>
+                <a class="hover-underline" href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.name | uppercase }} <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   {% for subcat in cat.subcategories %}
                    {% if site.categories[subcat.name] != nil %}
-                    <li><a href="/category/{{ subcat.name }}/">{{ subcat.title | uppercase }}</a></li>
+                    <li><a class="hover-underline" href="/category/{{ subcat.name }}/">{{ subcat.title | uppercase }}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
               </li>
               {% elsif  site.categories[cat.name] != nil%}
-              <li><a href="/category/{{ cat.name }}/">{{ cat.name | uppercase }}</a></li>
+              <li><a class="hover-underline" href="/category/{{ cat.name }}/">{{ cat.name | uppercase }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>

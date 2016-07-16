@@ -44,7 +44,7 @@ title: "Home"
                       <img src="/images/posts/{{ post.image }}" class="img-center-fill {% if post.image == null %}hidden{% endif %}">
                     </div>
                   <div class="details text-center">
-                    <span class="tag">{{ post.category }}</span>
+                    <div class="tag">{{ post.category }}</div>
                     <h3 class="title">{{ post.title }}</h3>
                     <p class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify | truncate: 75 }}{% endif %}</p>
                   </div>

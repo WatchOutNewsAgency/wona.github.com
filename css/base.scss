@@ -3,10 +3,11 @@
 
 // ================ VARS ===============//
 
-$font-color: #2b2b2b;
+$font-color: #333;
 $navbar-default-link-color: white;
 $navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
 $navbar-default-link-hover-color: $navbar-default-link-color;
+$dropdown-link-hover-color: $navbar-default-link-color;
 $home-header-bg-color: #333;
 $new-article-img-height: 150px;
 $new-article-img-width: 225px;
@@ -343,7 +344,6 @@ body {
     }
   }
 
-
   .article-container {
     margin-bottom: 10px + 0.1 * $article-cover-img-height;
 
@@ -361,12 +361,14 @@ body {
         position: absolute;
         top:0;
         left: 50%;
-        transform: translate(-50%,-100%); 
-        text-transform: capitalize;
+        transform: translate(-50%,-75%); 
+        text-transform: uppercase;
         font-weight: bold;
-        font-size: 16px;
+        font-size: 1.1em;
         color: #ffffff;
-        text-shadow: 4px 4px 10px black;
+        background-color: rgba(146, 204, 102, 0.85);
+        padding: 0.5em 1em;
+        opacity: 0.9;
       }
 
       .title {
@@ -376,7 +378,6 @@ body {
       &:before {
         content: " ";
         display: table;
-
       }
 
     }

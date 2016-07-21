@@ -2,7 +2,7 @@
 layout: post
 title: EDC Alumni Interactive Session
 tags: [edc]
-category: editorial
+category: career
 image: edc/alumni_talk.jpg
 ---
 

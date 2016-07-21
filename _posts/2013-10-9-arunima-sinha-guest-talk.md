@@ -2,7 +2,7 @@
 layout: post
 title: Arunima Sinha's Guest Talk
 tags: [wona, news, cultural]
-category: news
+category: cultural
 image: news/arunimasinha.jpg
 ---
 It is very easy to lose touch with the real world during our stay in the campus of R. Protected from the negative elements of real world, behind the walls of a national institute, many tend to forget about the evils still existing in the Indian society.

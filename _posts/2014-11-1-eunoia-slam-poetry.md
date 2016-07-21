@@ -3,7 +3,7 @@ layout: post
 title: "EUNOIA: Slam Poetry at Thomso 2014"
 excerpt:  “And now I write poems with spaces between them. Spaces, which I never intend to fill.” 
 tags: [wona, column, cultural]
-category: news
+category: cultural
 ---
 
  “And now I write poems with spaces between them. Spaces, which I never intend to fill.”

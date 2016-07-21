@@ -3,7 +3,7 @@ layout: post
 title: Kiran Bedi Visits IIT Roorkee
 image: news/kiranbedi.jpg
 tags: [wona, news, cultural]
-category: news
+category: cultural
 ---
 
 >I am simply an instrument. I don’t know what the design of this nature is, but I thank God for making me what I am today. -Dr. Kiran Bedi, on her achievements.

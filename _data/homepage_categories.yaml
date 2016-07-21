@@ -1,7 +1,14 @@
 ---
-- phekingnews 
-- editorial
-- coverstory
+featured_articles:
 - bigstory
-- verbatim
+- editorial
 - almostfamous
+- phekingnews
+- verbatim
+- tech
+
+new_articles:
+- academics
+- sac
+- career
+- cultural

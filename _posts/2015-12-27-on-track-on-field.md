@@ -3,7 +3,7 @@ layout: post
 title: "On track, on field"
 tags: [wona, news, sports]
 image: on-track-on-field.jpg
-category: news
+category: sports
 excerpt: Watch Out News Agency, in a talk with Kuber Dutt Sharma, GS Sports, attempted to analyse the plans of the Sports Council following the cancellation of the meet, the performance of IIT-R contingent at the Inter IIT aquatics meet, and probe into some lesser known behind-the-scenes facts about the Sports division.
 ---
 The cancellation of the inter IIT sports meet, scheduled to be held from 14th to 21st December at IIT Madras, 

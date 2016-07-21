@@ -117,12 +117,13 @@ body {
 
 .navbar-logo {
   @media (min-width: $screen-sm-min) {
-    height: 6.5em;
+    height: 2.5em;
+    padding: .5em;
   }
   @media (max-width: $screen-xs-max) {
-    height: 5.5em;
+    height: 2.5em;
+    padding: .5em;
   }
-  padding: .5em;
 }
 
 .navbar {
@@ -568,6 +569,10 @@ footer {
   height: 65px;
   font-weight: normal;
   color: #ffffff;
+
+  a:hover {
+    color: #ddd;
+  }
 }
 
 // ============== /FOOTER ============== //

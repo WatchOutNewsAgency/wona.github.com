@@ -95,11 +95,12 @@ body {
 // ================ NAV ================//
 
 .navbar-wrapper {
-  position: relative;
+  position: absolute;
   top: 0;
   right: 0;
   left: 0;
   z-index: 20;
+  transition: background-color 1s ease-in;
   background: black;
 
   &.affix {

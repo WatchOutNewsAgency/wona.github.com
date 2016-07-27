@@ -2,7 +2,8 @@
 layout: post
 title: "OF PACTS AND FACTS #2 - THE STRUCTURE"
 tags: [wona, column]
-category: editorial
+category: sac
+image: sac.jpg
 excerpt: In this piece, the second of a series, Watch Out! takes a look at the reasons behind this perception and at the reforms which have been announced to how the junta elects its representatives.
 ---
 What is the SAC? How does it function, and who are its representatives? Beyond a few fuzzy beliefs, an unnervingly large section of the student population has little, if any answer to these questions. There is a temptation to blame many of the issues associated with the SAC on so-called “poly” and a flawed election system, an assumption which does hold true, but only partially in light of the actual powers of the SAC.  

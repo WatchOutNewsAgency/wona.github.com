@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trail And Error
+title: Trial And Error
 image: mac-front.JPG
 tags: [wona, column]
 category: bigstory 

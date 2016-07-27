@@ -54,27 +54,6 @@ $carousel-height: 625px;
 // ============== /MIXINS ============== //
 
 @font-face {
-  font-family: 'AvenirNext';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Avenir Next'), local('Avenir Next'), url(/fonts/avenirnext-thin.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'AvenirNext';
-  font-style: normal;
-  font-weight: 500;
-  src: local('Avenir Next'), local('Avenir Next'), url(/fonts/avenirnext-regular.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'AvenirNext';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Avenir Next Bold'), local('Avenir Next Bold'), url(/fonts/avenirnext-bold.woff) format('woff');
-}
-
-@font-face {
   font-family: 'Merriweather';
   font-style: normal;
   src: local('Merriweather'), local('Merriweather Regular'), url(/fonts/Merriweather-Regular.ttf) format('woff');
@@ -102,16 +81,29 @@ body {
   z-index: 20;
   transition: background-color 1s ease-in;
   background: black;
+  background: rgba(45, 44, 40, 0.6);
 
   &.affix {
     position: fixed;
-    background: rgba(45, 44, 40, 0.6);
-
-    &.darken {
-      background: rgba(45, 44, 40, 1);
-    }
-
   }
+
+  -webkit-transition-duration: .5s;
+  transition-duration: .5s;
+
+  -webkit-transition-timing-function: cubic-bezier( 0.215, 0.610, 0.355, 1.000  );
+  transition-timing-function: cubic-bezier( 0.215, 0.610, 0.355, 1.000  );
+
+
+  -webkit-transition-property: -webkit-transform;
+  transition-property: transform;
+}
+
+.navbar--hidden
+{
+  -webkit-transform: translateY( -100%  );
+  -ms-transform: translateY( -100%  );
+  transform: translateY( -100%  );
+
 }
 
 
@@ -131,7 +123,7 @@ body {
   border: none;
   padding-top: 5px;
   font-weight: bold;
-  font-family: montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   margin-bottom: 0px;
   border-bottom: 0px;
@@ -207,7 +199,6 @@ body {
   }
 
   .title {
-    font-family: Merriweather;
     font-size: 42px;
     font-weight: bold;
     color: #ffffff;
@@ -297,13 +288,13 @@ body {
     .title {
       color: $new-article-title-color;
       text-transform: capitalize;
+      font-family: 'Montserrat', sans-serif;
       font-size: 20px;
       margin-top: 10px;
     }
 
     .tag {
       text-transform: uppercase;
-      font-family: AvenirNext;
       font-size: 14px;
       color: $new-article-tag-color;
     }
@@ -357,7 +348,8 @@ body {
       background: $featured-articles-bg-color;
       width: 0.9 * $article-cover-img-width; ;
       height: 120px;
-      padding-bottom: .5em;
+      font-size: 0.95em;
+      padding: 0 1em 0.5em;
 
       .tag {
         position: absolute;
@@ -375,6 +367,7 @@ body {
 
       .title {
         font-size: 1.85em;
+        font-family: 'Montserrat', sans-serif;
       }
 
       &:before {
@@ -527,7 +520,6 @@ blockquote {
 	font-size: 1.1em;
 	line-height: 1.5em;
 	color: #333332;
-  font-family: AvenirNext;
 
   .content {
     margin-top: 2em;

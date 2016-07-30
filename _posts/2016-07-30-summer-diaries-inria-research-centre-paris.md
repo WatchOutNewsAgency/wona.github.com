@@ -32,6 +32,7 @@ From my personal experience there are two things that matter the most in your ap
 
 ![Inria center, Paris](/images/posts/inria-paris.png)
 *The place: Inria Research Centre, Saclay, Paris*
+{: style="text-align: center"}
 
 ### Work:
 
@@ -44,8 +45,9 @@ Talking about the working culture of the team, there was an optimum balance betw
 
 ### What’s to love about the place?
 
-<img alt="Shashank Anand pencil sketch" src="/images/posts/shashank-anand.jpg" style="height: 500px;">
+![Shashank Anand pencil sketch](/images/posts/shashank-anand.jpg){: style="height: 500px;"}
 *Return gift from one of my friends, for a wholesome meal of daal*
+{: style="text-align: center"}
 
 * __Weekends in Paris__  
 I was lucky to get an internship in the city of lights, Paris. I spent my three weeks exploring Paris which is not enough to explore this alluring place. One weekend, I prepared typical Indian daal for my French friends and they loved it. One of my really good friends Florent, who was also my lab mate, made a sketch of mine as a return gift.    

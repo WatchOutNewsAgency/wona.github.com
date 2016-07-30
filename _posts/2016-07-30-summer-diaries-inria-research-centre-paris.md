@@ -12,7 +12,7 @@ _Shashank Anand is a 4th year student in the Department of Civil Engineering. Re
 Having secured a decent CGPA and after getting a positive reply from Germany, I decided to apply for the venerated DAAD Scholarship. However, thanks to my dreadful luck, I could not apply for it as my mentor decided to move to USA in October end and I was left with no other options.  
 Unbowed, unbent and unbroken, I started looking for other opportunities and came across the Charpak Internship Program for France. Subsequently, I sent applications for an internship position.
 
-I got a positive reply from the POEMS team (INRIA Research Centre, Saclay) and applied for Charpak Research Internship Program 2016. (P.S. - For all the details about the programme, visit this link, [http://www.inde.campusfrance.org/en/page/charpak-research-internship-program](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program)). This program is really competitive unlike Daad Scholarship Program for Germany. I was one of the 25 students from all over India to be awarded this Scholarship by the French Embassy.
+I got a positive reply from the POEMS team (INRIA Research Centre, Saclay) and applied for Charpak Research Internship Program 2016. (For all the details about the programme, visit this link, [http://www.inde.campusfrance.org/en/page/charpak-research-internship-program](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program)). This program is really competitive unlike Daad Scholarship Program for Germany. I was one of the 25 students from all over India to be awarded this Scholarship by the French Embassy.
 
 I was getting paid by my lab as well as the Charpak Scholarship Programme. All the important arrangements were taken care of by Campus-France team (an enterprise responsible for promoting French higher education).
 
@@ -52,13 +52,13 @@ Talking about the working culture of the team, there was an optimum balance betw
 * __Weekends in Paris__  
 I was lucky to get an internship in the city of lights, Paris. I spent my three weeks exploring Paris which is not enough to explore this alluring place. One weekend, I prepared typical Indian daal for my French friends and they loved it. One of my really good friends Florent, who was also my lab mate, made a sketch of mine as a return gift.    
 Walking through the streets of Paris was an unparalleled experience. Just wandering through the city is entertaining full with resplendent insights into the history, art and romance of the place.  
-Fortunately, I visited Paris during Euro Cup tournament. The ambience on the streets of Paris during the match of France in Euro Cup was nonpareil. After the historic win of France over Germany, people went crazy and then I realised that one could feel the heat of an India vs. Pakistan cricket match even in France. Everyone was celebrating as if they had won the tournament. I got to see the final match in the fan zone in front of Eiffel Tower. Unfortunately France lost to Brazil and after the match you could see the France supporters walking like zombies across the streets.  
+Fortunately, I visited Paris during Euro Cup tournament. The ambience on the streets of Paris during the match of France in Euro Cup was nonpareil. After the historic win of France over Germany, people went crazy and then I realised that one could feel the heat of an India vs. Pakistan cricket match even in France. Everyone was celebrating as if they had won the tournament. I got to see the final match in the fan zone in front of Eiffel Tower. Unfortunately, France lost to Portugal and after the match you could see the France supporters walking like zombies across the streets.  
       
 * __Travelling around__  
 Being a travel buff, I had some special plans for spending my weekends. Summer is the best time in Europe to travel. I visited different places like Saint Michaels, Marseilles, Rennes, Bruges, Brussels, and Amsterdam etc. You can also go for some adventurous sports like hiking in Calanque in Southern France which was awesome. 
 
 * __People and Food__  
-People are really helpful in Europe. So you will not find any problem. Yes, you need to be a bit careful but there is nothing to be scared of.  Personally, I loved the French food (P.S. Non-vegetarian). I tried different kind of meal, cookies, chocolates, and drinks. While travelling I preferred to stay with the locals rather than in hotels. You get to know their lifestyle and typical local food which in itself is a unique experience.
+People are really helpful in Europe. So you will not find any problem. Yes, you need to be a bit careful but there is nothing to be scared of.  Personally, I loved the French food. I tried different kind of meal, cookies, chocolates, and drinks. While travelling I preferred to stay with the locals rather than in hotels. You get to know their lifestyle and typical local food which in itself is a unique experience.
 
 ### Takeaways: 
 

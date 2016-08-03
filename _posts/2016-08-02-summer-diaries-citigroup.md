@@ -28,7 +28,7 @@ As far as the workload is concerned, it is not really taxing. You might even fee
 to work except on fridays. 
 
 
-![Citigroup office](/images/posts/citi-2.png){: style="width: 45%;"}
+![Citigroup office](/images/posts/citi-3.png){: style="width: 45%;"}
 *The workplace*
 {: style="text-align: center"}
 
@@ -42,7 +42,7 @@ The office is located at Pune’s most beautiful IT park, other giants around ci
 
 Pune offers you all the luxuries of a metropolitan while subtly maintaining its rustic feel. Depending on how you like to spend your evenings, the city has everything on display, be it nightlife or just a pleasant walk around the park. Locals say that if you drive towards any direction for about 50 kilometers you are bound to find yourself amidst hills. 
 
-![Outing](/images/posts/citi-3.png){: style="width: 45%;"}
+![Outing](/images/posts/citi-2.png){: style="width: 45%;"}
 *Kyunki second saturday bank holiday hota hai*
 {: style="text-align: center"}
 

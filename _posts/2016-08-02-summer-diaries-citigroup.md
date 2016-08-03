@@ -33,7 +33,11 @@ to work except on fridays.
 {: style="text-align: center"}
 
 
-You are basically assigned a project that you have to complete and present it during the final week of your intern. All of the interns have generally their own independent projects in different teams. The workspace given to you is equipped with dual monitors and a desk phone. Since all the interns are in different teams, you might not even see some of them regularly. The company offers a lot of perks at workplace. There are numerous coffee/tea and vending machine across the floor,
+You are basically assigned a project that you have to complete and present it during the final week of your intern. All of the interns have generally their own independent projects in different teams. As a part of the CIB (Corporate Investment Banking) team, I had to deal with the Investment Bankers who were part of Citi Offices over the world and develop software as per their requirements. I was able to complete three different projects during my time there. One of them involved
+automating the process of rollback, backup and network filecopy while deployment of applications by other developers. The project was immediately pushed to production and became popular with all the developers within no time, by the time I left it was being used by over a hundred applications. Another project that I worked on was to parse SQL stored procedures before sending them to deployment, the parser I developed was written in Groovy which is a Java framework. During the
+intern I got experience with working with shell scripting, Java, .NET MVC, Angular.js and several other technologies are being used in the industry currently.
+
+The workspace given to you is equipped with dual monitors and a desk phone. Since all the interns are in different teams, you might not even see some of them regularly. The company offers a lot of perks at workplace. There are numerous coffee/tea and vending machine across the floor,
 these are also accompanied by foosball tables and carrom boards. 
 
 The office is located at Pune’s most beautiful IT park, other giants around citi are Barclays, Symantec, Vodafone, Credit Suisse etc. Every cluster in the IT park has its own huge cafeteria with vendors like Subway, Dominos etc. Believe me, out of all the things, you won’t get bored of the food. 

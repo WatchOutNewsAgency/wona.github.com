@@ -18,8 +18,8 @@ title: "Watch Out!, IIT Roorkee"
               </div>
             </div>
             <div class="details text-center ">
-              <h3 class="title">{{ post.title }}</h3>
               <p class="tag">{{ post.category }}</p>
+              <h3 class="title">{{ post.title }}</h3>
             </div>
           </a>
         </div>
@@ -76,6 +76,7 @@ title: "Watch Out!, IIT Roorkee"
       <div class="carousel-inner" role="listbox">
         {% for video in site.data.youtube %}
         <div class="item {% if forloop.first %}active{% endif %}">
+          <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="http://img.youtube.com/vi/{{ video.id }}/hqdefault.jpg" alt=""></div>
           <div class="container">
             <div class="video-container center-both">
               <div class="embed-responsive embed-responsive-16by9">

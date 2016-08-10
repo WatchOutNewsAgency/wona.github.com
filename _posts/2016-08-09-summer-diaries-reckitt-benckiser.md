@@ -34,8 +34,6 @@ Work Culture: As one of my co-interns very aptly put it during one of the team m
 
 ### Location
 
-![people](/images/posts/reckitt-2.jpg){: style="width: 35%;"}
-
 There are only two things you need to know about Gurgaon, Cyber Hub and the Sector 29 market. Oh and there is this wonderful market behind sector 29 which has some amazing food trucks. Aaand unlike Delhi, pubs in Gurgaon can sell freshly brewed material! 
 
 ### Summing Up

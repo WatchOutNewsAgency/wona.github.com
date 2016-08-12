@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Summer Diaries: Schlumberger"
+title: "Summer Diaries: Schlumberger, Mumbai"
 image: schlumberger.jpg
 tags: [wona, column]
 category: career 
 ---
 
-_Akanksha Patel is a 5th year student in the Department of Electronics and Communications. Read on as she recounts her experience of working with Schlumberger,Mumbai during the summers of 2016._
+_Akanksha Patel is a 5th year student in the Department of Electronics and Communications. Read on as she recounts her experience of working with Schlumberger, Mumbai during the summers of 2016._
 
 ### Making it there
  

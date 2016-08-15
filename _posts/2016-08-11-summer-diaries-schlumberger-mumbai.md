@@ -21,7 +21,7 @@ For personal interviews, there’s one thing that Schlumberger does differently 
  
 <b>Aim of the internship:</b> The aim of the internship was to get us acquainted with the work of a field engineer. Since mine was not a field job, I did not get a chance to actually see the work done by a wireline engineer but I did get a feel of it by interacting with the engineers of the firm.
  
-<b>Day to day work:</b> Our first few days of the intern went in knowing about the base and earning about the different labs that the segment had. By the end of the week we were assigned our intern projects and we majorly worked on that for the next 3 weeks. Apart from the projects, Schlumberger has introduced a new online learning system known as the e-mentor. It has full 4 week study material and task sheets that were supposed to be done alongside the project.
+<b>Day to day work:</b> Our first few days of the intern went in knowing about the base and learning about the different labs that the segment had. By the end of the week we were assigned our intern projects and we majorly worked on that for the next 3 weeks. Apart from the projects, Schlumberger has introduced a new online learning system known as the e-mentor. It has full 4 week study material and task sheets that were supposed to be done alongside the project.
 
 ![work](/images/posts/schlumberger-1.png){: style="width: 30%;"}
 

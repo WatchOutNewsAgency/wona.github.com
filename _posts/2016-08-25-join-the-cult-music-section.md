@@ -4,8 +4,9 @@ title: "Join The Cult: Music Section"
 image: music-section.jpg
 tags: [wona,column]
 category: cultural
-excerpt: The Music Section, IIT Roorkee has a reputation of delivering wondrous performances catering wide ranging tastes along with fostering a camaraderie to envy. Read on as Sahil Lamba talks about his experience with the section, how it refines your art and that unforgettable time the crowd cheered his name to which he smiled and gave his sticks a spin.
 ---
+
+_The Music Section, IIT Roorkee has a reputation of delivering wondrous performances catering wide ranging tastes along with a fostering a camaraderie to envy. Read on as Sahil Lamba, the current secretary of the Music Section, talks about his experience with the section, how it refines your art and that unforgettable time the crowd cheered his name to which he smiled and gave his sticks a spin._
 
 ### Who was your first crush on campus?
 

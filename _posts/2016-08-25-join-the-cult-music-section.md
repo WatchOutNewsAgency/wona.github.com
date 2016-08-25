@@ -6,7 +6,7 @@ tags: [wona,column]
 category: cultural
 ---
 
-_The Music Section, IIT Roorkee has a reputation of delivering wondrous performances catering wide ranging tastes along with a fostering a camaraderie to envy. Read on as Sahil Lamba, the current secretary of the Music Section, talks about his experience with the section, how it refines your art and that unforgettable time the crowd cheered his name to which he smiled and gave his sticks a spin._
+_The Music Section, IIT Roorkee has a reputation of delivering wondrous performances catering wide ranging tastes along with fostering a camaraderie to envy. Read on as Sahil Lamba, the current secretary of the Music Section, talks about his experience with the section, how it refines your art and that unforgettable time the crowd cheered his name to which he smiled and gave his sticks a spin._
 
 ### Who was your first crush on campus?
 

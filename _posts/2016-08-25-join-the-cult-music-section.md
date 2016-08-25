@@ -8,10 +8,6 @@ category: cultural
 
 _The Music Section, IIT Roorkee has a reputation of delivering wondrous performances catering wide ranging tastes along with fostering a camaraderie to envy. Read on as Sahil Lamba, the current secretary of the Music Section, talks about his experience with the section, how it refines your art and that unforgettable time the crowd cheered his name to which he smiled and gave his sticks a spin._
 
-### Who was your first crush on campus?
-
-I don't know if I should do this or not. She was the Additional Secretary of the section when I joined, and I first met her in my introductory meeting after the recruitments. She was in her 4th year and fortunately was part of a five­ year course, so I got to spend a good 2 years practising alongside her. She is primarily a vocalist but can also play the guitar even though she has the fattest fingers in the whole world.
-
 ### What is the best part of being in the Music Section of IITR? 
 
 I feel that people listen to very limited genres of music and being a part of the section changes that the most. You meet people who are into different kinds of music; Indian Classical, <b>Ragas</b> and <b>Qawwalis</b>, Bollywood (yes, there's some good music here too), Folk Pop, Blues, Jazz (and Fusion), Psychedelic, Progressive and you start listening to all kinds of stuff. You have access to frets almost all the time and when you try to tap your way across the fingerboard, you start learning about music theory, scales, and keeping up with time signatures. Listening to so much at once trains your ears to focus on distinct elements in harmonies and various techniques utilised in a piece. You learn the art of improvisation and jam with people who have different approaches to music. It’s a great and fun learning experience with some of the most talented people you’ll ever meet.
@@ -57,6 +53,10 @@ The group has grown a lot over the years. The level of each and every performanc
 ### Can you tell us more about the Friends of Section initiative?
 
 Friends of Section (FOS) was started by our secretary last year to provide a platform to students who are not part of the section but are confident enough to perform live in front of an audience. We have auditions to shortlist students for an FOS show although the expectations are somewhat lower than our section recruitments. We practice for our section shows and parallelly train and guide the FOS students for about 2­-3 weeks, provide them with our instruments, audio equipment and a stage to showcase their talents. We plan to have one FOS show in every semester with the initiative to uplift the music culture in the campus.
+
+### Who was your first crush on campus?
+
+I don't know if I should do this or not. She was the Additional Secretary of the section when I joined, and I first met her in my introductory meeting after the recruitments. She was in her 4th year and fortunately was part of a five­ year course, so I got to spend a good 2 years practising alongside her. She is primarily a vocalist but can also play the guitar even though she has the fattest fingers in the whole world.
 
 ### Three words to describe yourself. 
 

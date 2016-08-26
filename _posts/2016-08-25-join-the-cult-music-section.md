@@ -54,7 +54,7 @@ The group has grown a lot over the years. The level of each and every performanc
 
 Friends of Section (FOS) was started by our secretary last year to provide a platform to students who are not part of the section but are confident enough to perform live in front of an audience. We have auditions to shortlist students for an FOS show although the expectations are somewhat lower than our section recruitments. We practice for our section shows and parallelly train and guide the FOS students for about 2­-3 weeks, provide them with our instruments, audio equipment and a stage to showcase their talents. We plan to have one FOS show in every semester with the initiative to uplift the music culture in the campus.
 
-#### <b>Who was your first crush on campus?</b>
+#### <b>Obligatory question, your first crush on campus?</b>
 
 I don't know if I should do this or not. She was the Additional Secretary of the section when I joined, and I first met her in my introductory meeting after the recruitments. She was in her 4th year and fortunately was part of a five­ year course, so I got to spend a good 2 years practising alongside her. She is primarily a vocalist but can also play the guitar even though she has the fattest fingers in the whole world.
 

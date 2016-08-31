@@ -8,7 +8,7 @@ excerpt: The pre-existing power has been broken down to pieces and redistributed
 ---
 In the third and the last of the series, ‘Of Pacts and Facts’, Watch Out! scrutinizes the reforms and its repercussions at a microscopic level.
 
-###RESPONSIBILITIES REDEFINED
+### RESPONSIBILITIES REDEFINED
 
 The spirit of the reforms can be encapsulated in a single phrase – Task specificity.
 
@@ -20,7 +20,7 @@ The removal of the vaguely demarcated, all-encompassing posts of the past and in
 
 The clear definition of the responsibilities each post entails and the increased emphasis on set manifestos will also lead to higher accountability and lesser shirking of responsibility among the elected members.
 
-###OF PACTS AND FACTS
+### OF PACTS AND FACTS
 
 In a candid chat with WatchOut!, D.K. Nauriyal,  Dean of Student Welfare, admits that huge regional influences and cases of intimidation among the students were prime motivators to initiate changes in the election process.  
 
@@ -41,7 +41,7 @@ And indeed, even after the reforms, factionalism has reared its ugly head yet ag
 
 The nagging presence of regionalism also threatens the possibility of a divided SAC. A core committee comprised of candidates with different political affiliations and divergent agendas is a realistic possibility. This might, however, turn out to be a blessing in disguise. If channelized properly, this can lead to constructive discussions and progressive decisions.
 
-###THE CHAOS IN THE CAMPAIGN
+### THE CHAOS IN THE CAMPAIGN
 
 This election, the first of its kind, is unprecedented in terms of numbers. The electorate consists of a whopping 8000 for the institute level posts. Every candidate is expected to reach out to the entire campus within a span of a single week. That boils down to a 1000 people a day.  
 
@@ -64,7 +64,7 @@ This also tilts the balance unduly in favour of the boys. With the curfew and re
 In IIT KGP and IITB where similar systems of elections are followed, central debates for every post are conducted right before the elections; a common platform within the span of a single evening where all the candidates are allowed to appear on stage, address the audience and be questioned. In addition to this, student media bodies in other IITs are allowed a fair amount of leeway to function, to fulfill the role of media in a full fledged democracy.
 
 
-###IS STUDENT REPRESENTATION A MYTH?
+### IS STUDENT REPRESENTATION A MYTH?
 
 Democracy, in essence, is about empowering the masses. It is about shifting power to the people. In a true democracy, the decisions are made by the masses. Their representatives act as the medium to effect these decisions.  
 
@@ -86,7 +86,7 @@ On being asked about the same, Vamshi Chowdary, ex president of SAC, offers a ra
 
 This regularly exhibits itself in the form of decisions taken without adequate consultation with those they affect. Case in point, the recent expulsion fiasco, where the SAC, like the rest of the campus, was reduced to a mere spectator.
 
-###ASSUMPTIONS AND APPREHENSIONS
+### ASSUMPTIONS AND APPREHENSIONS
 
 Everything we knew about the elections has changed and this is no man’s land now. The focus of the reforms has been on increasing the power of the ballot. But we have identified more than a few grey areas.  
 

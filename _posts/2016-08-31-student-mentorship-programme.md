@@ -2,7 +2,7 @@
 layout: post
 title: "Student Mentorship Programme: A new hope"
 tags: [wona, news, sac]
-image: main-building.jpg
+image: smp.jpeg
 category: sac
 ---
 

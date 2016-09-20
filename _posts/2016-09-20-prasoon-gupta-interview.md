@@ -45,4 +45,4 @@ People have started hearing about IITR entrepreneurship, which never happened be
 
 __WONA: Any campus memories you would like to share with us?__
 
-__Prasoon__: Yeah. I have an indirect connection with Watch Out! too. When I was a first-year student, there was only one group that I wanted to get into, that was Watch Out. I used to love writing. Unfortunately, I couldn’t get in. In my 3rd year, I was the convener of Thomso and you guys did a nice coverage and in my final semester here, I featured in the "Almost Famous" article in your magazine. I love the kind of fun writing you guys do.
+__Prasoon__: Yeah. I have an indirect connection with Watch Out! too. When I was a first-year student, there was only one group that I wanted to get into, that was Watch Out!. I used to love writing. Unfortunately, I couldn’t get in. In my 3rd year, I was the convener of Thomso and you guys did a nice coverage and in my final semester here, I featured in the [Almost Famous](https://captnemo.in/wona/2009-04.pdf){: style="text-decoration: underline"} article in your magazine. I love the kind of fun writing you guys do.

@@ -40,12 +40,9 @@ __Prasoon__: You should have at least 150 entrepreneurs graduating every year, t
 
 __WONA: Do you think Roorkee has any disadvantage in setting up an entrepreneurship ecosystem?__
  
-__Prasoon__: Roorkee doesn’t market itself. No one knows that the first guy in India to get Foxconn as an investor to his company is from here, there’s a guy named Gaurav Solanki, who writes scripts for Anurag Kashyap. So people from here have started writing books, making movies and are successful entrepreneurs. If we start to market IITR by taking all these things together, even though not overnight, but in 5-10 years, a big change will be seen.
+__Prasoon__: Roorkee doesn’t market itself. No one knows that the first guy in India to get Foxconn as an investor to his company is from here. There’s a guy named Gaurav Solanki, who writes scripts for Anurag Kashyap. So people from here have started writing books, making movies and are successful entrepreneurs. If we start to market IITR by taking all these things together, even though not overnight, but in 5-10 years, a big change will be seen.
 People have started hearing about IITR entrepreneurship, which never happened before. The administration itself conducted the GEC which had never happened before and we would like to repeat it this time also. The Director Prof. Banerjee and Prof Sandeep Singh, Dean Alumni Affairs have focused very much on Alumni connect during their tenure.
 
 __WONA: Any campus memories you would like to share with us?__
 
-__Prasoon__: Yeah. I have an indirect connection with Watch Out too. When I was a first-year student, there was only one group that I wanted to get into, that was Watch Out. I used to love writing. Unfortunately, I couldn’t get in. In my 3rd year, I was the convener of Thomso and you guys did a nice coverage and in my final semester here, I featured in the almost famous article in your magazine. I love the kind of fun writing you guys do.
-
-_(Interviewers smile at each other. Proud moment!)_
-
+__Prasoon__: Yeah. I have an indirect connection with Watch Out! too. When I was a first-year student, there was only one group that I wanted to get into, that was Watch Out. I used to love writing. Unfortunately, I couldn’t get in. In my 3rd year, I was the convener of Thomso and you guys did a nice coverage and in my final semester here, I featured in the "Almost Famous" article in your magazine. I love the kind of fun writing you guys do.

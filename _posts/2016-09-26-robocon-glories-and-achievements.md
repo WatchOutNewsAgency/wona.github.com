@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robo-kaun?"
+title: "Robocon: An account of glories and achievements"
 tags: [wona, column]
 category: tech
 image: robocon_cover.jpg
@@ -13,7 +13,7 @@ __Take us back to how and why the group started.__
 
 Back in 2009, Team Robocon IITR was founded with the sole purpose of gaining an edge over the technological advancements surfacing in this tech savvy era. And to apply our knowledge to the test by competing with others that share the same enthusiasm and passion for robotic advancements in India. Our alumni collaborated with Models Section of Hobbies club and transformed it to Models and Robotics Section (MARS in short).
 
-![Robocon](/images/posts/robocon_1.jpg)
+![Robocon](/images/posts/robocon_1.jpg){: style="width: 65%;"}
 
 __Tell us about your recent performance in the competition.__
 
@@ -27,7 +27,7 @@ __How does the team function to get the bot ready?__
 
 The team is divided into 2 parts - Design & Fabrication, Controls & Algorithm. As the names suggest, the Design team works on the 3D model and multi body dynamic analysis of the bot while the Controls team focuses on the navigation and actuation of the bot. The team works like a startup, focusing on R&D all year round and with the help of rapid prototyping, able to implement the research on the bot effectively.
 
-![Team Robocon](/images/posts/robocon_2.jpg)
+![Team Robocon](/images/posts/robocon_2.jpg){: style="width: 65%;"}
 
 __What support do you receive from alumni and faculty?__
 

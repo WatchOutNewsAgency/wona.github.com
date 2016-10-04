@@ -14,7 +14,7 @@ title: "Watch Out!, IIT Roorkee"
           <a href="{{ post.url }}">
             <div class="cover-container-container">
               <div class="center-fill-container img-container">
-                <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+                <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
               </div>
             </div>
             <div class="details text-center ">
@@ -41,7 +41,7 @@ title: "Watch Out!, IIT Roorkee"
 
                 <a href="{{ post.url }}">
                     <div class="center-fill-container article-cover-container">
-                      <img src="/images/posts/{{ post.image }}" class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+                      <img src="/images/posts/{{ post.image }}" class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
                     </div>
                   <div class="details text-center">
                     <div class="tag">{{ post.category }}</div>

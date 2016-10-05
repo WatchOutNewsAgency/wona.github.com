@@ -471,7 +471,8 @@ body {
   width: 100%;
 
   &.wide {
-    height: 100%
+    height: 100%;
+    width: auto;
   }
   
   &.tall {

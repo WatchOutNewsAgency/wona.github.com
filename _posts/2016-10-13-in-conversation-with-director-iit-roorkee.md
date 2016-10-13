@@ -10,6 +10,10 @@ _“A Director walks into a bar …”_
 
 _As our Director comes to the end of a successful tenure, we spoke to him regarding a variety of topics ranging from his time at Roorkee, R’s university hangover and the rigidity accompanying change in IITR. In a candid conversation that ensued, Prof. Banerji let loose on how he sees IITR progressing along the years, the lethargy of the student body and his attempts at creating leaders among students._
 
+<iframe width="720" height="415" align="center"
+src="https://www.youtube.com/embed/8HszMROqZYs">
+</iframe>{: style="text-align: center"}
+
 ### __What is the biggest regret from your tenure here at IIT Roorkee?__  
 
 I tried to create leaders among students, but I failed. I have never said no to anything. I am the only director who has given airfare to students to go for inter IIT. The only thing I have asked them is to bring the general championship, which hasn’t happened in the past 5 years. See you guys are from Watch Out! You should go and hit everyone with your work. That’s what IITs are about. You come here, the world is yours. Every time I interact with students working in Thomso, Cognizance I tell them “Karo, kuch karo”. They have done wonderfully in terms of bringing sponsorship and all. You know when Techfest started, it became international. But Cognizance is still a regional fest. Aspiration is what I want my students to have. Go and become global leaders. Be the best in what you do. Screw the system, yaar. In the system or among students there would always be good people and bad people.

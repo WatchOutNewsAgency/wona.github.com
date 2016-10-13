@@ -10,9 +10,9 @@ _“A Director walks into a bar …”_
 
 _As our Director comes to the end of a successful tenure, we spoke to him regarding a variety of topics ranging from his time at Roorkee, R’s university hangover and the rigidity accompanying change in IITR. In a candid conversation that ensued, Prof. Banerji let loose on how he sees IITR progressing along the years, the lethargy of the student body and his attempts at creating leaders among students._
 
-<iframe width="720" height="415" align="center"
-src="https://www.youtube.com/embed/8HszMROqZYs">
-</iframe>{: style="text-align: center"}
+<div style="text-align: center;">
+  <iframe width="720" height="415" align="center" src="https://www.youtube.com/embed/8HszMROqZYs"></iframe>
+</div>
 
 ### __What is the biggest regret from your tenure here at IIT Roorkee?__  
 

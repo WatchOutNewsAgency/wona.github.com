@@ -24,6 +24,7 @@ _As our Director comes to the end of a successful tenure, we spoke to him regard
 * _“IIT Roorkee can easily become the 3rd best IIT. But we are totally satisfied with the 6th rank. Unless we want to change, it can’t happen.”_
 * _“Even in an IIT system, I see someone calling a one-year senior ‘Sir’. I am shocked.”_
 
+___Following are the questions not covered in the video :___
 
 ### What is the biggest regret from your tenure here at IIT Roorkee?  
 

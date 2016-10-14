@@ -33,7 +33,7 @@ layout: layout
     <div class="article col-sm-3">
       <a href="{{ post.url }}">
         <div class="center-fill-container img-container">
-          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
+          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
         </div>
         <div class="details text-center ">
           <h3 class="title">{{ post.title | truncatewords: 4}}</h3>

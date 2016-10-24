@@ -2,7 +2,7 @@
 layout: post
 title: "The locks they Are A-rattlin’"
 tags: [wona, column]
-category: coverstory
+category: sac
 image: security_cover.jpg
 excerpt: While a student’s life revolves around juggling academics, sports and culturals, the aforementioned subjects face a lot of scrutiny and form the crux of casual discussions about life at IITR.
 ---

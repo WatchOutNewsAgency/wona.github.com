@@ -3,7 +3,7 @@ layout: post
 title: "The Fourth Reich"
 image: fourth-reich.png
 tags: [wona, column]
-category: sac
+category: coverstory
 ---
 
 _If liberty means anything at all, it means the right to tell people what they don’t want to hear_

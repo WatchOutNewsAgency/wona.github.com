@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The locks they Are A-rattlin’"
+tags: [wona, column]
+category: coverstory
+image: security_cover.jpg
+excerpt: While a student’s life revolves around juggling academics, sports and culturals, the aforementioned subjects face a lot of scrutiny and form the crux of casual discussions about life at IITR.
+---
+
+_While a student’s life revolves around juggling academics, sports and culturals, the aforementioned subjects face a lot of scrutiny and form the crux of casual discussions about life at IITR. As is the case with most things at IITR, various inadequacies come to the fore only after an unfortunate mishap. The recent scrutiny involving the curfew of girls and the inadequacy of the IITR hospital have seen the unearthing of many such shortcomings in the area of safety and security at IITR.  In a two part series, Watch Out! digs deeper into a domain that is understated in its importance and as a result is oft overlooked._
+
+#### <b>Campus Security Issues: </b>
+
+<b>The problems - </b>
+
+Roorkee, being volatile by virtue of its inherent communal diversity, provides a challenge while securing the campus from various threats. The vicinal areas are purported to have a high crime rate and pent up tension. The campus of Roorkee, during the day, acts as a connecting link between parts of the town. However, a chat with the Security Officer, Mr. K.P. Singh reveals that the entire blame cannot be shifted onto IITR’s unfortunate locality. According to Mr. Singh, the challenge is as much internal as it is dependent on externalities.
+
+The institute makes it mandatory for families of staff and faculty to possess colour coded dependent passes, with an aim of serving as an accountable measure of the people residing in the institute. But as is the case with most other rules of the land, there are always some who inadvertently find loopholes and flout the norms. This makes it very difficult to gauge the exact number of people using a single dependent pass. To quote Prof. D.K. Nauriyal, “We have servant quarters where if one is allotted, 8 dependents would stay there and we don’t know if they are actually dependents or not.”
+
+Being aware of threats posed by such situations, the institute takes it upon itself to enforce certain restrictions which inevitably curb a student’s freedom of movement. The justifiability of such restrictions is arguable, with each side having its own merits and demerits.
+
+<b>Solutions and steps taken - </b>
+
+Securing the campus is inextricably linked to extending various other facilities in the campus. Arguments against suspending the women’s timing restrictions are often quelled by citing the age old reasons of security and porosity of the campus. Under a budget of around 25 lakhs per month, IITR outsources the security to private security contractors. However, with the recent debate surrounding security, the institute is in talks with CISF to take over the security of the campus. Subject to budgetary constraints, this initiative is expected to be a step in the right direction.
+Security being out of the jurisdiction of the SAC, the last SAC worked towards pushing a proposal for improving security in the campus, with an emphasis on the timing restrictions. The proposal intends to build on the recommendations of the Justice Verma Committee, which was constituted to look into the security of women after the brutal 2012 Delhi gang rape. The committee unequivocally stated that locking women up is not the solution to the security of women and that it is the prerogative of universities to provide for the security that enables women to exercise as much freedom as is guaranteed by the constitution. While one can’t help acknowledge the gravity of the obstacles to absolute security on campus, locking up adults well into their 20s seems rather short-sighted and primitive, as far as solutions go. “We’re not questioning the students’ judgement”, says Prof. D.K.Nauriyal, “Our only concern is their safety. There have been times when we’ve personally roamed around the campus and found lots of eve teasers. We rounded them up and took them to authorities. The moment we’re sure that our girls are safe, we’ll open it for 24x7 as we’ve no problem with that.”
+
+The proposal acknowledges the porosity of the campus as one of the primary bottlenecks in achieving better security. This is in part to the fact that there are various public offices within the campus and partly due to unauthorised and unaccounted residents inside the campus. Proper documentation of vehicles as well as institute residents is suggested as a way to counter this challenge. The in place scheme of dependent cards is a sufficient measure if implemented thoroughly and documented comprehensively. This needs to be complemented with a similar scheme for vehicles. The proposal suggests defining “authorised vehicles” as a vehicle belonging to a faculty or employee of the institute and accompanied by a dependent card. Unauthorised vehicles would require the submission of ID Cards/Driving Licences before entering the institute.
+
+The occurrence of eve teasing in the campus, despite all preventive measures, is lamentable. IITR has a relatively unknown and dormant body called the “Committee against Sexual Harassment (CASH)”. Its inactivity has essentially lead to all such cases being handled by the DOSW office. CASH is headed by Prof. Ritu Barthwal of the Biotech department and constitutes of various professors. However, students who encounter cases of eve teasing barely know of such a bureaucratic structure and do not resort to pursuing a complaint actively.  To quote the DOSW, “It’s not dormant. But it’s activated only when there’s a complaint received. The point is that lots of complaints do not come to the committee. The moment we get a complaint we immediately forward them to the committee and there are actions.”

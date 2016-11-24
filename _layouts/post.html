@@ -4,20 +4,23 @@ layout: layout
 {% include header.html %}
 
 <section class="post container">
-	<h1>
-		<a href="{{ page.url }}">{{ page.title }}</a>
-	</h1>
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
 
-	<section class="byline">
-		{{ page.date | date: "%B %e, %Y" }}
-	</section>
-
-  <section class="content{% if page.justify %} justify{% endif %}">
-    {{ content }}
+  <section class="byline col-md-12">
+    {{ page.date | date: "%B %e, %Y" }}
   </section>
 
-  <br/>
+  <div class="col-md-8">
+    <section class="content{% if page.justify %} justify{% endif %}">
+      {{ content }}
+    </section>
+  </div>
 
+  <div class="fb-page col-md-4" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
+
+    <br/>
   <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
   <br/>

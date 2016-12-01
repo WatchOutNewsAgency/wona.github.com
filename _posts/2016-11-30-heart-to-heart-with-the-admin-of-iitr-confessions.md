@@ -22,7 +22,7 @@ Oh. This place is full of cowards. All of them are wimps, I tell you! _Opinionat
 
 ### Does it get stressful, this job? 
 
-Don’t get me started on this! It gets irritating when people start messaging the page with death threats if you haven't posted confessions over a span of 2 days. These futile attempts to menace end up messing up my ability to pay attention to those presentations in class (not that I want pay attention). It's funny how their haystack filled brains strive on the daily dose of who’s hating, who’s dating, who’s crushing and who’s blushing. God, I wish I could get a break! I mean, don’t get me wrong, I love this job, but even I have tutorials and assignments to copy! 
+Don’t get me started on this! It gets irritating when people start messaging the page with death threats if you haven't posted confessions over a span of 2 days. These futile attempts to menace end up messing up my ability to pay attention to those presentations in class (not that I want to pay attention). It's funny how their haystack filled brains strive on the daily dose of who’s hating, who’s dating, who’s crushing and who’s blushing. God, I wish I could get a break! I mean, don’t get me wrong, I love this job, but even I have tutorials and assignments to copy! 
 
 ### Must be exhausting, copying and pasting all those confessions.
 

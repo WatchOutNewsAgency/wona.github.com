@@ -4,32 +4,6 @@ title: "Watch Out!, IIT Roorkee"
 ---
 {% include header.html %}
 
-<div class="container content">
-  <section id="new-articles" class="row">
-
-  {% for cat in site.data.homepage_categories.new_articles %}
-    {% for post in site.categories[cat] %}
-      {% if post.image != null %}
-        <div class="article col-sm-3">
-          <a href="{{ post.url }}">
-            <div class="cover-container-container">
-              <div class="center-fill-container img-container">
-                <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
-              </div>
-            </div>
-            <div class="details text-center ">
-              <p class="tag">{{ post.category }}</p>
-              <h3 class="title">{{ post.title }}</h3>
-            </div>
-          </a>
-        </div>
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-  </section>
-</div>
-
 <div id="featured-articles-container" class=" container-fluid">
   <div id="featured-articles" class=" container">
     <div class="row">

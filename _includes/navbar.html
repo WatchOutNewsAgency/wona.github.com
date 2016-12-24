@@ -1,41 +1,48 @@
-<div class="navbar-wrapper" data-spy="affix" data-offset-top="0">
-  <div class="container-fuild">
-
-    <nav class="navbar navbar-default">
-      <div class="container">
-
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-left" href="/"><img class="navbar-logo" src="/images/watchout.svg" alt="WONA Logo"></a>
-        </div>
-
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            {% for cat in site.data.categories %}
-              {% if cat.subcategories != nil %}
-              <li class = "dropdown">
-                <a class="hover-underline" href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.name | uppercase }} <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  {% for subcat in cat.subcategories %}
-                   {% if site.categories[subcat.name] != nil %}
-                    <li><a class="hover-underline" href="/category/{{ subcat.name }}/">{{ subcat.title | uppercase }}</a></li>
-                    {% endif %}
-                  {% endfor %}
-                </ul>
-              </li>
-              {% elsif  site.categories[cat.name] != nil%}
-              <li><a class="hover-underline" href="/category/{{ cat.name }}/">{{ cat.name | uppercase }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-    </nav>
+<div class="pre-nav container">
+  <div class="brand pull-left">
+    <img class="logo" src="/images/logo-black.png">
+    <div class="name-container">
+      <div class="name">Watch Out!</div>
+      <div class="desc">Official News<br>Body of IITR</div>
+    </div>
+  </div>
+  <div class="social pull-right">
+    <a href="/about">About</a>
+    <img src="/images/fb-logo.svg" href="http://fb.com/WatchOutNewsAgency">
+    <img src="/images/youtube-play.svg" href="https://www.youtube.com/channel/UCthZ7tKOzy4EJpuVxtdcp1A">
   </div>
 </div>
 
+<nav class="navbar navbar-default" data-spy="affix" data-offset-top="110">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Watch Out!</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        {% for cat in site.data.categories %}
+          {% if cat.subcategories != nil %}
+          <li class = "dropdown">
+            <a class="hover-underline" href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.name | uppercase }} <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              {% for subcat in cat.subcategories %}
+               {% if site.categories[subcat.name] != nil %}
+                <li><a class="hover-underline" href="/category/{{ subcat.name }}/">{{ subcat.title | uppercase }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+          {% elsif  site.categories[cat.name] != nil%}
+          <li><a class="hover-underline" href="/category/{{ cat.name }}/">{{ cat.name | uppercase }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>

@@ -3,10 +3,6 @@
   subcategories:
 - name: cultural
   subcategories:
-- name: tech
-  subcategories:
-- name: sac
-  subcategories:
 - name: columns
   subcategories:
     - name: coverstory
@@ -19,11 +15,16 @@
       title: Pheking News
     - name: guestcomentary
       title: Guest Comentary
+- name: tech
+  subcategories:
+- name: career
+  subcategories:
+- name: sac
+  title: SAC
+  subcategories:
 - name: editorial
   title: Editorial
 - name: verbatim
-  subcategories:
-- name: career
   subcategories:
 - name: sports
   subcategories:

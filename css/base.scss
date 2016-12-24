@@ -4,10 +4,16 @@
 // ================ VARS ===============//
 
 $font-color: #333;
-$navbar-default-link-color: white;
-$navbar-default-link-active-color: darken($navbar-default-link-color, 25%);
-$navbar-default-link-hover-color: $navbar-default-link-color;
-$dropdown-link-hover-color: $navbar-default-link-color;
+$container-lg: 1040px;
+$navbar-default-brand-color: #4e4e4e;
+$navbar-default-bg: #fff;
+$navbar-default-border: none;
+/*$navbar-default-link-color: white;*/
+/*$navbar-default-link-active-color: darken($navbar-default-link-color, 25%);*/
+/*$navbar-default-link-hover-color: $navbar-default-link-color;*/
+/*$dropdown-link-hover-color: $navbar-default-link-color;*/
+
+$pre-nav-logo-height: 65px;
 $home-header-bg-color: #333;
 $new-article-img-height: 150px;
 $new-article-img-width: 225px;
@@ -63,107 +69,119 @@ body {
 	font-size: 13px;
 	color: $font-color;
 	background: #fff;
+	font-family: Lato, Merriweather, Open Sans, sans-serif;
 	@include box-sizing();
 }
 
 *{	
-	font-family: Merriweather, Open Sans, sans-serif;
+	font-family: Lato, Merriweather, Open Sans, sans-serif;
 }
 
 
 // ================ NAV ================//
+.pre-nav {
+  height: $pre-nav-logo-height * 1.6;
 
-.navbar-wrapper {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 20;
-  transition: background-color 1s ease-in;
-  background: black;
-  background: rgba(45, 44, 40, 0.6);
-
-  &.affix {
-    position: fixed;
+  .brand {
+    height: 100%;
+    padding: $pre-nav-logo-height * .3 0;
   }
 
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
+  .name-container {
+    height: $pre-nav-logo-height;
+    position: relative;
+    margin-left: 2em;
+    line-height: 1;
 
-  -webkit-transition-timing-function: cubic-bezier( 0.215, 0.610, 0.355, 1.000  );
-  transition-timing-function: cubic-bezier( 0.215, 0.610, 0.355, 1.000  );
+    .name {
+      position: absolute;
+      top: 0;
+      width: 7em;
+      font-size: 18px;
+      color: $navbar-default-brand-color;
+    }
 
+    .desc {
+      font-size: 22px;
+      width: 7em;
+      position: absolute;
+      bottom: 0;
+      color: #ababab;
+    }
+  }
 
-  -webkit-transition-property: -webkit-transform;
-  transition-property: transform;
+  .logo {
+    height: $pre-nav-logo-height;
+    float: left;
+  }
+
+  .social {
+    height: 100%;
+    padding: $pre-nav-logo-height * .623 0;
+    font-size: 16px; 
+    font-weight: bold;
+
+    > * {
+      margin-left: 1em;
+    }
+  }
+
 }
 
-.navbar--hidden
-{
-  -webkit-transform: translateY( -100%  );
-  -ms-transform: translateY( -100%  );
-  transform: translateY( -100%  );
-
-}
-
-
-.navbar-logo {
-  @media (min-width: $screen-sm-min) {
-    height: 2.5em;
-    padding: .5em;
-  }
-  @media (max-width: $screen-xs-max) {
-    height: 2.5em;
-    padding: .5em;
-  }
-}
-
-.navbar {
-  background: transparent;
-  border: none;
-  padding-top: 5px;
-  font-weight: bold;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-  margin-bottom: 0px;
-  border-bottom: 0px;
-
-  .navbar-header {
-    margin-top: 0.2em;
-  }
+nav {
+	width: 100%;
+  z-index: 200;
 
   .navbar-brand {
-    text-transform: uppercase;
+    display: none;
   }
 
-  .navbar-toggle {
-    margin-top: 10px;
-    margin-bottom: 10px;
+  .nav {
+    width: 100%;
   }
 
-  .active  a, .open a {
-    background: transparent !important;
-    color: white;
-  }
+  &.affix {
+    top: 0;
 
-  .dropdown-menu {
-    background-color: #565553;
-  }
-
-  @media (min-width: $screen-sm-min) {
-    .navbar-nav {
-      display: inline-block;
-      float: none;
-      vertical-align: top;
-      text-transform: uppercase;
+    .navbar-brand {
+      display: block;
     }
 
-    .navbar-collapse {
-      text-align: center;
+    .nav {
+      width: initial;
 
+      > li {
+        width: initial;
+      }
     }
+
+
   }
 }
+
+#navbar {
+  padding: 0;
+}
+
+.nav > li {
+  width: 1/9 * 100%;
+  text-align: center;
+
+  &:first-of-type a {
+    padding-left: 0;
+    text-align: left;
+  }
+
+  &:last-of-type a {
+    text-align: right;
+  }
+}
+.navbar-nav {
+	font-size: 16px;
+	text-transform: capitalize;
+  font-weight: bold;
+}
+
 // ================ /NAV ================//
 
 // ============= HOME-HEADER ============= //

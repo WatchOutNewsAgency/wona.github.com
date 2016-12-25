@@ -19,7 +19,7 @@ $new-article-img-width: 225px;
 $new-article-title-color: black;
 $new-article-tag-color: #ffd700;
 $featured-articles-bg-color: #f7f7f7;
-$featured-articles-title-color: #373737;
+$featured-articles-title-color: #4e4e4e;
 $article-cover-img-width: 355px;
 $article-cover-img-height: 190px;
 $carousel-bg-color: #333;
@@ -94,7 +94,7 @@ body {
 
 
 // ================ NAV ================//
-.pre-nav {
+.pre-nav, .pre-footer  {
   height: $pre-nav-logo-height * 1.6;
   border-bottom: 1px solid #f3f3f3;
 
@@ -156,10 +156,13 @@ nav {
 
   .nav {
     width: 100%;
+    position: relative;
+    left: -15px;
   }
 
   &.affix {
     top: 0;
+    border-bottom: 2px solid #e5e5e5;
 
     .navbar-brand {
       display: block;
@@ -203,15 +206,19 @@ nav {
 // ============= HOME-HEADER ============= //
 
 #header {
-  position: relative;
-  height: $home-header-height;
-  background: $home-header-bg-color;
   margin-top: 25px;
-  border-radius: 8px 8px 0 0;
-  overflow: hidden;
-  color: white;
   font-size: 12px;
-  box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+
+  .header-row {
+    position: relative;
+    height: $home-header-height;
+    background: $home-header-bg-color;
+    border-radius: 8px 8px 0 0;
+    overflow: hidden;
+    color: white;
+    box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+
+  }
 
   .cover-image {
     height: $home-header-height;
@@ -260,8 +267,6 @@ nav {
 // ============= NEW-ARTICLES ============ //
 #new-articles {
   color: white;
-  overflow: hidden;
-  border-radius: 0px 0px 10px 10px;
   margin-bottom: 60px;
 
   .article {
@@ -288,6 +293,18 @@ nav {
 
   a:hover {
     color: #ddd;
+  }
+
+  .row:last-of-type {
+    .article:first-of-type {
+      overflow: hidden;
+      border-radius: 0px 0px 0px 10px;
+    }
+
+    .article:last-of-type {
+      overflow: hidden;
+      border-radius: 0px 0px 10px 0px;
+    }
   }
 }
 
@@ -376,135 +393,67 @@ nav {
 
 // ========== FEATURED-ARTICLE =========== //
 #featured-articles-container {
-  background: $featured-articles-bg-color;
-  padding-top: 3em;
-}
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-top: 1px solid #ededed;
+  border-bottom: 1px solid #ededed;
 
-#featured-articles-title {
-  font-size: 30px;
-  font-weight: bold;
-  color: $featured-articles-title-color;
-  margin-top: 22px;
-  margin-bottom: 22px;
-}
-
-#featured-articles {
-  color: lighten($font-color, 10%);
-
-  .article-cover-container {
-    width: $article-cover-img-width;
-    height: $article-cover-img-height;
-    box-shadow: 0px 35px 40px -20px rgba(0,0,0, 0.4);
+  .article {
+    height: 180px;
+    padding: 1.5em 0 2em;
+    margin-left: 0;
   }
 
-  a {
-      &:hover{
-      color: darken($font-color, 10%);
-      text-decoration: none;
-      @include transition(all, 0.2s, ease-in);
-
-      .details {
-        box-shadow: -3px -3px 15px 0 rgba(0,0,0,0.25);
-      }
-    }
+  .title {
+    font-size: 19px;
   }
 
-  .article-container {
-    margin-bottom: 10px + 0.1 * $article-cover-img-height;
+  .tag {
+    font-size: 15px;
+  }
 
-    .details {
-      position: relative;
-      z-index: 10;
-      margin: 0 auto;
-      top: -0.1 * $article-cover-img-height;
-      background: $featured-articles-bg-color;
-      width: 0.9 * $article-cover-img-width; ;
-      height: 120px;
-      font-size: 0.95em;
-      padding: 0 1em 0.5em;
+  .excerpt {
+    font-size: 14px;
+  }
 
-      .tag {
-        position: absolute;
-        top:0;
-        left: 50%;
-        transform: translate(-50%,-75%); 
-        text-transform: uppercase;
-        font-weight: bold;
-        font-size: 1.1em;
-        color: #ffffff;
-        background-color: rgba(146, 204, 102, 0.85);
-        padding: 0.5em 1em;
-        opacity: 0.9;
-      }
-
-      .title {
-        font-size: 1.85em;
-        font-family: 'Montserrat', sans-serif;
-      }
-
-      &:before {
-        content: " ";
-        display: table;
-      }
-
-    }
+  .img-container {
+    padding-left: 0;
   }
 }
+
 // ========= /FEATURED-ARTICLES ========== //
-// ============= CAROUSEL ============= //
 
-/* Carousel base class */
-.carousel {
-  height: $carousel-height;
+// ================ VIDEO ================ //
+#yt-videos-container {
+  padding-top: 20px;
+  margin-bottom: 10px;
 }
 
-.carousel-caption {
-    z-index: 10;
-    top: 50%;
-    transform: translateY(-50%);
-    pointer-events: none;
-    h1 {
-      font-weight: bold;
-      line-height: 0.98;
-      text-align: center;
-      color: #ffffff;
-    }
+.video-container {
+  height: 400px;
 }
 
-/* Declare heights because of positioning of img element */
-.carousel .item {
-  height: $carousel-height;;
-  background-color: $carousel-bg-color;
-}
-.carousel-inner{
-
-  .cover-image {
-    width: 100%;
-    position: absolute;
-
-    .img-responsive {
-      width: 100%;
-    }
-
-    img {
-      -webkit-filter: blur(15px);
-      filter: blur(15px);
-    }
-  }
-  .video-container {
-    width: 70%;
-    padding: 2%;
-  }
-
-  > .item > img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    height: 500px;
+.video-caption {
+  text-align: center;
+  .caption {
+    margin-top: 0;
+    font-size: 28px;
   }
 }
-// ============ /CAROUSEL ============= //
+
+.video-list {
+  list-style: none;
+}
+
+.list-video {
+  height: 100px;
+  margin-bottom: 15px;
+
+  .caption {
+    height: 100%;
+  }
+}
+// =============== /VIDEO ================ //
 
 // ============== COMPONENTS ============== //
 .center-vertical {
@@ -561,6 +510,19 @@ nav {
 
 .img-container {
   height: 100%;
+  overflow: hidden;
+}
+
+.container-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: $featured-articles-title-color;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+.outer-row {
+  margin: 0;
 }
 
 a {
@@ -659,14 +621,20 @@ blockquote {
 
 footer {
   position: relative;
-	background: #1c1c1c;
-  height: 65px;
-  font-weight: normal;
-  color: #ffffff;
+	background: #f3f3f3;
+  color: #b8b8b8;
+  padding-top: 22px;
+  border-top: 1px solid #c5c5c5;
 
   a:hover {
     color: #ddd;
   }
+}
+
+.copyright {
+  border-top: 1px solid #d9d9d9;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 // ============== /FOOTER ============== //

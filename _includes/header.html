@@ -13,10 +13,12 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div id="header" class="container {% if page.is_post %}post-header{% endif %}">
-  <div class="row">
+  <div class="row header-row outer-row">
     {% if post.image != nil %}
-    <div class="col-md-8 tinted cover-image center-fill-container img-container">
+    <div class="col-md-8 tinted cover-image center-fill-container">
+      <div class="img-container">
         <img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt="">
+      </div>
     </div>
     {% endif %}
     <div class="col-md-4 cover-details">
@@ -39,12 +41,12 @@
 
 <div id="new-articles" class="container content">
   <section>
-    <div class="row">
+    <div class="row outer-row">
       {% for post in site.related_posts limit: 5 %}
 
       {% if forloop.index == 3 %}
         </div>
-        <div class="row">
+        <div class="row outer-row">
       {% endif %}
 
       <div class="article col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %}">

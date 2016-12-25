@@ -7,7 +7,7 @@
     <div class="details">
       <div class="head">
         <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <div class="tag"><a href="/category/{{ post.category }}/">{{ post.category }}</a></div>
+        <div class="tag"><a href="/category/{{ post.category }}/">{{ site.data.categories_name[post.category] }}</a></div>
         <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
       </div>
       <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify | truncate: 250 }}{% endif %}</div>

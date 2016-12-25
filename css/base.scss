@@ -360,7 +360,6 @@ nav {
   }
 }
 
-
 #related-articles {
   z-index: 10;
 
@@ -595,21 +594,18 @@ blockquote {
 // ============== POST ============== //
 
 .post {
-  z-index: 10;
-  position: relative;
-	background: white;
-	padding: 10px 50px;
-  margin-bottom: 20px;
-	font-size: 1.1em;
+ 	font-size: 1.1em;
 	line-height: 1.5em;
 	color: #333332;
 
-  .content {
-    margin-top: 2em;
+  .header {
+    border-bottom: 4px solid #e7ce00;
+    font-weight: bold;
+    padding-bottom: 30px;
   }
 
-  .fb-page {
-    top:2em;
+  .body {
+    padding-top: 4em;
   }
 
 	p img {
@@ -622,20 +618,80 @@ blockquote {
   .justify {
     text-align: justify;
   }
+
+  .fb-content {
+    margin-top: 40px;
+  }
+
+  .fb-like {
+    margin-bottom: 30px;
+  }
 }
 
-.post-header {
-  box-shadow: 0 100px 125px -100px;
+.header {
+  .tag {
+    text-transform: uppercase;
+    color: #e7ce00;
+    font-size: 16px;
+  }
+
+  .title {
+    font-size: 24px;
+    color: #333333;
+  }
+
+  .date {
+    color: #8b8b8b;
+    font-size: 12px;
+  }
 }
 
 // ============== /POST ============== //
 
 // ========= RELATED-ARTICLES ======== //
+#more-articles-container {
+  margin-top: 35px;
+  margin-bottom: 40px;
+  border-top: 1px solid #ededed;
+  padding-top: 15px;
 
-#related-articles {
-  padding-top: 40px;
-  padding-bottom: 20px;
-  background: #f0f0f0;
+  .head-wrapper {
+    position: relative;
+  }
+
+  .view-all {
+    font-family: Merriweather;
+    font-style: italic;
+    color: #ababab;
+    font-size: 16px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+
+#more-articles {
+  color: white;
+
+  .article {
+    height: 155px;
+    position: relative;
+  }
+
+  .details {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 1.5em;
+  }
+
+  .title {
+    font-size: 16px;
+  }
+
+  .date {
+    position: static;
+  }
 }
 
 // ========= /RELATED-ARTICLES ======= //

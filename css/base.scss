@@ -220,6 +220,10 @@ nav {
 
   }
 
+  .row {
+    margin-left: 0;
+  }
+
   .cover-image {
     height: $home-header-height;
   }
@@ -250,6 +254,25 @@ nav {
 
   .title:hover {
     text-shadow: 1px 1px 10px #777777;
+  }
+}
+
+#header.category-header {
+  font-size: 16px;
+
+  .cover-image {
+    border-radius: 10px;
+  }
+
+  .title {
+    margin-bottom: 0;
+  }
+
+  .date {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+    color: #e7ce00;
   }
 }
 
@@ -394,15 +417,16 @@ nav {
 // ========== FEATURED-ARTICLE =========== //
 #featured-articles-container {
   padding-top: 20px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   border-top: 1px solid #ededed;
   border-bottom: 1px solid #ededed;
 
-  .article {
-    height: 180px;
-    padding: 1.5em 0 2em;
-    margin-left: 0;
-  }
+}
+
+.article-horiozntal {
+  height: 10em;
+  margin-bottom: 3.5em;
+  margin-left: 0;
 
   .title {
     font-size: 19px;
@@ -426,7 +450,6 @@ nav {
 // ================ VIDEO ================ //
 #yt-videos-container {
   padding-top: 20px;
-  margin-bottom: 10px;
 }
 
 .video-container {
@@ -623,6 +646,7 @@ footer {
   position: relative;
 	background: #f3f3f3;
   color: #b8b8b8;
+  margin-top: 20px;
   padding-top: 22px;
   border-top: 1px solid #c5c5c5;
 
@@ -640,23 +664,25 @@ footer {
 // ============== /FOOTER ============== //
 
 // ============== CATEGORY-POSTS ===========//
-.category-posts {
-  position: relative;
-  z-index: 10;
-  background: white;
-  padding-top: 20px;
-  min-height: 100px;
 
-  .category-post {
-    margin-bottom: 30px;
-    padding: 0 10px 30px;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+.category-posts {
+  margin-top: 20px;
+
+  .tag {
+    display: none;
   }
 
-  .img-container {
-    height: $article-cover-img-height;
+  .date {
+    display: block;
+    position: static;
+    color: #d1d1d1;
+  }
+  
+  .excerpt {
+    margin-top: 10px;
   }
 }
+
 // ============= /CATEGORY-POSTS ===========//
 
 // ============== TEAM ============== //

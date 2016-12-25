@@ -11,25 +11,14 @@ title: "Watch Out!, IIT Roorkee"
       {% for cat in site.data.homepage_categories.featured_articles %}
       {% for post in site.categories[cat] %}
       {% if post.image != null %}
-      <div class="row article">
-        <div class="col-md-4 center-fill-container img-container">
-          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
-        </div>
-        <div class="details-container col-md-8">
-          <div class="details">
-            <div class="head">
-              <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-              <div class="tag"><a href="/category/{{ post.category }}/">{{ post.category }}</a></div>
-              <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
-            </div>
-            <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify | truncate: 250 }}{% endif %}</div>
-          </div> <!--details-->
-        </div> <!--details-container-->
-      </div> <!--article-->
+        {% include horizontal_post.html post=post %}
       {% break %}
       {% endif %}
       {% endfor %}
       {% endfor %}
+    </div>
+    <div class="col-md-4">
+      <div class="fb-page" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="540" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
     </div>
   </div>
 </div>

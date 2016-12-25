@@ -291,13 +291,23 @@ nav {
 #new-articles {
   color: white;
   margin-bottom: 60px;
+  position: relative;
 
-  .article {
-    position: relative;
-    height: 340px;
-    padding: 0 5px;
-    margin-top: 10px;
+  .container-title {
+    position: absolute;
+    top: -2.25em;
+    left: -.5em;
+    z-index: 10;
+    color: #252525;
+    background: #fafafa;
+    font-size: 14px;
+    padding: 0.35em 2.35em;
     box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+    border-radius: 0.4em;
+  }
+
+  .article-col {
+    padding: 0 5px;
 
     &:first-of-type {
       padding-left: 0;
@@ -306,6 +316,13 @@ nav {
     &:last-of-type {
       padding-right: 0;
     }
+  }
+
+  .article {
+    position: relative;
+    height: 340px;
+    margin-top: 10px;
+    box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
   }
 
   .details {
@@ -319,12 +336,12 @@ nav {
   }
 
   .row:last-of-type {
-    .article:first-of-type {
+    .article-col:first-of-type .article {
       overflow: hidden;
       border-radius: 0px 0px 0px 10px;
     }
 
-    .article:last-of-type {
+    .article-col:last-of-type .article {
       overflow: hidden;
       border-radius: 0px 0px 10px 0px;
     }

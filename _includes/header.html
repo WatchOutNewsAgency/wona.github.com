@@ -31,6 +31,7 @@
 </div>
 
 <div id="new-articles" class="container content">
+  <div class="container-title">New Articles</div>
   <section>
     <div class="row outer-row">
       {% for post in site.related_posts limit: 5 %}
@@ -40,7 +41,8 @@
         <div class="row outer-row">
       {% endif %}
 
-      <div class="article col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %}">
+      <div class="col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %} article-col">
+        <div class="article">
         <div class="center-fill-container img-container tinted">
           <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
         </div>
@@ -53,6 +55,7 @@
           {% if forloop.index < 3 %}
           <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify }}{% endif %}</div>
           {% endif %}
+        </div> <!-- details -->
         </div>
       </div>
       {% endfor %}

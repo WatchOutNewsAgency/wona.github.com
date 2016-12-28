@@ -14,6 +14,7 @@ $navbar-default-border: none;
 $pre-nav-logo-height: 65px;
 $home-header-bg-color: #22221f;
 $home-header-height: 340px;
+$home-header-shadow: 0 0 30px 0px rgba(0,0,0,0.4);
 $new-article-img-height: 150px;
 $new-article-img-width: 225px;
 $new-article-title-color: black;
@@ -171,7 +172,7 @@ nav {
     .nav {
       width: initial;
 
-      > li {
+      &:after {
         width: initial;
       }
     }
@@ -183,22 +184,28 @@ nav {
 }
 
 .nav > li {
-  width: 1/9 * 100%;
   text-align: center;
+  display: inline-block;
+  float: none;
+  margin-bottom: -100%; // Hack to fix the spacing between header and navbar
 
   &:first-of-type a {
     padding-left: 0;
-    text-align: left;
   }
 
   &:last-of-type a {
-    text-align: right;
+    padding-right: 0;
   }
 }
 .navbar-nav {
 	font-size: 16px;
-	text-transform: capitalize;
+  text-align: justify;
   font-weight: bold;
+
+  &:after {
+    width: 100%; /* Ensures justification for single lines */
+    display: inline-block;
+  }
 }
 
 // ================ /NAV ================//
@@ -206,7 +213,6 @@ nav {
 // ============= HOME-HEADER ============= //
 
 #header {
-  margin-top: 25px;
   font-size: 12px;
 
   .header-row {
@@ -216,7 +222,7 @@ nav {
     border-radius: 8px 8px 0 0;
     overflow: hidden;
     color: white;
-    box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+    box-shadow: $home-header-shadow;
 
   }
 
@@ -238,6 +244,7 @@ nav {
 
   .cover-link:hover {
     text-decoration: none;
+    color: rgb(174, 170, 170);
   }
   
   .cover-title-label {
@@ -250,10 +257,6 @@ nav {
     font-weight: bold;
     margin-top: 0;
     margin-bottom: 20px;
-  }
-
-  .title:hover {
-    text-shadow: 1px 1px 10px #777777;
   }
 }
 
@@ -302,7 +305,7 @@ nav {
     background: #fafafa;
     font-size: 14px;
     padding: 0.35em 2.35em;
-    box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+    box-shadow: $home-header-shadow;
     border-radius: 0.4em;
   }
 
@@ -322,7 +325,7 @@ nav {
     position: relative;
     height: 340px;
     margin-top: 10px;
-    box-shadow: 0 0 35px 6px rgba(0,0,0,0.35);
+    box-shadow: $home-header-shadow;
   }
 
   .details {

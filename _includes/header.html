@@ -3,6 +3,7 @@
   {% assign post = page %}
 {% endif %}
 
+<a  href="{{ post.url }}">
 <div id="header" class="container {% if page.is_post %}post-header{% endif %}">
   <div class="row header-row outer-row">
     {% if post.image != nil %}
@@ -29,6 +30,7 @@
     </div>
   </div>
 </div>
+</a>
 
 <div id="new-articles" class="container content">
   <div class="container-title">New Articles</div>
@@ -37,26 +39,28 @@
       {% for post in site.related_posts limit: 5 %}
 
       {% if forloop.index == 3 %}
-        </div>
-        <div class="row outer-row">
+    </div>
+    <div class="row outer-row">
       {% endif %}
 
       <div class="col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %} article-col">
-        <div class="article">
-        <div class="center-fill-container img-container tinted">
-          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
-        </div>
-        <div class="details">
-          <div class="head">
-            <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <div class="tag"><a href="/category/{{ post.category }}/">{{ site.data.categories_name[post.category] }}</a></div>
-            <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
+        <a href="{{ post.url }}">
+          <div class="article">
+            <div class="center-fill-container img-container tinted">
+              <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
+            </div>
+            <div class="details">
+              <div class="head">
+                <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <div class="tag"><a href="/category/{{ post.category }}/">{{ site.data.categories_name[post.category] }}</a></div>
+                <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
+              </div>
+              {% if forloop.index < 3 %}
+              <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify }}{% endif %}</div>
+              {% endif %}
+            </div> <!-- details -->
           </div>
-          {% if forloop.index < 3 %}
-          <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify }}{% endif %}</div>
-          {% endif %}
-        </div> <!-- details -->
-        </div>
+        </a>
       </div>
       {% endfor %}
     </div>

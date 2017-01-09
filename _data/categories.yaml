@@ -1,13 +1,12 @@
 ---
 - name: academics
+  title: Academics
   subcategories:
 - name: cultural
-  subcategories:
-- name: tech
-  subcategories:
-- name: sac
+  title: Cultural
   subcategories:
 - name: columns
+  title: Columns
   subcategories:
     - name: coverstory
       title: Cover Story
@@ -15,15 +14,25 @@
       title: Big Story
     - name: almostfamous
       title: Almost Famous
-    - name: phekingnews
-      title: Pheking News
     - name: guestcomentary
       title: Guest Comentary
-- name: editorial
-  title: Editorial
-- name: verbatim
+    - name: editorial
+      title: Editorial
+- name: tech
+  title: Tech
   subcategories:
 - name: career
+  title: Career
+  subcategories:
+- name: sac
+  title: SAC
+  subcategories:
+- name: phekingnews
+  title: Pheking News
+  subcategories:
+- name: verbatim
+  title: Verbatim
   subcategories:
 - name: sports
+  title: Sports
   subcategories:

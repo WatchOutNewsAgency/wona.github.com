@@ -1,10 +1,20 @@
 // Your JavaScript
 $(function() {
-  $('.img-center-fill').load(function(){
+  function gradeImage(){
     var parent = $(this).parent();
     var imgClass = (this.width/this.height > parent.width()/parent.height()) ? 'wide' : 'tall';
     $(this).addClass(imgClass);
-  })
+    console.log(this);
+  }
+
+  $('.img-center-fill').each(function () {
+    if(this.complete) {
+      gradeImage.call(this);
+    }
+    else {
+      this.addEventListener('load', gradeImage);
+    }
+  });
 
   /*
   var switchPos = $('#new-articles').position().top + $('#new-articles').height();

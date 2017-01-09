@@ -5,25 +5,15 @@ layout: layout
 {% include cat_header.html %}
 
 <div class="category-posts container">
-  {% for post in site.categories[page.category] %}
-    <div class="category-post row">
-      {% if post.image != nil %}
-        <div class="col-sm-3 center-fill-container img-container">
-          <a href="{{ post.url }}">
-            <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill {% if post.image == null %}hidden{% endif %}">
-          </a>
-        </div>
-        <div class="col-sm-9 details">
-          <h3 class="title"><a href="{{ post.url }}">{{ post.title}}</a></h3>
-          <p class="tag">{{ post.excerpt }}</p>
-        </div>
-      {% else %}
-        <div class="col-sm-12 details">
-          <h3 class="title"><a href="{{ post.url }}">{{ post.title}}</a></h3>
-          <p class="tag">{{ post.excerpt }}</p>
-        </div>
-      {% endif %}
+  <div class="row">
+    <div class="col-md-8">
+      {% for post in site.categories[page.category] offset: 1 %}
+      {% include horizontal_post.html post=post %}
+      {% endfor %}
     </div>
-  {% endfor %}
+    <div class="col-md-4">
+      <div class="fb-page" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="540" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
+    </div>
+  </div>
 </div>
 

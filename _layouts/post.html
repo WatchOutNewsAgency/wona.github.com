@@ -1,49 +1,63 @@
 ---
 layout: layout
 ---
-{% include header.html %}
-
 <section class="post container">
-  <h1>
-    <a href="{{ page.url }}">{{ page.title }}</a>
-  </h1>
-
-  <section class="byline col-md-12">
-    {{ page.date | date: "%B %e, %Y" }}
-  </section>
-
-  <div class="col-md-8">
-    <section class="content{% if page.justify %} justify{% endif %}">
-      {{ content }}
-    </section>
+  <div class="header">
+    <h3 class="tag">
+      <a href="/category/{{ page.category }}/">{{ site.data.categories_name[page.category] }}</a>
+    </h3>
+    <h1 class="title">
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </h1>
+    <div class="date">
+      {{ page.date | date: "%B %e, %Y" }}
+    </div>
   </div>
+  <div class="row body">
 
-  <div class="fb-page col-md-4" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
+    <section class="col-md-8 content{% if page.justify %} justify{% endif %}">
+      {{ content }}
 
-    <br/>
-  <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+      <div class="fb-content">
+        <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
-  <br/>
+        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>
+      </div>
 
-  <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>
+    </section>
+
+    <div class="col-md-4">
+      <div class="fb-page" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
+    </div>
+  </div> <!-- body -->
 
 </section>
 
-<div id="related-articles-container" class="container-fluid">
-  <section id="related-articles" class="row">
+<div id="more-articles-container" class="container">
+  <div class="head-wrapper">
+    <h1 class="container-title">More from {{ page.category | capitalize }}</h1>
+    <span class="view-all">view all</span>
+  </div>
+  <section id="more-articles" class="row">
 
-  {% for post in site.related_posts limit: 4 %}
+    {% for post in site.categories[page.category] limit: 5 %}
+    {% if post.url != page.url %}
+    {% if forloop.index < 5 or found %}
     <div class="article col-sm-3">
       <a href="{{ post.url }}">
         <div class="center-fill-container img-container">
           <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
         </div>
-        <div class="details text-center ">
-          <h3 class="title">{{ post.title | truncatewords: 4}}</h3>
-          <p class="tag">{{ post.tag }}</p>
+        <div class="details">
+          <h3 class="title">{{ post.title | truncatewords: 7}}</h3>
+          <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
         </div>
       </a>
     </div>
-  {% endfor %}
+    {% endif %}
+    {% else %}
+      {% assign found = true %}
+    {% endif %}
+    {% endfor %}
   </section>
 </div>

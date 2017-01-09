@@ -3,50 +3,66 @@
   {% assign post = page %}
 {% endif %}
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=691723664330476";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=691723664330476";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="header" class="container-fluid {% if page.is_post %}post-header{% endif %}">
-  {% if post.image != nil %}
-  <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt=""></div>
-  {% endif %}
-  {% unless page.is_post == true %}
-  <div class="cover center-both text-center">
-   <a  href="{{ post.url }}" class="cover-link"> <h1 class="title">{{ post.title }}</h1></a>
+<a  href="{{ post.url }}">
+<div id="header" class="container {% if page.is_post %}post-header{% endif %}">
+  <div class="row header-row outer-row">
+    {% if post.image != nil %}
+    <div class="col-md-8 tinted cover-image center-fill-container">
+      <div class="img-container">
+        <img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt="">
+      </div>
+    </div>
+    {% endif %}
+    <div class="col-md-4 cover-details">
+      <div class="cover-title-label">
+        Cover Story
+      </div>
+      <div class="cover-title">
+        <a  href="{{ post.url }}" class="cover-link">
+          <h1 class="title">{{ post.title  }}</h1>
+        </a>
+      </div>
+      <div class="red-strip"></div>
+      <div class="cover-excerpt">
+        {{ post.excerpt }}
+      </div>
+    </div>
+    </div>
   </div>
-   {% endunless %}
+</div>
+</a>
 
-  <div class="left">
-  {% if page.is_post and post.next %}
-    <a class="center-both scroll-buttons" href="{{ post.next.url }}">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-  {% endif %}
-  </div>
+<div id="new-articles" class="container content">
+  <div class="container-title">New Articles</div>
+  <section>
+    <div class="row outer-row">
+      {% for post in site.related_posts limit: 5 %}
 
-  <div class="right">
-  {% if page.is_post and post.next %}
-    <a class="center-both scroll-buttons" href="{{ post.previous.url }}">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-  {% endif %}
-  </div>
+      {% if forloop.index == 3 %}
+    </div>
+    <div class="row outer-row">
+      {% endif %}
 
+      <div class="col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %} article-col">
+        <a href="{{ post.url }}">
+          <div class="article">
+            <div class="center-fill-container img-container tinted">
+              <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
+            </div>
+            <div class="details">
+              <div class="head">
+                <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <div class="tag"><a href="/category/{{ post.category }}/">{{ site.data.categories_name[post.category] }}</a></div>
+                <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
+              </div>
+              {% if forloop.index < 3 %}
+              <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify }}{% endif %}</div>
+              {% endif %}
+            </div> <!-- details -->
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
 </div>

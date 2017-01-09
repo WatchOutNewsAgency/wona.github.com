@@ -4,105 +4,50 @@ title: "Watch Out!, IIT Roorkee"
 ---
 {% include header.html %}
 
-<div class="container content">
-  <section id="new-articles" class="row">
-
-  {% for cat in site.data.homepage_categories.new_articles %}
-    {% for post in site.categories[cat] %}
-      {% if post.image != null %}
-        <div class="article col-sm-3">
-          <a href="{{ post.url }}">
-            <div class="cover-container-container">
-              <div class="center-fill-container img-container">
-                <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
-              </div>
-            </div>
-            <div class="details text-center ">
-              <p class="tag">{{ post.category }}</p>
-              <h3 class="title">{{ post.title }}</h3>
-            </div>
-          </a>
-        </div>
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-  </section>
-</div>
-
-<div id="featured-articles-container" class=" container-fluid">
-  <div id="featured-articles" class=" container">
-    <div class="row">
+<div id="featured-articles-container" class="container">
+  <h1 class="container-title">Featured Articles</h1>
+  <div class="row">
+    <div id="featured-articles" class="col-md-8">
       {% for cat in site.data.homepage_categories.featured_articles %}
-        {% for post in site.categories[cat] %}
-          {% if post.image != null %}
-            <div class="article-container col-sm-4">
-              <div class="article {{post.category}}">
-
-                <a href="{{ post.url }}">
-                    <div class="center-fill-container article-cover-container">
-                      <img src="/images/posts/{{ post.image }}" class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
-                    </div>
-                  <div class="details text-center">
-                    <div class="tag">{{ post.category }}</div>
-                    <h3 class="title">{{ post.title }}</h3>
-                    <p class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify | truncate: 75 }}{% endif %}</p>
-                  </div>
-                </a>
-              </div>
-            </div>
-            {% break %}
-          {% endif %}
-        {% endfor %}
+      {% for post in site.categories[cat] %}
+      {% if post.image != null %}
+        {% include horizontal_post.html post=post %}
+      {% break %}
+      {% endif %}
       {% endfor %}
+      {% endfor %}
+    </div>
+    <div class="col-md-4">
+      <div class="fb-page" data-href="https://www.facebook.com/WatchOutNewsAgency/" data-tabs="timeline" data-width="330" data-height="540" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/WatchOutNewsAgency/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/WatchOutNewsAgency/">Watch Out! News Agency</a></blockquote></div>
     </div>
   </div>
 </div>
 
-  <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        {% for video in site.data.youtube %}
-          <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
-        {% endfor %}
-        <!--
-        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
-        <li class="" data-target="#myCarousel" data-slide-to="1"></li>
-        <li class="" data-target="#myCarousel" data-slide-to="2"></li>
-        -->
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        {% for video in site.data.youtube %}
-        <div class="item {% if forloop.first %}active{% endif %}">
-          <div class="cover-image center-vertical"><img class="center-both img-center-fill" src="http://img.youtube.com/vi/{{ video.id }}/hqdefault.jpg" alt=""></div>
-          <div class="container">
-            <div class="video-container center-both">
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="youtube-video" id="youtube-video-{{ video.id }}" data-id="{{ video.id }}" src="https://www.youtube.com/embed/{{ video.id }}?enablejsapi=1&showinfo=0" allowfullscreen></iframe>
-              </div>
-            </div>
-            <div class="carousel-caption" id="youtube-title-{{ video.id }}" data-id="{{ video.id }}">
-              <h1>{{ video.title }}</h1>
-            </div>
-          </div>
+<div id="yt-videos-container" class="container">
+  <h1 class="container-title">Videos</h1>
+  <div class="row">
+    <div class="col-md-8">
+      {% assign video = site.data.youtube.first %}
+      <div class="video-container">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="youtube-video" id="youtube-video-{{ video.id }}" data-id="{{ video.id }}" src="https://www.youtube.com/embed/{{ video.id }}?enablejsapi=1&showinfo=0" allowfullscreen></iframe>
         </div>
-        {% endfor %}
       </div>
-      <a class="left carousel-control" href="#myCarousel" role="button"
-                                                          data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"
-              aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control"
-         href="#myCarousel" role="button"
-                            data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"
-              aria-hidden="true"></span>
-        <span
-              class="sr-only">Next</span>
-      </a>
-      <script type="text/javascript" src="https://www.youtube.com/iframe_api" async></script>
-    </div><!-- /.carousel -->
+      <div class="video-caption" id="youtube-title-{{ video.id }}" data-id="{{ video.id }}">
+        <h2 class="caption">{{ video.title }}</h2>
+      </div>
+    </div> <!-- col-md-8 -->
+    <ul class="col-md-4 video-list">
+      {% for video in site.data.youtube offset: 1 limit: 4 %}
+        <li class="row list-video">
+          <a href="https://www.youtube.com/watch?v={{ video.id }}">
+            <div class="col-md-6 img-container">
+              <img class="center-both img-center-fill" src="http://img.youtube.com/vi/{{ video.id  }}/mqdefault.jpg">
+            </div>
+            <div class="col-md-6 caption"><span class="center-vertical">{{ video.title }}</span></div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div> <!-- row -->
+</div>

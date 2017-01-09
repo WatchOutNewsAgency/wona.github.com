@@ -1,12 +1,25 @@
-<div id="header" class="container-fluid category-header">
-  <div class="cover center-both text-center">
-    <h1 class="title">{{ page.category | capitalize }}</h1>
-  </div>
+{% assign post = site.categories[page.category].first %}
+<div id="header" class="container category-header">
+  <div class="row">
+    <div class="col-md-8 tinted cover-image center-fill-container">
+      {% if post.image != nil %}
+      <div class="img-container">
+        <img class="center-both img-center-fill" src="/images/posts/{{ post.image }}" alt="">
+      </div>
+      {% endif %}
+    </div>
 
-  <div class="left">
+    <div class="col-md-4 cover-details">
+      <div class="cover-title">
+        <a  href="{{ post.url }}" class="cover-link">
+          <h1 class="title">{{ post.title  }}</h1>
+        </a>
+      </div>
+      <div class="date">{{ post.date | date: "%-d %B %Y" }}</div>
+      <div class="cover-excerpt">
+        {{ post.excerpt | truncate: 350 }}
+      </div>
+    </div>
   </div>
-
-  <div class="right">
-  </div>
-
 </div>
+

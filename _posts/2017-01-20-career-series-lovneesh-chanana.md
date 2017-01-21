@@ -39,5 +39,5 @@ Dr. Chanana - We expect that the people that we hire, when they come to us and w
 Dr. Chanana - Take pride in yourself and be proud of your capabilities. Don’t be in a hurry. Think of this as a career for a lifetime, not a single job. In industry the golden rule is that there’ll always be at least one person who earns a salary higher than you. The moment you start comparing, your relationship with your peer group gets strained and your performance is affected.
 
 
-_<b>The article features in our Autumn’16 print issue. The issue’s Cover Story delves into the roadblocks to having a truly meritocratic election at IITR and while the two Big Stories analyse IITR’s security and expound on the limited academic flexibility offered at Roorkee. To read our previous issues visit: [https://issuu.com/wona-iitr](https://issuu.com/wona-iitr)</b>_
+_<b>The article features in our Autumn’16 print issue. The issue’s Cover Story delves into the roadblocks to having a truly meritocratic election at IITR and the two big stories analyse IITR’s security and expound on the limited academic flexibility offered at Roorkee. To read our previous issues visit: [https://issuu.com/wona-iitr](https://issuu.com/wona-iitr)</b>_
 

@@ -4,7 +4,7 @@ title: "The locks they Are A-rattlin’"
 tags: [wona, column]
 category: bigstory
 image: security_cover.jpg
-excerpt: While a student’s life revolves around juggling academics, sports and culturals, the aforementioned subjects face a lot of scrutiny and form the crux of casual discussions about life at IITR.
+excerpt: As is the case with most things at IITR, various inadequacies come to the fore only after an unfortunate mishap. The recent scrutiny involving the curfew of girls and the inadequacy of the IITR hospital have seen the unearthing of many such shortcomings in the area of safety and security at IITR.  Watch Out! digs deeper into a domain that is understated in its importance and as a result is oft overlooked.
 ---
 
 _While a student’s life revolves around juggling academics, sports and culturals, the aforementioned subjects face a lot of scrutiny and form the crux of casual discussions about life at IITR. As is the case with most things at IITR, various inadequacies come to the fore only after an unfortunate mishap. The recent scrutiny involving the curfew of girls and the inadequacy of the IITR hospital have seen the unearthing of many such shortcomings in the area of safety and
@@ -73,5 +73,6 @@ to hire a trained radiologist. He, however, assures us that the X-ray and ECG is
   
 ## Epilogue:
 
-  A lot has been said on the same, and the issue of security and safety on campus has been up for debate for more than a decade now. But as far as definitive measures to solve these issues go, the admin has very little to show. The implementation of a lot of the above said changes could bring about a sea of change in the current state of safety on campus. Achieving this also calls for co-operation and understanding from the student body. It requires one to conduct themselves in a
-  manner that does not put one in danger outside the campus while also working in cohesion with the security authorities.
+A lot has been said on the same, and the issue of security and safety on campus has been up for debate for more than a decade now. But as far as definitive measures to solve these issues go, the admin has very little to show. The implementation of a lot of the above said changes could bring about a sea of change in the current state of safety on campus. Achieving this also calls for co-operation and understanding from the student body. It requires one to conduct themselves in a manner that does not put one in danger outside the campus while also working in cohesion with the security authorities.
+
+__The article features as a Big Story in our Autumn’16 print issue. The issue’s Cover Story delves into the roadblocks to having a truly meritocratic election at IITR along with an added Big Story analysing the limited academic flexibility offered at Roorkee. To read our previous issues visit: https://issuu.com/wona-iitr__

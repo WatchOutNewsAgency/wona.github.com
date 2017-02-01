@@ -39,14 +39,15 @@ The meeting was then opened up for the general populace, who spoke up about thei
 
 **SAC Website:** SAC has plans to release a website of their own, within the **next 5-6 days**, with the aim of improving the depth of penetration of any new information, and letting all students access the most important information, neatly compiled, at their fingertips.
 
-**Alumni Funding:** A Connect on Request platform has been announced, which will be functional from the **2nd week of February.** This portal will allow students to seek guidance from alumni who have gone down the same road, as well as allow groups to raise crowdfunding requests where in teams participating in competitions may receive financial support from their alumnus. In the interest of transparency such alumni funding requests will involve the following stakeholders:
+**Alumni Connect:** A Connect on Request platform has been announced, which will be functional from the **2nd week of February.** Also, an Alumni Internship program has been proposed, which will allow alumni to directly recruit students for their summer/winter internships. 
+
+**Alumni Funding:** This portal will allow students to seek guidance from alumni who have gone down the same road, as well as allow groups to raise crowdfunding requests where in teams participating in competitions may receive financial support from their alumnus. In the interest of transparency such alumni funding requests will involve the following stakeholders:
 
  - The beneficiary: Groups, sports teams, etc.
  - Dean of Alumni Affairs and International Relations office
  - ARC
  - The donor
 
-Also, an Alumni Internship program has been proposed, which will allow alumni to directly recruit students for their summer/winter internships. 
 
 **Feedback Forms:** Students demanded transparency in the results of the feedback that professors got for teaching a course, and asked the SAC why no action was taken against the professors even though the course was deemed unsatisfactory. The SAC promised to push for the transparency of these feedback forms in the **next senate meeting.**
 
@@ -66,7 +67,7 @@ Also, an Alumni Internship program has been proposed, which will allow alumni to
 
 The sister IITs are no stranger to such General Body Meetings. IIT Bombay has a very organized idea of GBMs where the Gymkhana President - a faculty-in charge of the Student’s Gymkhana - chairs the meeting, and aims at reviewing the performance of the Office Bearers. All students can attend the meeting but only members of the General Body present can vote. The meeting is conducted once a semester and the quorum is 50% of the members.
 
-Being a first in IITR, the meeting set up a good precedent for the next batches of representatives to follow. However, the success of such a meeting heavily depends on an informed and strong response from the students themselves. The scant numbers at the senate hall on Monday is an lamentable manifestation of the enthusiasm that such discussions see on the SAC facebook group. The other factor defining such a meet is how the students’ questions are met. While most responses offered adequate justification and logical arguments, few failed to be satisfactory. A few discussions were concluded with the promise to put forward a solution. Promising it may seem, but whether the word is backed up by work remains to be seen.
+Being a first in IITR, the meeting set up a good precedent for the next batches of representatives to follow. However, the success of such a meeting heavily depends on an informed and strong response from the students themselves. The scant numbers at the senate hall on Monday is a lamentable manifestation of the enthusiasm that such discussions see on the SAC facebook group. The other factor defining such a meet is how the students’ questions are met. While most responses offered adequate justification and logical arguments, few failed to be satisfactory. A few discussions were concluded with the promise to put forward a solution. Promising it may seem, but whether the word is backed up by work remains to be seen.
 
 IITR has had an appalling record when it comes to tangible action on the part of its student representatives. The earlier executive committees have had a track record of passivity, with only a few coming off as outliers. This SAC has clearly differentiated itself in this regard. In the short span of time afforded to them, there has been laudable work done. However, much needs to be done as IITR can be seen to finally wake from its slumber. Promising it may seem, but whether all the words are backed up by work remains to be seen. 
 

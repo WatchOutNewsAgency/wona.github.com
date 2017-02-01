@@ -4,6 +4,7 @@ title: "SAC General Body Meet | 30th January, 2017"
 tags: [wona, news, sac]
 category: sac
 image: cover-gbm.jpg
+author: "Aditya Peshin, Vikrant Saha, Ayushi Gupta, Nikhil Arora, Saurav Mahale"
 excerpt: The Senate Hall on Monday, played host to a first of its kind, open for all General Body Meeting organised by the Student Affairs Council. The event aimed at giving the student body a chance to voice their concerns regarding their issues at IITR and to communicate them directly to the General Secretaries. It also gave the appointed secretaries an opportunity to share their contributions and policies with the student populace. 
 ---
 

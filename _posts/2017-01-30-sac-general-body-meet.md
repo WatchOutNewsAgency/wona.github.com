@@ -20,7 +20,7 @@ The meet was started by the GS Hostel Affairs and Convenor of the SAC, who updat
 ![Meta Chart](/images/posts/meta-chart.jpeg){: style="width: 90%;"}
 
 
-Some changes relating to technical, academic and alumni affairs were intimated by the respective secretaries. To the relief of many students, an update on the attendance rule was given, stating that the proposal to increase the attendance to 90% was rejected by 14 of the 21 head of departments, with 3 HOD’s still undecided.d. Talks for a Q&A BOT, that can answer any question any student has, are ongoing. To ease the process of sharing current institute affairs, a Media Cell in association with Watch Out! and a Broadcasting Channel are to be set up. A temporary Alumni Connect on Request portal will be set up(by the second week of february) which will enable crowdfunding by multiple alumni along with internship opportunities, all through a single channel.
+Some changes relating to technical, academic and alumni affairs were intimated by the respective secretaries. To the relief of many students, an update on the attendance rule was given, stating that the proposal to increase the attendance to 90% was rejected by 14 of the 21 head of departments, with 3 HOD’s still undecided. Talks for a Q&A BOT, that can answer any question any student has, are ongoing. To ease the process of sharing current institute affairs, a Media Cell in association with Watch Out! and a Broadcasting Channel are to be set up. A temporary Alumni Connect on Request portal will be set up which will enable crowdfunding by multiple alumni along with internship opportunities, all through a single channel.
 
 
 ### Question and Answer session:

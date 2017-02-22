@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can we trust ourselves? 
+title: Can We Trust Ourselves? 
 tags: [wona, column]
 category: editorial
 author: "Lanka Adarsh, Vedansh Bhartiya, Yash Singh"

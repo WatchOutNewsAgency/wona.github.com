@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The SAC has holes: An analysis of the electoral system"
-tags: [wona, news, sac]
-category: sac
+tags: [wona, column]
+category: coverstory
 image: cover-sac-holes.png
-excerpt: In most discussions pertaining to systems, processes and cultures, IITR is found to be lacking when compared against its sister IITs. The previous academic year saw us moving one step further in one such domain – our electoral systems. However, just as we saw the transition being successful and meritocracy coming to the fore in the case of elections, an unfortunate incident in Jawahar Bhawan, took us two steps backward. Incidents like these force us to dwell upon our shortcomings, both in terms of students and organisations. Herein, we try to offer an analysis of the electoral system at IITR.
+excerpt: In most discussions pertaining to systems, processes and cultures, IITR is found to be lacking when compared against its sister IITs. The previous academic year saw us moving one step further in one such domain – our electoral systems. However, just as we saw the transition being successful and meritocracy coming to the fore in the case of elections, an unfortunate incident in Jawahar Bhawan, took us two steps backward.
 ---
 
 In most discussions pertaining to systems, processes and cultures, IITR is found to be lacking when compared against its sister IITs. The previous academic year saw us moving one step further in one such domain – our electoral systems. However, just as we saw the transition being successful and meritocracy coming to the fore in the case of elections, an unfortunate incident in Jawahar Bhawan, took us two steps backward. Incidents like these force us to dwell upon our shortcomings, both in terms of students and organisations. Herein, we try to offer an analysis of the electoral system at IITR.
@@ -28,27 +28,27 @@ Even though the system has been revamped and the atmosphere seems to favour comp
 
 ## Drawbacks of the current system:
  
-### A public addressal system (or a lack thereof):
+#### A public addressal system (or a lack thereof):
  
 Perhaps one of the biggest issues yet to be addressed, there exists no provision for candidates to put forward their opinions and debate openly about issues that plague the campus. The outlet for such an addressal system does exist now in the form of the ineffectual and seemingly fictional “Bhawan Addressal System”. The system is a relic and allows for candidates to make speeches of a specified duration in each hostel, highlighting their credentials and plans. 
 
 However, the system is a complete failure, partly due to the apathy of the student body and partly due to the system it promises to be. The ADOSW mentions, “We tried allocating time slots to candidates for using the Bhawan addressal system. The observation was that the voter turnout was scant and uninterested.”
  
-### Printed Posters:
+#### Printed Posters:
  
 Usage of printed posters for campaigning is prohibited, even though they are an extremely important way of communicating the agendas of a candidate to the masses. Instead, the code of conduct allows for hand written posters to be put up on stipulated places. The motive behind this restriction is a logical one - to ensure that the students do not overspend during the election process and the problems of accounting such a provision faces. However one does not have furrow their brows to come up with a solution to this problem, discussed in the later stages of our story.
  
-### Online Campaigning:
+#### Online Campaigning:
  
 The code of conduct strictly prohibits online campaigning of any sort since it cannot be regulated and that there are no checks to arrest any unwanted developments, which might lead to the defamation of the college. In a scathing but true indictment, “An online portal is being worked on and we wouldn’t mind going online after the college has attained a level of maturity befitting an IIT”, says Prof. Nauriyal.   
  
-### Unequal footing for the female candidates :
+#### Unequal footing for the female candidates :
  
 ![SAC Holes](/images/posts/sac-holes-3.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 Since the girls have to be back in their own hostel by 11 pm, as well as cannot enter other hostels for campaigning as easily as the male candidates, they enter the ring with a handicap. The roots of this can be found in the age old issue surrounding the curfew on girls. With that in place, a female candidate can barely match the reach of a male one.
  
-### Limited Role of certain posts:
+#### Limited Role of certain posts:
  
 Certain posts at the hostel as well as the institutional level are viewed as redundant, as they have no assigned responsibility, and a very limited active role. The ADOSW’s response is best stated in his own words:
 “It is always the responsibility of the elected member to implement what he has planned. No one restricts the representatives to any particular activities. If the Secretary is enterprising enough, he can bring up new ideas, and if they are good we will go ahead with them. No post is irrelevant and if the students are ready to work on their posts then there is a lot that can be achieved. If someone just wants to enjoy the perks of being elected, he will not work. Furthermore, if you genuinely have a sound logic to refute some posts, do come to us and we will consider it accordingly. A similar thing happened with General Secretary (Finance) this time, as we felt that the budget didn’t need a separate person just to handle the financial affairs and we got rid of the post.”
@@ -59,11 +59,11 @@ Certain posts at the hostel as well as the institutional level are viewed as red
 
 They say learning never stops, and it shouldn’t in this case either. We take this opportunity to examine our procedures to see where we lack, and how we can improve.
  
-### Soapboxes:
+#### Soapboxes:
  
 A soapbox is a central event where the contesting candidates comes and ask relevant questions to each other. It misses the tension and heat of a debate all while having incisive questions asked among the candidates in the fray. When asked about a soapbox Prof. Indradeep Singh, ADOSW (Discipline) cited the trivial and workable details such as the unavailability of an adequate space and security issues as the roadblocks to conduct such an event. “The student population is around 8000. Considering that around 1500 turn up, we lack a place to accommodate them at once”, says Prof. Indradeep Singh.
  
-### Comprehensive accounting of printed posters:
+#### Comprehensive accounting of printed posters:
  
 We suggest for the election commission to limit the following factors in the case of printed posters:
 
@@ -73,7 +73,7 @@ We suggest for the election commission to limit the following factors in the cas
  
 Accounting for the aforementioned factors immediately deals with the hazards posed by unsupervised spending and ensures effective campaigning. The election commission in IIT Bombay, allows for banners and flexes to be put up in pre decided spaces, which both curtails any extra expenditure, and gives equal footing to all the candidates involved in door-to-door campaigning. Each candidate is allowed to put up a 6’x3’ flex, containing the candidate’s photo and announcing the main points of their manifesto.
  
-### Centralised portals:
+#### Centralised portals:
  
 The fairness of not having discussions and campaigning on online mediums cannot be debated. Such discussions often venture into uncomfortable territories and cannot be stopped from proliferating into controversies. However, we understand that there is no online portal or forum where candidates can put up their manifestos, nor does the general public have any idea as to where they can find a copy of the manifesto. In other IIT’s, provisions of online portals displaying each candidate’s manifestos have proven to be an extremely efficient method to keep the masses updated on each candidate’s modus operandi, and has helped the decision making process stay simple yet based on merit.
  

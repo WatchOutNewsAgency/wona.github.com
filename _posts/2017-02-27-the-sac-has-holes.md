@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The SAC has holes: An analysis of the electoral system"
+title: "The SAC has holes: Analysis of the electoral system"
 tags: [wona, column]
 category: coverstory
 image: cover-sac-holes.png

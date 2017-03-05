@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exchange Diaries : Lucerne University of Applied Sciences and Arts, Switzerland.docx"
+title: "Exchange Diaries : Lucerne University of Applied Sciences and Arts, Switzerland"
 image: switzerland-2.jpg
 tags: [wona]
 category: career 

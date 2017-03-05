@@ -4,7 +4,7 @@ title: "Exchange Diaries : Lucerne University of Applied Sciences and Arts, Swit
 image: switzerland-2.jpg
 tags: [wona]
 author : "Chitransh Chatnani"
-category: 
+category: academics
 ---
 
 To experience and learn, to learn and apply, to apply and succeed or fail, and hence experience something new altogether. This for me is the instinctive orbit that makes growth modulus. And if the experience is eccentric, days are not dreary and the evenings become laughable.

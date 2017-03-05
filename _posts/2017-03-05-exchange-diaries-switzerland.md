@@ -3,7 +3,8 @@ layout: post
 title: "Exchange Diaries : Lucerne University of Applied Sciences and Arts, Switzerland"
 image: switzerland-2.jpg
 tags: [wona]
-category: career 
+author : "Chitransh Chatnani"
+category: 
 ---
 
 To experience and learn, to learn and apply, to apply and succeed or fail, and hence experience something new altogether. This for me is the instinctive orbit that makes growth modulus. And if the experience is eccentric, days are not dreary and the evenings become laughable.
@@ -23,7 +24,7 @@ After getting all these signatures you have to breathe and congratulate yourself
 
 ### The Fall of 2016
 
-![Switzerland](/images/posts/switzerland-3.jpg)
+![Switzerland 3](/images/posts/switzerland-5.jpg){: style="width: 90%;"}
 
 We (me, Deovrat and Kshitij) applied together for Hochschule Luzern, Switzerland and were ecstatic to get our acceptance e-mail on 18th May, 2016 for the coming Fall Semester. (September ’16 – February ‘17). The dogs of CS-169, Rajendra Bhawan had been unleashed to waggle tails for European blondes, hike along scenic Alps, bootleg through Roman alleys, and growl Grützi at every other firang dog that passed through.
 
@@ -33,6 +34,8 @@ The classes begun from 21st September and hence came forward the clear picture o
 
 ### Hochshule Luzern
 
+![Hochshule-Luzern](/images/posts/Hochschule-Luzern.jpg){: style="width: 90%;"}
+
 30 ECTS meant 8 courses - 2 Major modules (12), 2 Related Modules (6), 3 Minor Modules (9), and a language course(3). 
 
 One of the minor modules was called ‘Swissness’, which covered everything about their history, culture, geography, governance, and industries. It was compulsory for all the exchange students. This module and Deutsch language course was an interesting experience as the lectures were very interactive and student body was a diverse concentration of cultures from everywhere. A particular lecture on the democratic structure of Switzerland was followed by a discussion between me,
@@ -41,17 +44,19 @@ Sebastian (from Dublin), Katja (from Vienna) and Andrew (from California) about 
 The other six modules were all in the domain of architecture. The related modules were a compliment for the personal project that an individual is designing or researching about in his major module. I worked on three different design projects, two case studies and a research paper through the semester.  Every week for every project a 90 minutes slot was fixed with the professor of that particular module. The professor has 12-16 individual projects under him or 3-4 groups if it’s a group project. The personal discussions were very intensive. I grasped that much of the learning is imbibed when one discusses his progress week after week with his mentor, in a tuition kind of methodology. Those 90 minutes were a dreadful fear through the semester, because you cannot subterfuge a person who has been following your work from the very beginning. A lot of homework had to be done so that I have enough substance for making a quality discussion. Snow falls were missed and all nighters were adored a lot of times.
 
  September to December went from week to week managing work, time, and food. I got a bit frustrated for not being able to live the Euro-trip I had imagined. One weekend in November, I decided to close my laptop and go to Venice for Bienalle.  The intriguing Italy of kings and merchants, a city floating on water, narrow alleys leading up to grand piazzas and majestic Castles. It was all fun and smoke, but I was choked with unsurmountable work for the weeks that followed. From
- Chirstmas to New Year were holidays half spent sleeping and half in the mist of French Alps. January was lined up with exams, final presentations and critique.  
+ Christmas to New Year were holidays half spent sleeping and half in the mist of French Alps. January was lined up with exams, final presentations and critique.  
 
 ### The Swiss Deal
 
-![Switzerland 2](/images/posts/switzerland.jpg){: style="width: 50%; float: left; margin-right: 4%;"}
+![Switzerland](/images/posts/switzerland.jpg){: style="width: 45%; float: left; margin-right: 4%;"}
 
 Swiss folks, like their climate, are usually very cold. They have evolved confined to each other in small communities that thrived in valleys and lake sides surrounded by mountains. Being a major tourist destination, the locals have seen a lot of foreigners all their lives and somehow have grown indifferent to their presence. While serving the visitors with all hospitality and services, they remain closely knit in their own inner circles. A greeting in Swiss German is the password to get
  them talking, but don’t try to get too friendly. They take time to absorb a newbie in their life.
 
 Although the popular notion of being a honeymoon destination still holds, it is a very narrow view for a country overshadowing major global players in technology, economy and environment preservation. A landlocked small country between major powers like France, Germany, Italy and Austria, it is with great resilience and determination that they have been able to hold on to their idea of Swiss conservatism and national identity. Swiss German is a very different dialect from
  German that even the Germans find difficult understanding.  Being in the center of Europe and being filthy rich courtesy to the Jews that developed the banking system to rope in all the gold, the country has had a rich past in art, architecture and medieval towns. Moreover, their neutral stand and powerful defense has been able to preserve these treasuries through the dark ages of World War. 
+
+![Switzerland 4](/images/posts/switzerland-4.jpg){: style="width: 90%;"}
 
 In spite of being conceited and snobbish like a goblin, the Swiss have sentiments. And all their emotional nerves are attached to some pounding heart in their wrists. The people have an OCD with time skills. Being late was never accepted. Being an Indian was a major joy for the fun we can have in recklessness. The food they eat is no food at all. Cheese, chocolate and bread are supplements for us, main course for them. ‘Swiss Watching’ by Diccon Bewes is much recommended book to know about
  Switzerland and its people.
@@ -61,3 +66,5 @@ But in all this time and amidst all those clones of perfect sapiens, I made some
 Now, I am much excited for my last year in R-land. The campus has a different vibe, much progressive and less fearful. With every new notice there is a relentless cry to break away from ever withholding past. It’ll be another eccentric experience to meet girls whistling in Main building lawns coming back from BusTea at 4 o’clock in morning. 
 
 __Ciao.__
+
+![Switzerland 2](/images/posts/switzerland-3.jpg){: style="width: 90%;"}

@@ -4,6 +4,7 @@ title: "The SAC has holes: Analysis of the electoral system"
 tags: [wona, column]
 category: coverstory
 image: cover-sac-holes.png
+author: "Chitransh Chatnani"
 excerpt: In most discussions pertaining to systems, processes and cultures, IITR is found to be lacking when compared against its sister IITs. The previous academic year saw us moving one step further in one such domain – our electoral systems. However, just as we saw the transition being successful and meritocracy coming to the fore in the case of elections, an unfortunate incident in Jawahar Bhawan, took us two steps backward.
 ---
 

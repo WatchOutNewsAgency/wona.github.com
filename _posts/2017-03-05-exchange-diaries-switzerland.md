@@ -24,7 +24,7 @@ After getting all these signatures you have to breathe and congratulate yourself
 
 ### The Fall of 2016
 
-![Switzerland 3](/images/posts/switzerland-5.jpg){: style="width: 90%;"}
+![Switzerland 3](/images/posts/switzerland-5.jpg)
 
 We (me, Deovrat and Kshitij) applied together for Hochschule Luzern, Switzerland and were ecstatic to get our acceptance e-mail on 18th May, 2016 for the coming Fall Semester. (September ’16 – February ‘17). The dogs of CS-169, Rajendra Bhawan had been unleashed to waggle tails for European blondes, hike along scenic Alps, bootleg through Roman alleys, and growl Grützi at every other firang dog that passed through.
 
@@ -34,7 +34,7 @@ The classes begun from 21st September and hence came forward the clear picture o
 
 ### Hochshule Luzern
 
-![Hochshule-Luzern](/images/posts/Hochschule-Luzern.jpg){: style="width: 90%;"}
+![Hochshule-Luzern](/images/posts/Hochschule-Luzern.jpg)
 
 30 ECTS meant 8 courses - 2 Major modules (12), 2 Related Modules (6), 3 Minor Modules (9), and a language course(3). 
 
@@ -48,7 +48,7 @@ The other six modules were all in the domain of architecture. The related module
 
 ### The Swiss Deal
 
-![Switzerland](/images/posts/switzerland.jpg){: style="width: 45%; float: left; margin-right: 4%;"}
+![Switzerland](/images/posts/switzerland.jpg){: style="width: 50%; float: left; margin-right: 4%;"}
 
 Swiss folks, like their climate, are usually very cold. They have evolved confined to each other in small communities that thrived in valleys and lake sides surrounded by mountains. Being a major tourist destination, the locals have seen a lot of foreigners all their lives and somehow have grown indifferent to their presence. While serving the visitors with all hospitality and services, they remain closely knit in their own inner circles. A greeting in Swiss German is the password to get
  them talking, but don’t try to get too friendly. They take time to absorb a newbie in their life.
@@ -56,7 +56,7 @@ Swiss folks, like their climate, are usually very cold. They have evolved confin
 Although the popular notion of being a honeymoon destination still holds, it is a very narrow view for a country overshadowing major global players in technology, economy and environment preservation. A landlocked small country between major powers like France, Germany, Italy and Austria, it is with great resilience and determination that they have been able to hold on to their idea of Swiss conservatism and national identity. Swiss German is a very different dialect from
  German that even the Germans find difficult understanding.  Being in the center of Europe and being filthy rich courtesy to the Jews that developed the banking system to rope in all the gold, the country has had a rich past in art, architecture and medieval towns. Moreover, their neutral stand and powerful defense has been able to preserve these treasuries through the dark ages of World War. 
 
-![Switzerland 4](/images/posts/switzerland-4.jpg){: style="width: 90%;"}
+![Switzerland 4](/images/posts/switzerland-4.jpg)
 
 In spite of being conceited and snobbish like a goblin, the Swiss have sentiments. And all their emotional nerves are attached to some pounding heart in their wrists. The people have an OCD with time skills. Being late was never accepted. Being an Indian was a major joy for the fun we can have in recklessness. The food they eat is no food at all. Cheese, chocolate and bread are supplements for us, main course for them. ‘Swiss Watching’ by Diccon Bewes is much recommended book to know about
  Switzerland and its people.
@@ -67,4 +67,4 @@ Now, I am much excited for my last year in R-land. The campus has a different vi
 
 __Ciao.__
 
-![Switzerland 2](/images/posts/switzerland-3.jpg){: style="width: 90%;"}
+![Switzerland 2](/images/posts/switzerland-3.jpg)

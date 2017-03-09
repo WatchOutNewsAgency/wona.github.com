@@ -7,7 +7,7 @@ category: sac
 author: "Aman Nayak, Anurag Mall, Nikhil Arora"
 ---
 
-The last few months have seen a rise in the cases of dog bites in and around the campus, with several students speaking out on social media to express their grievances against the dog menace. A large section of the student community has regularly petitioned the Students Affairs’ Council to take concrete action regarding this issue.
+The last few months have seen a rise in the cases of dog bites in and around the campus, with several students speaking out on social media to express their grievances against the dog menace. A large section of the student community has regularly petitioned the Students Affairs’ Council to take concrete action regarding this issue. Here, we try to look at the issue and figure why it refuses to die down.
 
 ### Our hands are tied
 
@@ -23,7 +23,8 @@ other fertile and territorial dogs from outside the campus taking their place. W
 
 Furthermore, a memorandum issued by the Department of Personnel and Training [2] states that in all problems relating to stray animals, “no association, recognised or unrecognised, shall take recourse to action on their own, either themselves, or through any person employed by them like Security Guards.” 
 
-The stalemate
+### The stalemate
+
 Essentially, laws protecting animal rights makes it very hard for the authorities to act upon the students’ requests, and restricting the entry of dogs is impractical given that the campus is porous. Sterilising and vaccinating the dogs is currently the most practical means to make our campus safe. Additionally, preventing dogs from entering the bhawans by monitoring the gates constantly is definitely workable.
 
 

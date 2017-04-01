@@ -6,9 +6,9 @@ image: illustration-camera_1x.png
 category: phekingnews
 ---
 
-A month after the breaking of the metaphorical “pinjra”, IITR has seen a palpable change in the levels of security and surveillance employed in the campus. One of the oft cited challenges to the free-campus movement was the lack of security and the porous nature of our campus. In a fitting response to these issues, the administration has upped the supervision in the institute to previously unforeseen standards with even greater levels anticipated in the future. Upon a closer
-examination of these measures, there have been some unsettling discoveries that have caught our eye and refuse to let go of it.
+A month after the breaking of the metaphorical “pinjra”, IITR has seen a palpable change in the levels of security and surveillance employed in the campus. One of the oft cited challenges to the free-campus movement was the lack of security and the porous nature of our campus. In a fitting response to these issues, the administration has upped the supervision in the institute to previously unforeseen standards with even greater levels anticipated in the future. Upon a closer examination of these measures, there have been some unsettling discoveries that have caught our eye and refuse to let go of it.
  
+
 ### The low down
 
 The security of the campus can be broadly analysed through the lens of the Human Resource employed and the technology accompanying them. As a first and warranted step, there has been a significant increase in the number of guards patrolling the campus. However, incredulity kicked in when we came across the plan to employ a group of three female and two males to observe vigilance across certain hotspots. The move bears an uncanny resemblance to a policing tactic employed in a neighbouring state. Referred by an uncalled smearing of one of Shakespeare’s chief protagonists, that move has seen considerable flak from various sections of the society for it aims at outright moral policing and privacy breach. We can only hope that this likeness in implementation is not driven by a likeness in vision and aims.

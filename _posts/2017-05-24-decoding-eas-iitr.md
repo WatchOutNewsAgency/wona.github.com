@@ -3,7 +3,7 @@ layout: post
 title: "Decoding EAS-IITR : Early-warning, Earthquake Alarm System"
 tags: [wona]
 category: tech
-author: "Ekdeep Singh Lubana, Vaibhavi Katiyar"
+author: "Ekdeep Singh Lubana, Vaibhavi Katiyar, Dhawal Pagay, Aman Nayak"
 image: earthquake.jpg
 ---
 

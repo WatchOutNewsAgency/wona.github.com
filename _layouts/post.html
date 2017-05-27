@@ -12,9 +12,11 @@ layout: layout
     <div class="date">
       {{ page.date | date: "%B %e, %Y" }}
     </div>
+    {% if page.author != null %}
     <div class="author">
       - {{ page.author }}
     </div>
+    {% endif %}
   </div>
   <div class="row body">
 

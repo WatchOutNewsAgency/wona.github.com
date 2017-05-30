@@ -3,7 +3,7 @@ layout: post
 title: In Search of Great Indian English Literature
 tags: [wona, column]
 category: editorial
-author: "Lanka Adarsh"
+author: "Lanka Adarsh with inputs from Utkarsh Bajpai, Aaushi Kamble, Saurav Mahale, Ravee Chawal and Saihimal Allu"
 image: indian-literature.jpg
 excerpt: Literature, which is art married to thought, and realization untainted by reality – seems to me the end toward which all human effort would have to strive, if it were truly human and not just a welling up of our animal self
 ---

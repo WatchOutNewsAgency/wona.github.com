@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Search of Great Indian Literature
+title: In Search of Great Indian English Literature
 tags: [wona, column]
 category: editorial
 author: "Lanka Adarsh"

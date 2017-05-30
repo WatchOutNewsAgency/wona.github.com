@@ -1,0 +1,39 @@
+---
+layout: post
+title: In Search of Great Indian Literature
+tags: [wona, column]
+category: editorial
+author: "Lanka Adarsh"
+image: indian-literature.jpg
+excerpt: Literature, which is art married to thought, and realization untainted by reality – seems to me the end toward which all human effort would have to strive, if it were truly human and not just a welling up of our animal self
+---
+
+#### “Literature, which is art married to thought, and realization untainted by reality – seems to me the end toward which all human effort would have to strive, if it were truly human and not just a welling up of our animal self” – Fernando Pessoa, _The Book of Disquiet_
+ 
+Methods/means of communication have evolved simultaneously with our species; what began as gestures and symbols grew into languages, each with their innate grammatical logic and vocabulary. A desire to store information led to the creation of dialects; these twin inventions, when used in conjunction - to address the need of expressing oneself - was baptised “literature”. Today, literature is not merely a means to preserve knowledge; it serves to express the writer’s ideas, opinions and beliefs. It is this body of work - thus derived - that is used as an instrument for the infusion of ideas on a large scale. 
+ 
+Literature – by nature – is subjective; any effort made to sift good literature from the mediocre, the bad and the useless will tend to elicit mixed responses from its readers. Nevertheless, for purposes of this editorial, the term “good literature” needs to be defined and elaborated upon.
+ 
+If there is such a thing as good literature, it is thus declared by scholars. Notwithstanding this observation, one of the primary characteristics of a great book is universality - its ability to engage a wide range of audiences, each with their own complexities and taste. The story and the quality of language – the yarn and the way it is spun – are also definitive attributes. The fourth – perhaps lending it the added advantage of relatability – is insight; a commentary, reflection or discourse on the human condition; oftentimes, this may be implied rather than direct, deduced from the actions of a character or correlations in characterisations.  Most importantly, however, any great work of literature should distinguish itself, being unique in at least one way: in Julian Barnes’ _The Sense of an Ending_, it is the unreliable narrator with his seemingly malleable memories; in Elanor Catton’s The Luminaries, pivotal characters are assigned each of the twelve zodiac signs or associated with one of the planets, and the narrative is based on the lunar cycle. Richard Flanagan’s The Narrow Road to the Deep North enchants the reader with its hauntingly beautiful narrative, employing no direct speech.
+ 
+Listing these characteristics does not liberate literature from the wrath of its subjectivity, for these parameters are, in themselves, subjective; several books deemed abhorrent upon release go on to become classics (_The Picture of Dorian Gray_ by Oscar Wilde is one such example); whether this is due to a delayed acceptance of unpopular opinions is hard to ascertain. Tastes also differ from one person to the other, scholarly or otherwise; _The Narrow Road to the Deep North_ was reportedly rejected outright by a jury for a national prize, but went on to win the Man Booker Prize.
+ 
+#### “For some, English-language Indian writing will never be more than a post-colonial anomaly, the bastard child of Empire, sired on India by the departing British; its continuing use of the old colonial tongue is seen as a fatal flaw that renders it forever inauthentic.” – Salman Rushdie, _Mirrorwork: 50 Years of Indian Writing_
+ 
+Essentially, there seem to be two types of Indian (English) literature: the first, originally written in English, and the second, written in a vernacular language thereupon translated to English. With both, several shortcomings are immediately visible.
+ 
+In the same passage as the source of the latter quote (a preface), Salman Rushdie ponders over the reason for the inclusion of only one translated work in the anthology; he sees it as a manifestation of the “genuine problem of translation in India”, where authors writing in vernacular languages do not get the recognition they deserve due to the inadequacies of their translators. This problem, he assures us, is “certainly much diminished” due to efforts made by UNESCO and the Indian Sahitya Academy – but “not eradicated”. A parallel can be drawn with the national film industry; when being voiced over in a different language, the derived meaning may greatly diverge from the one originally implied.
+ 
+While prizes do not always herald the addition of new works to the conglomerate of good literature, they are important markers of their quality. To date there have been only four Indian recipients of the Man Booker Prize (of whom only one – Arundhati Roy – can be considered “truly” Indian), one of the Nobel Prize for Literature (Tagore), and none of the Pulitzer Prize for fiction; this rather paltry number is cause for concern. 
+ 
+What, therefore, are we doing collectively wrong?
+ 
+Most noticeably, there is no incentive to use English as a medium. In order to communicate with the masses, the language that ensures most readership is Hindi; any English work, therefore, in order to be commercially successful must use oversimplified language, in addition to clichéd stories and themes. As a result, a majority of contemporary Indian literature is unimaginative, unoriginal and oligopolistic, with the likes of Chetan Bhagat, Durjoy Dutta, Preeti Sheenoy, Ravinder Singh and Amish Tripathi being its forerunners; these are the figures the younger generations of readers and authors look up to, forming a vicious cycle of mediocrity. Indian literature seldom strays outside the narratives of jilted lovers or stories of overcoming loss; while these are possibly elements of a great work of literature, it cannot be constituted by these alone.
+ 
+Furthermore, it is quite rare for an Indian author to use quintessential English vocabulary, owing mostly to the education meted out in Indian schools. Our stories and poems contain nouns and expressions that we – as Indians – see and use in our everyday lives. A set of such words would be _Memsahib_, train station, railing, _Oye_; their English counterparts are (respectively) Madam, railway station/ train depot, balustrade and pardon me. While these sets may seem largely identical, they are markedly different in spirit and effect; one seems to pride itself on its Indianess, the other lends it a universal air. Although books using a regionalised vocabulary are less likely to succeed internationally, several have; Kiran Desai’s _The Inheritance of Loss_ is one such work.
+ 
+India, while tolerant (in the sense that it allows for the peaceful coexistence of several diverse communities, whether divided by religion, state or caste), is eternally averse to unpopular opinions; how, then, do artists – because writers are artists in their own way – express themselves honestly? Salman Rushdie helplessly maintains a safe distance from India – the setting of his Man Booker Prize winning book, _Midnights Children_ – in light of the large protests that erupted after the release of The Satanic Verses; M. F. Hussain was rather harshly chastised for his painting depicting a nude Saraswati; while India may claim to be a democracy, freedom of speech and expression are only valid unless no sentiments are hurt, which is rather often. Being vocal in opposition of a popular viewpoint precedes social exclusion and ridicule.
+ 
+Perhaps as India grows older, there shall be more room for art and literature; for now the picture is rather bleak and uncertain. 
+
+_Illustration Credits: Christoph Neimann_

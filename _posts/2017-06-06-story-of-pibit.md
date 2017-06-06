@@ -2,8 +2,7 @@
 layout: post
 title: "The Story of Pibit"
 tags: [wona]
-category: career
-author: 
+category: career 
 image: pibit_logo.png
 excerpt: Pibit is an IITR start-up which has created a digital platform for the local merchants where they can connect to potential customers.
 ---

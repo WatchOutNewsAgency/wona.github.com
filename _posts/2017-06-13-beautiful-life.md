@@ -3,7 +3,7 @@ layout: post
 title: It's a Beautiful Life
 tags: [wona, column]
 category: editorial
-author: "Lanka Adarsh"
+author: "Lanka Adarsh, Anushrut Gupta"
 image: beautiful-life.jpg
 excerpt: The gods envy us. They envy us because we're mortal, because any moment might be our last. Everything is more beautiful because we're doomed.
 ---

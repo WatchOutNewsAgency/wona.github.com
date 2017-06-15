@@ -25,7 +25,11 @@
   <meta property="og:type" content="{% if page.excerpt %}article{% else %}website{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
   <meta property="og:image" content="{{ site.url }}/images/{% if page.image %}posts/{{page.image}}{% else %}posts/main-building.jpg{% endif %}" />
-  <meta property="og:description" content="{{ desc }}" />
+  {% if page.description != null %}
+    <meta property="og:description" content="{{ page.description }}" />
+  {% else %}
+    <meta property="og:description" content="{{ desc }}" />
+  {% endif %}
   <!-- Open Graph protocol -->
 
   <!-- Facebook tags -->

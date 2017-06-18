@@ -12,7 +12,7 @@ _"Four students from IIT Roorkee made the institute proud by grabbing the top sp
  
  
 
-__WONA: First off all, how’d it all begin!__
+__WONA: First off all, how’d it all begin?__
  
 __TEAM SNAP__: Getting the first prototype ready, filing a patent, and publishing a paper on the results of the pilot implementation - an idea that I had while sinking in my bed, has certainly come a long way. I had the idea for this project in December, 2015, and have been working on the same, since then.
  

@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries : Tata Steel, Jamshedpur"
 image: tata-steel.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Aman Mansuri is a 4th year student in the Department of Mechanical Engineering. Read on as he recounts his experience of interning with Tata Steel, Jamshedpur during the summers of 2016._

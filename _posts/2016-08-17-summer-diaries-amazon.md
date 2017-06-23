@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Amazon"
 image: amazon.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Dhaval Kapil is a 4th year student of Computer Science and Engineering. Read on as he recounts his experience of interning at Amazon._

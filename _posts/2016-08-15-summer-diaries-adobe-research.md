@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Adobe Research, Bangalore"
 image: adobe.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Tathagata Sengupta is a 5th year student in the Department of Mathematics. Read on as he recounts his experience of interning with Adobe, Bangalore during the summers of 2016._

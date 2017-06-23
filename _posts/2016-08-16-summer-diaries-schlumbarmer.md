@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Schlumberger, Barmer"
 image: schlumbarmer.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Abhijeet Mittal is a 4th year student in the Department of Industrial Engineering. Read on as he recounts his experience of working at Schlumberger, Barmer during the summers of 2016._

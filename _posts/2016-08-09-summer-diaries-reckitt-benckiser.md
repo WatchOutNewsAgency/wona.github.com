@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Reckitt Benckiser"
 image: reckitt.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Raveesh Kalra is a 5th year student in the Department of Chemical Engineering. Read on as he recounts his experience of working with Reckitt Benckiser, Gurgaon during the summers of 2016._

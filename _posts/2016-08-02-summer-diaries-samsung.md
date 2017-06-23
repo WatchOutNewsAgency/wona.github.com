@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Samsung Research Institute Bangalore (SRIB)"
 image: samsung.jpeg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Parag Nandi is a 5th year student in the Department of Earth Sciences. Read on as he recounts his experience of working at the Samsung Research Institute Bangalore during the summers of 2016._

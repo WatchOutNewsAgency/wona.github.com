@@ -36,3 +36,10 @@
 - name: sports
   title: Sports
   subcategories:
+- name: internblogs
+  title: Intern Blogs
+  subcategories:
+    - name: summer2016
+      title: Summer 2016
+    - name: summer2017
+      title: Summer 2017

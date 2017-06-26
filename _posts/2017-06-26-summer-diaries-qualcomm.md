@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Summer Diaries: Akanksha Doda - Qualcomm"
+title: "Summer Diaries: Qualcomm"
 image: akanksha1.jpg
 tags: [wona, column]
-category: summer2017 
+category: summer2017
+author: "Aakanksha Doda" 
 excerpt: "Qualcomm is an American multinational semiconductor and telecommunications equipment company that designs and markets wireless telecommunications products and services. The company headquarters are located in San Diego, California, United States and has 224 worldwide locations."
 ---
 ### Making it there:

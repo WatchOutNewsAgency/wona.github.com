@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Summer Diaries: Shrutika Yeola-Tata Steel"
+title: "Summer Diaries: Tata Steel"
 image: shrutika1.JPG
 tags: [wona, column]
-category: summer2017 
+category: summer2017
+author: "Shrutika Yeola" 
 excerpt: "As is common, in my 3rd year, I was still ascertaining where my interests lay. The question of whether I should take up an internship in my “core” field (i.e. Metallurgy) remained largely unanswered until a professor advised me to do so. I chose to.."
 ---
 

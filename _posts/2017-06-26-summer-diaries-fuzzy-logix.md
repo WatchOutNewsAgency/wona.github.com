@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Summer Diaries: Deept Mehndiratta - Fuzzy Logix, Bangalore"
+title: "Summer Diaries: Fuzzy Logix"
 image: deept1.jpg
 tags: [wona, column]
 category: summer2017 
+author: "Deept Mahendiratta"
 excerpt: "The company is basically focused on In-Database Analytics i.e. performing the analytics inside the data warehouse itself, without having to extract the data for analysis. The company is expanding and has also begun providing analytics services to its clients."
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Summer Diaries: Aryan Khaitan - Wipro, Pune"
+title: "Summer Diaries: Aryan Khaitan - Wipro"
 image: Aryan1.PNG
 tags: [wona, column]
+author: "Aryan Khaitan"
 category: summer2017 
 excerpt: "Although Wipro is famously referred to as a mass-recruiter, the fact that there were only 13 interns from different IITs in the Pune Campus was kind of contradictory to the maxim. Wipro sure expects a lot from their interns, by giving them projects that would probably make their employees wonder how without any prior experience, an intern has been given such a role!"
 ---

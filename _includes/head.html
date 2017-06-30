@@ -23,7 +23,7 @@
   <meta property="og:site_name" content="Watch Out! News Agency" />
   <meta property="og:title" content="{{ title | xml_escape }}" />
   <meta property="og:type" content="{% if page.excerpt %}article{% else %}website{% endif %}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:image" content="{{ site.url }}/images/{% if page.image %}posts/{{page.image}}{% else %}posts/main-building.jpg{% endif %}" />
   {% if page.description != null %}
     <meta property="og:description" content="{{ page.description }}" />

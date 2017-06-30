@@ -3,7 +3,7 @@ layout: post
 title: "Summer Diaries: Microsoft"
 image: microsoft.jpg
 tags: [wona, column]
-category: career 
+category: summer2016 
 ---
 
 _Priyanka Jain is a 4th year student in the Department of Computer Science and engineering. Read on as she recounts her experience of working with Microsoft, Hyderabad during the summers of 2016._

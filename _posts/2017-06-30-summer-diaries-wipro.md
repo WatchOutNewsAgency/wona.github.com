@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Diaries: Aryan Khaitan - Wipro"
+title: "Summer Diaries: Wipro"
 image: Aryan1.PNG
 tags: [wona, column]
 author: "Aryan Khaitan"

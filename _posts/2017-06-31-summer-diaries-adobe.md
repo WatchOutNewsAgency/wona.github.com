@@ -3,10 +3,11 @@ layout: post
 title: "Summer Diaries: Adobe"
 image: Aashaka1.JPG
 tags: [wona, column]
-category: summer2017 
 author: "Aashaka Shah"
+category: summer2017 
+excerpt: "The research internship takes place at the Big Data Experience Lab of Adobe Research in Bangalore. Interns are given a vast problem space from which they have to read literature and generate ideas. Most of the projects fall in the domains in which Adobe is working on or is interested in expanding its hold on."
 ---
- 
+
 ### Making it there 
 <br>
 My selection to the internship was based on my grades. The top 5 department rank holders from CSE and top n ( n <= 5 ) from EE, ECE and MnC get this VIP-level direct entry to the Big Data Experience Lab, Adobe Research, India. The other procedure of selection involves a coding test followed by telephonic interview. They also have a few other off-campus internship opportunities for women via the competitive coding contest - Codhers and Adobe India Women in Technology Scholarship.
@@ -16,7 +17,7 @@ My selection to the internship was based on my grades. The top 5 department rank
 <br>
 The research internship takes place at the Big Data Experience Lab of Adobe Research in Bangalore. Interns are given a vast problem space from which they have to read literature and generate ideas. Most of the projects fall in the domains in which Adobe is working on or is interested in expanding its hold on. It might come as a surprise to many, but apart from the ubiquitous PDF, Photoshop and Illustrator, the infamous flash player and the coveted Behance invites, a lot of Adobe’s revenue and customers come from its Marketing Cloud. It is in this domain that the Adobe India Lab works on. The projects may span multiple different areas like video, systems, text, email, etc but almost always have a touch of machine learning attached to them.
  
-Each team consists of 2-3 interns and two mentors. The mentors are friendly, there are team outings and meetings are also usually very interesting. 
+Each team consists of 2-3 interns and two mentors. The mentors are friendly, there are team outings and meetings are also usually very interesting.
 
 ![pic2](/images/posts/Aashaka2.JPG)
  

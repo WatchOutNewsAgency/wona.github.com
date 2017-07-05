@@ -12,7 +12,7 @@ excerpt: "Bagging an Amazon internship is simple. Get through the online round a
 
 Bagging an Amazon internship is simple. Get through the online round and two technical rounds. Pretty straightforward right? Well, let me go into the details:
 
-1. **Online Round:** There were around 20 MCQs and 3 coding questions. Make sure you give importance to the MCQs as well, as my friend who solved 2 coding questions did not get through whereas I who had solved only 1 did make to the next wrong presumably because of my MCQ performance. It was basic CS stuff, nothing too fancy.
+1. **Online Round:** There were around 20 MCQs and 3 coding questions. Make sure you give importance to the MCQs as well, as my friend who solved 2 coding questions did not get through whereas I who had solved only 1 did make to the next round presumably because of my MCQ performance. It was basic CS stuff, nothing too fancy.
 
 2. **Technical Rounds:** There were two technical rounds. Okay, so make sure you study geeksforgeeks. It’s really that simple. Amazon doesn’t ask you fancy questions with complicated algorithms, they ask you straightforward Data Structures and Algorithms, but they ask for complete implementation. They especially look for corner cases and null checks. All code is checked by them and they can see loopholes in your code quite instantly. After the base question they ask if there’s any improvement that we can do to improve space or time complexity. In the second round they asked me another technical question (again slightly modified from geeksforgeeks) and asked me questions about my resume. Make sure you know your resume because they rigorously analyze it ask you about it.
 

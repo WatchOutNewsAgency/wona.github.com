@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Diaries: Jindal Steel Limited"
+title: "Summer Diaries: Jindal Stainless Limited"
 image: Renju1.JPG
 tags: [wona, column]
 author: "Renju Kokkatt"

@@ -13,7 +13,8 @@ excerpt: "Integrity. Commitment. Innovation. These words are the foundations of 
 <br>
 The internship recruitment process for Texas Instruments is pretty similar to that of other companies. It consists of a preliminary test followed by two interviews. Prospective interns can apply under any of the three profiles of analog engineer, digital engineer and software engineer. One can opt for hardware and/or software profiles in the test. The hardware section usually consists of questions on the concepts of analog and digital circuits as well as questions testing general aptitude. In the digital section, apart from the usual questions on K-maps and digital logic, most of the questions focus on the mosfet implementation of gates. The software part, however, focusses on usual coding questions followed by a common aptitude section. 
 
-For more information​ on questions, as well as some reference materials, you can visit the following link: https://docs.google.com/document/d/1FCvqKO0Pp16vOhasx3EJdtPHiMix-3Tobi5yrLri9Q8/edit
+For more information​ on questions, as well as some reference materials, you can visit the following link: 
+https://docs.google.com/document/d/1FCvqKO0Pp16vOhasx3EJdtPHiMix-3Tobi5yrLri9Q8/edit
 (Courtesy: Seniors)
 
 After clearing the online test, there is a technical interview round, for both the analog and digital domain (or coding domain, based of the profile applied for). Based on your performance in the test, you can be eligible for both the rounds. In the interview, they mainly try to check your concepts and logic. They may try to confuse you on some concepts, as well as help you out at some places by giving hints. The interviewer might also offer you a cookie if you are lucky!

@@ -37,14 +37,15 @@ Moreover, every year, Visa has a Global Intern Summit (it was in San Francisco, 
 If you are a non-CSE student, getting an internship in a coding profile might seem difficult to you. However, with the right amount of dedication and meeting the right people, you can make it to impressive heights. For instance, here is a conversation I had with my mentor Sean McArthur, who is a full-time employee at Mozilla.
 
 
-<i>Sean: So what kind of a student are you? Are you a topper or a backbencher at your college?</i>
-<i>Me: Actually, I’m average. I don’t enjoy my subjects as much as I like to code, which is why I study all of my departmental courses just before the exams to survive. I have had just one course in C++, that too in my first semester and I managed to get an A in that.</i>
-<i>Sean (surprised): No other course? Nothing at all?</i>
-<i>Me: No</i>
-<i>Sean: Oh my god! Really? That’s so cool! I am so impressed! Then how do you know so much about this field?</i>
+<i>Sean: So what kind of a student are you? Are you a topper or a backbencher at your college?</i><br>
+<i>Me: Actually, I’m average. I don’t enjoy my subjects as much as I like to code, which is why I study all of my departmental courses just before the exams to survive. I have had just one course in C++, that too in my first semester and I managed to get an A in that.</i><br>
+<i>Sean (surprised): No other course? Nothing at all?</i><br>
+<i>Me: No</i><br>
+<i>Sean: Oh my god! Really? That’s so cool! I am so impressed! Then how do you know so much about this field?</i><br>
 <i>Me: The internet at our college is pretty fast!</i>
-<br>
+<br><br>
 That is it! If you learn to effectively exploit the facilities our college has, you’ll be good to go. Additionally, here’s some other advice I can offer 
+<br>
 
 - Do a coding internship only if you are interested in it, otherwise don’t waste your time. Anyone who has a good knowledge of the subjects related to Computer Science can get hired by a good company, irrespective of his/her branch. However, a good CGPA is always important and you will, very soon, get to know this in the coming internship season.
 

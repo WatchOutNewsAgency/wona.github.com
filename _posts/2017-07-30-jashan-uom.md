@@ -8,7 +8,7 @@ category: summer2017
 excerpt: "Research is serious professional work and is treated as such. Although the British atmosphere and culture felt quite weird at first to a student such as me, with having lunch at 12pm, dealing with excessive rains, sunbathing if the sun ever shines (3 days out 7), the 9 to 5 work culture and then having dinner as early as 6pm, health and safety induction programs that stretched the entire week (apparently, prevention is the best cure, literally), celebrating weekends, and Happy Hours (it’s exactly what you think it means) after a conference at the department with the professors, you get used to it soon."
 ---
 
-###Prologue
+### Prologue
 <br>
 “Biotech waale toh sab foreign intern maarte hain” was the phrase I had constantly heard since my first year. Since the placement office doesn’t fancy the “Core Biotech Internship Program” if there ever was such a thing, <b>we</b> have to make do with Europe, North America and Australia over the IT rich cities of Bangalore, Hyderabad, Mumbai and Gurgaon. 
 <b>we</b> = Biotechnology, Metallurgy, GT/GPT, etc

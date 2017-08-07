@@ -5,7 +5,7 @@ image: anushrut-1.png
 tags: [wona, column]
 author: "Anushrut Gupta"
 category: summer2017 
-excerpt: ""
+excerpt: "Being called a 35-year-old startup, Intuit believes in reinventing itself time and again, making it one of the most innovative companies in tech right now. Intuit is one of the most employee friendly companies out there doing amazing work, for which it was recently awarded the Economic Times’ award for being India's best company to work for, 2017."
 ---
 
 ___

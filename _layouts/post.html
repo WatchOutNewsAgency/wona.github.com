@@ -9,6 +9,16 @@ layout: layout
     <h1 class="title">
       <a href="{{ page.url }}">{{ page.title }}</a>
     </h1>
+
+	<!-- minute read-->
+	<div class="time">
+		{% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
+		{% if minutes == 0 %}
+		{% assign minutes = 1 %}
+		{% endif %}	
+	</div>
+    
+
     <div class="date">
       {{ page.date | date: "%B %e, %Y" }}
     </div>
@@ -17,6 +27,9 @@ layout: layout
       - {{ page.author }}
     </div>
     {% endif %}
+
+    
+
   </div>
   <div class="row body">
 

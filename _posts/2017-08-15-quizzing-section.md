@@ -5,6 +5,7 @@ image: ruhela1.JPG
 tags: [wona, column]
 author: "Utkarsh Ruhela"
 category: verbatim 
+excerpt: ""
 ---
 
 ### How has the Quizzing Section changed your life?

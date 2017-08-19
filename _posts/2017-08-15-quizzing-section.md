@@ -5,7 +5,7 @@ image: ruhela1.JPG
 tags: [wona, column]
 author: "Utkarsh Ruhela"
 category: verbatim 
-excerpt: ""
+excerpt: "Quizzing is a sport, and being a sport it obviously helps in flexing the concerned muscles. We are an open group, which means anyone (with or without a team) can show up to our quizzes and psarticipate."
 ---
 
 ### How has the Quizzing Section changed your life?

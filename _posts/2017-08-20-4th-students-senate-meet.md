@@ -87,10 +87,7 @@ _Presented by Mr. Saksham Agrawal_
   * Worked under the leadership of Sankalp Asawa in the last academic year as a pilot project (informally)
   * Aims to communicate information to, and address grievances of all departments, and present them to the Dean of Academic Affairs
 
-2. Ombudsman:
-  * Appointment of an  Ombudsman shall be done by the end of September 2017
-
-3. Constitution:
+2. Constitution:
   * Prepared and Drafted
   * Copy given to Watch Out! to be made public through their channels
   * One copy to be approved by the Convener and to be forwarded to the Faculty Senate for their approval
@@ -432,7 +429,7 @@ _Presented by Mr. Saksham Agrawal_
 
 __Item No. 4.21__
 
-__To consider the request to decrease the fee for bona fide, transcripts, provisional degree and copy of grade sheet.__
+__To consider the request to organize certified mini courses in the mid-semester break.__
 
 _Presented by Mr. Saksham Agrawal_
 

@@ -21,7 +21,7 @@ __Members of SAC__
 |G.S. Cultural Affairs|:|Mr. Prajwal Bhatt|
 |G.S. Hostel Affairs|:|Mr. Sambhav Anand Jain|
 |G.S. Academic Affairs UG|:|Mr. Saksham Agrawal|
-|G.S. Technical Affairs|:|Mr. Puneet Dhoot|
+|G.S. Technical Affairs|:|Mr. Punit Dhoot|
 |G.S. Academic Affairs PG|:|Mr. Rajesh Vishwakarma|
 |G.S. Sports Affairs|:|Mr. Shubham Vij|
 
@@ -94,7 +94,7 @@ _Presented by Mr. Saksham Agrawal_
 
 __Item 4.3__
 
-__To remove Gardening, Philately and Pneumatic as proficiency as the sections have been closed. Students already enrolled in these should be allowed to re-register for a new proficiency.__
+__To remove Gardening, Philately and Numismatics as proficiency as the sections have been closed. Students already enrolled in these should be allowed to re-register for a new proficiency.__
 
 _Presented by Mr. Saksham Agrawal_
 
@@ -279,7 +279,7 @@ __Item No. 4.14__
 
 __To consider the request to obtain the No Dues certificate Online. It takes a lot of effort to collect no dues from different places. It would be better if we can have an Online portal for the same.__
 
-_Presented by Mr. Saksham Agrawal_
+_Presented by Mr. Punit Dhoot_
 
 1. Current Scenario:
   * Students have to collect a large number of No-dues certificates to get the degree
@@ -298,7 +298,7 @@ __Item No. 4.15__
 
 __To consider the request for Security System development project. Building a security system in collaboration with the Information Management Group and ArIES. There is a need to address infrastructure issues on institute gates.__
 
-_Presented by Mr. Puneet Dhoot_
+_Presented by Mr. Punit Dhoot_
 
 1. Current Scenario:
   * Portal has been built by IMG which can replace the current system of stickers and paper-pen registrations at the entries through car number detection by image processing 
@@ -459,7 +459,7 @@ __Item No. 4.22__
 
 __To consider the request for introduction of Bug Bounty program to report vulnerabilities in campus websites. To allow students to perform security analysis of campus websites, under certain guidelines. The reward for a vulnerability to be decided by a committee formed by General Secretary, Technical Affairs based on the severity of the vulnerability__
 
-_Presented by Mr. Puneet Dhoot_
+_Presented by Mr. Punit Dhoot_
 
 1. Has been implemented in IIT Guwahati
 

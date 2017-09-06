@@ -12,7 +12,7 @@ _Over the last few months, the students of IIT Roorkee have ceaselessly endeavou
 
 With close to 12% of the students and residents of the IIT Roorkee campus being women, a structured method for complaints related to sexual indiscipline targeted towards women has been as good as absent. As of now, there has been nothing but vague and obscure documentation to outline what the residents of the campus must do in cases involving sexual misdemeanour. 
 
-__The Current Method__
+#### __The Current Method__
 
 The general practice currently followed is that the students subjected to sexual misconduct reports their grievances directly to the Office of the Dean of Students’ Welfare. The limited times during which you can seek help from this channel and hence, the utter inaccessibility of this system forces the students to reach out to the Student Affairs’ Council, which is, in no way, equipped any better to deal with the problems than the aggrieved student himself/herself.
 
@@ -20,19 +20,19 @@ If the complaint does make it through to the DOSW, a committee is set up which c
 
 ![pic](/images/posts/women2.png)
 
-__Obsolete Systems in Place__
+#### __Obsolete Systems in Place__
 					
 In addition to the procedure outlined above, in accordance with the Gazette of India, Part‐II, dated April 23, 2013, the then-Director of IIT Roorkee constituted the “Internal Complaints Committee” dated 28th November 2014 in the Institute to inquire into the complaints of sexual harassment. However, the committee was, by the looks of it, developed only to comply to the pressure from the Ministry of Human Resources and Development and has not, in fact, served as a complaint redressal cell we so desperately need. Most of the students, in fact, are unaware of the ICC owing to its dormancy on the campus. Moreover, this committee does not have any student representation, making it all the more inaccessible to the students of IIT Roorkee.
 
 (You can find the details of this committee on this [_link_](https://www.iitr.ac.in/Main/uploads/File/estt/2015/Internal%20Complaint%20Committee.pdf).)
 
-__Lack of Female Representation in the Students’ Affairs Council__
+#### __Lack of Female Representation in the Students’ Affairs Council__
 
 Furthermore, the seven institute-wide positions of the SAC have been occupied by the male students this year, and for the longest of times, the executive body of the SAC has seen minimal representation of the female faction of the campus. Although the representatives from the Sarojini and Kasturba Bhawans are nominated as senators, the executive body of the SAC has not had elected member who represents the interests of the females in the campus. 
 
 Moreover, considering the change in the election timeline since last year, the council of Sarojini Bhawan, which shall now be elected in April every year, sees no representation from the first-year undergraduate students, since they don’t  join the campus until July.
 
-__Our Two Cents__
+#### __Our Two Cents__
 
 Colleges all over the globe, be it Harvard, Stanford and Columbia, or the sister-IITs at Kanpur and Bombay, have a structured organisation similar to the Women’s Cell we need in our campus. Detailed study of the structure of these organisations, and replicating their activities as might be relevant to our campus might help in making the lives of the women at IIT Roorkee a bit easier. This organisation can offer 24x7 complaint registry services, counselling, and emergency response services among others. Currently, an almost defunct complaint system exists in the campus which enjoys minimal awareness among the student populace. Along with an immediate revamp of this system, awareness of this organization should be given utmost importance to ensure that IIT Roorkee, in fact, becomes a safer campus.
 

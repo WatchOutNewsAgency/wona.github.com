@@ -91,4 +91,6 @@ The student intake gradually increased, and more Masters and Doctorate applicant
 
 The issues that plague the Institute today are starkly different from those of yesteryear, but revolve around a common theme: that of greater student autonomy. Recently implemented reforms - doing away with restrictions for the girls of our campus being the chief example - are promising steps in this direction. However, any significant change can only be brought about in the long run; our four/five years are only a precious few frames in the much longer movie of IIT Roorkee.
 
-#### *The article features as the Cover Story in our next print issue. In the issue’s Big Story, we present a comprehensive analysis of the research ecosystem at IITR. To read our previous issues visit <span style="color:#0645AD">[Here](https://issuu.com/wona-iitr)</span>*
+_Sources : 'History of Thomason College' and 'History of University of Roorkee' by Prof. K.V.Mittal_
+
+#### *The article features as the Cover Story in our next print issue. In the issue’s Big Story, we present a comprehensive analysis of the research ecosystem at IITR. To read our previous issues visit <span style="color:#0645AD">[here](https://issuu.com/wona-iitr)</span>.*

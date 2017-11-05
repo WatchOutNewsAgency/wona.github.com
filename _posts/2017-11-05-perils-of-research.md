@@ -56,7 +56,7 @@ In addition to the above, one also has to deal with issues that plague most of t
 
 ![image](/images/posts/research-2.png)
 
-### Professor's’ views on research here and abroad
+### Professors' views on research here and abroad
 
 Research in the European countries and the US has a hierarchical setup - ensuring a smoother flow of work. There are PhDs working in collaboration with post-docs, who, themselves, report to a guide. In India, though, such a setup is lacking in most labs. Says, Dr. PK Jha, India also lacks competent researchers; Indian researchers are directionless most of the times. What researchers in the Indian context lack, is methodology, efficiency, and result oriented-ness. Most researchers in India publish only for money, and the results are lackluster manipulations and copy-paste jobs. This practice is largely frowned upon in the foreign universities, and considered highly unethical. A common gripe among the professors is the lack of creativity among the Indian researchers; they argue that students bring nothing new to the table. 
 

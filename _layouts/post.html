@@ -21,11 +21,13 @@ layout: layout
   <div class="row body">
 
     <section class="col-md-8 content{% if page.justify %} justify{% endif %}">
+      {% if page.image != null %}
       <div class="center-fill-container cover-img" style="height:{{page.height}}">
         <div class="img-container">
           <img class="center-both img-center-fill" src="/images/posts/{{ page.image }}" alt="">
         </div>
       </div>
+      {% endif %}
 
       {{ content }}
 

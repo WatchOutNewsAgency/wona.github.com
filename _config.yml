@@ -21,7 +21,7 @@ defaults:
       is_category_page: true
       layout: category
 
-name: Watch Out!, IIT Roorkee
+name: Watch Out, IIT Roorkee
 url: http://wona.co.in
 gems: [jekyll-paginate]
 description: The official news magazine of IIT Roorkee.

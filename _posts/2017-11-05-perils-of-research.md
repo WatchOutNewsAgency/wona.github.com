@@ -73,3 +73,9 @@ The obvious fallacies in the current systems at the top tier institutions, where
 While there are lots of causes of worry in the current research scenario, things seem to be shaping up for the better. The past few years have seen a rise in the number of students in R-Land opting for research, and the number of students applying for SURA scholarships at IITR has increased dramatically. Coupled with governmental policies looking to retain outgoing talent by providing higher pay grades to promising undergraduates (via the Prime Minister’s Fellowship Scheme), this will hopefully lead to better quality student-researchers and a higher quality research output, eventually shaping the currently bleak scenario into a brighter tomorrow.
 
 _The article features as the Big Story in our next print issue. In the issue’s Cover Story, we take you back in time to the foundation of our institute, and its journey from there on. To read our previous issues visit: <span style="color:#0645AD">[here](https://issuu.com/wona-iitr)</span>._
+
+### Resources
+
+- <span style="color:#0645AD">[https://thewire.in/118430/seven-charts-new-old-iit/](https://thewire.in/118430/seven-charts-new-old-iit/)</span>
+
+- <span style="color:#0645AD">[http://www.currentscience.ac.in/Volumes/112/05/0923.pdf](http://www.currentscience.ac.in/Volumes/112/05/0923.pdf)</span>

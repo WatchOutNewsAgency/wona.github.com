@@ -15,7 +15,7 @@ The earlier system of elections at IITR required for a two level voting system t
  
 ## The Jawahar fiasco:
  
-![SAC Holes](/images/posts/sac-holes-1.png){: style="width: 40%; float: left; margin-right: 4%;"}
+![SAC Holes](http://ketangupta.in/wona-images/posts/sac-holes-1.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 Political “factions” in the campus often run the risk of being taken a little too seriously. It does not take time for members to take personal disputes in a collectivist sense and act accordingly. With this as the case, disputes such as these often tend to boil over and snowball into full blown clashes, violent in their nature and immature with their logic. This aptly sums up the Jawahar fiasco.  
 This has led to the DOSW cancelling the elections and in constituting an interim SAC to carry on the workings till the next elections, prophesised to take place in March’17. This step may look reasonable, but has its own flaws. _When we asked the DOSW on what basis the student representatives would be selected, there was no specific answer but vague mentions to analysing career plans and listening to ideas proposed by the candidates._ The question here is not that of the competency of the candidates, but rather of checks and balances to ensure it. No election will be perfect. However, it needs to be fair and transparent.
@@ -24,7 +24,7 @@ This has led to the DOSW cancelling the elections and in constituting an interim
  
 Even though the system has been revamped and the atmosphere seems to favour competent candidates but there still remain some grave issues that need to be addressed, before we move onto the next election. Looking at the new election system, we spotted a few anomalies, and a multitude of illogical clauses making up our Election’s code of conduct that insidiously hinder meritocratic politics. We approach these, one at a time and offer a few solutions to them.
  
-![SAC Holes](/images/posts/sac-holes-2.png){: style="width: 90%;"}
+![SAC Holes](http://ketangupta.in/wona-images/posts/sac-holes-2.png){: style="width: 90%;"}
 
 ## Drawbacks of the current system:
  
@@ -44,7 +44,7 @@ The code of conduct strictly prohibits online campaigning of any sort since it c
  
 #### Unequal footing for the female candidates :
  
-![SAC Holes](/images/posts/sac-holes-3.png){: style="width: 40%; float: left; margin-right: 4%;"}
+![SAC Holes](http://ketangupta.in/wona-images/posts/sac-holes-3.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 Since the girls have to be back in their own hostel by 11 pm, as well as cannot enter other hostels for campaigning as easily as the male candidates, they enter the ring with a handicap. The roots of this can be found in the age old issue surrounding the curfew on girls. With that in place, a female candidate can barely match the reach of a male one.
  
@@ -55,7 +55,7 @@ Certain posts at the hostel as well as the institutional level are viewed as red
  
 ## Solutions:
  
-![SAC Holes](/images/posts/sac-holes-4.png){: style="width: 40%; float: left; margin-right: 4%;"}
+![SAC Holes](http://ketangupta.in/wona-images/posts/sac-holes-4.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 They say learning never stops, and it shouldn’t in this case either. We take this opportunity to examine our procedures to see where we lack, and how we can improve.
  

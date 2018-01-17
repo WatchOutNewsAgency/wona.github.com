@@ -35,7 +35,7 @@ I worked in the WLAN Software Team and my project was to add a feature to record
  
 The work hours depend on your project and the team assigned. I used to stay in the office from 10 am to 6 pm while a few of my co-interns used to work in slots – 11 am to 4 pm and then after dinner – 9 pm to 12 midnight. The project is assigned considering that you are a two-month intern which means that the work is not very pressurizing. All that expected of you the completion of the project by the end of the internship. Apart from work, there are team lunches and outings organized weekly/monthly depending upon the team.
 
-![pic2](/images/posts/akanksha3.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/akanksha3.jpg){: style="width:70%;height:auto"}
 
 ### Perks and fun:
 <br>
@@ -43,7 +43,7 @@ Qualcomm takes very good care of its interns providing the best of facilities. A
 
 Qualcomm also organizes many competitions and fun events. During my internship, there was a photography competition and a singing event organized for the employees and interns. A major part of a Qualcomm internship is the Qualcomm Idea Quest whereby all the two month interns have to submit a new idea related to the domains in which Qualcomm works and if the idea is selected, teams are made and funding is provided to execute the idea in not more than 15 days at the end of which, a winning team is announced. Also, there are various days celebrated by the company – Qliving day, in which we were taken to WonderLa, Qsocial day and many more.
 
-![pic3](/images/posts/akanksha2.jpg){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/akanksha2.jpg){: style="width:70%;height:auto"}
 
 ### Key takeaways
 <br>

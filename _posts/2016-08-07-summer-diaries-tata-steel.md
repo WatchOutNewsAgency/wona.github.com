@@ -21,14 +21,14 @@ Aptitude test is followed by a group discussion on a current affairs topic. Make
 
 Induction day at Tata Steel is where they give you a sneak peak into the reach and working of the company. It is followed by a safety training and then projects are allotted based on your personal preferences. Projects vary from highly research focused to extensive experimental analysis which requires frequent plant visits. 
 
-![Tata Engineers](/images/posts/tata-2.png){: style="width: 55%;"}
+![Tata Engineers](http://ketangupta.in/wona-images/posts/tata-2.png){: style="width: 55%;"}
 
 Tata Steel Jamshedpur division is an integrated steel plant where right from the raw material processing to rolling out steel coils is done at the same place. So as an intern, you have the opportunity to work in plants ranging from Pellet plant, Coke Plant to Hot Strip Mill. I was assigned a project in the furnace area of Hot Strip Mill. The aim of the project was to increase the reliability of the Induced Draft( ID  ) Fan in one of the three furnaces. It revolved around Vibration
 Analysis and bearing temperature reduction. I was able to decrease the delay time to close to 50% during my 2 months stint as an intern. Your work experience heavily relies on the guide and plant allotted to you.Working hours are from 8:30 am to 5:30 pm, 5 days a week which is subjected to change depending on the attitude of the guide allotted to you. All the workers are very co-operative to the extent that they might consider giving a thought about leaving their work to help you do
 your own. Work is not very hectic and is easily manageable. 
 
 
-![Basketball Court](/images/posts/tata-1.png){: style="width: 75%;"}
+![Basketball Court](http://ketangupta.in/wona-images/posts/tata-1.png){: style="width: 75%;"}
 
 The company provides 3rd AC return tickets from Jamshedpur to respective institutes. The accommodation is also provided in its Graduate Trainee hostels with a double sharing and a single room if you are lucky enough. The food expenses are not covered, though there is a mess in the hostel that can get you through 2 months time. However, Jamshedpur does have good eating options to say the most. Anand, Madrasi, Moti Mahal, Novelty are the places to soothe your taste buds if you are not
 satisfied with the mess food. There are a lot of street food options available around the hostel area. 

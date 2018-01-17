@@ -16,13 +16,13 @@ There are many companies like Cisco, Morgan Stanley, and Codenation, that conduc
 
 For this year, however, Visa is planning to come to the IIT Roorkee campus for hiring interns. The campus hiring process would probably be similar to the other companies, that is, one coding/aptitude round followed by a series of interviews.
 
-![pic2](/images/posts/princi2.png){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/princi2.png){: style="width:70%;height:auto"}
 
 ### The Work and Culture 
 
 Visa genuinely cares about its employees, which is something that was evident with the way I was treated throughout my tenure here.
 
-![pic2](/images/posts/princi3.png){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/princi3.png){: style="width:70%;height:auto"}
 
 As far as the projects go, it all depends on the team you are assigned to. There are real time projects related to the work going on in the teams. Interns usually work the same way as a regular employee does, apart from the ton of guidance regarding their work. I worked on an individual project, but there were other projects which had people working in teams of two or three.The working hours are flexible, but most of the interns work from 9 am to 5 pm. Most of the teams have daily standups which help keeping the work on track. 
 
@@ -30,7 +30,7 @@ Apart from all the serious work in the team, our two months were full of team ou
 
 Moreover, every year, Visa has a Global Intern Summit (it was in San Francisco, USA this year) where we had a chance to meet Visa’s interns from more than 14 other countries, 	the CEO (Al Kelly), and the CTO (Rajat Taneja) of Visa, along with the other great people working at this company. 
 
-![pic2](/images/posts/princi4.png){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/princi4.png){: style="width:70%;height:auto"}
 
 ### Words of Advice
 

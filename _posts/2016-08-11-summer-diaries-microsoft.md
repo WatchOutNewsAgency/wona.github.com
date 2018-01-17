@@ -32,7 +32,7 @@ The first 1 or 2 weeks were invested into getting acquainted with the internal t
 
 The mentorship program at MS is really nice. Every intern is assigned to a mentor and a manager.Specifically talking, my mentor was like my project partner. Not only we discussed every idea thoroughly before taking it in front of the manager, but he also guided me through all the major or minor block points during the entire internship period. Again my manager was also very helpful, we used to have a weekly meeting specifically for my project .
 
-![work](/images/posts/microsoft-1.png)
+![work](http://ketangupta.in/wona-images/posts/microsoft-1.png)
 
 The work culture at MS is really cool and relaxed , there is no restriction as such.
 Weekly sync meetings make sure that the work is not delayed and the rest is all upto you ,how you want to work , at what hours etc. Although the nature of work depends mostly on the project at hand, most of the time life is easy.

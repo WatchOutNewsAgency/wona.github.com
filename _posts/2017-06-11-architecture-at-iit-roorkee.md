@@ -20,7 +20,7 @@ The standard definition – offered by a number of dictionaries – proclaims ar
  
 **Design**: Design consists of juggling aesthetic, practical and several other parallel considerations to arrive at the best possible solution. In the case of architecture, one has to consider the sequence of spaces/rooms (their connectivity with each other), the climate, the cost, the materials that ought to be employed, the aesthetics, etc. and produce a design that pacifies each need. It is best learnt by practice.
 
-![archi 0](/images/posts/archi-q1.jpg){: style="width:60%;height:auto"}
+![archi 0](http://ketangupta.in/wona-images/posts/archi-q1.jpg){: style="width:60%;height:auto"}
  
 ### Architecture as a course
 <br>
@@ -34,7 +34,7 @@ Contrary to popular belief, architecture is not all about drawing, painting, and
  
 The course as a whole is rather challenging. It involves the longest contact hours of all courses and a great load of assignments, both of which – thankfully – eventually decrease. Good grades call for a mastery of all courses and fields – most importantly architectural design, which has the highest number of credits in any given semester. Architecture involves solving the biggest problems as well as the most minute. All these manifest as a great degree of frustration and a considerable number of late nights. For people who have studied the sciences all their lives – presumably with much interest and love – this will be a very different ball game.
 
-![archi 2](/images/posts/archi-q2_p5.jpg){: style="width:60%;height:auto"}
+![archi 2](http://ketangupta.in/wona-images/posts/archi-q2_p5.jpg){: style="width:60%;height:auto"}
  
 ### Architecture @ IITR: Cons – where we lag behind other colleges
 <br>
@@ -50,7 +50,7 @@ If architecture is what you are interested in, IITR is perhaps not the best plac
 
 5. **Skewed sex-ratio**: The sex-ratio varies across all years, depending on the collective luck of the incoming freshmen. However, it is much lower than other colleges, where the sex ratio is 1:1 or better (with girls predominating).
 
-![archi 3](/images/posts/archi-q3.jpg){: style="width:60%;height:auto"}
+![archi 3](http://ketangupta.in/wona-images/posts/archi-q3.jpg){: style="width:60%;height:auto"}
 
 ### Architecture @ IITR: Pros – how IIT is better/different from other colleges
 <br>
@@ -70,7 +70,7 @@ Architecture at IITR has many unique advantages. These are:
 
 6. **On-campus placements** : Reportedly (that is, with questionable certainty), other architectural colleges do not have placements, or any sort of arrangements wherein graduates can find firms to employ them. At IITR, such a system does exist, but the number of firms and companies that recruit architects are just sufficient. However, when it comes to other fields such as the ones mentioned earlier, it is a level playing field, and architecture graduates can get non-core jobs provided they are meritorious. More information can be found <span style="color:#72C5EB">[here](http://guide.wona.co.in/section/placements)</span>
  
-![archi 3](/images/posts/archi-q4.jpg){: style="width:60%;height:auto"}
+![archi 3](http://ketangupta.in/wona-images/posts/archi-q4.jpg){: style="width:60%;height:auto"}
 
 ### Terms and Conditions for doing well in architecture
 <br>

@@ -22,7 +22,7 @@ There are three other ways to bag the internship:
 
 3. Word-of-mouth recommendations (a.k.a “contacts”), although this directly implies that a PPO cannot be secured.
 
-![pic2](/images/posts/shrutika2.JPG){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/shrutika2.JPG){: style="width:60%;height:auto"}
 
 ### Work culture:
 <br> 
@@ -34,7 +34,7 @@ The stipend is a humble Rs. 10,000, in addition to reimbursement of 3-tier A/C t
  
 My project was on “The Crystallographic and Texture Analysis of Ti+Nb+Mo HS 800 Steel”, under the Flat Product Technology Group (it is scarcely as dangerous as it sounds). A few days of study on the topic at hand fosters an interest for it. Moreover, I was fortunate enough to be appointed a guide who kept in constant touch through weekly updates, and also helped me with experiments. Sincere work can result in the publication of a research paper within the stipulated period of two months; many students have done so in the past.
 
-![pic3](/images/posts/shrutika3.JPG){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/shrutika3.JPG){: style="width:60%;height:auto"}
 
 TATA Steel possess a variety of equipment: the Coke plant, Pellet plant, Blast furnace and LD furnace, to name a few. One gets to see, in real time, all that they have studied and – at long last – an answer to why we study the course.
  
@@ -50,4 +50,4 @@ The weather here is mostly hot and humid, interspersed by frequent rain (once ev
 <br>
 TATA Steel is best for those in metallurgy wishing to pursue a “core” job, or explore its possibilities. It is a rather secure job, and the probability of being laid off is very low, provided one sticks to the ethical code of the corporation. Chances of bagging a PPO, as well as of publishing a research paper are good. Its work culture makes it a good company to start with.<br>
 
-![pic4](/images/posts/shrutika4.JPG){: style="width:80%;height:auto"}
+![pic4](http://ketangupta.in/wona-images/posts/shrutika4.JPG){: style="width:80%;height:auto"}

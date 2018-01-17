@@ -18,7 +18,7 @@ The general practice currently followed is that the students subjected to sexual
 
 If the complaint does make it through to the DOSW, a committee is set up which comprises the DOSW himself, the faculty-advisors of the Cultural Council, the Sports Council, and HEC,  ADOSW (Bhawan and Mess), ADOSW (International Students), the Chief Wardens of Jawahar Bhawan and Sarojini Bhawan, the Member Secretary of Kasturba Bhawan, the General Secretary of Alumni Affairs, the General Secretary of Academic Affairs (UG), and the Convenor of SAC. This committee, upon listening to both the parties involved, takes action on the basis of their sound judgement. The complexity of this procedure makes for a delayed and possibly tedious sequence of steps, that, in some cases, the victims might shy away from. 
 
-![pic](/images/posts/women2.png)
+![pic](http://ketangupta.in/wona-images/posts/women2.png)
 
 #### __Obsolete Systems in Place__
 					

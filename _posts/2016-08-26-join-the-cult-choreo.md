@@ -20,7 +20,7 @@ We have one secretary, which is the post I serve, and there are two additional s
 There are basically three levels in the recruitment process. First, is you prepare your own dance sequence with your own choice of songs. The second stage is when we pick our own songs, the most random and challenging music, and you have to dance to that! This stage tests the ability of the dancer to adapt to various beats on the spot. The third is the interview round, where we end up talking to you to see that sense of group dynamics that I was talking about. This process of recruitments
 has been this way since the very start and the only element of mystery is the song in the second round.
 
-![Footloose performance](/images/posts/jtc-choreo-1.png){: style="width: 65%;"}
+![Footloose performance](http://ketangupta.in/wona-images/posts/jtc-choreo-1.png){: style="width: 65%;"}
 
 **Can you share some hacks for the recruitment process?**  
 We are looking for a friendly person. One who can gel with the group dynamics. What we see in the interviews is how would he be able to mingle with the people of the section. Some people come for the centre stage and the limelight, which may cause problems in the group, so to avoid all of that we look for a selfless, friendly person. And of course, bakchodi toh aani hi chahiye! 
@@ -36,7 +36,7 @@ Thomso ‘15. Anyday.
 
 Towards the end of our performance in Thomso’15, I was supposed to be lying down, and as the song ended, the whole convocation hall audience rose with me, and every single one of us was overwhelmed with happiness, so I think that was one of the best moments on campus. And we did end up winning the Footloose event of Thomso ‘15. 
 
-![Choreo group pic](/images/posts/jtc-choreo-2.png){: style="width: 65%;"}
+![Choreo group pic](http://ketangupta.in/wona-images/posts/jtc-choreo-2.png){: style="width: 65%;"}
 
 **Some recent glories and achievements of the section.**  
 When I was in the first year, that was the year when Thomso came back after being discontinued for a while, and ever since then, we have been winning the Footloose event of Thomso, so it has been three consecutive wins for us! Last year, we participated in the IITK’s cult fest and ended up being the second runner ups. This trend of participation outside the campus started last year, so we hope we continue winning accolades for IITR!

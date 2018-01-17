@@ -19,7 +19,7 @@ For the summer internship program the projects could be targeted at a specific p
 The project could conform to your specialisation or it may lie somewhere outside your sphere of study like the one I dealt with in the paper boards and speciality paper division of ITC. The wood required for the manufacturing of paper is stored in the unsheltered wood yards. Due to large standing time it lost most of its moisture content which negatively affected the pulp yield. The job was to devise a method to retain the moisture in wood. I had to dwell into fields alien to me, like the morphology of wood as I am a student of mechanical engineering.  
 
 
-![Stack of wood](/images/posts/ITC-1.png)
+![Stack of wood](http://ketangupta.in/wona-images/posts/ITC-1.png)
 *This is one stack of wood containing 2500 tonnes of wood. 60 such stacks were maintained at all times in the inventory*
 {: style="text-align: center"}
 
@@ -42,7 +42,7 @@ This review was particularly important as it provided some inquisitive opinion a
 Irrespective of the outcome, the project is always enriching in terms of value added. The factories deploy advanced management practices which are inexcusably adhered to. The organisational setup would not fail to escape your notice. Witnessing the colossal industrial setup at Bhadrachalam was most certainly amusing.
 
 
-![The blue pill](/images/posts/ITC-2.png)
+![The blue pill](http://ketangupta.in/wona-images/posts/ITC-2.png)
 *The blue pill*
 {: style="text-align: center"}
 
@@ -65,7 +65,7 @@ Benchmark your solutions with the other producers in the industry. Try to find r
 
 It might take you a while to scale you thinking up to their intimidating level of production. Thus, try to quantify the benefits of the proposed solution because ultimately it’s the crispy green stash that moves things.  
 
-![Avoid doing things like this in the factory](/images/posts/ITC-3.png)
+![Avoid doing things like this in the factory](http://ketangupta.in/wona-images/posts/ITC-3.png)
 *Avoid doing things like this in the factory*
 {: style="text-align: center"}
 

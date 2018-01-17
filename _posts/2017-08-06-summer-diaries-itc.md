@@ -18,7 +18,7 @@ The technical interview is to check your conceptual understanding of the subject
 
 The HR round begins with a series of clichéd questions such as, “Tell us about yourself”, “Strengths and Weaknesses” and then gradually moves onto the tricky ones like say the implications of working in a tobacco factory or about working in remote locations (Munger for example).
 
-![pic2](/images/posts/soumajit-2.png){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/soumajit-2.png){: style="width:70%;height:auto"}
 
 ### Workplace
 
@@ -35,7 +35,7 @@ As for the offer, the intern-PPO conversion rate at ITC is around 45-50% and it�
 
 ITC has a dynamic work culture. It demands you to be on-the-go. One day you are at a factory and the next day at another (which is in a different city altogether) and since the company is expanding its FMCG market, the current scenario is intense. Every project being undertaken is critical to the company’s future and is the reason why when interns work on a project, it attracts the entire team’s attention.
 
-![pic3](/images/posts/soumajit-3.png){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/soumajit-3.png){: style="width:70%;height:auto"}
 
 As for an intern’s week, I had a 6-day job since my project demanded that the majority of my time be spent at the factory. The factories have strong management practices such as the 5S’ which are carefully adhered to. Everyone at ITC is always pumped about work and always come up with innovative stuff. During my internship tenure, I also had the opportunity to visit Life Sciences and Technology Center (LSTC), Bangalore, the R&D HQ of ITC which has state-of-the-art facilities.
 
@@ -49,7 +49,7 @@ The most awesome and motivating part about ITC is the way they treat their inter
 
 At the start of the tenure we were summoned to the head office of the division we had been allocated and I had a chance to interact with the senior members including the CEO of the division (in my case Foods). Then since my base location was Bangalore, I could commence work the same day. I was made familiar with all the departments and incorporated into the factory dynamics. Although difficult to roam around during the internship tenure, Bangalore is a pretty happening place especially throughout the weekends and enough places to chill out. The weather in Bangalore is admirable with cool breezy winds and rain showers almost every day. All in all, it was a remarkable journey to cherish throughout.
 
-![pic4](/images/posts/soumajit-4.png){: style="width:70%;height:auto"}
+![pic4](http://ketangupta.in/wona-images/posts/soumajit-4.png){: style="width:70%;height:auto"}
 
 ### Summing up and key takeaways
 The two-month tenure at ITC is a huge value-addition to any intern. Irrespective of the outcome, there is a lot to learn and apply within these 2 months. It might be difficult to scale your thinking but solutions presented with impacts to the business are always commendable. Life will be a bit difficult during these two months and sometimes you might feel demotivated but perseverance is the key to everything.

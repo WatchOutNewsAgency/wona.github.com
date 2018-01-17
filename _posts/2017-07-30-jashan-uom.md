@@ -32,7 +32,7 @@ Students forget that the internet can be used for other things as well. If you h
 12. Fly!
 
 
-![pic2](/images/posts/Jashan2.JPG){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Jashan2.JPG){: style="width:60%;height:auto"}
 
 ### Life at UoM
 <br>

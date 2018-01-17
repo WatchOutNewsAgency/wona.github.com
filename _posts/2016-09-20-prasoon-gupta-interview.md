@@ -27,7 +27,7 @@ __WONA: How do you plan to provide such a platform for entrepreneurship in this 
 
 __Prasoon__: My basic idea is to give the students a place, an environment and provide support, all the rest can be done by the students themselves, we’ve got very smart people in IITR. We would soon be launching a membership program but at this point, we’re selecting people and offering them membership. As I posted earlier, whoever in IITR feels that they have some specific talent, whatever it may be, they should come and share their ideas. We will try to connect them with the whole ecosystem of entrepreneurs. Once things start happening, we can get the process more organized. The cafe also comes with a conference room, a TV with internet connectivity to facilitate video conferencing and a discussion room
 
-![Bakar Room](/images/posts/prasoon-gupta1.png)
+![Bakar Room](http://ketangupta.in/wona-images/posts/prasoon-gupta1.png)
 
 
 __WONA: Is the administration involved in these ideas of incubation and mentorship ?__

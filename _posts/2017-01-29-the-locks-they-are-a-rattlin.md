@@ -30,7 +30,7 @@ Security being out of the jurisdiction of the SAC, the last SAC worked towards p
 prerogative of universities to provide for the security that enables women to exercise as much freedom as is guaranteed by the constitution. While one can’t help acknowledge the gravity of the obstacles to absolute security on campus, locking up adults well into their 20s seems rather short-sighted and primitive, as far as solutions go. “We’re not questioning the students’ judgement”, says Prof. D.K.Nauriyal, “Our only concern is their safety. There have been times when we’ve
 personally roamed around the campus and found lots of eve teasers. We rounded them up and took them to authorities. The moment we’re sure that our girls are safe, we’ll open it for 24x7 as we’ve no problem with that.”
 
-![Locks Rattling 1](/images/posts/locks-rattling-1.png){: style="width: 40%; float: left; margin-right: 4%;"}
+![Locks Rattling 1](http://ketangupta.in/wona-images/posts/locks-rattling-1.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 The proposal acknowledges the porosity of the campus as one of the primary bottlenecks in achieving better security. This is in part to the fact that there are various public offices within the campus and partly due to unauthorised and unaccounted residents inside the campus. Proper documentation of vehicles as well as institute residents is suggested as a way to counter this challenge. The in place scheme of dependent cards is a sufficient measure if implemented thoroughly and
 documented comprehensively. This needs to be complemented with a similar scheme for vehicles. The proposal suggests defining “authorised vehicles” as a vehicle belonging to a faculty or employee of the institute and accompanied by a dependent card. Unauthorised vehicles would require the submission of ID Cards/Driving Licences before entering the institute.
@@ -40,7 +40,7 @@ structure and do not resort to pursuing a complaint actively.  To quote the DOSW
 
 ## The October Revolution:
 
-![The gathering in front of the main building](/images/posts/locks-rattling-3.jpg){: style="width: 65%;"}
+![The gathering in front of the main building](http://ketangupta.in/wona-images/posts/locks-rattling-3.jpg){: style="width: 65%;"}
 *The gathering in front of the main building*
 {: style="text-align: center"}
 
@@ -51,7 +51,7 @@ He added that they agree with the views of the students, in principle, but their
 
 ## Hospital Inadequacy:
 
-![Hospital](/images/posts/locks-rattling-2.png){: style="width: 65%;"}
+![Hospital](http://ketangupta.in/wona-images/posts/locks-rattling-2.png){: style="width: 65%;"}
 
 As is the norm in Roorkee, many a critical issue is brought forth only after serious mishap. The unfortunate and tragic death of Anurag Sharma owing to an injury on the squash courts last year, opened the can of worms regarding the health care issues on campus. The mumbles of discontent have burst forth after this freak disaster. As unanimously agreed upon, it’s high time the medical facilities on campus were revamped to meet the standards one comes to expect of a premier
 institution. Following the incident, a special meeting of the SAC was called for, wherein myriad problems were brought forth regarding the institute hospital and the counselling cell.

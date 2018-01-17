@@ -23,7 +23,7 @@ For personal interviews, there’s one thing that Schlumberger does differently 
  
 <b>Day to day work:</b> Our first few days of the intern went in knowing about the base and learning about the different labs that the segment had. By the end of the week we were assigned our intern projects and we majorly worked on that for the next 3 weeks. Apart from the projects, Schlumberger has introduced a new online learning system known as the e-mentor. It has full 4 week study material and task sheets that were supposed to be done alongside the project.
 
-![work](/images/posts/schlumberger-1.png){: style="width: 30%;"}
+![work](http://ketangupta.in/wona-images/posts/schlumberger-1.png){: style="width: 30%;"}
 
 <b>Work culture at the firm:</b> The working hours of the intern depended highly on the segment we were assigned to. For Wireline Segment, it was from 8:00 am to 4:30 pm. Since, I my intern was at the base and not on the rig, the nature of work was relaxed for me, but that’s definitely not the case for a field interns. People at the place were very friendly and helpful. Many a times they had stepped aside form their own work to help us out. There was no buddy system rather we all were reporting directly to the Field Segment Managers.
 

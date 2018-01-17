@@ -29,7 +29,7 @@ The five of us were assigned four projects based on ML, NLP and also a little fr
  
 The projects required us to be able to learn quickly and be flexible and adept at programming tools. We did not, however, have any senior subject expert guiding us or working with us;  where we lacked, we had to educate ourselves, which is not new to DS enthusiasts for whom the internet is the biggest boon and perhaps the only resource, for the field is new and under development. It was thrilling to be part of a team that was working on solutions to be deployed at a global level. Imagine finding out that your team’s work is being verified and prepared for deployment in Ireland. After this, the ordeal of having to subject ourselves to extensive and invasive pre-employment medical checkups almost seems worth it.
 
-![pic2](/images/posts/pranav2.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/pranav2.jpg){: style="width:70%;height:auto"}
 
  
 ### Key Takeaways

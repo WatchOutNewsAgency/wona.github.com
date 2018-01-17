@@ -28,7 +28,7 @@ S&P DJI defines the way people measure and trade the markets. They provide essen
 I worked in the sector of ESG Indices, wherein my job profile was that of a Research Analyst. There were 2 divisions in the ESG sector – the “Corporate Ratings team” and the “Financial Institutions team”. I worked in the former. 
 S&P Global Ratings’ ESG team provides intelligent analysis to global institutions, worldwide, that are in need to assess the impact of their ESG risks and opportunities - presented by ESG climate change, resource constraints, demographic shifts, innovation and technology, politics, regulation, etc. - and that aim to capitalize on the transition to a greener and more social economy.
 
-![pic2](/images/posts/Vaibhavi3.JPG){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Vaibhavi3.JPG){: style="width:70%;height:auto"}
  
 The intern was duly divided into 3 parts. The first week comprised solely of the training sessions to get me acquainted to indexing, the importance of ESG while calculating the market capitalization index, and some concepts related to carbon-footprinting and equity markets. The training sessions went on till the end of the intern, and were organised on a weekly basis after the first week. For the initial 4 weeks, I worked on the E-part of the ESG sector, which involved monetizing the environmental aspect to check compliance with the Paris Treaty and calculate the carbon-footprint of the companies that were traded in S&P DJI. For the remaining 3 weeks, I worked upon a very different project which aimed at quantifying the S-LCA ( Social Life Cycle Assessment). Apart from these, I also worked on a few sales support tasks that involved a bit of market research using “FactSet.”
 
@@ -47,4 +47,4 @@ To the people in non-circuital branches, I would advise them not to be too obses
 
 For S&P, it’s an amazing place to intern if you have your interests vested in domains of equity markets, commodity pricing, energy economics, bond calculations, indexing, or other finance related fields that you might be intrigued by. S&P shall provide you with the opportunity to understand and implement the latest index products, conceptualized by the clients, along with liaising with key stakeholders in the business - internally and externally - with exposure to the clients, by working with them. The people are amiable and always ready to help, in case you encounter any difficulty.
 
-![pic3](/images/posts/Vaibhavi2.jpg){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Vaibhavi2.jpg){: style="width:70%;height:auto"}

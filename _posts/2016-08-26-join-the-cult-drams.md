@@ -23,7 +23,7 @@ This has to be a tie
 
 All that and also you can always get away with anything by saying “I was rehearsing a dialogue, of course it was a line!” . 
 
-![The Musical Comedy Murders of 1940](/images/posts/jtc-drams-1.png){: style="width: 65%;"}
+![The Musical Comedy Murders of 1940](http://ketangupta.in/wona-images/posts/jtc-drams-1.png){: style="width: 65%;"}
 *Mid play inebriation during “The Musical Comedy Murders of 1940”*
 {: style="text-align: center"}
 
@@ -39,7 +39,7 @@ You don’t need to prepare anything before coming for the audition, it is a sim
 Basically, don’t fake anything, just enjoy the process. 
 
 
-![Aavirbhav](/images/posts/jtc-drams-2.png){: style="width: 65%;"}
+![Aavirbhav](http://ketangupta.in/wona-images/posts/jtc-drams-2.png){: style="width: 65%;"}
 *“Aavirbhav” - The street play during Autumn’15*
 {: style="text-align: center"}
 
@@ -50,7 +50,7 @@ This was in the last semester in the english long length play we did, **The Musi
 My favourite role has to be Roger Hopewell, the character I played in the aforementioned Musical Comedy Murders of 1940!
 
 
-![Aavirbhav](/images/posts/jtc-drams-3.png){: style="width: 65%;"}
+![Aavirbhav](http://ketangupta.in/wona-images/posts/jtc-drams-3.png){: style="width: 65%;"}
 *“Ant Nahin” by Badal Sircar*
 {: style="text-align: center"}
 

@@ -12,7 +12,7 @@ _The Music Section, IIT Roorkee has a reputation of delivering wondrous performa
 
 I feel that people listen to very limited genres of music and being a part of the section changes that the most. You meet people who are into different kinds of music; Indian Classical, <b>Ragas</b> and <b>Qawwalis</b>, Bollywood (yes, there's some good music here too), Folk Pop, Blues, Jazz (and Fusion), Psychedelic, Progressive and you start listening to all kinds of stuff. You have access to frets almost all the time and when you try to tap your way across the fingerboard, you start learning about music theory, scales, and keeping up with time signatures. Listening to so much at once trains your ears to focus on distinct elements in harmonies and various techniques utilised in a piece. You learn the art of improvisation and jam with people who have different approaches to music. It’s a great and fun learning experience with some of the most talented people you’ll ever meet.
 
-![Pink Floyd’s “The Wall” at Dhun’16](/images/posts/the-wall-dhun-16.png){: style="width: 55%;"}
+![Pink Floyd’s “The Wall” at Dhun’16](http://ketangupta.in/wona-images/posts/the-wall-dhun-16.png){: style="width: 55%;"}
 
 *Pink Floyd’s “The Wall” at Dhun’16*
 {: style="text-align: center"}
@@ -25,7 +25,7 @@ A person’s skill level develops significantly after being part of the Music Se
 
 There's no defined structure of the Music Section, though we try to maintain proportion between the number of guitarists, percussionists, keyboard players, vocalists and other instrumentalists that we take. We usually recruit around 10­-15 people across all years and branches (even M.Tech). The roles vary from year to year; the most experienced members are responsible for ensuring smooth practice sessions, audio setups, pointing out mistakes and getting them corrected. Some of them accountable for figuring out various technicalities of songs and passing on that information to everyone involved. The youngest and new recruits are more involved in the music and are generally asked to suggest good numbers, figure out their parts and are guided in the process. Apart from this, everyone has the responsibility of perfecting what they play and are free to get involved in any role that they like.
 
-![“Stairway to heaven” at Dhun’16](/images/posts/stairway-to-heaven-dhun-16.png){: style="width: 55%;"}
+![“Stairway to heaven” at Dhun’16](http://ketangupta.in/wona-images/posts/stairway-to-heaven-dhun-16.png){: style="width: 55%;"}
 *“Stairway to heaven” at Dhun’16*
 {: style="text-align: center"}
 
@@ -41,7 +41,7 @@ My recruitment was pretty straightforward. I dedicated about a week to prepare 2
 
 It’s the best feeling when you go up and walk on stage to your set, and the crowd starts cheering. It brings a little smile on your face and gives you a shot of confidence. At Swaranjali ‘14, I had invited all my friends to watch the show and when I went onstage, they started shouting <b>“Lamba! Lamba!”</b>, with the crowd joining instantaneously and this was not part of some scripted act, so I started looking at the audience following the whooping, trying to locate them (believe me, you can’t see a thing down the stage with all those lights glaring in your face), I smiled and gave my sticks a spin. That has been the most memorable moment of every show since then, and I thank my audience for that.
 
-![Post Swaranjali’15](/images/posts/post-swaranjali-15.png){: style="width: 55%;"}
+![Post Swaranjali’15](http://ketangupta.in/wona-images/posts/post-swaranjali-15.png){: style="width: 55%;"}
 
 *Post Swaranjali’15*
 {: style="text-align: center"}

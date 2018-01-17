@@ -17,7 +17,7 @@ The meeting started off with an information dissemination session, with all the 
 The meet was started by the GS Hostel Affairs and Convenor of the SAC, who updated the attendees on various future projects like the provision of Wi-Fi in the Lecture Hall Complex. Taking inspiration from other IITs in developing a strong Bhawan culture, IITR will be holding Inter Bhawan Cultural, Sports and Technical trophies. Adding to that, a proposal regarding the entry of boys in the girls’ hostels till the canteen and the garden had been approved, subject to the condition that a maximum of three boys can be accompanied by a girl in the bhawan. In further developments, talks were in place for an extended break during Holi and Diwali. An interesting insight was the breakup of the Rs. 6000 charged by the institute towards extracurricular activities. It was clarified that this is the only fund at the DoSW’s disposal and it is divided in the following fashion:
 
 
-![Meta Chart](/images/posts/meta-chart.jpeg){: style="width: 90%;"}
+![Meta Chart](http://ketangupta.in/wona-images/posts/meta-chart.jpeg){: style="width: 90%;"}
 
 
 Some changes relating to technical, academic and alumni affairs were intimated by the respective secretaries. To the relief of many students, an update on the attendance rule was given, stating that the proposal to increase the attendance to 90% was rejected by 14 of the 21 head of departments, with 3 HOD’s still undecided. Talks for a Q&A BOT, that can answer any question any student has, are ongoing. To ease the process of sharing current institute affairs, a Media Cell in association with Watch Out! and a Broadcasting Channel are to be set up. A temporary Alumni Connect on Request portal will be set up which will enable crowdfunding by multiple alumni along with internship opportunities, all through a single channel.
@@ -25,7 +25,7 @@ Some changes relating to technical, academic and alumni affairs were intimated b
 
 ### Question and Answer session:
 
-![GBM 1](/images/posts/gbm-1.jpg){: style="width: 50%; float: left; margin-right: 4%;"}
+![GBM 1](http://ketangupta.in/wona-images/posts/gbm-1.jpg){: style="width: 50%; float: left; margin-right: 4%;"}
 
 The meeting was then opened up for the general populace, who spoke up about their concerns regarding the biggest issues plaguing the campus, specifically the unpleasant experiences of students at the institute hospital, the nonchalance of the administration to address the issue of the girls timings, and the difficulties arising due to cultural gap faced by the international students during their stay on campus. Here are some issues covered in the meeting :
 
@@ -63,7 +63,7 @@ The meeting was then opened up for the general populace, who spoke up about thei
 
 ### Our two cents:
 
-![GBM 2](/images/posts/gbm-2.png){: style="width: 40%; float: left; margin-right: 4%;"}
+![GBM 2](http://ketangupta.in/wona-images/posts/gbm-2.png){: style="width: 40%; float: left; margin-right: 4%;"}
 
 The sister IITs are no stranger to such General Body Meetings. IIT Bombay has a very organized idea of GBMs where the Gymkhana President - a faculty-in charge of the Student’s Gymkhana - chairs the meeting, and aims at reviewing the performance of the Office Bearers. All students can attend the meeting but only members of the General Body present can vote. The meeting is conducted once a semester and the quorum is 50% of the members.
 

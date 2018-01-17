@@ -48,15 +48,15 @@ Both the wars had a devastating effect on the Institute, particularly the first 
 
 ### POST INDEPENDENCE ERA
 
-![wonatm1](/images/posts/wonatm1.png){: style="float:left;width:40%;margin-right:2%" }
+![wonatm1](http://ketangupta.in/wona-images/posts/wonatm1.png){: style="float:left;width:40%;margin-right:2%" }
 
 This flag, flying high over the Main building lawns is often an object of curiosity for guests and newcomers to the campus. It was adopted as the University flag in 1949 at the inauguration of the University on 25th November, 1949, known thereafter as Charter Day, celebrated with much pomp till a few years ago. Now, it is marked by a lit-up main building. The college had, by then, expanded its field of teaching to include courses like Electrical and Mechanical engineering; the old engineering and overseer courses of Civil engineering also remained. 
 
 The upcoming period was marked in both the physical and intellectual development of the institute. In 1954, AN Khosla, arrived as the Vice Chancellor, and brought with him a forward thinking attitude, and a desire to bring change to the stagnating campus. He believed in Shramdaan and students were encouraged to help out the masons in construction of new buildings and structures. If done today, this stunt would obviously be seen by the angsty junta as forced labour or slavery. Between 1955-1961 Govind, Ravindra and Azad bhawans were built. Some years later, Jawahar was built for PG students. A 50*15*5 m swimming pool was constructed and an open air theater was made out front. 
 
-![wonatm5](/images/posts/wonatm5.jpg)
+![wonatm5](http://ketangupta.in/wona-images/posts/wonatm5.jpg)
 
-![wonatm4](/images/posts/wonatm4.png){: style="float:left;clear:left;width:40%;margin-right:4%" }
+![wonatm4](http://ketangupta.in/wona-images/posts/wonatm4.png){: style="float:left;clear:left;width:40%;margin-right:4%" }
 
 A temple, now dubbed the Saraswati Mandir, was constructed along with a yoga hall. It played host to an annual fair on Nagapanchami. The place has various tales associated with it: it is believed to be the site of two Satis in the past. It also served as some sort of memorial to a Pehelwan Baba (wrestling coach). The University dealt with this by constructing two chhatris as memorials for the satis and a spot as the pehelwan babas memorial. This mandir still serves the needs of the professors’ families and the God-fearing junta during exam time. The wedding feasts held regularly in the temple grounds attract quite a few disguised students seeking somewhat-edible food.
 

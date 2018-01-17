@@ -20,7 +20,7 @@ __W: Recently you have been dilating to other cities as well. What were the chal
 
 __P__: As far as establishing the market in Roorkee is concerned we didn't face many difficulties given the fact that our team wholly consists of undergrads. Expanding to Dehradun was an uneasy task. Commuting to Dehradun from Roorkee and then back to Roorkee was quite hectic. Gaining the local restaurant owners' confidence wasn't a cake walk. However, the most challenging thing was building a team in Dehradun, because it's difficult to manage a team when none of your core team members is actually present there at all times. The good thing is that even after these challenges we've managed to come this far.
 
-![pibit 1](/images/posts/pibit_team.jpg)
+![pibit 1](http://ketangupta.in/wona-images/posts/pibit_team.jpg)
 
 __W: What sets you apart from your competitors?__
 

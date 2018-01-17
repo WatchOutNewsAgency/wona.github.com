@@ -27,7 +27,7 @@ This round was meant to test Mathematic and Analytic Aptitude. At first, we had 
 **HR Round:**
 This was like a generic HR interview. There were usual questions regarding previous internships, projects, interests, background, ambitions, strengths etc. The best way to tackle these questions is to be brutally honest.
 
-![pic2](/images/posts/rohit2.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/rohit2.jpg){: style="width:70%;height:auto"}
 
 ### Work
 
@@ -41,7 +41,7 @@ Interns are generally given the projects that would have otherwise be given to r
 
 The AmEx office is in Koramangala area of Bangalore. Koramangala is an absolute paradise for foodies. It has a range of restaurants, cafes, bistros and clubs. There are exquisite English Cafes, Pizza Places, Theme Restaurants, Buffets, Continental Bistros and Fast food places. You name it, they have it. The weather is great if it isn’t raining. There are many places to visit in and around Bangalore. You can checkout Wonderla, take a trek to the Nandi hills or spend your weekends in Pondicherry, Coorg or Ooty.
 
-![pic3](/images/posts/rohit3.jpg){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/rohit3.jpg){: style="width:70%;height:auto"}
 
 ### Summing Up and Key Takeaways
 

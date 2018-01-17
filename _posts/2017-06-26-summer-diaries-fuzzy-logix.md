@@ -19,7 +19,7 @@ The first round was the online test containing 10 basic aptitude questions, 10 s
 For the interview, two panels, one for the technical interview and one for the HR interview, were created and the two interviews were carried out in different rooms. In the technical interview, difficult questions were asked on coding and probability and we were grilled based on our technical knowledge. On the other hand, the HR interview was based on an interaction with the panel with discussions that revolved around our resume. Some basic C++ programming, Object Oriented questions, and a few puzzles were also asked. If you can interact well, explain properly what you have done throughout your college life and present your achievements, your work here is done!
 A total of 8 people were selected for the internship after the interview round.
 
-![pic2](/images/posts/deept2.jpg){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/deept2.jpg){: style="width:60%;height:auto"}
 
 ### Work
 <br>
@@ -37,7 +37,7 @@ The work culture at Fuzzy Logix is quite cool and similar to that of a startup. 
 **Experience gained:**
 ​I learned a lot about various languages used specifically for Data Science and also got an insight of the important functions used. We are also allowed to attend various team meetings so that we could get an insight of how the work is carried out in an IT firm. Overall, it was a great experience for a person like me, who had no background in coding. The mentors and people around helped me from scratch and cleared the silliest of my doubts.
 
-![pic3](/images/posts/deept3.jpg){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/deept3.jpg){: style="width:60%;height:auto"}
 
 **Advice to people gunning for it:**
 Though the work at the internship might get redundant after a while, it’s the foundation of the work done at Fuzzy Logix that you learn during your internship. You learn the basics of Data Science and see how various functions work.The work for interns basically revolves around the development, testing, debugging and documentation in various data analytics platforms. Work done at Fuzzy Logix is quite different from that at a conventional IT firm and that’s what makes it more interesting. You may be expecting that there would be a lot of Data Science, so you may get upset on this front as most of the interns are made to work mainly on development projects. But since it’s more of a startup, you can work closely with the team and also get to know about the work being done in other projects. Overall, there is a great learning atmosphere. If you’re willing to go for it, build a strong resume, present your work in the right way and get it proofread by your seniors and friends. As for the interview, prepare well about the things you’ve mentioned in your resume, your projects or earlier internships and be confident. Also, a good command over coding would definitely give you an edge.

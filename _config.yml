@@ -22,7 +22,7 @@ defaults:
       layout: category
 
 name: Watch Out, IIT Roorkee
-url: http://wona.co.in
+url: http://watchout.iitr.ac.in
 gems: [jekyll-paginate]
 description: The official news magazine of IIT Roorkee.
 paginate: 10

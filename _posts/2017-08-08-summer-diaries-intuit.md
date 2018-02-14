@@ -46,7 +46,7 @@ Step 6: __Get selected__ in the team of your choice. Yes, they listen to you if 
 
 ### Work, place?
 
-![pic1](/images/posts/anushrut-2.png)
+![pic1](http://ketangupta.in/wona-images/posts/anushrut-2.png)
 
 I always thought a good satisfying corporate job was a myth I had to believe. Well, my internship proved me wrong. Being called a 35-year-old startup, Intuit believes in reinventing itself time and again, making it one of the most innovative companies in tech right now.
 
@@ -64,7 +64,7 @@ The interns are regarded on the same level as the employees and granted all the 
 
 After a tedious orientation day, you get to meet your team and mentor, the ones you’ll be working with for the coming months. The people there, way too friendly (thanks to the silent judgement of ethics during the hiring process), help you around and get you acquainted in no time. You are allotted a spacious desk among other employees, mostly of your team, equipped with a desk phone and any number of accessories which you ask for; monitors, keyboards, mice, headsets and the like.
 
-![pic2](/images/posts/anushrut-3.png)
+![pic2](http://ketangupta.in/wona-images/posts/anushrut-3.png)
 
 The workload depends on how much you take upon yourself and there are no restricted working hours. I personally took up two main projects and usually worked from 11 to 6, but stayed back a little longer (for the food, fun and games).
 
@@ -80,7 +80,7 @@ In the last week, you present and demonstrate your work before the Architects wh
 
 ### Location, location, location
 
-![pic3](/images/posts/anushrut-4.png)
+![pic3](http://ketangupta.in/wona-images/posts/anushrut-4.png)
 
 Intuit has three buildings in the RMZ Ecospace tech-park in Bellandur, Bangalore. You already know about Bangalore, right?
 

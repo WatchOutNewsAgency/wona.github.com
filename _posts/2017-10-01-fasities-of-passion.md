@@ -14,7 +14,7 @@ Etymologically, the word ‘passion’ is derived from the Latin word, _“pati�
 
 If passion were a binary entity, its existence can be proved via an elaborate argument involving biology: our DNA is a specific, unique combination of four proteins (Adenine, Guanine, Thymine and Cytosine). An individual’s DNA is a code written in these four variables. We are the program that it produces, by virtue of the nature and sequence of linkages constituting it. Although not provable conclusively, it isn’t irrational to assume that every part of us – in some proportion – involves our genes; the same can be extended to one’s passion(s). There ought to be certain activities that give us the requisite pleasure as we perform them.
 
-![pic1](/images/posts/passion2.png)
+![pic1](http://ketangupta.in/wona-images/posts/passion2.png)
 
 To argue for the non-existence of passion, one may bring to the fore the prevalence of innumerable potential activities. Discovery of a singular activity may consume the better part of our lives, perhaps even elude us till death. What, then, is the point of such an activity? It is in the best interest of our happiness to make do with what we have and not wander wildly, searching for what we do not possess.
 

@@ -4,7 +4,7 @@ title: "News"
 ---
 
 <section class="cover">
-	<img src="/images/news.png" alt="">
+	<img src="http://ketangupta.in/wona-images/news.png" alt="">
 </section>
 
 <div class="content masonry">
@@ -14,11 +14,11 @@ title: "News"
 				<div class="article {{post.tag}}">
 					<a href="{{ post.url }}">
 						{% if post.tag %}
-							<img src="/images/tags/{{post.tag}}.png" class="tag">
+							<img src="http://ketangupta.in/wona-images/tags/{{post.tag}}.png" class="tag">
 						{% endif %}
 
 						{% if post.image %}
-							<img src="/images/posts/{{ post.image }}" class="article-cover">
+							<img src="http://ketangupta.in/wona-images/posts/{{ post.image }}" class="article-cover">
 						{% else %}
 							<br><br>
 						{% endif %}
@@ -49,7 +49,7 @@ title: "News"
 		{% for post in site.posts %}
 		<li>
 			<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-			<span><img src="/images/posts/{{ post.image }}">
+			<span><img src="http://ketangupta.in/wona-images/posts/{{ post.image }}">
 		</li>
 		{% endfor %}
 	</ul> -->

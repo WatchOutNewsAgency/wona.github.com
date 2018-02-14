@@ -12,5 +12,5 @@ Are you stuck choosing between the elective which has your crush and the one whi
 
 Fear not, ladies and gentlemen of IITR. Watch Out! News Agency proudly presents the solution to all your problems (which you must have, as always, left for the last minute): The Elective Selection Algorithm.
 
-![Taking surveys](/images/posts/elective_selection_algorithm.jpg)
+![Taking surveys](http://ketangupta.in/wona-images/posts/elective_selection_algorithm.jpg)
 

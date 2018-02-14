@@ -23,7 +23,7 @@ As I write my experience of Schlumberger, I recollect the days when I also was v
 
 ### Work
  
-![work](/images/posts/schlumbarmer-1.png)
+![work](http://ketangupta.in/wona-images/posts/schlumbarmer-1.png)
 
 <b>Details about the firm:</b> As you might be aware of the fact that Schlumberger is the world’s largest oilfield services company. Schlumberger is a fortune 500 company with a revenue of over 35 billion dollars and approx. 95,000 employees. So, Schlumberger actually is one of the rare companies of this stature hiring from IIT’s.
 
@@ -33,7 +33,7 @@ Apart from that we were given different projects. My project was to manage their
 
 ### Life@Schlumberger
  
-![life](/images/posts/schlumbarmer-2.png)
+![life](http://ketangupta.in/wona-images/posts/schlumbarmer-2.png)
 
 The company provided a sumptuous accommodation. We stayed in a resort with almost all the luxuries we could imagine.  All our travel expenses were also borne by the company. Because of the nature of work, Schlum pampers its employees heavily. People at Schlum are really helpful but at the same time they’re very busy so most of the problems you need to tackle on your own. Now coming to the point of locations, the condition at Barmer is very harsh with an average temperature of about 45 degrees. So if you are not mentally and physically fit, it would be very challenging to survive in those conditions and that’s why Schlumberger choose its candidates accordingly. Almost every location be it India or outside has its own limitations. Talking about leaves, you work for 8 weeks continuously (even Sunday) and then take a three weeks break (for permanent employees).
  
@@ -41,7 +41,7 @@ The company provided a sumptuous accommodation. We stayed in a resort with almos
 
 The work that is assigned to an intern at Schlum is very rudimentary. You won’t require any prerequisite knowledge, mostly you’ll observe how a field engineer works. You’ll find IITians at the top positions at Schlumberger. Schlum feels that IITians can handle difficult situations better than others and this is the only quality for which it hires from IITs and offer handsome salaries. Now a word of caution, as oil prices plummeted recently, Schlum is continuously firing its employees. In one year it has fired more than 30,000 employees. The situation is not cheerful presently because of the insecurity of the job but people predict that this is going to end soon.
 
-![takeaways](/images/posts/schlumbarmer-3.png)
+![takeaways](http://ketangupta.in/wona-images/posts/schlumbarmer-3.png)
 
 Technologically, Schlum is way ahead of its competitors and it is a very good company if one likes the kind of work. For the initial one year they’ll send you to places like Thailand, Singapore or Middle East to complete your pre-school, school and post school in Schlum.
  

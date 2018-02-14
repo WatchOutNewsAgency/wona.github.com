@@ -12,7 +12,7 @@ _Tathagata Sengupta is a 5th year student in the Department of Mathematics. Read
 
 To begin with, yes, CGPA did matter while applying it on campus (actually it is your department rank which gets you shortlisted for the company). As a matter of fact, I never found a single person below the 8.5 mark in the research team, so it’s safe to assume the cut-off to be the same. However, I’m not exactly sure about the product team which was mainly based in Noida. 
 
-![making it there](/images/posts/adobe-1.png)
+![making it there](http://ketangupta.in/wona-images/posts/adobe-1.png)
 
 There was a first round of online test asking you simple questions on probability, ad-hoc algorithms, a short essay on how to make the world a smarter place. This was followed by a telephonic interview which is generally taken by junior members of the research / product team. You can expect questions from basic data structures and algorithms, probability theory, discrete mathematics etc. I was asked questions from Real Analysis for which I gave a proof from Walter Rudin’s book on the same. I’ll advise against it though. For tips regarding the interviews, chill. They are statistically random. 
 
@@ -24,7 +24,7 @@ Prior to the initiation, a team of three is formed taking into consideration the
 
 The entire internship programme was divided into three parts. In the first three weeks, of our internship, we were asked to delve into the problem domain related to our broad topic. We have to come up with some what 80+ problem statements and ideas. These ideas must be well posed and should be backed by some literature. In order to do this, we were provided free access to various conferences and journals of the likes of ACM, IEEE etc along with marketing journals like Forrester, etc. My team’s broad topic was “Persuasive Online Content”, hence our ideas mainly focussed on the different technical and marketing aspects leading to persuasion. This included ideas in the domain of UX, image processing, language processing, social media analytics, art theory etc. During this time, we interacted with multiple mentors whose specialization involves any one of our idea cluster. We interacted with the people from UX team as well. Focus is mainly on this aspect as in corporate research, coming up with a problem is equally important as finding its solution.
 
-![work](/images/posts/adobe-2.png)
+![work](http://ketangupta.in/wona-images/posts/adobe-2.png)
 *Team Coax*
 {: style="text-align: center"}
 

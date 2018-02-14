@@ -24,7 +24,7 @@ Another major issue that came to light was that of food; residents of Rajiv and 
 
 Moreover, accommodation for majority of the new international entrants are given in Azad or Ganga Bhawan and later in KIH. When asked which bhawan they preferred, almost everyone approved KIH as more comforting. They could invite their families to stay in KIH, which they can’t in Azad Bhawan; living around other international students alleviated their loneliness, and made them feel more comfortable.
 
-![pic](/images/posts/international-2.png) 
+![pic](http://ketangupta.in/wona-images/posts/international-2.png) 
 
 In conversation with one of the senators representing Cautley Bhawan, we were informed that although each Bhawan level event (aimed at all students, Native and International) is well publicized, the international students rarely participate, and the reason for this remains unknown. This was further confirmed when the “Burpp and Slurpp Competition”, organized by the Culinary Club in association with the SAC, was met with only one participant from the international students community.
 

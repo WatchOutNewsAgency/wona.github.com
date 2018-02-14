@@ -16,7 +16,7 @@ Schlumberger is the world’s largest oilfield service sector company which is d
 
 Schlumberger generally comes in the month of August and there are 3 rounds an aspirant has to go through before he/she can make it as an intern there. The first round is basically resume based shortlisting. The chances of making it to the list increase, for people who are involved in various extracurricular activities ( Sports, Groups, Fests etc. ) and the chances further increase if you have certain  Position of Responsibility ( POR’s) under your belt. 
 
-![pic2](/images/posts/Vij2.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Vij2.jpg){: style="width:70%;height:auto"}
 
 The second round involves a group discussion in which the Schlum people gauge you on your ability to drive a conversation, your speaking skills and how valid and supported your points are. The GD involves abstract topics (tick mark, parallel lines, a dot etc.), so as such no preparation is required for the GD. Just go in with an open mind!
 
@@ -38,7 +38,7 @@ Apart from the Base projects, we also have Rig visits/ Field Visits (Rigless Job
 
 Food, accommodation, travel and other facilities are provided for by Schlumberger and you’ll not have any complaints with the basic necessities. Apart from that, throughout your intern, you’ll be travelling a lot, and exploring new places which you’ll probably never visit during your lifetime.
 
-![pic3](/images/posts/Vij3.jpg){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Vij3.jpg){: style="width:70%;height:auto"}
 
 ### Takeaways and Advice
 

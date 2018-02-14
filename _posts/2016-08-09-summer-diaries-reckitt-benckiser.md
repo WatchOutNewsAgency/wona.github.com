@@ -24,7 +24,7 @@ PS: Although RB did not select any intern from BT in 2016, they do have openings
 
 Location: Summer interns from IITs are sent to the Gurgaon R&D facility. This is among only 7 global R&D category centres for RB handling R&D for a 8.8 Billion GBP company so trust me when I say this that work here does make a lot of difference.
 
-![Workplace](/images/posts/reckitt-1.jpg){: style="width: 55%;"}
+![Workplace](http://ketangupta.in/wona-images/posts/reckitt-1.jpg){: style="width: 55%;"}
 *The workplace*
 {: style="text-align: center"}
 

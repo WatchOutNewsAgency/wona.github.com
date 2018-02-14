@@ -9,7 +9,7 @@ category: editorial
 Albert Camus once said, “Man is the only creature who refuses to be what he is”. I guess he simply felt that our need to be acceptable takes away a part of us that was meant to define our individuality and instead leaves behind something alien in its place. What some call transformation and self-actualization could be a futile and miniscule attempt to make ourselves a little similar to that which we deem worthy of existence. How does one decide what is worth existing or fighting for?
 Is it what makes us happy? 
 
-![Albert Camus](/images/posts/albert-camus.png){: style="width: 65%;"}
+![Albert Camus](http://ketangupta.in/wona-images/posts/albert-camus.png){: style="width: 65%;"}
 Albert Camus, the man behind __absurdism.__
 {: style="text-align: center"}
 
@@ -29,7 +29,7 @@ direct us on a path giving us someplace to begin figuring out this vast ocean of
 
 This also begs the question: could it all be a part of the natural order of things? Is it possible to experience cognitive changes without inducing thoughts? This could also mean that animals might have the ability to extract emotional content from the most extreme of their experiences in whatever minute way they can. Maybe we don’t see it because it’s not the way we do it.
 
-![The Time Machine Cover](/images/posts/the-time-machine-cover.png){: style="width: 40%;"}
+![The Time Machine Cover](http://ketangupta.in/wona-images/posts/the-time-machine-cover.png){: style="width: 40%;"}
 
 Maybe philosophy doesn’t possess the power to mold our cognition in the absence of an initial thought in the same direction, latent but natural and strong. After all, philosophy itself comes from the ‘scientific’ treatment of some emotion (and bear in mind, I say ‘scientific treatment’ only to prevent myself from transgressing into a completely irrelevant domain). But then maybe this is just an idea you fall upon one day that ceases to make sense the next. Nevertheless,
 the comparison to animals, though, important is not absolute. One could find some idea about it in the novel, The Time Machine by H.G. Wells where the author explains a futuristic world devoid of technology that has turned into one, way more backward than the history we’ve developed out of. Interestingly psychology is the only science where we are free to make sense out of every idea the way we want to. And if that philosophy is unfathomable to you, you’re probably

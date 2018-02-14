@@ -22,7 +22,7 @@ It came to the notice of the administration that students were wary of taking is
 The Ombudsman is authorized to conduct inquiries as he deems appropriate. A directive has been issued asking all departments and faculty to cooperate with him. However, he only has advisory powers. Based on his inquiries, he submits a report to the Director, suggesting appropriate actions and/or policy changes, who then takes it into consideration. 
 
 <br>
-![pic2](/images/posts/ombudsman2.png){: style="width:90%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/ombudsman2.png){: style="width:90%;height:auto"}
 <br>
 
 ### How is this post different from already existing bodies like Dean of Students’ Welfare or Counselling Cell?

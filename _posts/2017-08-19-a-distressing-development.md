@@ -20,7 +20,7 @@ Gathered by his friends’ accounts, Aman appeared to be suffering from depressi
 
 His roommate had gone to Delhi two days ago, and, thus, wasn’t present during the incident. At around 3:30pm, we witnessed the student’s body being transferred to the hospital via the ambulance.The Uttrakhand Police took the relevant evidence from his room. Later, we followed the Deans and professors to Rajendra Bhawan’s office where we waited for a statement.
 
-![pic2](/images/posts/distressing-development-2.png) 
+![pic2](http://ketangupta.in/wona-images/posts/distressing-development-2.png) 
 
 ### Certain excerpts from the conversation that we had with the Deans
 

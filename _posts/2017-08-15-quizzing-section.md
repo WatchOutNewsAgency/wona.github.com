@@ -51,7 +51,7 @@ Team quizzing hands down, I suck at lone-wolf quizzing.
 Renju and I complement well in a team.
 
 <br>
-![pic2](/images/posts/ruhela2.JPG){: style="width:100%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/ruhela2.JPG){: style="width:100%;height:auto"}
 <br>
 
 ### Glories and achievements of the group (both before and after you’ve been a part of the group)

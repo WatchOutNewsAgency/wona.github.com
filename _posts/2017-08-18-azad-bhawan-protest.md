@@ -14,11 +14,11 @@ In immediate response to what happened and on further notifying the Chief Warden
 
 Supposedly, the same person, on the very next day, stole 2 more laptops from Azad Bhawan, from two rooms in the first wing. An eagle-eyed resident of Azad Bhawan identified the culprit, who was on a bike, and tried to stop him by following him on his own bike. On being unable to successfully catch the accused, he, along with some more people who had joined him in the chase, started shouting at the security at the main gates to stop him, but the security guards didn’t (or couldn’t) stop the bike, because the fugitive had a staff sticker on his bike.  
 
-![pic2](/images/posts/azadtheft2.png)
+![pic2](http://ketangupta.in/wona-images/posts/azadtheft2.png)
 
 The very disappointed group of chasers soon turned into a group of irate protesters, and, very soon, no less than 60 people from Azad Bhawan were protesting in front of the Main Gate. Until then, the General Secretary, PG Academics was updated, who further notified the remaining members of the SAC - namely the GS Cultural Affairs, the GS Alumni Affairs, and the GS Hostel Affairs - who reached the spot as soon as they were informed. Also, some people from the horde even called the media which was present near the campus on account of the Independence Day celebrations. The Dean of Students Welfare, Prof. Anand Joshi, soon joined in to pacify the mob, which began to demand the resignation of the residential warden of Azad Bhawan.  
 
-![pic3](/images/posts/azadtheft3.png)
+![pic3](http://ketangupta.in/wona-images/posts/azadtheft3.png)
 
 The unsatisfied crowd, despite having a document with a stamp of the police, protested in front of the Director’s Residence, later in the night, demanding his appearance and his address on the issue. Very soon, the Dean of Students Welfare, ADOSW Bhawan, ADOSW Student Activities, Dean of Academics, the Security Head, and various other professors gathered there to monitor the crowd. 
 

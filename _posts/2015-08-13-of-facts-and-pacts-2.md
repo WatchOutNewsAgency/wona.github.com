@@ -32,7 +32,7 @@ At the Bhawan level we now have six positions, discarding the constituency syste
 
 Along with the wardens, the elected students constitute the Bhawan Council. A member secretary responsible for the convening of meetings of Bhawan council will be nominated out of the elected Bhawan council members.  
 
-![bhawan](/images/posts/bhawan-positions.png)
+![bhawan](http://ketangupta.in/wona-images/posts/bhawan-positions.png)
 
 At the institute level, there are seven positions out of which five will be elected and two nominated-
 
@@ -50,7 +50,7 @@ At the institute level, there are seven positions out of which five will be elec
 
 The aforementioned students will constitute the executive committee of SAC and will nominate one among themselves to be the General Secretary of SAC.  
 
-![institute](/images/posts/institute-positions.png)
+![institute](http://ketangupta.in/wona-images/posts/institute-positions.png)
 
 For the uninitiated, the force driving these sweeping reforms in the election procedures is to be done away with the ‘murkier’ side of student politics by encouraging manifesto based elections. Whether or not these are on a par with the objective originally intended, is a story yet to unfold. In the third and the last of the series, ‘Of Pacts and Facts’, Watch Out! will scrutinize the reforms at a microscopic level and paint the bigger picture.
 Stay tuned!

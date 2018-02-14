@@ -19,7 +19,7 @@ As far as the rankings are concerned, Quacquarelli Symonds (QS) World University
 As shall be sanely argued, the quality of publications matters more than quantity, Roorkee boasts of approximately 16,330 citations for the period 2010-14, a far cry when compared to IITB’s 26,991 citations.  As the exhaustive review suggested, IITB also had 85 publications in the top 1% most cited papers for all IITs; IITR achieved only 39 publications.
 
 <p>
-    <img src="/images/posts/research-3.png" alt="citations graph">
+    <img src="http://ketangupta.in/wona-images/posts/research-3.png" alt="citations graph">
     <em><font size="-1">Credits : The Wire</font></em>
 </p>
 
@@ -54,7 +54,7 @@ The department policies are also not very student-friendly either;  QIP (Quality
 
 In addition to the above, one also has to deal with issues that plague most of the Indian labs, especially in regards to the inadequacy and obsoleteness of instruments. All the expenses incurred for sending samples to lab testing are borne by the student himself/herself; more often than not, the students are on the receiving end of the professor's whims and are saddled with the personal tasks of the professors; doctoral research is funded by the MHRD for only 7 years, so, if a student is forced to confront the unfortunate event of being forced to delay his PhD, due to some unforeseen circumstances, he/she is at the mercy of the institute and the professors - most rant by students are not baseless. 
 
-![image](/images/posts/research-2.png)
+![image](http://ketangupta.in/wona-images/posts/research-2.png)
 
 ### Professors' views on research here and abroad
 

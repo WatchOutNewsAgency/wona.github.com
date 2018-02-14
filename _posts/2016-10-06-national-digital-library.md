@@ -15,7 +15,7 @@ __The National Digital Library is a project initiated by IIT Kharagpur with the 
 
 Recently, IIT Kharagpur put forth a proposal to the Ministry of Human Resource Development (MHRD) seeking the creation of a national online educational asset for students interested in research and innovation. The National Digital Library (NDL) is an all-digital library that will integrate all existing digitized and digital contents across various Institutions of the nation to provide a single-window access to different groups of users ranging from primary level to higher education level and even life-long learners of our country. Except for copyrighted content, digital data of about 110 institutions at the primary level will mostly be available for free, although access to the materials will be determined by the policy of respective institutions and their access rules. Educational materials are available for users ranging from primary to postgraduate levels and in all types of specialisations. It will provide vernacular content in all disciplines and in varied forms of access devices including video lectures and provisions of learning to cater to a diverse and wide ranging audience.
 
-![National Digital Library](/images/posts/ndl_screenshot.jpg){: style="width: 65%;"}
+![National Digital Library](http://ketangupta.in/wona-images/posts/ndl_screenshot.jpg){: style="width: 65%;"}
 
 #### <b>How do you use it?</b>
 

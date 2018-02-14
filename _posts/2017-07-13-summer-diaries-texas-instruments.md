@@ -23,7 +23,7 @@ The HR interview round follows the technical round. Most of the discussion in my
 The result came in around 4 hours. An internship offer letter was later delivered to us along with a starters kit consisting of a pen, an Intex fitrist and a T-Shirt.
 Texas Instruments is a dream company for many electrical and electronics engineers. If you keep your logic and concepts clear, (with a bit of luck) you can easily make it through the selection process. Moreover, TI does not believe much in any CGPA criteria and anyone having CG > 7 can sit in the online test.
 
-![pic2](/images/posts/Tanvi2.JPG){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Tanvi2.JPG){: style="width:60%;height:auto"}
 
 ### Work
 <br>
@@ -38,7 +38,7 @@ I was a part of the backplane MCU (Microcontroller Unit) team, particularly the 
 Depending on your project, you may find the work interesting or boring. But the upside is one can always ask the mentor to modify the work according to his interests. Also, since there are so many experienced people around, you can learn a lot just by interacting with them. Everyone is quite humble and always willing to help.
 During the internship, TI organises a workshop on ‘Presentations with finesse’ in which they teach presentation skills like maintaining the correct body language, introducing yourself effectively, among other skills. Apart from this, we attended an IEEE conference, had power lunch with one of the most senior members of the team, and went out for team outings. I also went to a government school on the outskirts of Bangalore when I volunteered in the Back to School campaign.
 <br>
-![pic3](/images/posts/Tanvi3.JPG){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Tanvi3.JPG){: style="width:60%;height:auto"}
 <br>
 TI gives its interns free access to its entertainment and sports facility area - Texin. It offers a plethora of recreational activities like music, carrom, snooker, TT, badminton, meditation, etc. It’s quite fun to go there and relax for some time when you get tired of your work.
 

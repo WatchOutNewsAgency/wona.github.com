@@ -20,7 +20,7 @@ Big cities are more expensive than smaller ones, so finding cheap accommodation 
 
 I started completing the remaining process for DAAD application. It includes providing your passport details, making a German VISA, hunting for accommodation and cheap currency exchange rates and most importantly booking flights. Booking flights in advance and also for the return journey is a good idea as prices increase dynamically. I booked my flights in February when the rates were quite low. If direct flights to your destination is not cheap, then flying to either Munich or Frankfurt is better. The cities are well connected by bus and train services. You can also find some domestic flights having rates comparable to trains and buses. Flixbus is the most economical option one has in Germany and many other European countries. 
 
-![pic2](/images/posts/Himanshu2.PNG){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Himanshu2.PNG){: style="width:70%;height:auto"}
 
 Getting a visa is not difficult. If you have your passport already ready, which you must in January, the visa application hardly takes 20 days. The process is simple: there is a short term visa available for a short (less than 3 months) stay in Germany which is called Schengen visa, which is valid for most countries in the European Union. All you have to do is book an appointment at the visa application centre near you, fill in the online or offline form and take the printout to the centre on the appointment day. It takes 2-3 hours for biometric scanning and verifying your details. Visa application is free for DAAD students but still you have to pay the convenience fee of ~1500₹.  
 
@@ -29,7 +29,7 @@ One of the toughest parts of the DAAD process is to find accommodation in German
 I did my currency exchange beforehand from buyforex.in. You should carry enough money for at least two weeks worth of expenses because the monthly scholarship starts only after you make your bank account in Germany, which takes at least a week. A international travel card is a good option if you don’t want to take money in cash. It is an easy, fast and reliable means of exchange, and can be issued from any nationalised bank. 
 Note: Learning German is not required as you will find English speakers in your institute and in the worst case you have your Google translate app.
 
-![pic3](/images/posts/Himanshu3.PNG){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Himanshu3.PNG){: style="width:70%;height:auto"}
 
 ### Work
 
@@ -50,7 +50,7 @@ The bus service in Germany and other countries in Europe are very comfortable an
 
 Almost all the countries of Europe have great travel attractions. Even Germany itself consists of many beautiful places to see. The north coast of Germany (the Baltic and the North sea) has many wonderful cities with very beautiful beaches. In south Germany, there are many beautiful forests in Bavaria. Even cities like Berlin, Munich, Hamburg and Leipzig contain many attractions. And if you are in Germany, it is easy for you to go anywhere being right at the centre of Europe. Major German cities are well connected to other countries of Europe by road, railways and planes. Weekend trips are best because you don’t need to worry about work. 
 
-![pic4](/images/posts/Himanshu4.PNG){: style="width:70%;height:auto"}
+![pic4](http://ketangupta.in/wona-images/posts/Himanshu4.PNG){: style="width:70%;height:auto"}
 
 If you are a fan of football, then this country is for you, but the time is not suitable since the league ends in May. However, you can always visit football grounds for a minimal entrance fee.
 

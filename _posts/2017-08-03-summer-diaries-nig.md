@@ -34,7 +34,7 @@ NIG also accepts undergraduate research enthusiasts via a separate one-month lon
 I chose to take up a core part of the ongoing forward-genetics research in Danio rerio (zebrafish).  My job was to rough-map/locate a chemically-induced novel heterozygous mutation in the zebrafish germline that manifests a direct impact upon spermatogenesis, for a better understanding of the shift from mitosis to meiosis in vertebrates. The job required precise liquid-handling techniques and electrophoretic data-analysis skills, and a hands-on training experience in the first week helped me get through it. The project required me to conduct multiple PCR reactions, an idea that was initially intimidating. 
 The first day at the lab wasn’t really great. The DNA extraction experiment went wrong and I ended up with a dead specimen.
 
-![pic2](/images/posts/sonali-2.png){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/sonali-2.png){: style="width:70%;height:auto"}
 
 I received considerable technical support from my Professor (Sensei) and the Assistant Professor that made project details lucid, along with other numerous concepts that I had previously read but forgotten. 
 
@@ -45,7 +45,7 @@ Added to that, I was lucky enough to attend the NIG Retreat: an institute-level 
 During the second month of the internship, lab visits were organized for all the visiting interns. The experience was indeed very enriching. 
 There doesn’t exist a discrete “buddy” system there, but people in my lab were very thoughtful to send me details about the Indian researchers at NIG. Moreover, my sensei gave me a ladies’ bicycle (called “Mamachari” in Japanese) to travel around conveniently in Mishima. NIG is located on top of a hill, and it was always overwhelming, cycling down the descent with the view of Mt. Fuji. 
 
-![pic3](/images/posts/sonali-3.png){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/sonali-3.png){: style="width:70%;height:auto"}
 
 The first few weeks were pretty challenging. One of the main reasons being the language barrier. I couldn’t really make the best use of my rudimentary Japanese acquired by a two-week long self-learning program. NIG, being very receptive to foreign students was luckily very sensitive towards this issue, with all seminars conducted in English. Despite that, there were underlying issues in explanation of concepts, doubt sessions, troubleshooting etc; stemming from lingual differences. Especially outside the campus, problems were very visible. Google translate came in handy, though it does translate many words in a wrong way. Sign-language was my last resort in worst-case scenarios. The locals helped me a lot to cross this language divide.
 
@@ -57,9 +57,9 @@ After my project was complete, I got the chance to attend an international resea
 
 Everything!
 
-![pic4](/images/posts/sonali-4.png){: style="width:70%;height:auto"}
+![pic4](http://ketangupta.in/wona-images/posts/sonali-4.png){: style="width:70%;height:auto"}
 
-![pic5](/images/posts/sonali-5.png){: style="width:70%;height:auto"}
+![pic5](http://ketangupta.in/wona-images/posts/sonali-5.png){: style="width:70%;height:auto"}
 
 After five hectic days of work, I would always save up time to travel during the weekends. Japan is a country that can boast about the best of scenic landscapes. Be it volcanoes/mountains (oh yes, I climbed to the summit of Mt. Fuji in a very bad weather, covering a significant portion of the ascent all alone. Yay!), hot sulphur springs and black hard-boiled eggs (Hakone), sandy beaches (Atami and Numazu being closest to my prefecture; though rich Honshu-dwellers head straightaway to Okinawa), high-rise concrete jungles with clean air with lots of places to shop and party (Tokyo: Akihabara, Shibuya, Shinjuku; Osaka, Fukuoka etc.), shrines and monuments of cultural and historic importance (Kyoto, Hiroshima), Disneyland and Universal Studios, thrilling roller-coasters at FujiQ highlands, the very popular Shinkansen (bullet train)... And the list goes on and on. 
 

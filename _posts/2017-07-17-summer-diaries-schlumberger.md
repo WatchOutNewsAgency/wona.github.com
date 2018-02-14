@@ -18,7 +18,7 @@ Schlumberger Ltd. is the world’s largest oilfield services company employing a
 In my sophomore year, I was quite akin to most of my colleagues who didn't have any particular field of direction but had wee bits of experience in all fields. For people in similar situations,Schlumberger is a considerable option as it keeps you open to other career options.
 As with most companies, the recruitment process starts with shortlisting of resumes. Schlumberger recruits from almost all branches and as such, there is no CGPA bar. But  Schlum pays heed to your leadership qualities, so a CGPA of above 7 along with past instances of leading and working in teams can give you an edge. This is followed by a Group Discussion round where you are judged on your leadership skills and your ability to drive the conversation. The last round is a generic HR interview round where questions regarding your life and related to the company are asked. Your interview is likely to conclude with the usual “Do you have any questions for us? ”, so make sure you have a good question prepared beforehand as this can have a big impact on the interviewer’s mind.
 
-![pic2](/images/posts/Ghanendra2.jpg){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Ghanendra2.jpg){: style="width:60%;height:auto"}
 
 ### Life at Schlumberger
 
@@ -32,7 +32,7 @@ At schlum, interns are given huge responsibilities and the same goes for the fre
 
 This internship is a complete package of learning, starting with a brief understanding of the Oil and Gas industry. From there, it moves quickly to the field work wherein you are expected to put in long hours in remote locations.But it ends well with mind-boggling projects in corporate offices. Since it is only a month long intern, it gives you an entire  free month which can be utilized for management, consultancy or other similar internships. 
 
-![pic3](/images/posts/Ghanendra3.jpg){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Ghanendra3.jpg){: style="width:60%;height:auto"}
 
 ### Summing up and advice to people gunning for it
 

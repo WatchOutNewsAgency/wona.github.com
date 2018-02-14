@@ -24,7 +24,7 @@ It is then followed by an online test which has some really easy questions. I wa
  
 Wipro is a name that needs no introduction. It was, however, an exciting time to join the firm as it recently launched a new logo and unveiled its new brand identity. The new identity would mark Wipro's emergence as a trusted digital transformation partner to clients, delivering at global scale with increasingly localized capabilities, and leveraging hyper-automation, robotics, cloud, analytics, cognitive and emerging technologies. The new logo, "connects the dots" for its clients integrating deep technology and domain expertise, applying insights from across industries, and consistently delivering world-class integrated, end-to-end capabilities and services, it also highlights the company's strong technology heritage and reflects capabilities for the future.
 
-![pic2](/images/posts/Aryan2.PNG){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Aryan2.PNG){: style="width:60%;height:auto"}
 
 **Internship experience**
  
@@ -35,7 +35,7 @@ It’s safe to say that a major part of your internship depends on your mentor, 
  
 The office hours were typical, as we were asked to work from 10 am to 5 pm on weekdays. This left weekends free for us to visit all the nearby places. Moreover, the workload was also flexible, depending on the kind of mentor you get. (I’d like to reiterate here by mentioning how your mentors are really cool people who will treat you as a younger brother during your whole internship period.) You get free snacks and beverages, daily, and a personal cubicle to work in. In a company of close to two lakh employees, the fact that an intern would get a personal working space seemed pretty cool to me! The office had a pretty free culture, as we enjoyed occasional games of pool and table tennis. Our mentor too joined us some time, but would often, in  a friendly way, taunt us for wasting time here rather than working! 
 
-![pic3](/images/posts/Aryan3.PNG){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Aryan3.PNG){: style="width:60%;height:auto"}
 
 ### Summing Up
 <br>

@@ -12,7 +12,7 @@ _Parag Nandi is a 5th year student in the Department of Earth Sciences. Read on 
 
 As an engineering student I was always intrigued by the scope of IoT and connected devices. And the designer in me screamed to explore the less travelled roads of UX Design for IoT, to create a tranquil synergy with home environments.
 
-![Samsung ID card](/images/posts/samsung-1.png){: style="width: 45%;"}
+![Samsung ID card](http://ketangupta.in/wona-images/posts/samsung-1.png){: style="width: 45%;"}
 
 Samsung Research Institute Bangalore (SRIB) is one of the few R&D Centres in the world which focuses extensively on UX Research for IoT and connected devices. And the fact that Samsung is the market leader in consumer products amplifies the scope of the entire project.
 
@@ -23,14 +23,14 @@ I applied at Samsung R&D Bangalore off-campus, through the company’s website i
 I completed two major projects at SRIB. One was on Samsung Smart Hub/Smart TV and the other was on Tizen OS. In the Smart TV project, initially I had to propose 15 unique problem statements focusing on daily home scenarios with suitable solutions for them. Then out of the 15 problem statements, I had to choose one and create multiple models of solutions for it and finally present the best possible solution. To understand the pain points of users pertaining to TV viewing experience,
 perception and comfort of IoT, use of smart devices & wearables I had to conduct quantitative and qualitative UX Research. Based on the data acquired from the research, I chose to design a system to automatically detect when a user falls asleep while watching TV using wearables/smart watch and turn off the TV to save electricity and allow sound sleep.
 
-![Taking surveys](/images/posts/samsung-2.png){: style="width: 45%;"}
+![Taking surveys](http://ketangupta.in/wona-images/posts/samsung-2.png){: style="width: 45%;"}
 *Understanding user behaviour through surveys*
 {: style="text-align: center"}
 
 As part of the Tizen OS project, I had to propose USP ideas for the Tizen phones to be released in July, 2017. As these phones are mainly targeted towards people shifting from feature phones to smartphones for the first time, this project demanded the creation and extensive study of different user personas who will be using this phone on daily basis. Based on the user needs derived from the interviews and other research findings, I proposed a few ideas. Finally, 2 of my ideas were
 selected and proposed to the Korea HQ and hopefully will translate as USP of the next generation Tizen phones. Apart from the major projects I had participated in UX Research for S-Voice and had conducted User Surveys to understand the Indian mobile market.
 
-![Samsung office](/images/posts/samsung-3.png){: style="width: 45%;"}
+![Samsung office](http://ketangupta.in/wona-images/posts/samsung-3.png){: style="width: 45%;"}
 
 The overall work experience was good. The work hours are generally flexible and depend on the team you work with. The UX Design team had the privilege of the pilot program where we had to complete 45 hours weekly and there was no issue of daily work hours.
 
@@ -41,7 +41,7 @@ Bangalore pub was enough to feel the motivation oozing from Srivatsan.
 
 Another fruitful meeting was through UXProject — Masterclass where I got to meet with some of the most awesome designers from UrbanLadder, Zeta and Pensaar. The folks at Razorpay had called for IIT Roorkee Bangalore meetup with a focus on promoting entrepreneurship among IIT-R students.
 
-![Razorpay office](/images/posts/samsung-4.png){: style="width: 45%;"}
+![Razorpay office](http://ketangupta.in/wona-images/posts/samsung-4.png){: style="width: 45%;"}
 *Razorpay IIT Roorkee meetup*
 {: style="text-align: center"}
 

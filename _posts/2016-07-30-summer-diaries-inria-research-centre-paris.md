@@ -30,7 +30,7 @@ From my personal experience there are two things that matter the most in your ap
 
 
 
-![Inria center, Paris](/images/posts/inria-paris.png)
+![Inria center, Paris](http://ketangupta.in/wona-images/posts/inria-paris.png)
 *The place: Inria Research Centre, Saclay, Paris*
 {: style="text-align: center"}
 
@@ -45,7 +45,7 @@ Talking about the working culture of the team, there was an optimum balance betw
 
 ### What’s to love about the place?
 
-![Shashank Anand pencil sketch](/images/posts/shashank-anand.jpg){: style="height: 500px;"}
+![Shashank Anand pencil sketch](http://ketangupta.in/wona-images/posts/shashank-anand.jpg){: style="height: 500px;"}
 *Return gift from one of my friends, for a wholesome meal of daal*
 {: style="text-align: center"}
 

@@ -20,7 +20,7 @@ by an HR round. Both of these rounds are pretty easy to crack. They mainly judge
 Citi likes to call itself “An IT firm with a banking licence”. So evidently the company puts a lot of focus on the quality of its software infrastructure, all the software that the company uses over the world is developed internally. Something that is equally putting off and fascinating, depending on how you look at it, is that the firm is extremely concerned by the security of its network, meaning that you are not allowed to install anything on your system that is not
 approved by the IT team. Sometimes the approval process takes weeks to complete. 
 
-![Citigroup](/images/posts/citi-1.png){: style="width: 45%;"}
+![Citigroup](http://ketangupta.in/wona-images/posts/citi-1.png){: style="width: 45%;"}
 *Sex and the Citi*
 {: style="text-align: center"}
 
@@ -28,7 +28,7 @@ As far as the workload is concerned, it is not really taxing. You might even fee
 to work except on fridays. 
 
 
-![Citigroup office](/images/posts/citi-3.png){: style="width: 45%;"}
+![Citigroup office](http://ketangupta.in/wona-images/posts/citi-3.png){: style="width: 45%;"}
 *The workplace*
 {: style="text-align: center"}
 
@@ -46,7 +46,7 @@ The office is located at Pune’s most beautiful IT park, other giants around ci
 
 Pune offers you all the luxuries of a metropolitan while subtly maintaining its rustic feel. Depending on how you like to spend your evenings, the city has everything on display, be it nightlife or just a pleasant walk around the park. Locals say that if you drive towards any direction for about 50 kilometers you are bound to find yourself amidst hills. 
 
-![Outing](/images/posts/citi-2.png){: style="width: 45%;"}
+![Outing](http://ketangupta.in/wona-images/posts/citi-2.png){: style="width: 45%;"}
 *Kyunki second saturday bank holiday hota hai*
 {: style="text-align: center"}
 

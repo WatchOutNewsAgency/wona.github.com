@@ -40,14 +40,14 @@ I was part of the design lab, which is into spatial design, setting guidelines, 
 
 **Work Ethics:** Quite an enriching place to be in. The work load is nominal with flexible and customized schedules. Team leads and colleagues are very supportive and take time to help you with your work hands on. 
 
-![pic2](/images/posts/iihs2.jpg)
+![pic2](http://ketangupta.in/wona-images/posts/iihs2.jpg)
 
 **Location:** Located in the quiet and elite suburb of Sadashivanagar, you get to experience the old charm of the city – with lakes, silent lanes, street food, concert halls, vibrant markets, various malls; all within a short distance. The transport networks are also quite approachable – with the metro, bus other public modes. The institute has 5 branches currently – Bengaluru, New Delhi, Mumbai, Chennai and Trichy.
 
 **Office infra:** A adequately large setup with latest tech, flexible work zones, well stocked library, state of the art research labs, multiple meeting and conference rooms, recreation facilities, a terrace garden and some great coffee!
 
-![pic3](/images/posts/iihs3.jpg.png)
+![pic3](http://ketangupta.in/wona-images/posts/iihs3.jpg.png)
 
 **Summing up:** The entire internship was a unique experience, which I am sure would be difficult to match elsewhere. The work the institute does is especially prestigious, big and necessary for today’s urban communities. The continuous process of learning and re-learning was very exciting too. I would encourage interested students to be a part of this paradigm, to broaden his/her horizons. 
 
-![pic4](/images/posts/iihs4.jpg)
+![pic4](http://ketangupta.in/wona-images/posts/iihs4.jpg)

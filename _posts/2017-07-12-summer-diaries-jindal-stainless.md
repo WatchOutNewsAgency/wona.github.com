@@ -12,7 +12,7 @@ excerpt: "Jindal Stainless Ltd, a part of the O.P Jindal group is India’s larg
 
 Jindal Stainless Ltd, a part of the O.P Jindal group is India’s largest stainless steel company. They have stainless steel plants located at Hisar in Haryana, Jajpur in  Odissa, Vishakapatnam in Andhra Pradesh, and also in Indonesia.  The Hisar plant where I interned, is spread over a few hundred acres and has a turnover of Rs. 140 billion and produces hot rolled and cold rolled coils and sheets,  coin blanks, razor and precision strips etc. 
 
-![pic2](/images/posts/Renju2.JPG){: style="width:60%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/Renju2.JPG){: style="width:60%;height:auto"}
 
 ### Making it there
 
@@ -22,7 +22,7 @@ JSL came for recruiting interns early in October with openings for Metallurgy, M
 
 Together we were 19 interns at the Hisar plant from IIT Roorkee, IIT Kanpur and a few NITs. Some were placed at their corporate office in Gurgaon. The internship began with a 3 day orientation session through which we were acquainted with the manufacturing processes and facilities here. For mechanical and P&I students, the projects were related to increasing productivity of mills, improving efficiency of processes, logistics planning, procurement planning, waste heat treatment etc.  For those with metallurgy background, the projects dealt with improving the quality of stainless steel, enhancing efficiency of steel-making processes etc.  Monthly review meetings were held with the plant head and other members of the senior management.  
 
-![pic3](/images/posts/Renju3.jpg){: style="width:60%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/Renju3.jpg){: style="width:60%;height:auto"}
 
 I worked on two projects here. The first one was in the finishing section of the Hot Rolling Division where I was given the task of enhancing the productivity of the line. We used time motion study, delay analysis etc. to find the bottlenecks in production. The second one was with the Production Planning & Control Dept. where I worked on optimizing the logistics planning of the company. The aim of the project was to reduce dead freight on trucks using algorithms for truck utilization. 
 
@@ -30,7 +30,7 @@ Personnel safety is given utmost importance inside the plant and you would be al
 
 The city doesn’t have much to boast about except the legacy of colossal industries and manufacturing plants. Nevertheless, it’s got almost all celebrated food chains and a few local attractions too.  Delhi, Shimla, Mcleodganj etc. are also possible weekend getaways.  
 
-![pic4](/images/posts/Renju4.jpg){: style="width:60%;height:auto"}
+![pic4](http://ketangupta.in/wona-images/posts/Renju4.jpg){: style="width:60%;height:auto"}
 
 ### Summing Up
 

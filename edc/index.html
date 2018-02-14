@@ -3,14 +3,14 @@ layout: layout
 ---
 
 <section class="cover">
-	<img src="/images/edc_cover.png" alt="">
+	<img src="http://ketangupta.in/wona-images/edc_cover.png" alt="">
 </section>
 
 {% for post in site.categories.edc %}
 	{% if post.category == 'cover' %}
 		<section class="cover">
 			<a href="{{ post.url }}">
-				<img src="/images/posts/{{post.image}}" alt="">
+				<img src="http://ketangupta.in/wona-images/posts/{{post.image}}" alt="">
 				<div class="details">
 					<h2>{{ post.title }}</h2>
 					{{ post.excerpt | markdownify }}
@@ -30,7 +30,7 @@ layout: layout
 				<div class="article">
 					<a href="{{ post.url }}">
 						{% if post.image %}
-							<img src="/images/posts/{{ post.image }}" alt="" class="article-cover" >
+							<img src="http://ketangupta.in/wona-images/posts/{{ post.image }}" alt="" class="article-cover" >
 						{% endif %}
 						<div class="details">
 							<h3>{{ post.title }}</h3>

@@ -28,7 +28,7 @@ To begin with, I’d like to mention that I’ve travelled a lot in my time here
 
 For the next 5 weeks a fellow intern from IIT BHU and I ventured to the beautiful shores of Ratnagiri to work on our project. Our consultancy project aimed at reducing costs incurred for JSW through research and analysis of data to optimize and reduce costs, thus providing a solution. 
 
-![pic2](/images/posts/anushka3.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/anushka3.jpg){: style="width:70%;height:auto"}
 
 #### Here at Ratnagiri
 
@@ -42,7 +42,7 @@ Out internship also entailed a trip to the Vijaynagar Plant near Bangalore. We w
 #### Back to Bombay!
 Following our trip to Vijaynagar we went back to Ratnagiri, where we prepared presentations to summarize all that we had done; the seniors there helped us make modifications to the same. We headed back to Bombay where we presented these to the  associates of JSW. Yet another party marked the end of our internship.
 
-![pic3](/images/posts/anushka1.jpg){: style="width:70%;height:auto"}
+![pic3](http://ketangupta.in/wona-images/posts/anushka1.jpg){: style="width:70%;height:auto"}
 
 ### Summing Up
 It was a wonderful experience! I learnt much about how the corporate world works, how industries and consultancies work. From parties to presentations the internship really was the whole package. The internship is not just for undergraduates of Chemical Engineering; a lot of the work also included non-core fields. A balanced resume with a blend of extracurricular activities, positions of responsibilities, a decent cgpa and good communication skills is capable of bagging the internship.

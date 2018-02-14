@@ -24,7 +24,7 @@ layout: layout
       {% if page.image != null %}
       <div class="center-fill-container cover-img" style="height:{{page.height}}">
         <div class="img-container">
-          <img class="center-both img-center-fill" src="/images/posts/{{ page.image }}" alt="">
+          <img class="center-both img-center-fill" src="http://ketangupta.in/wona-images/posts/{{ page.image }}" alt="">
         </div>
       </div>
       {% endif %}
@@ -59,7 +59,7 @@ layout: layout
     <div class="article col-sm-3">
       <a href="{{ post.url }}">
         <div class="center-fill-container img-container tinted">
-          <img src="/images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
+          <img src="http://ketangupta.in/wona-images/posts/{{post.image}}" alt=""  class="img-center-fill center-both {% if post.image == null %}hidden{% endif %}">
         </div>
         <div class="details">
           <h3 class="title">{{ post.title | truncatewords: 7}}</h3>

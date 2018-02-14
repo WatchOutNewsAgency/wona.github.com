@@ -22,7 +22,7 @@ To begin with, the device is basically a multispectral imaging tool, which image
 __W: Tell us something about the Ericsson Innovation Awards.__
 
 
-![EIA 1](/images/posts/ericsson1.jpg)
+![EIA 1](http://ketangupta.in/wona-images/posts/ericsson1.jpg)
 
 
 __TS__: The Ericsson Innovation Awards, which were started in 2009, tend to promote innovation amongst university-students, motivating them to come up with original ideas. Thinking that we were original enough, we submitted our project. I had looped in others, the current team as you know, to participate in the competition. However, it was Ankit Bagaria, who led the ante further in terms of everything not-tech. I had one job: getting the product ready, i.e. a working and presentable prototype.
@@ -32,7 +32,7 @@ Though we did apply for the competition, I wouldn’t be lying if I said that we
 With a great presentation, and some great pilot runs coming our way, we realized that we could actually make it. And we actually got into the top 13 out of 907 teams, across the globe. WE were shocked with the selection, frankly. Hell, there was a team from Stanford! Last year’s top 3 had included a team from MIT, so, I wouldn’t be over-extrapolating if I said that we had actually beat teams from all the biggies.
  
  
-![EIA 2](/images/posts/ericcson2.jpg)
+![EIA 2](http://ketangupta.in/wona-images/posts/ericcson2.jpg)
  
  
 __W: Must have been pretty overwhelming!__
@@ -50,7 +50,7 @@ ttacks when you get to this place. Linear Technology, Xilinx - the ones you use 
 We were supposed to record a 45 second pitch, the very next day, in the morning. Not much of a big deal, since it had been months that we had been practicing our pitching skills. I must say, though, the Ericsson Studio was beautiful!
 
 
-![EIA 3](/images/posts/ericcson3.jpg)
+![EIA 3](http://ketangupta.in/wona-images/posts/ericcson3.jpg)
 
 
 These guys, they have projects from 5G to virtual reality to predictive transport network systems to whatever-you-want-to-get-anxious-about. We also got to click ourselves with an emmy award - certainly won’t win one, ever, in my life, but, at least, I shall always have a click to back my bluff with.
@@ -76,7 +76,7 @@ __TS__: THE RADIOHEAD CONCERT. It was something that had us overwhelmingly excit
 If you want to witness transcendence, go watch these guys live. I have been a fanatic of Radiohead, for an year now. Going there, I got to know why. The stripped down versions, the little flings they’d play with their instruments and vocals, it was too much for me to bare. I swear, if someone hugged me, I’d have sobbed hard.
  
  
-![EIA 4](/images/posts/ericsson4.jpg)
+![EIA 4](http://ketangupta.in/wona-images/posts/ericsson4.jpg)
 
 
 I’ll give you this - when I retire, Sweden it’ll be. The people, the place, the atmosphere - it was all so satisfying.

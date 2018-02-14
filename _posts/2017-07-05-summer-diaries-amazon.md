@@ -26,7 +26,7 @@ I was assigned to the FBA (Fulfillment By Amazon) Inventory Experience Team. Thi
  
 I did work a lot, but we had a ton of fun too. My whole team was extremely friendly and we had our quarterly outing at a resort! In our office there’s pool, table-tennis, carroms, foosball. A couple of other interns and I used to play pool everyday in the evening. My internship was at Bangalore which had beautiful weather but horrific traffic. Now when i say horrific I mean it. I’ve never experienced such horrible traffic, haha. But it doesn’t really matter, you kind of get used to it after a while. Every weekend I used to go somewhere or the other, sometimes with the other interns, sometimes with my friends from Roorkee interning here as well, and sometimes with my team! There was never a dull moment in my time here. Work was exciting, I was learning how to write clean and concise code and learning a bunch of new things. My peers always gave me helpful tips and helped me out when I was in a bind. 
 
-![pic2](/images/posts/sudeep2.jpg){: style="width:70%;height:auto"}
+![pic2](http://ketangupta.in/wona-images/posts/sudeep2.jpg){: style="width:70%;height:auto"}
 
 ### Summing Up!
 

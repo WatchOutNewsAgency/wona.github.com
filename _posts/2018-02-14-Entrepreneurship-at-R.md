@@ -67,6 +67,6 @@ I reckon a curriculum centered around entrepreneurship will help loads. Innovati
 
 I also believe that administration - especially, faculty - should look into the humongous communication gap amongst B.Tech, M.Tech., and Ph.D. students. Whilst B.Tech. students are full of energy and creativity, PhDs have actual experience with technology. Marry these two together, and you shall have fantastic startups in the campus. And only the faculty can do that, for they are the bridge. Alas, I reckon TIDES, indeed, is a synergistic initiative - both, for the management as well as the students.
 
-### Where do you see TIDES after 3-4 years from now?
+### Where do you see TIDES 3-4 years from now?
 
 We want to make TIDES one of the top 5 incubators in India, and, in this regard, we need to go very fast. We are looking for great startups from across the country, and are intent on providing a nurturing ground to the incubatees - where they can cultivate their ideas and think/target globally. Hopefully, in the time span of 3-4 years, we can have 10-15 good startups. One must understand that getting a couple of good startups from a bunch of 50-100 is an achievement of highest orders.

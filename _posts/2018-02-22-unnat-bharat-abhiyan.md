@@ -3,10 +3,10 @@ layout: post
 title: "Unnat Bharat Abhiyan"
 category: verbatim
 image: unnatbharat.jpeg
-excerpt: "Unnat Bharat Abhiyan, a program running under the aegis of the Ministry of Human Resource De, was launched in November 2014 with an aim to use the skills of the students of the premier"
+excerpt: "Unnat Bharat Abhiyan, a program running under the aegis of the Ministry of Human Resource Development, was launched in November 2014 with an aim to use the skills of the students of the premier"
 ---
 
-*Unnat Bharat Abhiyan, a program running under the aegis of the Ministry of Human Resource De, was launched in November 2014 with an aim to use the skills of the students of the premier colleges in the country for innovative ideas to tackle the problems at the grassroots and work towards other aspects of development in villages. Under the same, the student chapter of UBA IIT Roorkee has adopted 8 villages of Dehradun, and Haridwar district. We speak to Sagar Gupta, the Student Coordinator of UBA IIT Roorkee, to understand the mechanics behind this initiative.*
+*Unnat Bharat Abhiyan, a program running under the aegis of the Ministry of Human Resource Development, was launched in November 2014 with an aim to use the skills of the students of the premier colleges in the country for innovative ideas to tackle the problems at the grassroots and work towards other aspects of development in villages. Under the same, the student chapter of UBA IIT Roorkee has adopted 8 villages of Dehradun, and Haridwar district. We speak to Sagar Gupta, the Student Coordinator of UBA IIT Roorkee, to understand the mechanics behind this initiative.*
 
 ### What is the major work that UBA targets?
 

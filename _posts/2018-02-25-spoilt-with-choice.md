@@ -3,7 +3,7 @@ layout: post
 title: Spoilt with Choice
 category: editorial
 image: spoilt-choice.png
-author: "Sanjana Srivastava, Utkarsh Mujumdar, Agrim Patodia, Manan Jain"
+author: "Sanjana Srivastava, Sanat Bhargava, Manan Jain, Utkarsh Mujumdar, Agrim Patodia"
 excerpt: "That classmate you have been crushing on for the longest of times has finally agreed to go out with you. You know you have one shot at this. You also know that they like Chinese food, but if you picked an Italian place, you wouldn’t have to risk embarrassing yourself by trying to use chopsticks. What would you do?"
 
 ---

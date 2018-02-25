@@ -2,7 +2,11 @@
 
   {% assign title =  site.name %}
   {% if page.title %}
-    {% assign title = page.title + " &mdash; " + title %}
+    {% if page.titlebar %}
+      {% assign title = page.titlebar + " &mdash; " + title %}
+    {% else %}
+      {% assign title = page.title + " &mdash; " + title %}
+    {% endif %}
   {% endif %}
 
   {% if page.excerpt %}
@@ -16,11 +20,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>
-    {% if page.titlebar %}
-      {{ page.titlebar }}
-    {% else %}
-      {{ title }}
-    {% endif %}
+    {{ title }}
   </title>
 
   <!-- Open Graph protocol -->

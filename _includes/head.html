@@ -2,11 +2,7 @@
 
   {% assign title =  site.name %}
   {% if page.title %}
-    {% if page.titlebar %}
-      {% assign title = page.titlebar + " &mdash; " + title %}
-    {% else %}
-      {% assign title = page.title + " &mdash; " + title %}
-    {% endif %}
+    {% assign title = page.title + " &mdash; " + title %}
   {% endif %}
 
   {% if page.excerpt %}

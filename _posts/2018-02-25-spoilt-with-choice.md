@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Spoilt <s>for</s> with Choice
-titlebar: "Spoilt f̶o̶r̶ with Choice"
+title: Spoilt with Choice
 category: editorial
 image: spoilt-choice.png
 author: "Sanjana Srivastava, Utkarsh Mujumdar, Agrim Patodia, Manan Jain"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Funding Your Extracurriculars
-category: big story
+category: bigstory
 image: funding.jpg
 author: "Uday Shinghal, Yash Singh, Muskaan Bhambri"
 excerpt: "Every semester, every student of IIT Roorkee each pays a certain amount towards the ‘Gymkhana Activities’ of the institute. This amount, which sums up to Rs. 6000 every academic year (Rs. 3000 every semester), is meant to cover the expenditure of all the extracurricular activities in the campus. With an approximate strength of students at IIT Roorkee being close to seven thousand, an amount of Rs. 6000 per student translates to an annual budget of over Rs. 4 crores."
@@ -22,8 +22,7 @@ var ctx1 = document.getElementById("myChart1").getContext('2d');
 var myChart1 = new Chart(ctx1, {
    	
    		type: 'horizontalBar',
-    
-    	data: {
+        data: {
         	
         	labels: ["BRP", "DOSW (Misc. Students' Activities)", "Sports Council", "Students' Club", "Students' Technical Council (STC)", "Bhawan (Bachelor's/Married)","Cultural Council","Cinema Club","HEC","SPIC MACAY","SAC","ADOSW (Students' Wellness)", "ADOSW (Students' Activites","N.S.S"],
         	
@@ -36,57 +35,48 @@ var myChart1 = new Chart(ctx1, {
             	barThickness: .2
         	}]
     	},
-    options: {
+        options:{
    		 	layout: {
-        		    padding: {
-                		left: 50,
-                		right: 50,
-                		top: 0,
-                		bottom: 0
-            		}
-        	},
-
- 
+        		padding: {
+            		left: 50,
+            		right: 50,
+            		top: 0,
+            		bottom: 0
+           		}
+           	},
         	scales: {
-
-            		yAxes: [{
-            			
-            			gridLines: {
-        					display:true,
-        					color:"white",
-						},
-                		ticks: {
-                   			beginAtZero:true,
-                    		display: true,
-    						fontFamily:'Open Sans',
-    						fontStyle:'SemiBold',
-    						fontcolor:"#4F4F4F",
-                		}
-            		}],
-            		
-            		xAxes: [{
-       
-            			gridLines: {
-        					display:true,
-        					zeroLineColor:"white",
-        					
-        					color:"white",
-        					
-        				},
-                		ticks: {
-                    		beginAtZero:true,
-                    		display: true,
-    						fontFamily: "Open Sans",
-    						fontStyle:"SemiBold",
-    						fontcolor:"#BDBDBD",
+            	yAxes: [{	
+            		gridLines: {
+        				display:true,
+        				color:"white",
+					},
+                	ticks: {
+                   		beginAtZero:true,
+                    	display: true,
+    					fontFamily:'Open Sans',
+    					fontStyle:'SemiBold',
+    					fontcolor:"#4F4F4F",
+                	}
+            	}],
+            	xAxes: [{
+                    gridLines: {
+        				display:true,
+        				zeroLineColor:"white",
+        				color:"white",	
+        			},
+                	ticks: {
+                  		beginAtZero:true,
+                   		display: true,
+    					fontFamily: "Open Sans",
+    					fontStyle:"SemiBold",
+    					fontcolor:"#BDBDBD",
                 		
-                			callback: function(value, index, values) {
-                        	return '₹' + value;
-                
-                        	}
-                		}
-            		}]
-        	}
+                		callback: function(value, index, values) {
+                       	return '₹' + value;
+                        }
+                	}
+            	}]
+            }
     }
 });
 </script>
@@ -106,8 +96,6 @@ Upon being asked about the significance of bhawan days, which usually prove to b
 
 When asked about the usage of the BRP fund, Mr. Sambhav Jain (GS: Hostel Affairs), responded, _“The BRP funds are being used judiciously—but not uniformly—by the various bhawans, because the funds are controlled centrally and are allocated to a particular bhawan only on the request of the concerned council. This, in a sense, means that if a bhawan council is sufficiently proactive, they can access a huge portion of the funds and use it as per the bhawan’s needs.”_
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-
 
 <canvas id="myChart2" width="400" height="200"></canvas>
 <script>
@@ -115,9 +103,7 @@ var ctx2 = document.getElementById("myChart2").getContext('2d');
 var myChart2 = new Chart(ctx2, {
    	
    		type: 'horizontalBar',
-    
-    	data: {
-        	
+    	data: {	
         	labels: ["Sarojini", "Rajendra", "Jawahar", "Cautley", "Govind", "Azad","Ravindra","Kasturba","RKB","Ganga","Rajiv", "Others"],
         	
         	datasets: [{
@@ -129,56 +115,48 @@ var myChart2 = new Chart(ctx2, {
             	barThickness: .2
         	}]
     	},
-    options: {
+        options: {
    		 	layout: {
-        		    padding: {
-                		left: 175,
-                		right: 50,
-                		top: 0,
-                		bottom: 0
-            		}
+        		padding: {
+                	left: 175,
+                	right: 50,
+                	top: 0,
+                	bottom: 0
+            	}
         	},
-
- 
         	scales: {
-
-            		yAxes: [{
-            			
-            			gridLines: {
-        					display:true,
-        					color:"white",
-						},
-                		ticks: {
-                   			beginAtZero:true,
-                    		display: true,
-    						fontFamily:'Open Sans',
-    						fontStyle:'SemiBold',
-    						fontcolor:"#4F4F4F",
-                		}
-            		}],
+            	yAxes: [{
+            		gridLines: {
+        		  	   display:true,
+        		       color:"white",
+					},
+               		ticks: {
+             		    beginAtZero:true,
+                        display: true,
+    				    fontFamily:'Open Sans',
+    				    fontStyle:'SemiBold',
+    				    fontcolor:"#4F4F4F",
+                	}
+            	}],
             		
-            		xAxes: [{
-       
-            			gridLines: {
-        					display:true,
-        					zeroLineColor:"white",
-        					
-        					color:"white",
-        					
+            	xAxes: [{
+            		gridLines: {
+        				display:true,
+        				zeroLineColor:"white",
+        				color:"white",			
         				},
-                		ticks: {
-                    		beginAtZero:true,
-                    		display: true,
-    						fontFamily: "Open Sans",
-    						fontStyle:"SemiBold",
-    						fontcolor:"#BDBDBD",
+                	ticks: {
+                    	beginAtZero:true,
+                    	display: true,
+    					fontFamily: "Open Sans",
+    					fontStyle:"SemiBold",
+    					fontcolor:"#BDBDBD",
                 		
-                			callback: function(value, index, values) {
+            			callback: function(value, index, values) {
                         	return '₹' + value;
-                
-                        	}
-                		}
-            		}]
+                        }
+                	}
+            	}]
         	}
     }
 });
@@ -215,16 +193,14 @@ _Note: The breakdown varies with time and from sport to sport; therefore, we wer
 
 The Students’ Club accounts for 7.5% of the gymkhana fees. This is used in its entirety for the functioning and maintenance of the three units of the Students’ Club, namely, the Main Unit, the Alaknanda Unit and the Jawahar Unit (the funds of which are soon to be transferred to Jawahar Bhawan as per Mr. Arpit Agrawal, the current Technical Secretary of Jawahar Bhawan). It has ample infrastructure in all its units, with the maximum obviously being in the Main Unit.
 
-The Students’ Club has a total of 5 permanent employees, 6 temporary employees, and 1 part-time accountant. The permanent employees, of which 2 will be retiring soon, have ‘pretty high salaries’, as stated by Mr. Suyash Vishnoi (Secretary: Students’ Club). The data obtained from the Annual Account Statement seems to support his claims, revealing that nearly 72% of the allocated funds go into paying salaries to the employees. Even after said retirement of personnel, this will remain the single largest guzzler of Students’ Club’s funds.
+The Students’ Club has a total of 5 permanent employees, 6 temporary employees, and 1 part-time accountant. The permanent employees, of which 2 will be retiring soon, have _‘pretty high salaries’_, as stated by Mr. Suyash Vishnoi (Secretary: Students’ Club). The data obtained from the Annual Account Statement seems to support his claims, revealing that nearly 72% of the allocated funds go into paying salaries to the employees. Even after said retirement of personnel, this will remain the single largest guzzler of Students’ Club’s funds.
                    
-The second largest chunk of the expenditure is on billiard games, comprising maintenance of the pool and snooker tables, and all other related equipment. It accounts for a mere 7.5%, however, in monetary terms, this translates to Rs. 3,17,000. At the same time, these games contribute to the income of the Students’ Club through the ‘coupons and bookings’ which bring in about Rs. 3,75,000, and hence, they comfortably compensate for their expenditures.
+The second largest chunk of the expenditure is on billiard games, comprising maintenance of the pool and snooker tables, and all other related equipment. It accounts for a mere 7.5%, however, in monetary terms, this translates to Rs. 3,17,000. At the same time, these games contribute to the income of the Students’ Club through the _‘coupons and bookings’_ which bring in about Rs. 3,75,000, and hence, they comfortably compensate for their expenditures.
 
 The previous year saw the first time that the Students’ Club ran in deficit. Therefore, corpus funds from the last ten years were used to compensate for the same. This put pressure on these coffers and in the words of the Secretary, they will soon be exhausted. Mr. Vishnoi adds that the Club has been advised by the SAC to exhaust these before an increase in the share of Students’ Club in the Gymkhana fees can be considered. Additionally, there has been a consistent decrease in the said share from Rs. 550 to Rs. 500, and finally to Rs. 450 in the past 3 years. With the Chess team now regularly representing (and bringing in laurels) in various competitions like the Inter-IIT Sports Meet, we believe that the reconsideration of this fund is imminent. 
 
 
 The Students’ Club has been proactive in increasing the usage of its paraphernalia by the student community. It has organised snooker workshops to increase participation by non-players as well as hired a chess coach to help the teams with their Inter-IIT sports meet preparations. The club also spends approximately Rs. 4,50,000 on the Annual Club Day and other activities, including the tournaments it holds round the year.
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 
 
 <canvas id="myChart3" width="400" height="100"></canvas>
@@ -233,9 +209,7 @@ var ctx3 = document.getElementById("myChart3").getContext('2d');
 var myChart3 = new Chart(ctx3, {
    	
    		type: 'horizontalBar',
-    
     	data: {
-        	
         	labels: ["Club Contribution (Gymkhana)", "Coupons Sales, Bookings etc.", "Interest by Bank", "Others"],
         	
         	datasets: [{
@@ -247,62 +221,54 @@ var myChart3 = new Chart(ctx3, {
             	barThickness: .2
         	}]
     	},
-    options: {
-        title: {
-                        display: true,
-                        text: 'INFLOW'
-                    },
+        options: {
+            title: {
+                display: true,
+                text: 'INFLOW'
+            },
    		 	layout: {
-        		    padding: {
-                		left: 140,
-                		right: 0,
-                		top: 0,
-                		bottom: 0
-            		}
+        	    padding: {
+               		left: 140,
+               		right: 0,
+               		top: 0,
+               		bottom: 0
+            	}
         	},
-
- 
         	scales: {
-
-            		yAxes: [{
-            			
-            			gridLines: {
-        					display:true,
-        					color:"white",
-						},
-                		ticks: {
-                   			beginAtZero:true,
-                    		display: true,
-    						fontFamily:'Open Sans',
-    						fontStyle:'SemiBold',
-    						fontcolor:"#4F4F4F",
-                		}
-            		}],
+                yAxes: [{    			
+        			gridLines: {
+        				display:true,
+        				color:"white",
+					},
+                	ticks: {
+                		beginAtZero:true,
+                    	display: true,
+    					fontFamily:'Open Sans',
+    					fontStyle:'SemiBold',
+    					fontcolor:"#4F4F4F",
+                	}
+            	}],
             		
-            		xAxes: [{
-       
-            			gridLines: {
-        					display:true,
-        					zeroLineColor:"white",
-        					
-        					color:"white",
-        					
-        				},
-                		ticks: {
-                    		beginAtZero:true,
-                    		display: true,
-    						fontFamily: "Open Sans",
-    						fontStyle:"SemiBold",
-    						fontcolor:"#BDBDBD",
+            	xAxes: [{
+            		gridLines: {
+        			display:true,
+        			zeroLineColor:"white",
+        			color:"white",
+        			},
+             		ticks: {
+                   		beginAtZero:true,
+                   		display: true,
+    					fontFamily: "Open Sans",
+    					fontStyle:"SemiBold",
+    					fontcolor:"#BDBDBD",
                 		
-                			callback: function(value, index, values) {
+               			callback: function(value, index, values) {
                         	return '₹' + value;
-                
-                        	}
+                            }
                 		}
             		}]
         	}
-    }
+        }
 });
 </script>
 
@@ -310,8 +276,6 @@ var myChart3 = new Chart(ctx3, {
 <br>
 <br>
 <br>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 
 
 <canvas id="myChart3b" width="400" height="150"></canvas>
@@ -334,24 +298,21 @@ var myChart3b = new Chart(ctx3b, {
             	barThickness: .2
         	}]
     	},
-    options: {
-   		 	layout: {title: {
-                        display: true,
-                        text: 'EXPENDITURES',
-                    },
+        options: {
+   		 	layout: {
         		    padding: {
                 		left: 147,
                 		right: 0,
                 		top: 0,
                 		bottom: 0
-            		}
-        	},
-
- 
+            		},
+            },
+            title: {
+                        display: true,
+                        text: 'EXPENDITURES',
+            },
         	scales: {
-
             		yAxes: [{
-            			
             			gridLines: {
         					display:true,
         					color:"white",
@@ -366,13 +327,10 @@ var myChart3b = new Chart(ctx3b, {
             		}],
             		
             		xAxes: [{
-       
             			gridLines: {
         					display:true,
         					zeroLineColor:"white",
-        					
         					color:"white",
-        					
         				},
                 		ticks: {
                     		beginAtZero:true,
@@ -383,12 +341,11 @@ var myChart3b = new Chart(ctx3b, {
                 		
                 			callback: function(value, index, values) {
                         	return '₹' + value;
-                
-                        	}
+                           	}
                 		}
             		}]
         	}
-    }
+        }
 });
 </script>
 
@@ -399,18 +356,14 @@ var myChart3b = new Chart(ctx3b, {
 ###  Students’ Technical Council
 
 **Students’ Technical Council**: ₹400/- per student per year
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-
 
 <canvas id="myChart4" width="400" height="150"></canvas>
 <script>
 var ctx4 = document.getElementById("myChart4").getContext('2d');
 var myChart4	 = new Chart(ctx4, {
    	
-   		type: 'horizontalBar',
-    
+   		type: 'horizontalBar',   
     	data: {
-        	
         	labels: ["Software Development Section", "Models and Robotics Section", "Inter IIT Tech Meet", "Artificial Intelligence and Electronics Section", "Entrepreneurship Development Cell", "SAE","Astronomy and Physics Club","Design Studio","ShARE"],
         	
         	datasets: [{
@@ -422,7 +375,7 @@ var myChart4	 = new Chart(ctx4, {
             	barThickness: .2
         	}]
     	},
-    options: {
+        options: {
    		 	layout: {
         		    padding: {
                 		left: 66,
@@ -431,47 +384,39 @@ var myChart4	 = new Chart(ctx4, {
                 		bottom: 0
             		}
         	},
-
- 
         	scales: {
+                yAxes: [{	
+            		gridLines: {
+        				display:true,
+        				color:"white",
+					},
+            		ticks: {
+                 		beginAtZero:true,
+                    	display: true,
+    					fontFamily:'Open Sans',
+    					fontStyle:'SemiBold',
+    					fontcolor:"#4F4F4F",
+                	}
+            	}],	
+            	xAxes: [{
+            		gridLines: {
+        				display:true,
+        				zeroLineColor:"white",				
+        				color:"white",
+                    },
+                	ticks: {
+                		beginAtZero:true,
+                		display: true,
+    					fontFamily: "Open Sans",
+    					fontStyle:"SemiBold",
+						fontcolor:"#BDBDBD",
 
-            		yAxes: [{
-            			
-            			gridLines: {
-        					display:true,
-        					color:"white",
-						},
-                		ticks: {
-                   			beginAtZero:true,
-                    		display: true,
-    						fontFamily:'Open Sans',
-    						fontStyle:'SemiBold',
-    						fontcolor:"#4F4F4F",
-                		}
-            		}],
-            		
-            		xAxes: [{
-       
-            			gridLines: {
-        					display:true,
-        					zeroLineColor:"white",
-        					
-        					color:"white",
-        					
-        				},
-                		ticks: {
-                    		beginAtZero:true,
-                    		display: true,
-    						fontFamily: "Open Sans",
-    						fontStyle:"SemiBold",
-    						fontcolor:"#BDBDBD",
-                		
-                			callback: function(value, index, values) {
+                		callback: function(value, index, values) {
                         	return '₹' + value;
                 
-                        	}
-                		}
-            		}]
+                        }
+                	}
+            	}]
         	}
     }
 });
@@ -495,12 +440,13 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
 **Cultural Council**: ₹350/- per student per year
 
 <br>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+
 
 <canvas id="myChart5" width="400" height="200"></canvas>
 
 
-<script>     var barChartData = {
+<script>     
+var barChartData = {
             labels: ['Music', 'Salary', 'Choreo', 'Audio', 'Office', 'Dramatics', 'Kshitij','Photog','CineSec','Promotions + Booking Venues','Last Semester Pending','Know-the-Cult Workshop','DebSoc','Fine Arts','Quizzing','Lights'],
             datasets: [{
                 label: 'Repairs',
@@ -511,7 +457,7 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
                 data: [
                     436333, 0,0,20000,0,0,0,0,0,0,0,0,0,0,0,0
                 ]
-            }, {
+                }, {
                 label: 'One-Time Buy',
                 backgroundColor:" #E74C3C ",
                 stack: 'Stack 0',
@@ -520,7 +466,7 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
                 data: [
                     239631,0,106326,49554,12865,0,0,29095,35141,0,0,0,0,0,0,0
                 ]
-            }, {
+                }, {
                 label: 'Open House',
                 backgroundColor: "#F4D03F",
                 stack: 'Stack 0',
@@ -529,7 +475,7 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
                 data: [
                     0,0,0,16209,0,0,0,8454,0,0,0,20127,16825,5149,0,0
                 ]
-            }, {
+                }, {
                 label: 'Others',
                 backgroundColor:"#27AE60",
                 stack: 'Stack 0',
@@ -540,22 +486,21 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
 
                 ]
             },]
-
-        };
+};
     
-            var ctx5 = document.getElementById('myChart5').getContext('2d');
-            var myChart5 = new Chart(ctx5, {
+var ctx5 = document.getElementById('myChart5').getContext('2d');
+var myChart5 = new Chart(ctx5, {
                 type: 'horizontalBar',
                 data: barChartData,
                 options: {
                     layout: {
-                    padding: {
-                        left: 50,
-                        right: 0,
-                        top: 0,
-                        bottom: 0
-                    }
-            },
+                        padding: {
+                            left: 50,
+                            right: 0,
+                            top: 0,
+                            bottom: 0
+                        }
+                    },
                     title: {
                         display: false,
                         text: ''
@@ -568,51 +513,43 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
                     scales: {
                         xAxes: [{
                             gridLines: {
-                            display:true,
-                            zeroLineColor:"white",
-                            
-                            color:"white",
-                            
-                        },
-                        ticks: {
-                            beginAtZero:true,
-                            display: true,
-                            fontFamily: "Open Sans",
-                            fontStyle:"SemiBold",
-                            fontcolor:"#BDBDBD",
+                                display:true,
+                                zeroLineColor:"white",    
+                                color:"white",
+                            },
+                            ticks: {
+                                beginAtZero:true,
+                                display: true,
+                                fontFamily: "Open Sans",
+                                fontStyle:"SemiBold",
+                                fontcolor:"#BDBDBD",
                         
-                            callback: function(value, index, values) {
-                            return '₹' + value;
-                
-                            }
-                        },
-                        stacked: true,
+                                callback: function(value, index, values) {
+                                return '₹' + value;
+                                }
+                            },
+                            stacked: true,
                         }],
                         yAxes: [{
                             gridLines: {
-                            display:true,
-                            zeroLineColor:"white",
-                            
-                            color:"white",
-                            
-                        },
-                        ticks: {
-                            beginAtZero:true,
-                            display: true,
-                            fontFamily: "Open Sans",
-                            fontStyle:"SemiBold",
-                            fontcolor:"#BDBDBD",
-                        
-                            
-                        },
-                        stacked: true
+                                display:true,
+                                zeroLineColor:"white",
+                                color:"white",
+                            },
+                            ticks: {
+                                beginAtZero:true,
+                                display: true,
+                                fontFamily: "Open Sans",
+                                fontStyle:"SemiBold",
+                                fontcolor:"#BDBDBD",
+                            },
+                            stacked: true
                         }]
                     }
                 }
-            });
+});
 </script>
 <br>
-http://localhost:4000/2018/03/funding-extracurriculars
 
 _Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph._ 
 
@@ -663,11 +600,11 @@ To ensure that the stay at IITR be a pleasant one, a specific office for issues 
 **SPIC MACAY:** ₹100/- per student per year<br>
 **NSS:** ₹30/- per student per year<br>
 
-Individual initiatives like these take up the leftover fraction of the gymkhana fund for their own activities. Cinema Club, for example, uses its fund to showcase movies in the convocation hall for the students, while SPIC MACAY uses the money to organise events like Virasat to promote classical performing arts. Mr. Adarsh Goyal, a member of SPIC MACAY, says that these funds help them invite high-calibre artists, like Padma Shri and Grammy laureates, for periodic events and workshops. He adds, “Most of our money goes in the arrangement of these events, like the stage setup and publicity through flexes and posters. We also incur the travel costs for the artistes, along with some other hospitality-related expenditures, which are paid for through our funds.” 
+Individual initiatives like these take up the leftover fraction of the gymkhana fund for their own activities. Cinema Club, for example, uses its fund to showcase movies in the convocation hall for the students, while SPIC MACAY uses the money to organise events like Virasat to promote classical performing arts. Mr. Adarsh Goyal, a member of SPIC MACAY, says that these funds help them invite high-calibre artists, like Padma Shri and Grammy laureates, for periodic events and workshops. He adds, _“Most of our money goes in the arrangement of these events, like the stage setup and publicity through flexes and posters. We also incur the travel costs for the artistes, along with some other hospitality-related expenditures, which are paid for through our funds.”_
 
-Speaking for the Himalayan Explorers’ Club, Mr.Manish Gupta, the secretary, says, “HEC organises close to 30 short and long treks throughout the year with an average participation of 40 students. Registration of these treks is open-to-all, and a subsidy of around 500/- is given to each of the participants. Some expeditions are more extensive than the others, the recent one to Kalindikhal (at a height of 6000 metres) being an example, and take up more funds than the others. HEC also organises two skating camps in a year, along with a cycle-race, CAT (Confidence Assault Training) course, certain guest lectures and an annual Plantation Day. Winners of the cycle-race, the CAT course and for different adventurous categories are awarded during the Annual Club Day of the group. Funds are also used in buying and repairing the trekking equipments like tents, sleeping bags, mats, torches, cooking equipments, and skates. Other expenditures include refreshments for on-campus events, hospitality costs for the guests, and the printing costs of an annual magazine of the group. HEC also has three salaried-employees to look after the funds, the park, and the store of the club, and they are also being paid from the same funds.” He also cited the need for additional money, mentioning that HEC has taken a social initiative under rural development cell of ‘Mountain Cleaning Drive’, and it is looking for more funds to make this initiative successful.
+Speaking for the Himalayan Explorers’ Club, Mr. Manish Gupta, the secretary, says, _“HEC organises close to 30 short and long treks throughout the year with an average participation of 40 students. Registration of these treks is open-to-all, and a subsidy of around 500/- is given to each of the participants. Some expeditions are more extensive than the others, the recent one to Kalindikhal (at a height of 6000 metres) being an example, and take up more funds than the others. HEC also organises two skating camps in a year, along with a cycle-race, CAT (Confidence Assault Training) course, certain guest lectures and an annual Plantation Day. Winners of the cycle-race, the CAT course and for different adventurous categories are awarded during the Annual Club Day of the group. Funds are also used in buying and repairing the trekking equipments like tents, sleeping bags, mats, torches, cooking equipments, and skates. Other expenditures include refreshments for on-campus events, hospitality costs for the guests, and the printing costs of an annual magazine of the group. HEC also has three salaried-employees to look after the funds, the park, and the store of the club, and they are also being paid from the same funds.”_ He also cited the need for additional money, mentioning that HEC has taken a social initiative under rural development cell of ‘Mountain Cleaning Drive’, and it is looking for more funds to make this initiative successful.
 
- As far as NSS is concerned, Mr. Tejas Khadilkar, the current Secretary, mentions that most of their budget goes into the organisation of events like National Social Summit and Blood Donation Camps. In addition to these, he says that initiatives like cloth distribution drives, cleanliness drives, teaching classes, and various guest lectures take up a major chunk of their budget. He further adds, “The constraint of budget keeps us from inviting high profile guests as we are barely able to fund their correspondingly high travel and hospitality expenses.”
+ As far as NSS is concerned, Mr. Tejas Khadilkar, the current Secretary, mentions that most of their budget goes into the organisation of events like National Social Summit and Blood Donation Camps. In addition to these, he says that initiatives like cloth distribution drives, cleanliness drives, teaching classes, and various guest lectures take up a major chunk of their budget. He further adds, _“The constraint of budget keeps us from inviting high profile guests as we are barely able to fund their correspondingly high travel and hospitality expenses.”_
 <br>
 
 
@@ -684,8 +621,8 @@ Another major issue was that 35% of the Cultural Council Budget and 14% of the T
 As a closing note, we also firmly believe that hiring an expert who could analyse the needs of the various sections and societies in the campus would help us allocate the extracurricular fees more effectively. Unarguably, this breakdown is extremely important to the student community, and a judicious use of this amount shall certainly help our cause.
 
 <br>
-_Notes: <br>
-1. Watch Out gathered all the data and statements after meeting the respective secretaries of various bhawans or the councils involved. In case of any discrepancies, please reach out to us so that we can rectify the same. <br>
-2. The official notice for the gymkhana fee breakdown can be found <span style="color:#0645AD">[here](https://drive.google.com/file/d/1D3VWG2uFI7B6GwqIR9GCRukuFenuQxOY/view)</span>._
+_Notes:_ <br>
+1. _Watch Out gathered all the data and statements after meeting the respective secretaries of various bhawans or the councils involved. In case of any discrepancies, please reach out to us so that we can rectify the same._ <br>
+2. _The official notice for the gymkhana fee breakdown can be found <span style="color:#0645AD">[here](https://drive.google.com/file/d/1D3VWG2uFI7B6GwqIR9GCRukuFenuQxOY/view)</span>._
 
 

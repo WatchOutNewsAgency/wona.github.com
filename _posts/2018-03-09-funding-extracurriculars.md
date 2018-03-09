@@ -102,9 +102,9 @@ _Note: A majority of our gymkhana fees (28%) goes to the DOSW for Bhawan Replace
 
 A conversation with Mr. Aniket Jaiswal, the Cultural Secretary of Rajiv Bhawan, brought to the forefront that a major chunk of the allocated fund is consistently spent on the salaries of the temporary staff, and hence, little is left for bhawan activities. In addition to this, exorbitant expenses were incurred for Rajiv Bhawan’s last bhawan day, with food costing ₹650/- per plate (paid through the CCB account) and approximately ₹1,00,000 spent on decorations, tents, etc. Apart from bhawan inmates, only deans, institute guests, and the student senators are invited to such days.
 
-Upon being asked about the significance of bhawan days, which usually prove to be quite an expense to the institute, Ms. Pragya Choudhary, the current Technical Secretary of Kasturba Bhawan, said, “It is a way to make unresponsive people responsive and imbibe a sense of belongingness in the bhawan inmates.” She further termed the usage of the bhawan funds as “confidential”.
+Upon being asked about the significance of bhawan days, which usually prove to be quite an expense to the institute, Ms. Pragya Choudhary, the current Technical Secretary of Kasturba Bhawan, said, _“It is a way to make unresponsive people responsive and imbibe a sense of belongingness in the bhawan inmates.” She further termed the usage of the bhawan funds as “confidential”._
 
-When asked about the usage of the BRP fund, Mr. Sambhav Jain (GS: Hostel Affairs), responded, “The BRP funds are being used judiciously—but not uniformly—by the various bhawans, because the funds are controlled centrally and are allocated to a particular bhawan only on the request of the concerned council. This, in a sense, means that if a bhawan council is sufficiently proactive, they can access a huge portion of the funds and use it as per the bhawan’s needs.”
+When asked about the usage of the BRP fund, Mr. Sambhav Jain (GS: Hostel Affairs), responded, _“The BRP funds are being used judiciously—but not uniformly—by the various bhawans, because the funds are controlled centrally and are allocated to a particular bhawan only on the request of the concerned council. This, in a sense, means that if a bhawan council is sufficiently proactive, they can access a huge portion of the funds and use it as per the bhawan’s needs.”_
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 
@@ -239,7 +239,7 @@ var myChart3 = new Chart(ctx3, {
         	labels: ["Club Contribution (Gymkhana)", "Coupons Sales, Bookings etc.", "Interest by Bank", "Others"],
         	
         	datasets: [{
-                label: 'INFLOW ₹',
+                label: '₹',
             	data: [3607000,375240,111690,6410],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -248,6 +248,10 @@ var myChart3 = new Chart(ctx3, {
         	}]
     	},
     options: {
+        title: {
+                        display: true,
+                        text: 'INFLOW'
+                    },
    		 	layout: {
         		    padding: {
                 		left: 140,
@@ -302,6 +306,10 @@ var myChart3 = new Chart(ctx3, {
 });
 </script>
 
+<br>
+<br>
+<br>
+<br>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 
@@ -318,7 +326,7 @@ var myChart3b = new Chart(ctx3b, {
         	labels: ["Establishment (Salaries etc.)", "Furniture & Electrical Items", "Indoor Game Items", "Billiard Game Items", "News Paper & Magazine", "Music & Gardening","Computer Peripherals","Club Day & Any other"],
         	
         	datasets: [{
-                label: 'EXPENDITURES ₹',
+                label: '₹',
             	data: [3061492,92573,162656,316986,18955,61750,37795,479546],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -327,7 +335,10 @@ var myChart3b = new Chart(ctx3b, {
         	}]
     	},
     options: {
-   		 	layout: {
+   		 	layout: {title: {
+                        display: true,
+                        text: 'EXPENDITURES',
+                    },
         		    padding: {
                 		left: 147,
                 		right: 0,
@@ -483,7 +494,125 @@ While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SA
 
 **Cultural Council**: ₹350/- per student per year
 
-(GRAPH-5)
+<br>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+
+<canvas id="myChart5" width="400" height="200"></canvas>
+
+
+<script>     var barChartData = {
+            labels: ['Music', 'Salary', 'Choreo', 'Audio', 'Office', 'Dramatics', 'Kshitij','Photog','CineSec','Promotions + Booking Venues','Last Semester Pending','Know-the-Cult Workshop','DebSoc','Fine Arts','Quizzing','Lights'],
+            datasets: [{
+                label: 'Repairs',
+                backgroundColor: "#5DADE2",
+                stack: 'Stack 0',
+                borderWidth: .2,
+                barThickness: .5,
+                data: [
+                    436333, 0,0,20000,0,0,0,0,0,0,0,0,0,0,0,0
+                ]
+            }, {
+                label: 'One-Time Buy',
+                backgroundColor:" #E74C3C ",
+                stack: 'Stack 0',
+                borderWidth: .2,
+                barThickness: .5,
+                data: [
+                    239631,0,106326,49554,12865,0,0,29095,35141,0,0,0,0,0,0,0
+                ]
+            }, {
+                label: 'Open House',
+                backgroundColor: "#F4D03F",
+                stack: 'Stack 0',
+                borderWidth: .2,
+                barThickness: .5,
+                data: [
+                    0,0,0,16209,0,0,0,8454,0,0,0,20127,16825,5149,0,0
+                ]
+            }, {
+                label: 'Others',
+                backgroundColor:"#27AE60",
+                stack: 'Stack 0',
+                borderWidth: .2,
+                barThickness: .5,
+                data: [
+                    0,112800,0,0,51232,58855,47250,0,1989,29502,24103,0,0,0,1750,0
+
+                ]
+            },]
+
+        };
+    
+            var ctx5 = document.getElementById('myChart5').getContext('2d');
+            var myChart5 = new Chart(ctx5, {
+                type: 'horizontalBar',
+                data: barChartData,
+                options: {
+                    layout: {
+                    padding: {
+                        left: 50,
+                        right: 0,
+                        top: 0,
+                        bottom: 0
+                    }
+            },
+                    title: {
+                        display: false,
+                        text: ''
+                    },
+                    tooltips: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    responsive: true,
+                    scales: {
+                        xAxes: [{
+                            gridLines: {
+                            display:true,
+                            zeroLineColor:"white",
+                            
+                            color:"white",
+                            
+                        },
+                        ticks: {
+                            beginAtZero:true,
+                            display: true,
+                            fontFamily: "Open Sans",
+                            fontStyle:"SemiBold",
+                            fontcolor:"#BDBDBD",
+                        
+                            callback: function(value, index, values) {
+                            return '₹' + value;
+                
+                            }
+                        },
+                        stacked: true,
+                        }],
+                        yAxes: [{
+                            gridLines: {
+                            display:true,
+                            zeroLineColor:"white",
+                            
+                            color:"white",
+                            
+                        },
+                        ticks: {
+                            beginAtZero:true,
+                            display: true,
+                            fontFamily: "Open Sans",
+                            fontStyle:"SemiBold",
+                            fontcolor:"#BDBDBD",
+                        
+                            
+                        },
+                        stacked: true
+                        }]
+                    }
+                }
+            });
+</script>
+<br>
+http://localhost:4000/2018/03/funding-extracurriculars
 
 _Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph._ 
 
@@ -558,3 +687,5 @@ As a closing note, we also firmly believe that hiring an expert who could analys
 _Notes: <br>
 1. Watch Out gathered all the data and statements after meeting the respective secretaries of various bhawans or the councils involved. In case of any discrepancies, please reach out to us so that we can rectify the same. <br>
 2. The official notice for the gymkhana fee breakdown can be found <span style="color:#0645AD">[here](https://drive.google.com/file/d/1D3VWG2uFI7B6GwqIR9GCRukuFenuQxOY/view)</span>._
+
+

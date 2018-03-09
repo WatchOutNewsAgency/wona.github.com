@@ -25,9 +25,10 @@ var myChart1 = new Chart(ctx1, {
     
     	data: {
         	
-        	labels: ["BRP", "DOSW (Misc. Students' Activities", "Sports Council", "Students' Club", "Students' Technical Council (STC)", "Bhawan (Bachelor's/Married)","Cultural Council","Cinema Club","HEC","SPIC MACAY","SAC","ADOSW (Students' Wellness)", "ADOSW (Students' Activites","N.S.S"],
+        	labels: ["BRP", "DOSW (Misc. Students' Activities)", "Sports Council", "Students' Club", "Students' Technical Council (STC)", "Bhawan (Bachelor's/Married)","Cultural Council","Cinema Club","HEC","SPIC MACAY","SAC","ADOSW (Students' Wellness)", "ADOSW (Students' Activites","N.S.S"],
         	
         	datasets: [{
+                label: '₹ per student',
             	data: [1700,1200,850,450,400,400,350,150,150,100,90,80,50,30],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -90,12 +91,14 @@ var myChart1 = new Chart(ctx1, {
 });
 </script>
 
+
 ###  Bhawans
 
-**Bhawan Replacement & Purchase (BRP): ₹1700/- per student per year
-All Bachelors’ Bhawans: ₹400/- per student per year**
-Students 
-Note: A majority of our gymkhana fees (28%) goes to the DOSW for Bhawan Replacement & Purchase (BRP) Fund. In addition to the BRP fund, an amount of ₹400/- is also paid to the respective bhawans for promoting cultural activities, paying salaries to temporary employees, and taking care of all miscellaneous activities in the bhawans.
+**Bhawan Replacement & Purchase (BRP): ₹1700/- per student per year**
+
+**All Bachelors’ Bhawans: ₹400/- per student per year**
+
+_Note: A majority of our gymkhana fees (28%) goes to the DOSW for Bhawan Replacement & Purchase (BRP) Fund. In addition to the BRP fund, an amount of ₹400/- is also paid to the respective bhawans for promoting cultural activities, paying salaries to temporary employees, and taking care of all miscellaneous activities in the bhawans._
 
 A conversation with Mr. Aniket Jaiswal, the Cultural Secretary of Rajiv Bhawan, brought to the forefront that a major chunk of the allocated fund is consistently spent on the salaries of the temporary staff, and hence, little is left for bhawan activities. In addition to this, exorbitant expenses were incurred for Rajiv Bhawan’s last bhawan day, with food costing ₹650/- per plate (paid through the CCB account) and approximately ₹1,00,000 spent on decorations, tents, etc. Apart from bhawan inmates, only deans, institute guests, and the student senators are invited to such days.
 
@@ -115,9 +118,10 @@ var myChart2 = new Chart(ctx2, {
     
     	data: {
         	
-        	labels: ["Sarojini", "Rajendra", "Jawahar", "Cautley", "Govind", "Azad","Ravindra","Kasturba","RKB","Ganga","Ganga","Rajiv", "Others"],
+        	labels: ["Sarojini", "Rajendra", "Jawahar", "Cautley", "Govind", "Azad","Ravindra","Kasturba","RKB","Ganga","Rajiv", "Others"],
         	
         	datasets: [{
+                label: '# of Votes',
             	data: [644918,562493,533725,526504,459337,448443,365540,235481,233481,200675,186588,250000],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -182,21 +186,26 @@ var myChart2 = new Chart(ctx2, {
 
 On the condition of anonymity, one of the current senators clearly vouched for the need of an alternate channel for the distribution of BRP funds since the current mode (through the DOSW office) usually ‘causes delays’.
 
-###Students’ Activities
+
+
+###  Students’ Activities
 
 **Misc. Students’ Activities (DOSW): ₹1200/- per student per year
 Students’ Activities (ADOSW): ₹50/-  per student per year** 
 
 The funds act as buffer in cases where unanticipated disbursement has to be made. The activities falling under this section remain very motley and unpredictable. For instance, the fee for YourDost, the online counselling and emotional wellness platform, was paid from these funds. Also, in case a student seeks monetary help from college, if deemed worthy, these funds are used. If RFID-enabled cards, for example, are ever issued to the students, they shall be paid for through this channel.  
 
+
+
 ###  Sports Council
 
-Sports Council: ₹850/- per student per year
+**Sports Council: ₹850/- per student per year**
 
 While IITR boasts of one of the best sports facilities in the country, that there is a ‘preference’ for the NSO-registered students and those selected for institute teams is the complaint of a majority of the students. To counter this, Mr. Shubham Vij (GS: Sports Affairs) has promised the establishment of ‘beginners’ camps’ for every student, as each student pays the sports fee. He also urges students to participate in the intra-bhawan and inter-bhawan sports competitions and contribute to developing a healthy sporting culture at IITR. However, for students who want to try their hands at a new sport, lack of adequate equipment and support infrastructure still remain a major concern.
 
 
-Note: The breakdown varies with time and from sport to sport; therefore, we were unable to get a more detailed deconstruction of the funds. This will be covered in greater detail in a Watch Out article in the works, which will assess the intricacies of the sports culture at IITR. 
+_Note: The breakdown varies with time and from sport to sport; therefore, we were unable to get a more detailed deconstruction of the funds. This will be covered in greater detail in a Watch Out article in the works, which will assess the intricacies of the sports culture at IITR. _
+
 
 
 
@@ -230,6 +239,7 @@ var myChart3 = new Chart(ctx3, {
         	labels: ["Club Contribution (Gymkhana)", "Coupons Sales, Bookings etc.", "Interest by Bank", "Others"],
         	
         	datasets: [{
+                label: '₹',
             	data: [3607000,375240,111690,6410],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -308,6 +318,7 @@ var myChart3b = new Chart(ctx3b, {
         	labels: ["Establishment (Salaries etc.)", "Furniture & Electrical Items", "Indoor Game Items", "Billiard Game Items", "News Paper & Magazine", "Music & Gardening","Computer Peripherals","Club Day & Any other"],
         	
         	datasets: [{
+                label: '₹',
             	data: [3061492,92573,162656,316986,18955,61750,37795,479546],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -318,7 +329,7 @@ var myChart3b = new Chart(ctx3b, {
     options: {
    		 	layout: {
         		    padding: {
-                		left: 145,
+                		left: 147,
                 		right: 0,
                 		top: 0,
                 		bottom: 0
@@ -369,6 +380,8 @@ var myChart3b = new Chart(ctx3b, {
     }
 });
 </script>
+
+
 
 ###  Students’ Technical Council
 
@@ -388,6 +401,7 @@ var myChart4	 = new Chart(ctx4, {
         	labels: ["Software Development Section", "Models and Robotics Section", "Inter IIT Tech Meet", "Artificial Intelligence and Electronics Section", "Entrepreneurship Development Cell", "SAE","Astronomy and Physics Club","Design Studio","ShARE"],
         	
         	datasets: [{
+                label: '₹',
             	data: [500000,417000,400000,355000,290000,220000,200000,125000,100000],
             	backgroundColor:'#C4C4C4',
                	hoverBackgroundColor:'#27AE60',
@@ -398,7 +412,7 @@ var myChart4	 = new Chart(ctx4, {
     options: {
    		 	layout: {
         		    padding: {
-                		left: 60,
+                		left: 66,
                 		right: 0,
                 		top: 0,
                 		bottom: 0
@@ -450,7 +464,8 @@ var myChart4	 = new Chart(ctx4, {
 });
 </script>
 
-“STC currently gets Rs. 400 per student of the total gymkhana fees. In the past years, the Council has had a splendid record, winning national and international competitions, and organizing workshops/lectures which have been a great source of technical knowledge in the campus. Given the promising potential of the Council, there is still scope for more efficient usage of increased funds, if provided. Also, in an effort to make groups more open, and for students to be able to bear the fruits of their gymkhana fees, the STC [had] launched an initiative that [sic] all STC groups will be listing all the resources/equipment purchased by them through STC Funds publicly. Any student can issue that resource/equipment just by writing an application to the respective group's secretary [sic]. If available, that resource or equipment can be issued to her/him.”
+
+_“STC currently gets Rs. 400 per student of the total gymkhana fees. In the past years, the Council has had a splendid record, winning national and international competitions, and organizing workshops/lectures which have been a great source of technical knowledge in the campus. Given the promising potential of the Council, there is still scope for more efficient usage of increased funds, if provided. Also, in an effort to make groups more open, and for students to be able to bear the fruits of their gymkhana fees, the STC [had] launched an initiative that [sic] all STC groups will be listing all the resources/equipment purchased by them through STC Funds publicly. Any student can issue that resource/equipment just by writing an application to the respective group's secretary [sic]. If available, that resource or equipment can be issued to her/him.”_
 
 **_-Mr. Punit Dhoot, (GS: Technical Affairs)_**
 
@@ -459,13 +474,15 @@ var myChart4	 = new Chart(ctx4, {
 
 While Tinkering Lab and TIDES do not receive finances from the Gymkhana fees, SAE—in addition to the funds allocated from the gymkhana fees—receives monetary help from the Director’s Endowment Funds. The funds (shown in the graph above) were allocated at the request of the respective groups based on their judgements and needs. The breakdown, clearly, does not represent the institute’s or SAC’s perspective on the requirement of council groups.
 
+
+
 ###  Cultural Council 
 
 **Cultural Council**: ₹350/- per student per year
 
 (GRAPH-5)
 
-Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph. 
+_Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph._ 
 
 
 The debate of making groups under the Cultural Council open to the entire campus populace has gained much momentum since its initiation; and has been able to garner the SAC’s attention as well. This is meant to make the resources purchased by the Cultural Council available to every campus resident fair and square.

@@ -82,7 +82,7 @@ var myChart1 = new Chart(ctx1, {
 });
 </script>
 
-![pic1](/images/posts/gymkhana1.png){: style="width:35%;height:auto"}
+![pic1](/images/posts/gymkhana1.png){: style="width:40%;height:auto"}
 <br>
 
 ###  Bhawans
@@ -165,7 +165,7 @@ var myChart2 = new Chart(ctx2, {
 });
 </script>
 
-![pic1](/images/posts/gymkhana2.png){: style="width:30%;height:auto"}
+![pic1](/images/posts/gymkhana2.png){: style="width:40%;height:auto"}
 
 
 On the condition of anonymity, one of the current senators clearly vouched for the need of an alternate channel for the distribution of BRP funds since the current mode (through the DOSW office) usually ‘causes delays’.
@@ -352,7 +352,7 @@ var myChart3b = new Chart(ctx3b, {
 });
 </script>
 <br>
-![pic3](/images/posts/gymkhana3.png){: style="width:60%;height:auto"}
+![pic3](/images/posts/gymkhana3.png){: style="width:70%;height:auto"}
 
 <br>
 
@@ -426,7 +426,7 @@ var myChart4	 = new Chart(ctx4, {
 });
 </script>
 
-![pic4](/images/posts/gymkhana4.png){: style="width:60%;height:auto"}
+![pic4](/images/posts/gymkhana4.png){: style="width:70%;height:auto"}
 
 
 _“STC currently gets Rs. 400 per student of the total gymkhana fees. In the past years, the Council has had a splendid record, winning national and international competitions, and organizing workshops/lectures which have been a great source of technical knowledge in the campus. Given the promising potential of the Council, there is still scope for more efficient usage of increased funds, if provided. Also, in an effort to make groups more open, and for students to be able to bear the fruits of their gymkhana fees, the STC [had] launched an initiative that [sic] all STC groups will be listing all the resources/equipment purchased by them through STC Funds publicly. Any student can issue that resource/equipment just by writing an application to the respective group's secretary [sic]. If available, that resource or equipment can be issued to her/him.”_
@@ -555,7 +555,7 @@ var myChart5 = new Chart(ctx5, {
 });
 </script>
 <br>
-![pic5](/images/posts/gymkhana5.png){: style="width:50%;height:auto"}
+![pic5](/images/posts/gymkhana5.png){: style="width:60%;height:auto"}
 
 
 _Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph._ 

@@ -82,7 +82,7 @@ var myChart1 = new Chart(ctx1, {
 });
 </script>
 
-![pic1](/images/posts/gymkhana1.png){: style="width:40%;height:auto"}
+![pic1](/images/posts/gymkhana1.png){: style="width:45%;height:auto"}
 <br>
 
 ###  Bhawans
@@ -165,7 +165,7 @@ var myChart2 = new Chart(ctx2, {
 });
 </script>
 
-![pic1](/images/posts/gymkhana2.png){: style="width:40%;height:auto"}
+![pic1](/images/posts/gymkhana2.png){: style="width:45%;height:auto"}
 
 
 On the condition of anonymity, one of the current senators clearly vouched for the need of an alternate channel for the distribution of BRP funds since the current mode (through the DOSW office) usually ‘causes delays’.
@@ -196,7 +196,7 @@ _Note: The breakdown varies with time and from sport to sport; therefore, we wer
 
 **Students’ Club: ₹450/- per student per year**
 
-The Students’ Club accounts for 7.5% of the gymkhana fees. This is used in its entirety for the functioning and maintenance of the three units of the Students’ Club, namely, the Main Unit, the Alaknanda Unit and the Jawahar Unit (the funds of which are soon to be transferred to Jawahar Bhawan as per Mr. Arpit Agrawal, the current Technical Secretary of Jawahar Bhawan). It has ample infrastructure in all its units, with the maximum obviously being in the Main Unit.
+The Students’ Club accounts for 7.5% of the gymkhana fees. This is used in its entirety for the functioning and maintenance of the three units of the Students’ Club, namely, the Main Unit, the Alaknanda Unit and the Jawahar Unit, (which is soon to be transferred under Jawahar Bhawan Council’s jurisdiction as per Mr. Arpit Agrawal, the current Technical Secretary of Jawahar Bhawan). It has ample infrastructure in all its units, with the maximum obviously being in the Main Unit.
 
 The Students’ Club has a total of 5 permanent employees, 6 temporary employees, and 1 part-time accountant. The permanent employees, of which 2 will be retiring soon, have _‘pretty high salaries’_, as stated by Mr. Suyash Vishnoi (Secretary: Students’ Club). The data obtained from the Annual Account Statement seems to support his claims, revealing that nearly 72% of the allocated funds go into paying salaries to the employees. Even after said retirement of personnel, this will remain the single largest guzzler of Students’ Club’s funds.
                    
@@ -555,7 +555,7 @@ var myChart5 = new Chart(ctx5, {
 });
 </script>
 <br>
-![pic5](/images/posts/gymkhana5.png){: style="width:60%;height:auto"}
+![pic5](/images/posts/gymkhana5.png){: style="width:65%;height:auto"}
 
 
 _Note: Inter-IIT funds (₹8,50,000) have been removed from the complete budget to get a better visualisation of the graph._ 

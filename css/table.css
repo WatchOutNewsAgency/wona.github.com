@@ -1,0 +1,12 @@
+.mbtablestyle {
+  border-collapse: collapse;
+  margin-top: 5rem;
+
+}
+
+.mbtablestyle td, .mbtablestyle th{
+	border: 1px solid black;
+    padding: 0.5rem 1.5rem;
+    padding-bottom: 2rem;
+    vertical-align: top;
+}

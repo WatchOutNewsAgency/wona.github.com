@@ -5,7 +5,7 @@ tags: [wona, column]
 author: "Agrim Patodia, Manya Singh, Muskaan Bhambhri, Jeyashree Venkatesan"
 image: alumni-effect-1.png 
 category: coverstory
-excerpt: "The Students’ Affairs Council, after its latest meeting, announced that it shall be taking up the proposal for a new app, which shall be developed with the help of the Mobile Development Group of IIT Roorkee."
+excerpt: " An institute’s alumni help shape the current students of an institute, nurturing their juniors towards even bigger dreams, and guiding them to reach greater heights. This is done via career counseling sessions, or via funds that they donate to the institute for the setting up of new labs and facilities."
 ---
 
 It is no secret that an institute’s alumni are the key to its growth. They represent the guiding philosophies and mindset with which the institute’s founders intended their protegees to flourish. They raise the bar of the achievement with their extraordinary accomplishments, and with it the prestige of the institute. An institute’s alumni also help shape the current students of an institute, nurturing their juniors towards even bigger dreams, and guiding them to reach greater heights. This is done via career counseling sessions, or via funds that they donate to the institute for the setting up of new labs and facilities.
@@ -35,7 +35,7 @@ IITR has many active national as well as international alumni chapters. These, i
 
 ![Alumni-effect](/images/posts/alumni-effect-4.jpg){: style="width:60%;height:auto"}
 <br>
-	
+
 ### IARC's Structure
 
 ![Alumni-effect](/images/posts/alumni-effect-5.jpg){: style="width:60%;height:auto"}

@@ -36,14 +36,18 @@
   <div class="container-title">New Articles</div>
   <section>
     <div class="row outer-row">
-      {% for post in site.posts limit: 5 %}
-
-      {% if forloop.index == 3 %}
-    </div>
-    <div class="row outer-row">
+      
+      {% assign counter = 0 %}  <!-- Count of articles rendered under new articles -->
+      
+      {% for post in site.posts limit: 10 %}
+      {% if post.category == "coverstory" %}
+        {% continue %}
       {% endif %}
-
-      <div class="col-sm-{% if forloop.index < 3 %}6{% else %}4{% endif %} article-col">
+      {% assign counter = counter | plus:1 %}
+      {% if counter > 5 %}
+        {% break %}
+      {% else %}
+      <div class="col-sm-{% if counter < 3 %}6{% else %}4{% endif %} article-col">
         <a href="{{ post.url }}">
           <div class="article">
             <div class="center-fill-container img-container tinted">
@@ -51,17 +55,18 @@
             </div>
             <div class="details">
               <div class="head">
-                <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <h3 class="title"><a href="{{ post.url }}">{{ post.title  }}</a></h3>
                 <div class="tag"><a href="/category/{{ post.category }}/">{{ site.data.categories_name[post.category] }}</a></div>
                 <span class="date">{{ post.date | date: "%b %e, %Y" | upcase }}</span>
               </div>
-              {% if forloop.index < 3 %}
+              {% if counter < 3 %}
               <div class="excerpt">{% if post.excerpt != null %}{{ post.excerpt | markdownify }}{% endif %}</div>
               {% endif %}
             </div> <!-- details -->
           </div>
         </a>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </section>

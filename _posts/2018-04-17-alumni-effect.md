@@ -2,7 +2,7 @@
 layout: post
 title: "The Alumni Effect"
 tags: [wona, column]
-author: "Agrim Patodia, Manya Singh, Muskaan Bhambhri, Jeyashree Venkatesan"
+author: "Agrim Patodia, Manya Singh, Muskaan Bhambri, Jeyashree Venkatesan"
 image: alumni-effect-1.png 
 category: coverstory
 excerpt: " An institute’s alumni help shape the current students of an institute, nurturing their juniors towards even bigger dreams, and guiding them to reach greater heights. This is done via career counseling sessions, or via funds that they donate to the institute for the setting up of new labs and facilities."

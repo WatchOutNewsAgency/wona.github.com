@@ -4,6 +4,7 @@ title: "Why are you?"
 image: whyareyou.jpg 
 category: editorial
 excerpt: "“Man is the only creature that refuses to be what he is”. The predominant intention behind writing this editorial was its being read; to gain appreciation from as many people as possible. Because that is what defines the success of an article."
+author: "Komal Maheshwari, Vishal Goddu"
 ---
 
 #### **_“Man is the only creature that refuses to be what he is.”_** - Albert Camus

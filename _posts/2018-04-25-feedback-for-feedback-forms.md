@@ -3,7 +3,7 @@ layout: post
 title: "Feedback For Feedback Forms"
 tags: [wona]
 category: academics
-author: "Aman Nayak, Nikhil Arora"
+author: "Aman Nayak, Nikhil Arora, Sudhang Varshney"
 image: feedback.jpg
 excerpt: "For the average student, the course feedback form is something that connotes rapid, indiscriminate clicking of arbitrarily chosen checkboxes, arising out of the impending deadline that looms over a his/her head."
 ---

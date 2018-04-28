@@ -380,7 +380,7 @@
     float: left !important;
   }
   .navbar-right {
-    float: right !important;
+  float: right !important;
   margin-right: -$navbar-padding-horizontal;
 
     ~ .navbar-right {
@@ -659,4 +659,8 @@
       }
     }
   }
+}
+
+.hacky-css{
+  width: 100% !important;
 }

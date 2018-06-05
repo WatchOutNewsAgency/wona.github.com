@@ -111,7 +111,7 @@ If pure, unadulterated architecture is what you are interested in, IITR is perha
 ![archi 3](/images/posts/archi-q3.jpg){: style="width:60%;height:auto"}
 
  
-### Contact details
+### CONTACT DETAILS
 <br>
 In case you have any doubts regarding the course that you wish to get clarified, feel free to call any of the people listed below:
  

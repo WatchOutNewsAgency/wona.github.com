@@ -2,10 +2,10 @@
 layout: post
 title: "Summer Diaries: Technical University of Munich"
 image: arpitSummerDiaries1.jpg
-tags: [wona, column]
+tags: [wona]
 author: "Arpit Agrawal"
-category: summer2018 
 excerpt: "The Technical University of Munich (TUM) combines top-class facilities for cutting-edge research with unique learning opportunities for students."
+category: summer2018
 ---
 
 ### Making it there
@@ -42,14 +42,14 @@ Few tips and tricks that I would like to share:
 
 
 ### Exploring the country(s)
-![pic3](/images/posts/arpitSummerDiaries3.jpeg){: style="width:70%;height:auto"}
+![pic3](/images/posts/arpitSummerDiaries3.jpg){: style="width:70%;height:auto"}
 
 **Life in Munich**
 Obviously, this is the most interesting part of a foreign internship. Talking particularly about Munich, it is the most expensive city in Germany and finding an affordable accommodation is almost impossible. There are some websites like WG.de, where you can search but you need to be cautious: frauds and scams are pretty common. A good way to stay away from such scams is to never pay anything in advance. The best accommodation there is studentenwerk hostels. Many students go on vacations during this period, so they sublet their rooms and luckily I found one. It was similar to a hostel and students from almost every part of the globe resided there. The initial days were troublesome as getting vegetarian food at cheap rates was a herculean task. So I resorted to cooking myself. There were a few Indian students who helped me with it. A piece of advice for all: carry Indian spices from home, it’s very expensive in Germany for obvious reasons. We used to have parties on weekends and looking at Chinese people dancing to Bollywood songs was so much fun. When you are in Europe, you can’t be untouched by football and especially when the World Cup is going on. I stayed at Olympiapark and it is considered the party destination of Munich. Unfortunately, Germany was eliminated at the first round of World Cup and the excitement ended in a few days and so did the parties.
 
 **Travelling around**
 The best part of living in Europe is its free borders and you can visit most of the countries on a single visa. There was no work on weekends so it was the best time to explore a new world. Connectivity and public transport in Europe are second to none and you can easily move from one country to another by bus/train. Trekking in the Alps, drinking wine at the top of the Eiffel Tower and roaming in the streets of Amsterdam made some lifetime memories for me. You will see the effect of war if you visit Germany or Vienna whereas you will see an entirely different world in Prague. When you are in Europe, always try the local dishes, especially waffles in Brussels and chocolates in Switzerland. The only problem you will face there is drinking water. You need to fill bottles from bathrooms. Though the water is clean and potable but at times it’s weird to do so, yet way better than spend two euros for a half litre bottle of water. 
-![pic3](/images/posts/arpitSummerDiaries4.jpeg){: style="width:70%;height:auto"}
+![pic3](/images/posts/arpitSummerDiaries4.jpg){: style="width:70%;height:auto"}
 
 **About the people**
 People there are very polite and helpful. You will always find someone to help you to find ways or addresses. Walking through the streets of Paris (considered one of the least safe cities in western Europe) felt safer than walking in Delhi. Most of the time, you won’t face any language problem as people living in the cities can speak or understand English but if you are living far from the city center, where you’d find cheaper apartments, communication becomes difficult. However, Google translate will help you a lot there. Always keep an offline version of a German and French dictionary in your phones and buy a local sim as soon as you settle there. 

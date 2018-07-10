@@ -20,7 +20,7 @@ A lot of questions were also asked about my activities around the campus, my rol
  
 ### Workplace
 
-![pic2](/images/posts/PrateekJha2.jpg){: style="width:70%;height:auto"}
+![pic2](/images/posts/PrateekJha3.jpg){: style="width:70%;height:auto"}
 
 All interns are introduced to the company, its policies and safety measures through a 3-days induction program after which each intern is sent to their allotted locations and segments. I was allotted segment Data Services (DS) Hub at Schlumberger’s Nerul base in Navi Mumbai. DS Hub is further divided into teams such as Geophysics, Petrophysics, Geology, Production and Reservoir. I was introduced to my team which was Petrophysics, met with my mentor and was briefed about my project.
 DS Hub Navi Mumbai serves as the headquarters of data servicing for Schlumberger and hence receives data from all across the globe. For Earth Science enthusiasts, my project was focused around NMR Logging data. To interpret NMR data, an accurate T2 cutoff is required to be obtained from core but in my case, core was not present and I was to devise a method and verify whether an accurate T2 cutoff could be obtained through it, without core. 
@@ -39,7 +39,7 @@ Apart from work, there are ample facilities for leisure activities such as table
  
 ### Key Takeaways
 
-![pic3](/images/posts/PrateekJha3.jpg){: style="width:70%;height:auto"}
+![pic3](/images/posts/PrateekJha2.jpg){: style="width:70%;height:auto"}
 
 My experience remained amazing throughout. I was especially excited to be surrounded by people who were actually working on techniques and concepts I had only studied on paper in classrooms. As an intern, I was guided at each step and I gained further confidence when I realized that my project was not going to be restricted to my internship but would be beneficial to the company in the future.
 Despite the seemingly short duration of a one-month internship, it is an intensive learning process. It gives interns a lot of scope for professional and personal growth as it demands work at a regular pace along with excellent communication skills. Getting here is tough and persisting here is tougher but making the ride fun is all up to you. 

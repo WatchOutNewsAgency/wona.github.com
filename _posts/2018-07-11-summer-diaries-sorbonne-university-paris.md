@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Diaries: Sorbonne University, Paris"
-image: Yash1.jpg
+image: yash1.jpg
 tags: [wona]
 author: "Yash Trivedi"
 excerpt: "The intern season is definitely not something to be scared of. In fact, it is a rather enjoyable experience and a good precursor to the placement season. I’ll try to share my experience in the best way I can and I hope that you take something away from this."

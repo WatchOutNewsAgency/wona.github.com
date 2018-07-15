@@ -14,10 +14,16 @@ J.P. Morgan Chase and Co. is a leading global financial services firm and one of
 
 ![pic2](/images/posts/rajendra2.png){: style="width:70%;height:auto"}
 
+<br>
+
 This was the first time JPMC visited our campus for recruitment. Their recruitment process is pretty similar to that of other tech firms.The first step is the shortlisting of resumes, for which a minimum CG criterion is specified. It then consists of a preliminary round followed by two interviews.
+<br>
+
 1. The preliminary test consists of two sections, aptitude and programming. Make sure you give importance to aptitude as well.
-2. **Interviews:** There are two rounds of technical interviews, followed by an HR round. Standard questions of Data Structures and Algorithms are asked in the technical round so go through them, preferably from geeksforgeeks. Apart from DS, JPMC is keen on various concepts of Object Oriented Programming, so you can expect a few questions based on OOP in interviews. Finally, they ask specifics of some of the projects from your resume. 
+2. __Interviews:__ There are two rounds of technical interviews, followed by an HR round. Standard questions of Data Structures and Algorithms are asked in the technical round so go through them, preferably from geeksforgeeks. Apart from DS, JPMC is keen on various concepts of Object Oriented Programming, so you can expect a few questions based on OOP in interviews. Finally, they ask specifics of some of the projects from your resume. 
 The HR interview is pretty easy as they just try to know you better. Communication skills play a key role in this round. Express yourself clearly and that’s pretty much all it takes to get into JPMC.
+
+<br>
 
 ### Life At JPMC :
 
@@ -27,7 +33,9 @@ Speaking of myself, I was a part of the Performance and Monitoring team, which m
 
 Coming to the culture at the organisation, the people around are extremely friendly, and there are several activities which the employees can be a part of. These include sports, representing the organisation at an NGO etc. Regular hackathons are also conducted to harvest new ideas, and the project can be related to any area of your interest. The work hours vary from team to team, but from what I observed they are very flexible and all that matters is getting the job done on time. The manager guides us a lot throughout the tenure, not just technically but in a career perspective as well. My stay was in Hyderabad and it’s a beautiful city to live in. 
 
+<br>
 ![pic3](/images/posts/rajendra3.jpg){: style="width:70%;height:auto"}
+<br>
 
 ### Summing it Up! 
 

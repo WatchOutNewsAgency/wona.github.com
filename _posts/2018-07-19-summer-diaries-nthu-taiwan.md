@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Diaries: NTHU, Taiwan"
-image: abhishek1.png
+image: abhishek1.jpg
 tags: [wona]
 author: "Abhishek Gupta"
 excerpt: "One of the most hospitable countries in the world, Taiwan is a place everyone should visit at least once in their lifetime.   "

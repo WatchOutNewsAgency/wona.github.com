@@ -30,6 +30,7 @@ The interns are randomly placed in different teams, (Yes, I know it’s a tiny d
 <br>
 Since my team was earlier a startup, our work environment was really relaxed, and I believe that other teams at Nutanix also resonate the same work culture vibe. I did not have any fixed work hours. I used to arrive at 10 am, and leave by sometime around 12 a.m in the night. No, no, I did not work for the entire duration. We spent the evening playing TT, foosball, pool, FIFA 18 (PS4 basically), hit the gym, watched IPL and FIFA etc. Nutanix provided us with all three meals and a pantry in the office with “infinite” stock of beverages, snacks, juice and chocolates. The best part of the internship was working on a Macbook Pro. I still miss it, and it has made typing on my own laptop very tedious. At Nutanix we have a “Interns day out” with outdoor and fun activities at a place called Area83 in Bangalore. Other than that there are frequent team outings, be it a movie or a restaurant or (most often) a pub.
 <br>
+
 ![pic4](/images/posts/ajayRahul4.jpg){: style="width:70%;height:auto"}
 
 Although I was assigned a mentor, he was not the only one who solved my problems. When you face a bug, try to debug it yourself for sometime, and then go bug other people to help you debug. Since most of the members were in the age group of 23-40, the nineties’ kids aura was maintained throughout the office. The work environment was non-stressful even though the coding standards were high.

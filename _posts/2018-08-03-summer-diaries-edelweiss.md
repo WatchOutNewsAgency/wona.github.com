@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edelweiss Group, Treasury Management, FICC Trading Desk"
+title: "Edelweiss Group"
 image: aditya1.jpg
 tags: [wona]
 author: "Aditya Chaturvedi"

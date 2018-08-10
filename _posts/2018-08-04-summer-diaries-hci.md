@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Summer Diaries: HCI at Srishti"
+title: "Summer Diaries: Srishti Institute of Design"
 image: anchit1.jpeg
 tags: [wona]
 author: "Anchit Shukla"
-excerpt: "As soon as a second-year student is back to college after summer vacations, he/she gets exposed to an enormous amount of heat."
+excerpt: "As soon as a second-year student is back to college after summer vacations, he/she gets exposed to an enormous amount of heat that surrounds the phenomenon of getting an on-campus internship."
 category: summer2018
 ---
 
 ### Making it there
-As soon as a second-year student is back to college after summer vacations, he/she gets exposed to an enormous amount of heat. The surrounding the phenomenon of getting an on-campus internship. Some amongst them already have an internship experience and some have just heard about the great GS and Schlumberger stories from their seniors. I also felt the same heat when I was back after completing my 2 months internship in a fintech startup and gaining some corporate world experience as a UI/UX Designer. In spite of so many people giving gyan about following one's passion, there are,in reality, very few who actually follow their passion. You can easily observe students doing their research on some fat-cash paying companies and blindly learning what is necessary to crack their tests. This is mainly because most students are confused about their area of interest and this is very natural. 
+As soon as a second-year student is back to college after summer vacations, he/she gets exposed to an enormous amount of heat that surrounds the phenomenon of getting an on-campus internship. Some amongst them already have an internship experience and some have just heard about the great GS and Schlumberger stories from their seniors. I also felt the same heat when I was back after completing my 2 months internship in a fintech startup and gaining some corporate world experience as a UI/UX Designer. In spite of so many people giving gyan about following one's passion, there are,in reality, very few who actually follow their passion. You can easily observe students doing their research on some fat-cash paying companies and blindly learning what is necessary to crack their tests. This is mainly because most students are confused about their area of interest and this is very natural. 
 
 Being actively involved in the design teams of some campus groups for 2 years helped me in figuring out that Design was the field that I wanted to be in but since design was such a vast field, I was really confused about what I actually wanted to do and on top of that having a decent CGPA tempted me to apply for some companies which were offering internships in management profiles but I failed and thanks to that failure, I realised the fact that it was time I started eliminating things that I didn't want to do. When I started doing this, I went through various design profiles that people had and discussed them with my seniors and finally I was able to decide 2–3 profiles that I should try getting an internship in. Unfortunately, there are not many companies which offer on-campus internships for designers (last year it was only one). So, the way out was to apply off-campus and I started doing that. I was more keen on doing a research internship in a field called Human-Computer Interaction (HCI), which is very less explored in India and has a very small community of professionals practicing it. One of my senior who has an experience in HCI research suggested that I apply to the design institutes in India, so I started mailing in January after failing to get through Mitacs to which I had applied earlier for some HCI related projects that were available. 
 

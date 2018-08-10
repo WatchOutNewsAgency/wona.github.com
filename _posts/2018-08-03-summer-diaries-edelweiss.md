@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edelweiss Group"
+title: "Summer Diaries: Edelweiss Group"
 image: aditya1.jpg
 tags: [wona]
 author: "Aditya Chaturvedi"

@@ -40,7 +40,7 @@ We were allocated a mentor from the data science team, without whom this project
 
 My project was on google cloud platform which was an added skillet to access the Google Virtual machines.The first week was all about setting up our virtual machines. Then we studied CNNs and some visualisation utilities for the team to improve the existing networks. In week 4 to 7 we studied and implemented capsule networks. The last week was focused on documentation and deliverables.
 
-The Best part was the people i met during my internship. The accomodation and travel was provided by Schlumberger for 2 months so all of us (interns) stayed together and had a great bonding. We learnt a lot from each other and also partied a lot. As everyone says, work hard but party harder.
+The best part was the people I met during my internship. The accomodation and travel was provided by Schlumberger for 2 months so all of us (interns) stayed together and had a great bonding. We learnt a lot from each other and also partied a lot. As everyone says, work hard but party harder.
 
 Work-life balance at schlumberger is perfect as they value their people the most. We used to come to office around 9 a.m. and leave by 6:30 p.m. This was never strict from schlumberger’s side but it depended on the deadlines and assigned work. Another takeaway for me was the Table Tennis that we played for almost 1-2 hrs daily. This kept me going as sitting for long hours is simply not for me.
 

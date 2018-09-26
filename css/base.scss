@@ -821,3 +821,16 @@ footer {
 
   font-size: 1.2em;
 }
+
+//custom container screens
+@media (min-width: 1200px){
+.container {
+    width: 1080px;
+	}
+}
+
+@media (min-width: 1375px){
+	.container {
+    width: 1200px;
+	}	
+}

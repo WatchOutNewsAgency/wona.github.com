@@ -821,3 +821,21 @@ footer {
 
   font-size: 1.2em;
 }
+
+
+// =============NEW TEAM PAGE=============== //
+
+	.h_tp {
+		text-transform:uppercase;
+	}
+	.p_tp{
+		padding-left: 15px;
+		font-size: 25px;
+		font-weight: 500;
+	}
+	.border_tp {
+		-webkit-box-shadow: 0px 0px 23px -3px rgba(0,0,0,0.75);
+		-moz-box-shadow: 0px 0px 23px -3px rgba(0,0,0,0.75);
+		box-shadow: 0px 0px 23px -3px rgba(0,0,0,0.75);
+		padding:2.5em;
+	}

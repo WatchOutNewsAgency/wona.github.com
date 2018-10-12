@@ -7,7 +7,7 @@ image: suzuki_amped.jpg
 excerpt: "Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the J&K cadre."
 ---
 
-_Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the J&K cadre. He later joined Maruti in its nascency as its third employee, and subsequently led the company to its position as the number one automobile company in India. He has been conferred with prestigious civilian awards by both the Indian and Japanese governments. He was invited as Chief Guest at the Convocation '18, where Watch Out had the honour of interviewing him. Here are some excerpts from the interview._
+_Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the Uttar Pradesh cadre. He later joined Maruti in its nascency as its third employee, and subsequently led the company to its position as the number one automobile company in India. He has been conferred with prestigious civilian awards by both the Indian and Japanese governments. He was invited as Chief Guest at the Convocation '18, where Watch Out had the honour of interviewing him. Here are some excerpts from the interview._
 
 **You were an IAS officer who later switched to Maruti in its formative years. This is an unconventional career path, people generally don’t do this.**
 

@@ -79,7 +79,7 @@ These changes are almost unbelievable. One now wonders, how did one manage In th
 
 **On a closing note, any general advice you would have for students here, especially the graduating students who you will be addressing?**
 
-I think you people here are the elite of India's intelligentsia. by you people I mean in the IITs, and IIMs. You can't leave the task of India's development only to the government. Over many years people in India have built up this attitude. That `ye kaam to sarkaar hai`. Even if it's something to be cleaned ~ `Sarkar karegi`, if there is something not working ~ `Sarkar mein kharaabi hai`.
+I think you people here are the elite of India's intelligentsia. by you people I mean in the IITs, and IIMs. You can't leave the task of India's development only to the government. Over many years people in India have built up this attitude. That _ye kaam to sarkaar hai_. Even if it's something to be cleaned ~ _Sarkar karegi_, if there is something not working ~ _Sarkar mein kharaabi hai._
 
 It can’t work that way. If you want this country to become a better country for yourself- and you guys have got 70 years to go- Who will do it for you?
 

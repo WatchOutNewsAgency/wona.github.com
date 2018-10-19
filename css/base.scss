@@ -89,7 +89,7 @@ body {
 	@include box-sizing();
 }
 
-*{	
+*{
 	font-family: Lato, Merriweather, Open Sans, sans-serif;
 }
 
@@ -120,7 +120,7 @@ body {
 
     .desc {
       font-size: 22px;
-      width: 7em;
+      width: 7.3em;
       position: absolute;
       bottom: 0;
       color: #ababab;
@@ -135,7 +135,7 @@ body {
   .social {
     height: 100%;
     padding: $pre-nav-logo-height * .623 0;
-    font-size: 16px; 
+    font-size: 16px;
     font-weight: bold;
     color: #ababab;
 
@@ -208,13 +208,6 @@ nav {
   }
 }
 
-.nav-extra{
-  display: block;
-}
-.nav-extra-hidden{
-  display: none;
-}
-
 // ================ /NAV ================//
 
 // ============= HOME-HEADER ============= //
@@ -253,7 +246,7 @@ nav {
     text-decoration: none;
     color: rgb(174, 170, 170);
   }
-  
+
   .cover-title-label {
     font-size: 14px;
     font-weight: bold;
@@ -376,7 +369,7 @@ nav {
 
   .head {
     width: 100%;
-    position: relative; 
+    position: relative;
   }
 
   .date {
@@ -543,7 +536,7 @@ nav {
     height: 100%;
     width: auto;
   }
-  
+
   &.tall {
     width: 100%;
   }
@@ -551,7 +544,7 @@ nav {
 
 .tinted {
   background: black;
-  
+
   img {
     opacity: 0.6;
   }
@@ -771,7 +764,7 @@ footer {
     position: static;
     color: #d1d1d1;
   }
-  
+
   .excerpt {
     margin-top: 10px;
   }

@@ -4,10 +4,10 @@ title: "In Conversation with Mr. R C Bhargava"
 tags: [wona, column]
 category: verbatim
 image: suzuki_amped.jpg
-excerpt: "Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the J&K cadre."
+excerpt: "Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the Uttar Pradesh cadre."
 ---
 
-_Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the J&K cadre. He later joined Maruti in its nascency as its third employee, and subsequently led the company to its position as the number one automobile company in India. He has been conferred with prestigious civilian awards by both the Indian and Japanese governments. He was invited as Chief Guest at the Convocation '18, where Watch Out had the honour of interviewing him. Here are some excerpts from the interview._
+_Mr. R C Bhargava is currently chairman of Maruti Suzuki. A graduate of Allahabad University, he topped the 1956 batch of the IAS, and served in the Uttar Pradesh cadre. He later joined Maruti in its nascency as its third employee, and subsequently led the company to its position as the number one automobile company in India. He has been conferred with prestigious civilian awards by both the Indian and Japanese governments. He was invited as Chief Guest at the Convocation '18, where Watch Out had the honour of interviewing him. Here are some excerpts from the interview._
 
 **You were an IAS officer who later switched to Maruti in its formative years. This is an unconventional career path, people generally don’t do this.**
 
@@ -44,7 +44,7 @@ Not only in the automobile industry, Japan also became a highly competitive nati
 It has become a culture because the people felt the need to become competitive since Japan was totally ruined after the war. Japanese people have a great amount of self-respect. They are very patriotic. They commit ‘harakiri’ which is a ritual in which they kill themselves if they seem to lose faith. After the war, the Japanese actually lost faith and had no other way to regain it. The only way to become competitive again was through economic activities. They decided that if they become the most powerful economy, then they could regain faith which is actually what happened. Japan is a highly respected country not because of their military might, but their economic might. If India wants to grow faster, we’ve got to stop distrusting each other and start to work as a team.
 
 
-**So we wanted to ask you about research in general in so at least in the institute's we've seen including the IITs research is improving a lot in the last decade or so, but yet research remains to be this kind of thing that academicians pursuing in their academia, so it's kind of unpacked and the idea of Industry oriented research, the way it happened in the US or in Europe in countries. That is kind of lacking though.**
+**Research in Indian institutes, including the IITs, has been improving a lot in the last decade or so, but yet there remains this perception that research is this thing that academicians pursue in their ivory towers, you know, that it's often unrelated to required real world or commercial applications. The idea of industry-oriented research, the way it happens in the US or in European countries is kind of lacking?**
 
 You want to do research because you want to develop new and better products and technologies, which give customers a better experience. If you do that, then you expect that your company will grow and become more profitable.
 
@@ -79,7 +79,7 @@ These changes are almost unbelievable. One now wonders, how did one manage In th
 
 **On a closing note, any general advice you would have for students here, especially the graduating students who you will be addressing?**
 
-I think you people here are the elite of India's intelligentsia. by you people I mean in the IITs, and IIMs. You can't leave the task of India's development only to the government. Over many years people in India have built up this attitude. That `ye kaam to sarkaar hai`. Even if it's something to be cleaned ~ `Sarkar karegi`, if there is something not working ~ `Sarkar mein kharaabi hai`.
+I think you people here are the elite of India's intelligentsia. by you people I mean in the IITs, and IIMs. You can't leave the task of India's development only to the government. Over many years people in India have built up this attitude. That _ye kaam to sarkaar hai_. Even if it's something to be cleaned ~ _Sarkar karegi_, if there is something not working ~ _Sarkar mein kharaabi hai._
 
 It can’t work that way. If you want this country to become a better country for yourself- and you guys have got 70 years to go- Who will do it for you?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Culinary Club"
+title: "Know Your Cult: Culinary Club"
 image: culinary1.png
 tags: [wona, column]
 category: interiit

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music Section"
+title: "Know Your Cult: Music Section"
 image: music1.png
 tags: [wona, column]
 category: interiit

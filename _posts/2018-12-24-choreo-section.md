@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Choreography and Dance Section"
+title: "Know Your Cult: Choreography and Dance Section"
 image: choreo2.png
 tags: [wona, column]
 category: interiit

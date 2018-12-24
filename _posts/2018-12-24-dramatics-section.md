@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dramatics Section"
+title: "Know Your Cult: Dramatics Section"
 image: drams1.png
 tags: [wona, column]
 category: interiit

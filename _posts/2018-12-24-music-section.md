@@ -11,11 +11,6 @@ category: interiit
 We practice from the afternoon all the way till midnight or sometimes even later.. It’s Inter-IIT so we are targeting higher, beyond what we do regularly in our shows. So yeah, it’s strenuous and it is demanding a lot from us.
 
 
-**What new are you trying for Inter-IIT?**
-
-For the first time, we are trying a jazz fusion.If we it pull off, good; otherwise there’s always something to learn. We are also performing an original composition. The cycle list for the band event is quite diverse. There’s Indian classical, there’s progressive metal, and there’s jazz fusion.
-
-
 **What are the events that come under the music section in Inter-IIT?**
 
 There are three events. First is solo singing – two participants from each IIT. And there’s “Pair on Stage’.The team consists of a pair and they can do anything, like they can sing, loop, play the guitar etc and be as creative as possible.The last is our Band Performance which is most challenging as there are a lot of people and it's difficult to maintain synchronisation.

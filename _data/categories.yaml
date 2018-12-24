@@ -1,10 +1,13 @@
 ---
+- name: interiit
+  title: Inter IIT
+  subcategories:
 - name: academics
   title: Academics
   subcategories:
-- name: cultural
-  title: Cultural
-  subcategories:
+# - name: cultural
+#   title: Cultural
+#   subcategories:
 - name: columns
   title: Columns
   subcategories:
@@ -33,9 +36,9 @@
 - name: verbatim
   title: Verbatim
   subcategories:
-- name: sports
-  title: Sports
-  subcategories:
+# - name: sports
+#   title: Sports
+#   subcategories:
 - name: internblogs
   title: Intern Blogs
   subcategories:

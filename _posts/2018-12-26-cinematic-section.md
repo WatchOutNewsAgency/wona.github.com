@@ -55,4 +55,5 @@ Yes, I have been a part of planning since August -September. We do have enough p
 We are eagerly looking forward to it. Especially after our good performance in Tech and Sports meets, we feel the pressure to perform well in Cult plus we are the host institute. We wish the entire IITR contingent all the best!
 
 **Any message to the incoming teams?**
+
 (Laughing) We are ready! Are you?

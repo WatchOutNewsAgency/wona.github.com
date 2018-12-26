@@ -45,11 +45,14 @@ It’s definitely better, partly because this is the third time and also because
 **So being the host is an advantage rather than extra pressure to perform.**
 
 There is pressure and it‘s fun, after all it is competitive and we definitely want to outperform when we are the hosts.
-Do you think that IITR is infrastructurally adept to host such an event on this scale.
+
+**Do you think that IITR is infrastructurally adept to host such an event on this scale.**
+
 Yes, I have been a part of planning since August -September. We do have enough places and auditoriums. I don’t think there should be any infrastructural problem or administrative. I am assuming everything would be sorted out by the time meet starts.
 
 **Any ending remarks?**
 
 We are eagerly looking forward to it. Especially after our good performance in Tech and Sports meets, we feel the pressure to perform well in Cult plus we are the host institute. We wish the entire IITR contingent all the best!
-Any message to the incoming teams?
+
+**Any message to the incoming teams?**
 (Laughing) We are ready! Are you?

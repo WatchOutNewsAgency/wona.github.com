@@ -12,20 +12,20 @@ This meeting was mainly called to give an update on the changes made to the acad
 <br><br>
 
 A. The Dean of Academic Affairs sent out the following directives to all departments:<br>
-    1) The departments are to ensure that the professors show the answer scripts of the MTEs before the last date of course withdrawal.<br>
-    2)  The breakdown of aggregate marks is to be given to students via the academic portal (acad.iitr.ac.in).<br>
-    3)  The departments are to ensure that professors follow the class schedule. This includes the courses for which an insufficient number of classes are being taken, classes being taken on weekends etc. The branch CRs are expected to get in touch with the student body of DAPC in case a professor is not following the class schedule.
+  &emsp;  1) The departments are to ensure that the professors show the answer scripts of the MTEs before the last date of course withdrawal.<br>
+  &emsp;  2)  The breakdown of aggregate marks is to be given to students via the academic portal (acad.iitr.ac.in).<br>
+  &emsp;  3)  The departments are to ensure that professors follow the class schedule. This includes the courses for which an insufficient number of classes are being taken, classes being taken on weekends etc. The branch CRs are expected to get in touch with the student body of DAPC in case a professor is not following the class schedule.
 <br><br>
 
 B. The student body of the DAPC is expected to keep themselves updated with the latest department policies and convey any change to the relevant authorities(DAPC/HOD). They are also expected to ensure that the changes are being implemented in the respective departments.
 <br><br>
 
 C. __NPTEL courses__: If a student wants to take up a course offered by NPTEL, the channel to be followed is as follows:<br>
-    1) The student has to go to the DAPC of his/her own department with a request to pursue the course.<br>
-    2) Once the student gets the request approved, he/she is to go to the department which offers the course. The DAPC of that department will review the syllabus to ascertain that the course meets the standard of teaching of IIT Roorkee.<br>
-    3) The student can ordinarily not pursue a course which is already being offered in the institute, unless the student has been detained in the course and is already in the final semester.<br>
-    4) PhD students can take up ONE course related to their area of research from NPTEL.<br>
-    5) The student might have to travel out of Roorkee if the evaluation of the course can not be done in Roorkee. The grades assigned in such courses is dependent on all students enrolled in that course, even those who are not from IIT Roorkee.
+  &emsp;  1) The student has to go to the DAPC of his/her own department with a request to pursue the course.<br>
+  &emsp;  2) Once the student gets the request approved, he/she is to go to the department which offers the course. The DAPC of that department will review the syllabus to ascertain that the course meets the standard of teaching of IIT Roorkee.<br>
+  &emsp;  3) The student can ordinarily not pursue a course which is already being offered in the institute, unless the student has been detained in the course and is already in the final semester.<br>
+  &emsp;  4) PhD students can take up ONE course related to their area of research from NPTEL.<br>
+  &emsp;  5) The student might have to travel out of Roorkee if the evaluation of the course can not be done in Roorkee. The grades assigned in such courses is dependent on all students enrolled in that course, even those who are not from IIT Roorkee.
 <br><br>
 
 D. The monetary allowance for research has been shifted to Non-Planned Grant (NPG) with    effect from last year. However, the students need to get clearance from the department to avail benefits of the NPGs. The DAPCs are expected to increase awareness about the sort of things students can get NPGs approved for.
@@ -46,7 +46,7 @@ H. To raise awareness about the changes in the IITR academic system, the adminis
 
 ### A Note on the Departmental/Centre’s Academic Programme Committees (DAPC/ CAPC) 
 
-The Senate Manual (link at _https://www.iitr.ac.in/Main/uploads/File/RTI/2016/senate%20manual(17092015).pdf_) lists the composition and functions of the DAPC as follows:
+<span style="color:#0645AD">[_The Senate Manual_]( https://www.iitr.ac.in/Main/uploads/File/RTI/2016/senate%20manual(17092015).pdf )</span> lists the composition and functions of the DAPC as follows:
 (A list of members of the DAPC of each department is not easily accessible, but can usually be found on the site of each department).
 
 ![pic](/images/posts/image1.png){: style="width:100%;height:auto"}

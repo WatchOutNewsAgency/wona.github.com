@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Highlights of the Senate Meeting (held on 14/03/19)"
-image: 
+image: image2.jpg
 tags: [wona]
 category: sac
 author: ""

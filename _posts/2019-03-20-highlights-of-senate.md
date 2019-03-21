@@ -5,7 +5,7 @@ image: image2.jpg
 tags: [wona]
 category: sac
 author: ""
-excerpt: ""
+excerpt: "This meeting was mainly called to give an update on the changes made to the academic structure and make student body of the DAPCs (Departmental Academic Program Committees) aware of their duties and responsibilities. It was convened by Sarim Khan, General Secretary Academic Affairs, UG."
 ---
 
 This meeting was mainly called to give an update on the changes made to the academic structure and make student body of the DAPCs (Departmental Academic Program Committees) aware of their duties and responsibilities. It was convened by Sarim Khan, General Secretary Academic Affairs, UG.
@@ -46,7 +46,7 @@ H. To raise awareness about the changes in the IITR academic system, the adminis
 
 ### A Note on the Departmental/Centre’s Academic Programme Committees (DAPC/ CAPC) 
 
-<span style="color:#0645AD">[_The Senate Manual_]( https://www.iitr.ac.in/Main/uploads/File/RTI/2016/senate%20manual(17092015).pdf )</span> lists the composition and functions of the DAPC as follows:
+<span style="color:#0645AD">[_The Senate Manual_]( https://www.iitr.ac.in/Main/uploads/File/RTI/2016/senate%20manual(17092015).pdf )</span> &nbsp;lists the composition and functions of the DAPC as follows:
 (A list of members of the DAPC of each department is not easily accessible, but can usually be found on the site of each department).
 
 ![pic](/images/posts/image1.png){: style="width:100%;height:auto"}

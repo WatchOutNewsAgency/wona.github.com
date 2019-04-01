@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Highlights of the Senate Meeting (held on 14/03/19)"
+title: "Highlights from the Institute Student Academic Meet"
 image: image2.jpg
 tags: [wona]
 category: sac

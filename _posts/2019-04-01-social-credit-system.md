@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Credit System
+title: Radio Facilitated Institute Domination
 tags: [wona, column]
 category: phekingnews
 image: socialcredits.jpg 

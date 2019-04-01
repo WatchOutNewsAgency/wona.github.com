@@ -1,0 +1,33 @@
+---
+layout: post
+title: Social Credit System
+tags: [wona, column]
+category: phekingnews
+image: socialcredits.jpg 
+excerpt: "The makings of a nefarious orwellian system of surveillance, intrusion, and behavioural conditioning"
+---
+
+After more than a decade of waiting, IITR was finally graced by the introduction of RFID cards on campus in January this year. Despite all the hype surrounding their arrival, no one has actually bothered to find out their actual use on our campus. Eyeing the fact that the administration was solely focusing on their use in the library, Watch Out decided to probe further into the matter. After some digging, we found the makings of a nefarious orwellian system of surveillance, intrusion, and behavioural conditioning.
+
+While over the last few years a lot of the decisions taken by the administration have been under a lot of scrutiny, they do not hold a candle in the face of what is yet to come. Taking inspiration from one of our more prolific neighbours (read: China), the administration intends to implement a new system to evaluate students: the Social Credit System. 
+
+Under the proposed system, every student is to be assigned a score based on a set of metrics that judge how well they conform to the established norms and rules, and fit into the community around them. It provides a metric to gauge the trustworthiness, morality, productivity and the overall character of the individual. The system will be implemented through a number of monitoring mechanisms to track students’ actions on campus and categorising their behavior based on said metrics. 
+
+A member of the inner echelons of the administration when questioned about the motivation behind the implementation of such a system, cited the steady corruption of moral values in the student populace: “In recent years, the attitude and philosophy of the student community has gone in the wrong direction, with far too many young minds embracing radical postmodernism and Neo-Marxist ideas. We have seen an alarming increase in alcoholism, substance abuse, politically motivated violence and hand holding among the opposite sex.” It is also likely that a blatant increase in demands for administrative reforms from the populace (which up until a few years ago was unheard of) may have also played a part in the administration deciding to crack down on the flippant attitudes pervading the student community.
+
+Among other things, the administration will track and record internet usage, both LAN and wireless. Accessing content deemed immoral or illegal such as pornography and piracy or activity such as cyber-bullying or voicing negative views on the national political scenario will lead to severe deductions on the score. On the other hand, time spent on educational sites like Coursera or NPTEL leads to a better score. This is intended to counter the recent underperformance of IITR students as compared to a number of other universities.  
+
+The recent excavations around the campus in the name of a new fiber optic system (think about it: do we really need even faster LAN?) are actually meant to cover up the installation of sensors that track your location using the new RFID cards. Students will be forced to carry these cards with them in a number of ways including but not limited to card + biometric sensors at all gates, departments, LHC and the library. This data will be used to determine the places you frequent and your company. Behavior such as frequent visits to the JD gate or to remote locations of the campus in pairs are deemed undesirable. Time spent at the library/departments/LHCs will be rewarded. Security at the entrances to the campus shall be equipped with breathalysers, which will be used at all hours post sunset.
+
+Based on the score, students may receive higher or lower preference for a variety of needs. Low scores may lead to lower internet speeds or fewer weekly servings of sweets in the mess (once Appetizer is integrated with the system). A more severe downside is the possibility of having more frequent room checks. Anything incriminating found in these checks, such as potted plants with medicinal qualities or bottles of fermented grape juice, can then be used to further deduct the student’s score. 
+Higher scores are given greater choice in applying to companies for placements and internships. This scoring system will be recognized by companies who come for the placements. Other benefits include being given your choice of hostel and room, and students with exceptionally high scores during the first semester may also be preferred for branch changes. A cutoff score will be declared for PoRs, including both the SAC as well as club secretariats. 
+
+## Our Two Cents
+
+While the administration has quoted security as the primary reason for introducing the RFID cards, that is clearly not the case as RFID is unlikely to ever completely replace biometric verification. The true purpose of these cards is to monitor and moral police the populace, which is a severe breach of privacy. The campus, meant to be a safe space and home for students, will now be a place of discomfort, with a constant sense of being watched. Further, as the administration unilaterally decides these metrics, it does not account for the opinion of the student community at any point. This is, unfortunately, within the jurisdiction of the administration since IITs are autonomous institutions. 
+
+This move does not actually benefit the institute in any way, but, in fact, is against its own interests. It is already against institute rules to consume banned substances. Those who do this are fully aware of the implications of their actions and adding a different deterrent does not make a difference. Besides, there is no saying when these policies might change. Today, it may just be consumption of alcohol that is penalised, but tomorrow, talking to people of the opposite gender may be outlawed. Such a distrustful atmosphere makes new entrants reluctant to join the institute, resulting in a drop in the quality of students. Further these metrics are very subjective and can easily cause unintended harms. Even the friend of a friend of an alcoholic may suffer collateral damage in the form of a lower score despite not doing anything wrong. Isolation from such vices leads to unrealistic expectations from the real world, and leaves the students unprepared for life after graduation. This entire system of moral policing really begs the question of why an academically successful student who engages in the occasional drink should be penalised at all. The careers of such people take a big hit for no justifiable reason. 
+
+This is a huge step backward in the name of progress. 
+
+Beware. Big Brother is watching you.

@@ -30,7 +30,7 @@ Having gotten that out of the way, comes one of the most important steps of this
 
 In order to be selected by an org, one has to prove their calibre by contributing to their codebase in any way possible. Their code is usually linked in their page on the organizations list. This usually requires you to have a grip on the fundamentals of **Version Control Systems**. Learning, atleast the <span style="text-decoration:underline">[basics of git](https://www.atlassian.com/git)</span> is crucial to open source.
 
-Git is what you call a version control system, meaning it helps you track all changes made to your code and recall specific versions later. VCSs are often not the prettiest things in the world and may even seem useless at first, but once you get used to them, it’s objectively better than having multiple folders of the same project with names like “Project final” “Project final-est” and “Project final-est v2.o”. It also makes collaboration much easier as multiple people can work on the same file at the same time, which surprisingly enough is essential for an essential requisite for an open source environment.
+Git is what you call a version control system, meaning it helps you track all changes made to your code and recall specific versions later. VCSs are often not the prettiest things in the world and may even seem useless at first, but once you get used to them, it’s objectively better than having multiple folders of the same project with names like “Project final” “Project final-est” and “Project final-est v2.o”. It also makes collaboration much easier as multiple people can work on the same file at the same time, which surprisingly enough is essential for an open source environment
 
 **“What is Github?”**
 

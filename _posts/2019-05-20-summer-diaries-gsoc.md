@@ -68,7 +68,7 @@ Let’s not forget what the primary aim of GSOC is. To bring in talented, dedica
 
 Clearing GSOC not only imbues an individual with wealth and wisdom but also an intangible accolade that you are now free to flaunt around for the rest of your college life, though at the risk of coming across as a an arrogant know-it-all but can play out quite well if used right.
 
-**“Sudhang ne GSOC nikal liya. Andha machaya!”**
+**“Sharma ne GSOC nikal liya. Andha machaya!”**
 
 So here you are, a few months since you began your GSoC odyssey after first coming to know about it from a loquacious chap who probably  went on to forget all about it a couple days later. You have now conquered the exigent battle that is GSoC,  gaining experience,opportunities and bragging rights that you couldn’t have gotten elsewhere, along with the universal respect of the opposite gender*. You are now the epicenter of chapos and GPLs that, under any other circumstance, would’ve physically and financially fatal but now seem all the merrier.
 

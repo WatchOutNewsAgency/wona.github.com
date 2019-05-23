@@ -1,6 +1,9 @@
 ---
-- name: interiit
-  title: Inter IIT Cult
+# - name: interiit
+#   title: Inter IIT Cult
+#   subcategories:
+- name: memoirs
+  title: Memoirs
   subcategories:
 - name: academics
   title: Academics

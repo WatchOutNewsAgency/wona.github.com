@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Of debates and doggos"
+title: "Of Debates and Doggos"
 tags: [wona, column]
 image: arnav1.jpg
 category: memoirs
 author: "Arnav Bhardwaj"
-excerpt: "I remember my first morning at IIT Roorkee as I woke up to witness a procession of dogs marching into the room since the door had been accidentally left open and the dogs saw that as an invitation to my humble abode."
+excerpt: "I remember my first morning at IIT Roorkee as I woke up to witness a procession of dogs marching into the room since the door had been accidentally left open and apparently, the dogs saw that as an invitation to my humble RJB abode."
 ---
 
-I remember my first morning at IIT Roorkee as I woke up to witness a procession of dogs marching into the room since the door had been accidentally left open and the dogs saw that as an invitation to my humble abode. The treatment of these R-land dogs was to subsequently become the biggest topic of debate on this campus with people proposing extreme measures ranging from almost giving them citizenship rights to conducting a doggo massacre. Dogs are said to have premonitions and in retrospect, the dogs might have expected me to lend support to their cause in light of their upcoming troubles. But my affection for endearing biting doggos was as short-lived as my affection for mess food. Having embraced myself for all sorts of culinary disasters, the mess food initially seemed much better than expected. However, soon the horrors came to light as the pulses began to be ‘water’ed down along with my resolve to tolerate mess food. The saying - ‘If you can tolerate RJB mess food, you can tolerate food anywhere’ helped me survive through the first year.
+I remember my first morning at IIT Roorkee as I woke up to witness a procession of dogs marching into the room since the door had been accidentally left open and apparently, the dogs saw that as an invitation to my humble RJB abode. The treatment of these R-land dogs was to subsequently become the biggest topic of debate on this campus with people proposing extreme measures ranging from almost giving them citizenship rights to conducting a doggo massacre. Dogs are said to have premonitions and in retrospect, the dogs might have expected me to lend support to their cause in light of their upcoming troubles. But my affection for endearing biting doggos was as short-lived as my affection for mess food. Having embraced myself for all sorts of culinary disasters, the mess food initially seemed much better than expected. However, soon the horrors came to light as the pulses began to be ‘water’ed down along with my resolve to tolerate mess food. The saying - ‘If you can tolerate RJB mess food, you can tolerate food anywhere’ helped me survive through the first year.
 
 Apart from that, I got in touch with some amazing people, who became an inalienable part of my life in the coming years. It was great to meet people coming from various cultures and places and get to know about their lives and perspectives. However, despite the diversity, a common culture persisted on campus. A prominent part of this culture was the lingo. Within a few months, I got accustomed to the quintessential R-land lingo and was soon throwing around words like ‘ghissu’, ‘machau’ in random conversations. I especially remember the overuse of the word ‘ghissu’ to the extent that we were using it to describe even someone, who started studying a night before the exam. It was just one of the many slangs that stuck and subsequently lost all meaning.
 

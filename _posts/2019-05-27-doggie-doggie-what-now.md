@@ -12,15 +12,15 @@ excerpt: "For some time now, cases of individuals being hounded or bit by stray 
 
 <span style="text-decoration:underline">*[{{ site.url }}/2017/03/dogs-are-here-to-stay]({{ site.url }}/2017/03/dogs-are-here-to-stay)*</span>
 
-### THE MENACE
+### The Menace
 
-> Chew you up, spit you out
+#### *Chew you up, spit you out*
 
 They may be fuzzy, cuddly, floofy, smooshy balls of cotton candy or even scrawny, terrifying howling scoundrels, but the one uniting feature of all dogs is their need to gnaw and bite at anything they fancy, and as observed from the recent cases of dog bites reported in the campus, students are often at the receiving end. Dog bites are at the very core of the menace surrounding dogs. Fortunately, we haven’t had any cases of rabies - yet.  Aggression amongst dogs is very frequent near certain perilous locations and depending on how unfortunate someone is, this aggression can quickly be directed towards them.
 
 Another qualm that is voiced is how the presence of aggressive dogs effectively hijacks certain routes and forces pedestrians to take alternative paths. Seeing your favourite road being patrolled by a growling four-legged single-headed Cerberus that can outrun you (even if armed with Reebok’s Ultra Speed 2.0 Running shoes) is not quite appeasing.
 
-> Poopity Doop
+#### *Poopity Doop*
 
 The sight of trash strewn across the corridor, coupled with the mellow fragrance of poop in the air has been long been established to be not the best start to the day. And who wouldn’t want to share the water cooler with a pupper? The start of a new plague has never been easier.
 

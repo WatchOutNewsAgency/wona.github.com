@@ -5,7 +5,7 @@ tags: [wona, column]
 category: bigstory
 image: doggoz1.png
 author: "Surya Raman, Vedant Kumar, Harshit Dubey"
-excerpt: Nestled in a silent corner right at the entrance of IIT Roorkee, Anushruti - Academy for the Deaf was established on November 11, 1989 at IIT Roorkee (the erstwhile University of Roorkee).
+excerpt: "For some time now, cases of individuals being hounded or bit by stray dogs within the campus have been piling up. A meeting of the ‘Dog Menace Committee’ was convened on the 15th of April to address these issues."
 ---
 
 *For some time now, cases of individuals being hounded or bit by stray dogs within the campus have been piling up. A meeting of the ‘Dog Menace Committee’ was convened on the 15th of April to address these issues. Watch Out got in touch with Professor Gargi Thakur and K.P. Singh, Chief Security Officer to cut through the noise and try to understand the measures taken, their degree of success and the impediments encountered in the same. A link to the minutes of the meeting of the Dog Menace Committee has been provided at the bottom. Readers are also encouraged to go through a previous article on the issue by WatchOut.*

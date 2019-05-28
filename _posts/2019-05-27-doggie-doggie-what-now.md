@@ -4,11 +4,11 @@ title: "Doggie Doggie! What Now?"
 tags: [wona, column]
 category: bigstory
 image: doggoz1.png
-author: "Surya Raman, Vedant Kumar, Harshit Dubey"
+author: "Surya Raman, Vedant Kumar, Harshit Dubey, Aditya Ramkumar"
 excerpt: "For some time now, cases of individuals being hounded or bit by stray dogs within the campus have been piling up. A meeting of the ‘Dog Menace Committee’ was convened on the 15th of April to address these issues."
 ---
 
-*For some time now, cases of individuals being hounded or bit by stray dogs within the campus have been piling up. A meeting of the ‘Dog Menace Committee’ was convened on the 15th of April to address these issues. Watch Out got in touch with Professor Gargi Thakur and K.P. Singh, Chief Security Officer to cut through the noise and try to understand the measures taken, their degree of success and the impediments encountered in the same. A link to the minutes of the meeting of the Dog Menace Committee has been provided at the bottom. Readers are also encouraged to go through a previous article on the issue by WatchOut.*
+*For some time now, cases of individuals being hounded or bit by stray dogs within the campus have been piling up. A meeting of the ‘Dog Menace Committee’ was convened on the 15th of April to address these issues. Watch Out got in touch with Professor Gargi Singh and K.P. Singh, Chief Security Officer to cut through the noise and try to understand the measures taken, their degree of success and the impediments encountered in the same. A link to the minutes of the meeting of the Dog Menace Committee has been provided at the bottom. Readers are also encouraged to go through a previous article on the issue by WatchOut.*
 
 <span style="text-decoration:underline">*[{{ site.url }}/2017/03/dogs-are-here-to-stay]({{ site.url }}/2017/03/dogs-are-here-to-stay)*</span>
 
@@ -62,7 +62,7 @@ According to AWBI (Animal Welfare Board of India) and WHO recommendations, steri
 
 ### Roorkee Cares and the Biodiversity Problem
 
-Professor Gargi Thakur started Roorkee Cares with the aim of caring for various animals in R-Land. They have rescued and helped dogs, squirrels, endangered birds etc. Campus junta is known to be engaged in the activities of Roorkee Cares. In Surat, the population of hell-raising dogs was culled by massive, large-scale poisoning. The city was soon tormented with the plague. Dogs keep the rodent population in check who in turn keep the snake population in check. Large scale killing of any species is harmful in the long run - we would do well to not mess with the ecosystem of any locality.
+Professor Gargi Singh started Roorkee Cares with the aim of caring for various animals in R-Land. They have rescued and helped dogs, squirrels, endangered birds etc. Campus junta is known to be engaged in the activities of Roorkee Cares. In Surat, the population of hell-raising dogs was culled by massive, large-scale poisoning. The city was soon tormented with the plague. Dogs keep the rodent population in check who in turn keep the snake population in check. Large scale killing of any species is harmful in the long run - we would do well to not mess with the ecosystem of any locality.
 
 ### Our Two-Cents
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We're the ghosts of your future, and bearers of your memories"
+title: "Memoir: We are The Ghosts of Your Future, and Bearers of Your Memories"
 tags: [wona, column]
 image: debjit.jpg
 category: memoirs

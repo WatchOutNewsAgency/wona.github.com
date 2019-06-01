@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Of Debates and Doggos"
+title: "Memoir: Of Debates and Doggos"
 tags: [wona, column]
 image: arnav1.jpg
 category: memoirs

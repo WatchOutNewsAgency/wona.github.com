@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Memoir: Roorkee has taught me things I never knew I needed to learn"
+title: "Memoir: Excelsior!"
 tags: [wona, column]
 image: yash_trivedi.jpg
 category: memoirs

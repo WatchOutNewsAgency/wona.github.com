@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Guest Editorial: All about paper publication"
+title: "Guest Editorial: All About Paper Publication"
 tags: [wona, column]
 author: "Surya Raman, Lanka Adarsh"
 image: lubana.jpg 
 category: career
-excerpt: "Guest Editorial: All about paper publication"
+excerpt: "I am writing this article to address certain myths that I have every so often been presented with while being consulted by peers who were interested in publishing their research work."
 ---
 
 I am writing this article to address certain myths that I have every so often been presented with while being consulted by peers who were interested in publishing their research work. I have had the opportunity to present my own work at three top conferences now, within the field of embedded systems, data compression, and sensors, while having published a journal paper too. Please note that this article is bound to be heavily biased by my own personal experiences, for academic communities have highly variable publication routines. For ex., while conferences garner a lot of reputation in circuit branches (possibly more so than journals), this may not be the case in natural sciences, which highly regard journal publications.

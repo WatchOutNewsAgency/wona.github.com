@@ -2,7 +2,7 @@
 layout: post
 title: "Guest Editorial: All About Paper Publication"
 tags: [wona, column]
-author: "Surya Raman, Lanka Adarsh"
+author: "Ekdeep Singh Lubana"
 image: lubana.jpg 
 category: career
 excerpt: "I am writing this article to address certain myths that I have every so often been presented with while being consulted by peers who were interested in publishing their research work."

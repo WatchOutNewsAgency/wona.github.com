@@ -3,7 +3,6 @@ layout: post
 title: "Placement Analysis 2018-19"
 tags: [wona, column]
 image: placement_office.jpg
-author: "Sanjeevani Marcha and Vedant Kumar"
 category: career 
 excerpt: "A batch of around a thousand students enter the quaint premises of IIT Roorkee every year with gleaming eyes, ready to live the IIT dream they toiled for 2-3 years."
 ---

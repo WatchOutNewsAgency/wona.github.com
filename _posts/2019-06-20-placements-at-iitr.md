@@ -39,6 +39,8 @@ This year, in total **1021** offers were made on campus across **UG and PG** inc
 
 <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/MW_9XXgp2/" style="border: 0; width: 800px; height: 500px" scrolling="no"></iframe>
 
+A total of **380** companies visited the campus for recruitments , of which 279 recruited.<sup>[1]</sup>
+
 [1] The data on Channel I also contains duplicates which makes the count 304 instead of 279.
 If we consider different profiles or a PPO offered by the same company as an individual count (For Eg: A single company , say Goldman Sachs, offering jobs as Data Analyst, Software Developer and a PPO is counted as 3) this figure then equals to **279**. The total number of **unique** companies (some of which give offers in multiple profiles) that recruited from the campus is **223**. 
 
@@ -127,8 +129,6 @@ There seems to be almost negligible difference between the average CTC of Male a
 <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/uycTqHq49/" style="border: 0; width: 800px; height: 500px" scrolling="no"></iframe>
 
 <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/L-FpRhjZK/" style="border: 0; width: 800px; height: 650px" scrolling="no"></iframe>
-
-A total of 380 companies visited the campus for recruitments , of which 279 recruited.<sup>[1]</sup>
 
 <i> **\*Note**: We have analysed the data on the basis of students placed not the number of offers made by the companies. In case you want to go through the data we used, you can visit **Placement Online** on **Channeli** wherein under the **Extra** Section you will find Branch-wise, Company-Wise and Department-Wise offers made. The data we present here excludes all the duplicate and rejected offers mentioned on the portal. The CTCs used for the analysis along with the profiles were obtained from **Channeli Notice Board**. Due to the unavailability of data of PPOs, we weren’t able to analyse the same in detail. There have been major issues in availing proper data due to lack of provisions and measures in the system to keep a detailed record. We have tried our best to provide as authentic trends as possible. In case you find any discrepancy, feel free to write to us.</i>
 

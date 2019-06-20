@@ -24,12 +24,12 @@ The placement process for the first phase starts way back around September when 
 
 We dug into this year’s placement data* and curated the following statistics. Useful trends highlighting aspects of the placement process and patterns regarding the offers made in the **Placement Season 2018-19** also form a part of this Placement Report. 
 
-**Number of Eligible Students ( UG+PG+PhD)** = 1788
-**Number of Students Registered** = 1494
-**Number of PPOs** = 120
-**Number of Offers made (Including PPOs)** = 1021
-**Number of students accepting the offers (including PPOs)** = 937
-**Number of Companies that recruited** = 223
+**Number of Eligible Students ( UG+PG+PhD)** = 1788<br>
+**Number of Students Registered** = 1494<br>
+**Number of PPOs** = 120<br>
+**Number of Offers made (Including PPOs)** = 1021<br>
+**Number of students accepting the offers (including PPOs)** = 937<br>
+**Number of Companies that recruited** = 223<br>
 
 This year, in total **1021** offers were made on campus across **UG and PG** including **120 PPOs** secured by the students after their pre-final year internships. Like every year, the graphs are high peaking for **circuital branches (EE, CSE, ECE)** in terms of percentage placed as well as the pay packages. **93.52%** of students were placed in the **CSE Department** and **88.85%** in the **ECE Department** while the **Mechanical and Industrial Engineering Department (72.58%)** and **Metallurgical and Materials Engineering Department (78.53)** also show impressive figures.
 

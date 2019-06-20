@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Placement Analysis 2018-19"
+title: "Bang for the Buck"
 tags: [wona, column]
 image: placement_office.jpg
 category: career 

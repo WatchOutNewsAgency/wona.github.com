@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Memoir: Roorkee and Rainbows!"
+title: "Memoir: Roorkee and Rainbows"
 tags: [wona, column]
 image: rainbow_rk.jpg
 category: memoirs

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bang for the Buck"
+title: "Bang for the Buck: 2018-19"
 tags: [wona, column]
 image: placement_office.jpg
 category: career 
@@ -26,9 +26,9 @@ We dug into this year’s placement data* and curated the following statistics. 
 **Number of Eligible Students ( UG+PG+PhD)** = 1788<br>
 **Number of Students Registered** = 1494<br>
 **Number of PPOs** = 120<br>
-**Number of Offers made (Including PPOs)** = 1021<br>
-**Number of students accepting the offers (including PPOs)** = 937<br>
-**Number of Companies that recruited** = 279<br>
+**Number of Offers made (Including PPOs)** = 1090<br>
+**Number of students accepting the offers (including PPOs)** = 1005<br>
+**Number of Companies that recruited** = 318<br>
 
 This year, in total **1021** offers were made on campus across **UG and PG** including **120 PPOs** secured by the students after their pre-final year internships. Like every year, the graphs are high peaking for **circuital branches (EE, CSE, ECE)** in terms of percentage placed as well as the pay packages. **93.52%** of students were placed in the **CSE Department** and **88.85%** in the **ECE Department** while the **Mechanical and Industrial Engineering Department (72.58%)** and **Metallurgical and Materials Engineering Department (78.53)** also show impressive figures.
 
@@ -38,10 +38,10 @@ This year, in total **1021** offers were made on campus across **UG and PG** inc
 
 <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/MW_9XXgp2/" style="border: 0; width: 800px; height: 500px" scrolling="no"></iframe>
 
-A total of **380** companies visited the campus for recruitments , of which 279 recruited.<sup>[1]</sup>
+A total of **380** companies visited the campus for recruitments , of which **318** recruited.<sup>[1]</sup>
 
 [1] The data on Channel I also contains duplicates which makes the count 304 instead of 279.
-If we consider different profiles or a PPO offered by the same company as an individual count (For Eg: A single company , say Goldman Sachs, offering jobs as Data Analyst, Software Developer and a PPO is counted as 3) this figure then equals to **279**. The total number of **unique** companies (some of which give offers in multiple profiles) that recruited from the campus is **223**. 
+If we consider different profiles or a PPO offered by the same company as an individual count (For Eg: A single company , say Goldman Sachs, offering jobs as Data Analyst, Software Developer and a PPO is counted as 3) this figure then equals to **279**. An additional **39** companies came for the Departmental Placements of the Department of Management Studies. The total number of **unique** companies (some of which give offers in multiple profiles) that recruited from the campus is **262**. 
 
 <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/gCPnXW5Lr/" style="border: 0; width: 800px; height: 600px" scrolling="no"></iframe>
 
@@ -109,6 +109,8 @@ The next infographic gives an insight into the kinds of profile offered by the c
 
  <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/k5Wt2afLF/" style="border: 0; width: 800px; height: 850px" scrolling="no"></iframe>
 
+ <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/6C0-mJs9u/" style="border: 0; width: 800px; height: 500px"></iframe>
+ 
  <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/n6GkGWQfF/" style="border: 0; width: 800px; height: 500px"></iframe>
 
 Students grind day and night throughout their college lives to get that coveted  Day 1/2/3 jobs that usually guarantees fat pay cheques and fancy profiles. A high paying job is something that everyone fancies even before coming to the campus. This year the overall average CTC turned out to be **14.727 Lakh INR. Microsoft Redmond** and **Uber International** offered the highest paying packages of **INR 1.5 crores** and **INR 1.20 Crores** respectively. App Dynamics, Squarepoint Capital, Uber India, Microsoft, JP Morgan, Mercari were among the other high payers with packages **above 30 Lakh INR**. 
@@ -133,7 +135,7 @@ There seems to be almost negligible difference between the average CTC of Male a
 
 
 ## Bridging The Gap
-The Placements 2018-19 fared well for the students with a total of **937** students **accepting** the offers. The lack of diversity and variety of job profiles during placement season has been pointed out since long, TPO claims that as compared to last year, this time many new companies visited for Finance (**8 companies**), Quantitative Research and Analyst roles (**3 companies**), but still, the number of students placed in these profiles are very low (**33 and 8 respectively**). Google, JP Morgan, AQR Capital, Appdynamics, Sprinklr, Squarepoint Capital, Udaan and Fractal Analytics were a few top names that recruited for the first time from our campus.
+The Placements 2018-19 fared well for the students with a total of **1005** students **accepting** the offers. The lack of diversity and variety of job profiles during placement season has been pointed out since long, TPO claims that as compared to last year, this time many new companies visited for Finance (**8 companies**), Quantitative Research and Analyst roles (**3 companies**), but still, the number of students placed in these profiles are very low (**33 and 8 respectively**). Google, JP Morgan, AQR Capital, Appdynamics, Sprinklr, Squarepoint Capital, Udaan and Fractal Analytics were a few top names that recruited for the first time from our campus.
 
 
 The campus culture lets the students explore a wide range of career options and provide space to every individual to evolve in his own way. Apart from coding and software development, the enthusiasm for Finance, Consultancy, Operations, Data Science, Marketing, UX/UI Design, Product Management and Design profiles has increased significantly. But at the approach of the placement season, the lack of companies in the desired sector and proper profiles lead to a major disappointment (See the Profile-Wise Companies Distribution Graph and Profile-Wise Students Placed Graph). 

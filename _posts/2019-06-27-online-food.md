@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Food,Blackmail and uneasy body cavities : An unexpected movement on the rise in R"
+title: "Food, Blackmail and Uneasy Body Cavities: An unexpected movement on the rise in R"
 tags: [wona, column]
 category: phekingnews
-image: delivery_boi.png 
+image: delivery_boi.png
 author:  Mohit Sharma, Murtaza Bookwaala, Divyam Goel
 excerpt: "The first few weeks in R-land often tend to be overwhelming. In these days of ecstasy, the “quality” of mess food is quite easy to overlook."
 ---
@@ -46,7 +46,7 @@ Though they tend to be extremely secretive and suspiciously loyal towards the sy
 
 **WONA:** Tell us something about your job
 
-**Delivery Boi**: Well, delivering food is our main job. Though we provide service to all of Roorkee, IITR is the prime hotspot. We get a lot of delivery requests throughout the day. and the thing is, to get a bonus, we need to minimize the number of rejects. And honestly speaking, considering all the hype around IIT, people here are not very bright. Once a girl from KB asked me on the spot, to alter her order. Part of my daily routine is dealing with these whippersnappers who apparently don’t understand the concept of “no cancellations” trying to cancel or worse, alter their order after I’ve been waiting a good ten minutes for them to collect it. It can sometimes be quite hard to contain myself and stop the altercation from turning into a fistfight. On top of that, these blokes aren’t generous,either. They just keep asking for “IIT Discount”. And that is after the 50% discount they already have. Sometimes they order food from the same restaurant they are sitting in. And don’t even get me started on how lazy they are. It was not enough to get food up to their bhawan gates. Now they want it up to their rooms, shoved up their…. 
+**Delivery Boi**: Well, delivering food is our main job. Though we provide service to all of Roorkee, IITR is the prime hotspot. We get a lot of delivery requests throughout the day. and the thing is, to get a bonus, we need to minimize the number of rejects. And honestly speaking, considering all the hype around IIT, people here are not very bright. Once a girl from KB asked me on the spot, to alter her order. Part of my daily routine is dealing with these whippersnappers who apparently don’t understand the concept of “no cancellations” trying to cancel or worse, alter their order after I’ve been waiting a good ten minutes for them to collect it. It can sometimes be quite hard to contain myself and stop the altercation from turning into a fistfight. On top of that, these blokes aren’t generous,either. They just keep asking for “IIT Discount”. And that is after the 50% discount they already have. Sometimes they order food from the same restaurant they are sitting in. And don’t even get me started on how lazy they are. It was not enough to get food up to their bhawan gates. Now they want it up to their rooms, shoved up their….
 
 **WONA:** Alright, alright. We get that you are fed up with your job. And now there are more reasons for that. You aren't allowed to enter the campus now. What's all that about?
 
@@ -55,9 +55,8 @@ Though they tend to be extremely secretive and suspiciously loyal towards the sy
 **What stuff?**
 Well, you can say it is food too. Sustenance of the soul, and if I may, it's better than the normal food and it takes us to places. It's like...
 
-**Lubricous WONA reporter**  : And where do you get this sustenance of soul? 
+**Lubricous WONA reporter**  : And where do you get this sustenance of soul?
 
 *This question was asked solely for research purposes and the answer is to remain undisclosed until the interviewer’s wake from a deep slumber they fell into shortly after the interview concluded.
 
 A Vice-style dive into this rabbit hole, among other worrying revelations, shows how alarmingly easy it is to influence students of R into doing stuff that’s less than virtuous. Estimates suggest as many as 70 students - give or take one - are currently trapped in this vortex. It could be your classmates, your roommate or even you. If you happen to know/suspect anyone stuck in this nefarious business, feel free to reach out at [iamamulepleasehelpme@gmail.com](mailto:iamamulepleasehelpme@gmail.com){: style="text-decoration:underline"}. Your speaking up could save someone’s career or more. Just know that sometimes it takes more courage to ask for help than to act alone but it’s always worth it. The only mistake you can make is to not reach out.
-

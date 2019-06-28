@@ -60,3 +60,5 @@ Well, you can say it is food too. Sustenance of the soul, and if I may, it's bet
 *This question was asked solely for research purposes and the answer is to remain undisclosed until the interviewer’s wake from a deep slumber they fell into shortly after the interview concluded.
 
 A Vice-style dive into this rabbit hole, among other worrying revelations, shows how alarmingly easy it is to influence students of R into doing stuff that’s less than virtuous. Estimates suggest as many as 70 students - give or take one - are currently trapped in this vortex. It could be your classmates, your roommate or even you. If you happen to know/suspect anyone stuck in this nefarious business, feel free to reach out at [iamamulepleasehelpme@gmail.com](mailto:iamamulepleasehelpme@gmail.com){: style="text-decoration:underline"}. Your speaking up could save someone’s career or more. Just know that sometimes it takes more courage to ask for help than to act alone but it’s always worth it. The only mistake you can make is to not reach out.
+
+**Illustration credits:** Sudhang Varshney and Ritik Mathur

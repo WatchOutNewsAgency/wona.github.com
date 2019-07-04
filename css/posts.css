@@ -1,0 +1,10 @@
+/* INFOGRAM ARTICLE (Gender and sexuality survey) */
+.gender-sexuality-infogram {
+	width: 1040px;
+}
+
+@media (max-width: 1000px) {
+	.gender-sexuality-infogram {
+		width: 100%;
+	}
+}

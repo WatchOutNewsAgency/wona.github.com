@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Diaries:Schlumberger "
+title: "Summer Diaries: Schlumberger "
 image: layan1.png
 tags: [wona]
 author: "Layan Kaushik"

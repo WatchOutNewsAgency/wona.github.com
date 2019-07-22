@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summer Diaries: Goldman Sachs"
+image: "abhishek-kumar-1.jpg"
 tags: [wona]
 author: "Abhishek Kumar"
 category: summer2019
@@ -38,6 +39,8 @@ Almost all the rounds have a very similar structure. It starts with ‘tell us s
 
 “Tell us about yourself” is the section that can be used to play around a little. Tell them something about yourself that might have relevance to the interviewer and he may end up discussing that rather than a random question which might not click for you at that time. This doesn’t always work but you don’t lose anything by trying. 2 out of my 8 rounds were based on Java,OOP and RXJava, because I had brought up my second year’s internship where I worked on these(Preparing your resume accordingly can do this trick as well). But it’s up to you to decide if you really have a strong suite that may interest the interviewer or whether you are good at solving these problems there.
 
+![pic](/images/posts/abhishek-kumar-2.jpg){: style="width:80%;height:auto;"}
+
 ## Work
 
 ### Project
@@ -73,3 +76,5 @@ Generalising anything would be tough about Goldman, because be it work or cultur
 To those who want to work with cutting edge technology and are sure about it, you may want to reconsider this option.
 
 You should stay connected with friends from other IITs, there will be around a week’s gap in the recruitment. So you may get a rough idea of the question paper pattern from them.
+
+**Note:** Since Goldman Sachs doesn't allow any pictures of the premises to be take, these images were procured from the internet.

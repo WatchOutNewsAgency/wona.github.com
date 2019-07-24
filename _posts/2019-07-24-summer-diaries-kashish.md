@@ -3,7 +3,7 @@ layout: post
 title: "Germany: DAAD"
 tags: [wona, column]
 image: kashish1.png
-category: memoirs
+category: summer2019
 author: "Kashish Garg"
 excerpt: "Start of the third year is a confusing time - everyone is talking about the internship they want to land. With the amount of money offered in each of them and other pros and pros, it starts to get a little tense as time proceeds.  One thing that is usually discussed id if one should pursue a research internship at all. In this article, I will explain why I did a research internship and what benefits it had on me."
 ---

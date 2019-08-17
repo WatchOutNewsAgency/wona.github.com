@@ -4,8 +4,10 @@ title: "Rephrase.ai"
 image: "rephrase-ai.png"
 tags: [wona, column]
 category: verbatim
-excerpt: 'Rephrase.ai is a tech start up of which Shivam Mangla, an alumnus of IIT Roorkee is a co-founder. It gives users the power of creating high-quality videos and animations of a person speaking with just text as input with the support of over 40 languages. (check out their website https://rephrase.ai/). E-cell, IIT Roorkee in collaboration with Watch Out!, had a conversation with Shivam, the excerpts of which are as follows.'
+excerpt: 'Rephrase.ai is a tech start up of which Shivam Mangla, an alumnus of IIT Roorkee is a co-founder. It gives users the power of creating high-quality videos and animations of a person speaking with just text as input with the support of over 40 languages. E-cell, IIT Roorkee in collaboration with Watch Out!, had a conversation with Shivam, the excerpts of which are as follows.'
 ---
+
+Rephrase.ai is a tech start up of which Shivam Mangla, an alumnus of IIT Roorkee is a co-founder. It gives users the power of creating high-quality videos and animations of a person speaking with just text as input with the support of over 40 languages. (check out their website [https://rephrase.ai/](https://rephrase.ai/){: style="text-decoration:underline"}). E-cell, IIT Roorkee in collaboration with Watch Out!, had a conversation with Shivam, the excerpts of which are as follows.
 
 **You had a perfectly secure and almost an ideal job at Facebook. So what motivated you to leave it and to come back to India?**
 

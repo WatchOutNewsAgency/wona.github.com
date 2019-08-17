@@ -2,6 +2,7 @@
 layout: post
 title: "Rephrase.ai"
 image: "rephrase-ai.png"
+author: "Joint Initiative of WatchOut! & E-Cell"
 tags: [wona, column]
 category: verbatim
 excerpt: 'Rephrase.ai is a tech start up of which Shivam Mangla, an alumnus of IIT Roorkee is a co-founder. It gives users the power of creating high-quality videos and animations of a person speaking with just text as input with the support of over 40 languages. E-cell, IIT Roorkee in collaboration with Watch Out!, had a conversation with Shivam, the excerpts of which are as follows.'

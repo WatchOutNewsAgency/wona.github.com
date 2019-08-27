@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Branch Change - Clearing the mist"
+title: "Branch Change - Clearing the Mist"
 tags: [wona]
 category: academics
 image: branch-change-1.jpg
@@ -31,7 +31,11 @@ Key Takeaways:
 
 1. B.Arch students aren’t eligible
 
+
 ![A well meaning senior in action](/images/posts/branch-change-2.jpeg){: style="width:80%;height:auto"}
+
+*Above : A well meaning senior in action*
+
 
 > “In India, we don’t choose our major but our major chooses us.”
 
@@ -131,4 +135,4 @@ The truth is that changing your branch is by no means easy, but consistency and 
 
 > “Staying attentive to all the lectures throughout the semester is not possible, but try not to let the workload pile up for the end moment. Also, be serious about the CWS marks as they make quite a difference to your final score.”
 
-\- **Radha Jayraman** (2nd year, Branch Changer from PSE to CHEM)
+\- **Radha Jayaraman** (2nd year, Branch Changer from PSE to CHEM)

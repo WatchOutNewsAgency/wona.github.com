@@ -5,7 +5,7 @@ tags: [wona]
 category: academics
 image: branch-change-1.jpg
 excerpt: "To be or not to be a BC"
-authors: "Jayati Shrivastava, Divyam Goel, Arnab Mukherjee"
+author: "Jayati Shrivastava, Divyam Goel, Arnab Mukherjee"
 
 ---
 

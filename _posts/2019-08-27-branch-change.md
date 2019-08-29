@@ -32,11 +32,6 @@ Key Takeaways:
 1. B.Arch students aren’t eligible
 
 
-![A well meaning senior in action](/images/posts/branch-change-2.jpeg){: style="width:80%;height:auto"}
-
-*Above : A well meaning senior in action*
-
-
 > “In India, we don’t choose our major but our major chooses us.”
 
 Reflect on this for a second. Most of the students who enrolled in IIT Roorkee in any branch whatsoever did so without much research about what they were getting into. In fact, the research generally begins after the JEE ranks are out and your future has already been partially decided. Most of us are told to choose any available branch from the old IITs simply because of their reputation(sounds familiar?).

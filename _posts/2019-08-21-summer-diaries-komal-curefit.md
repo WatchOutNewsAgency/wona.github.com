@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Diaries: Cure.fit"
-image: "komal-curefit-2.png"
+image: "komal-curefit-2.jpg"
 tags: [wona]
 author: "Komal Maheshwari"
 category: summer2019

@@ -4,14 +4,11 @@ title: "Hult Prize"
 tags: [wona]
 author: "Agastya Varhala and Adarsh Gupta"
 category: career 
-image: hult1.png
+image: hult1.jpg
 excerpt: 'The Hult Prize is an annual, year-long competition that crowd-sources ideas from MBA and college students after challenging them to solve a pressing social issue around topics such as food security, water access, energy, and education. The Prize is a partnership between Hult International Business School and the United Nations Foundation.'
 --- 
 
-
 The Hult Prize is an annual, year-long competition that crowd-sources ideas from MBA and college students after challenging them to solve a pressing social issue around topics such as food security, water access, energy, and education. The Prize is a partnership between Hult International Business School and the United Nations Foundation.
-
-![pic](/images/posts/hult2.png){: style="width:80%;height:auto;"}
 
 Previous topics that have been dished out as part of the competition include:
 
@@ -109,9 +106,6 @@ To know more visit the following link : [http://hultprizeat.com/iitroorkee](http
 
 
 [https://www.facebook.com/hpiitr/https://www.facebook.com/109182803817789/posts/126962288706507/](https://www.facebook.com/hpiitr/https://www.facebook.com/109182803817789/posts/126962288706507/){: style="text-decoration:underline;color:blue"}
-
- 
-
 
 
 

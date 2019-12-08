@@ -12,7 +12,7 @@ excerpt: "What you know you can’t explain, but you feel it. You’ve felt it y
 
 > “...What you know you can’t explain, but you feel it. You’ve felt it your entire life—that there’s something wrong with the world. You don’t know what it is, but it’s there, like a splinter in your mind, driving you mad. It is this feeling that has brought you to me. Do you know what I’m talking about?”
 >
-> - Morepheus to Neo, The Matrix
+> \- Morepheus to Neo, The Matrix
 
 *You fumble with the front door key before stepping into the mellow yellow of your living room. Your kids aged 6 and 8 rush to greet you, and your spouse smiles, waiting patiently, so you can relish the spaghetti and red-wine together. It wasn’t a particularly rough day at work - it never really is. You stare absent-mindedly at your fat pay cheque before turning in for the night. None of this feels right. Life’s great, but, none of this feels right. You quickly reproach yourself for being an overthinking twerp, bordering on lunacy, and get on with your life. But nothing feels right. There is an itch you desperately want to scratch, but you can’t seem to figure out where to look for it.  At times you blame your cushy, blissful life for your uneasiness. Everything is optimised to generate the maximal amount of contentment for you, yet things feel hollow and lifeless. You spend restless nights pondering if there is more to life than the facade you appraise it to be.*
 
@@ -64,7 +64,7 @@ A convincing answer to such questions is still hidden ( if it does ,in fact, exi
 
 1. [https://www.nytimes.com/2017/07/16/books/mario-livio-why-what-makes-us-curious.html](https://www.nytimes.com/2017/07/16/books/mario-livio-why-what-makes-us-curious.html)
 
-1. [https://www.goodreads.com/en/book/show/32620361-why#:~:targetText=Astrophysicist%20and%20author%20Mario%20Livio,innate%20desire%20to%20know%20why.&targetText=He%20examined%20the%20lives%20of,da%20Vinci%20and%20Richard%20Feynman](https://www.goodreads.com/en/book/show/32620361-why#:~:targetText=Astrophysicist%20and%20author%20Mario%20Livio,innate%20desire%20to%20know%20why.&targetText=He%20examined%20the%20lives%20of,da%20Vinci%20and%20Richard%20Feynman)
+1. [https://www.goodreads.com/en/book/show/32620361-why](https://www.goodreads.com/en/book/show/32620361-why#:~:targetText=Astrophysicist%20and%20author%20Mario%20Livio,innate%20desire%20to%20know%20why.&targetText=He%20examined%20the%20lives%20of,da%20Vinci%20and%20Richard%20Feynman)
 
 ## Illustration Credits
 

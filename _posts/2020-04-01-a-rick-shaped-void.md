@@ -3,6 +3,7 @@ layout: post
 title: "A Rick Shaped Void"
 image: "rick-shaped-void-1.png"
 tags: [wona, column]
+author: Kushagra Agarwal,Aryan Bidani,Kriti
 category: phekingnews
 excerpt: "The moment a student sets foot on the campus, he or she stares down a long race-course like stretch of land leading to his/her bhawan, and a longer one from there to the LHC. Traversing this distance on foot early in the morning goes from easy-peasy-lemon-squeezy to I-can’t-feel-the-bottom-half-of-my-body-someone-help after the first few weeks (read:days), as R-land starts to take its toll on one's sleep schedule. Defeated by the long avenues and expansive promenades in the campus, students finally resort to support from the electric heroes of the campus, popularly known as E-Rickshaws.
 "
@@ -37,15 +38,9 @@ excerpt: "The moment a student sets foot on the campus, he or she stares down a 
 
 <br />
 
-**WO:** What are the elemental skills one should have to start one’s own venture?
-
-I don’t think it’s about one particular set of skills, because skills you can build over time. Entrepreneurship generally is a very long-term commitment and you know these “necessary skills” keep changing and someone who can adapt to those changes and continue to move forward eventually gets success. What is more important for entrepreneurship is temperament. It can easily be correlated with our endeavours in college. We try to find our comfort zone and give up at the slightest sign of trouble. This is why perseverance and temperament are necessary. Along with it you should be willing to compromise and make sacrifices. For example, I don’t get enough time to spend with my family, which will always be a regret. Bottom line is it isn’t about skill so much as it is about values such as these.
-
-<br />
-
 **WO:** What do you feel about the sudden disappearance of the E-Rickshaws?
 
-*Tinfoil Man: It’s all in the waves man. The earth, you know, the earth is pure, it never lies. Lemme tell y’all. The rickshaws and everything, it's just one big conspiracy. It wasn’t the rickshaw people, it was the goddamned mech profs. They have invented some sort of a roborick, which wouldn’t get funded until human driven rickshaws existed. Thus they destroyed all the E-Ricks and set them on fire before dancing over their bleeding electric ruins.*
+**Tinfoil Man:** It’s all in the waves man. The earth, you know, the earth is pure, it never lies. Lemme tell y’all. The rickshaws and everything, it's just one big conspiracy. It wasn’t the rickshaw people, it was the goddamned mech profs. They have invented some sort of a roborick, which wouldn’t get funded until human driven rickshaws existed. Thus they destroyed all the E-Ricks and set them on fire before dancing over their bleeding electric ruins.
 
 ![image](/images/posts/rick-shaped-void-2.jpeg){: style="width:60%"}
 
@@ -53,7 +48,7 @@ I don’t think it’s about one particular set of skills, because skills you ca
 
 **WO:** Or they might have just stopped them from entering the campus...?
 
-Wait! The waves! They’re changing. It wasn’t them profs, it was rather a bicycle renting company looking to open up their booths in R. They bribed the rickshaw drivers to lessen their numbers, just so that their venture would gain some traction in the campus. They orchestrated a fight between the authorities and the rickshaw drivers to benefit from the resulting rift. This is what the earth tells me, and I refuse to believe otherwise.
+**Tinfoil Man:** Wait! The waves! They’re changing. It wasn’t them profs, it was rather a bicycle renting company looking to open up their booths in R. They bribed the rickshaw drivers to lessen their numbers, just so that their venture would gain some traction in the campus. They orchestrated a fight between the authorities and the rickshaw drivers to benefit from the resulting rift. This is what the earth tells me, and I refuse to believe otherwise.
 
 *Overwhelmed by the fact that our world might be a simulation, we took to our heels and happened to come across a gloomy lad loitering around Lovers’ Lane*.
 
@@ -109,9 +104,12 @@ Wait! The waves! They’re changing. It wasn’t them profs, it was rather a bic
 
 **WO:** With only a few months left for your graduation, what makes you sad about the E-Rickshaw void?
 
-Random 4th Yearite:  Roorkee, located in the heart of Uttaranchal, is much more than just a town for me. With the mighty Himalayas in the background and the Ganga and Yamuna hemming it in, Roorkee has immense glorious natural beauty. Being the green panther that I am, I am mad for every bit of Roorkee - from the exquisite James Thomason Building to the dazzling Ganga Canal. Roorkee is like my drug. Up above this materialistic World, my sole aim in life was not to leave this pleasant place. After ruling out hundreds of job possibilities one could have taken up in Roorkee, I came up with a unique idea : to become an E Rickshaw-driver post my graduation in this lovely town. With only a few months left for my graduation, I was super-duper excited to take up this job. But then, one gloomy morning, I heard that there would not be any E-Rickshaws in Roorkee from now on. All my aspirations came to a crashing end. Now, with the placement season over, there is nothing I can do in life. I am a disappointment. 
+**Random 4th Yearite:**  Roorkee, located in the heart of Uttaranchal, is much more than just a town for me. With the mighty Himalayas in the background and the Ganga and Yamuna hemming it in, Roorkee has immense glorious natural beauty. Being the green panther that I am, I am mad for every bit of Roorkee - from the exquisite James Thomason Building to the dazzling Ganga Canal. Roorkee is like my drug. Up above this materialistic World, my sole aim in life was not to leave this pleasant place. After ruling out hundreds of job possibilities one could have taken up in Roorkee, I came up with a unique idea : to become an E Rickshaw-driver post my graduation in this lovely town. With only a few months left for my graduation, I was super-duper excited to take up this job. But then, one gloomy morning, I heard that there would not be any E-Rickshaws in Roorkee from now on. All my aspirations came to a crashing end. Now, with the placement season over, there is nothing I can do in life. I am a disappointment. 
 
 
 <br />
 
 ![images](/images/posts/rick-shaped-void-3.jpg){: style="width:60%"}
+
+
+**Illustration credits:** Yavnika

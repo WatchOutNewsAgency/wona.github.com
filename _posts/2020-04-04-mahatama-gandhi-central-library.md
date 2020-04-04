@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mahatma Gandhi Central Library"
+title: "Beyond the Bookshelves"
 image: "mgcl-1.jpeg"
 tags: [wona, column]
 category: bigstory

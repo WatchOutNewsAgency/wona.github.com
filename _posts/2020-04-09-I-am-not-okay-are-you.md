@@ -51,7 +51,9 @@ Life is unfair. We have to play the hand that we have been dealt. I can’t tell
 
 “In this terrifying world, all we have are the connections that we make.”<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Some Random Dude on Some Random Show
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Some Random Dude on Some Random Show<br><br>
 
-:)
+
+*:)*
+{: style="text-align: center"}
 

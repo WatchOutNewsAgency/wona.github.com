@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In Conversation With Gaurav Solanki: Co-Writer of Article 15"
+title: "In Conversation With Gaurav Solanki: Co-Writer of Article 15 (Movie)"
 image: "gaurav-solanki.jpeg"
 tags: [wona, column]
 category: verbatim

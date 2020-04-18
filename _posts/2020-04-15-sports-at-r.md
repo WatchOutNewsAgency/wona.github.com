@@ -4,7 +4,7 @@ title: "Sports At R: A Level Playing Field?"
 image: "sports-at-r.png"
 tags: [wona, column]
 category: bigstory
-author: "Pritika Mishra, Mayank Verma, Jigyasa Kumari, Atharva Shukla, Vedant Kumar"
+author: "Vedant Kumar, Atharva Shukla, Pritika Mishra, Mayank Verma, Jigyasa Kumari"
 excerpt: "With IIT Roorkee having won the bid to host the 55th Inter IIT Sports competition, our institute has been presented with a unique chance to upgrade its sports facilities. This also presents our teams with the coveted home advantage on which they will surely try and capitalize."
 
 ---
@@ -25,7 +25,7 @@ We start by taking a look at the past performances of IIT Roorkee in the Inter I
 
 The teams of a number of sports like Basketball, Football, Hockey, Cricket, Volleyball, Weightlifting have been consistently performing well over the years (with only a few ups and downs). The March Past performed by the IIT Roorkee contingent also managed to receive the nod of approval  by finishing on the podium in the previous three editions. The performance of the Swimming team has improved as well, with the men’s team brilliantly securing the 2nd position overall in the 54th tournament, and the water polo team breaking into the semis.
 
-This year, the squash team was able to overcome the stand-still they were facing in the last two tournaments, by securing the overall 3rd position in the 2019 edition. Even though there has been a significant improvement in the results in the individual events for the Athletics Men’s Contingent, the team as a whole hasn’t been able to move past the forsaken 5th position in the last three editions of the tournament. Similarly the racquet teams - Lawn Tennis, Badminton, and Table Tennis - despite delivering  a few exceptional individual performances, have not fared well as a team in these tournaments either.
+This year, the squash team was able to overcome the stand-still they were facing in the last two tournaments, by securing the overall 3rd position in the 2019 edition. Even though there has been a significant improvement in the results in the individual events for the Athletics Men’s Contingent, the team as a whole hasn’t been able to move past the forsaken 5th position in the last three editions of the tournament. Similarly the racquet teams - despite delivering a few exceptional performances, have not fared well overall in these tournaments either (refer to the above graph).
 
 We have tried to find reasons for this seeming asymmetry and imbalance in the performances of these various teams.
 
@@ -33,7 +33,7 @@ We have tried to find reasons for this seeming asymmetry and imbalance in the pe
 
 The overall performance of our institute in this year’s meet was far from a victory after the triumphant success we achieved in 2018. As apparent from the graph, there have been massive improvements in different categories in recent years, but the team performance still leaves a lot to be desired.
 
-***Please Note: Mentioned in the above graph is the overall standing of the team. In a few sports such as Swimming, Athletics, Badminton, TT etc., many students have secured medals in their individual events, which is not reflected in this graph.***
+***Please Note: Mentioned in the above graph is the overall standing of the team. In a few sports such as Swimming & Athletics, many students have secured medals in their individual events, which is not reflected in this graph.***
 
 <br />
 

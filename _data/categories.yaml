@@ -24,8 +24,10 @@
       title: Guest Comentary
     - name: editorial
       title: Editorial
-- name: tech
-  title: Tech
+    - name: tech
+      title: Tech
+- name: filtercoffee
+  title: Filter Coffee
   subcategories:
 - name: career
   title: Career

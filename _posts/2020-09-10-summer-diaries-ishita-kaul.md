@@ -2,7 +2,7 @@
 layout: post
 title: " Summer Diaries: Google STEP"
 image: "ishita-kaul-1.png"
-tags: [wona, column]
+tags: [wona]
 author: "Ishita Kaul"
 category: summer2020
 excerpt: ''

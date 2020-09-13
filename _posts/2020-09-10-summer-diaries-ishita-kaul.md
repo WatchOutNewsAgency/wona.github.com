@@ -2,10 +2,10 @@
 layout: post
 title: " Summer Diaries: Google STEP"
 image: "ishita-kaul-1.png"
-tags: [wona]
+tags: [wona, column]
 author: "Ishita Kaul"
-category: Intern Diaries ( Summer 2020)
-excerpt: 'For me Google was one of the dream companies I wanted to be a part of. So, I sincerely started preparing for it. And after 3 rounds of interviews and a few weeks of waiting I finally got a call saying I have received the offer. I was extremely delighted. I could see months of efforts finally paying off. It was amazing being a part of Google family via STEP Internship programme. This experience has been very enriching and will go a long way in shaping my future.'
+category: summer2020
+excerpt: ''
 ---
 
 Like most of the second year students, I was clueless about what I wanted to do in the summers after my second year of college. I talked to a couple of seniors and close friends. They all advised to either go for a research or a corporate intern. Both seemed rather good options. But for a research intern you need to know which specific field you are interested in. But all I knew was that I like computer science. I had explored a number of fields like Computer Vision, Software Development, OS, Competitive programming, etc (I have been doing a lot of exploration since my first year!). And I found all fields rather interesting. So, I finally realised that a company intern would be the most appropriate choice for me.

@@ -118,7 +118,6 @@ If pure, unadulterated architecture is what you are interested in, IITR is perha
 <br>
 In case you have any doubts regarding the course that you wish to get clarified, feel free to call any of the people listed below:
  
-**Komal Maheshwari (2nd year)**: +91 9330949212<br>
 **Divyang Purrkayastha (3rd year)**: +91 9560588732<br>
 **Ramachandra Reddy (4th year)**: +91 9557902784<br>
 **Lanka Adarsh (4th year)**: +91 9410577752<br>

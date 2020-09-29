@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " Summer Diaries: Bombay Shirt Company"
-image: "rsz_deep-behal.jpg"
+image: "deep-behal.jpg"
 tags: [wona]
 author: "Deep Behal"
 category: summer2020

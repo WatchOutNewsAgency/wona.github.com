@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Guest Editorial- From Chalk to Stylus"
+image: "Prof. Vinod Pankajakshan.jpg"
+tags: [wona]
+author: "Prof. Vinod Pankajakshan <br />  Dept. of Electronics & Communication Engineering <br />  IIT Roorkee "
+category: editorial
+excerpt: ""
+
+---
+
+*Even though online live teaching cannot replace the physical live class experience, in pandemic situations, we have to make do with the available facilities and utilize them for the best learning experience we can afford. Teaching a large class of students in an online distance mode and keeping them motivated throughout the semester poses significant challenges for the teachers.*
+
+
+## Initial Setup for Online Teaching    
+Having used the conventional 'chalk & talk' as the sole instructional method throughout my teaching career, the national lockdown in March 2020 had caught me completely off-guard. I had no option other than to complete the remaining Spring semester course by sending handwritten notes to the students. When the announcement came that the autumn semester would be in online mode, I decided to take it as a challenge to learn the art of online live teaching.  The preparations started in June, and the first task was to identify the mode of instruction. I thought of two options: either to use a chalkboard and live-stream the video or to use a writing tablet and online whiteboard. After much thought and following experts' advice ("[<span style="color:blue"><ins>Teaching from Home – Quick Start Guide</ins></span>](https://d3btwko586hcvj.cloudfront.net/uploads/pdf/file/167/Andrew_Ng_Teaching_From_Home-1587516390.pdf)" by Andrew Ng), I decided to use a tablet, mainly due to the fact that it allows better scope for interaction with students. Furthermore, using an online whiteboard appeared to be a more bandwidth-efficient way than the live streaming of "chalk & talk video". The initial setup consisted of two desktop computers, three monitors, a writing tablet, a webcam, a cardioid microphone, and a headset (Figure 1). The setup was organized in such a way that I can use one desktop, connected in dual-monitor mode (one monitor for viewing videos of students and the other for displaying control windows), for live streaming, whereas the second desktop for getting real-time feedback of video quality. The desktop for live streaming was connected to the high-speed campus network and the second desktop was connected to my mobile data network.
+
+![pic0](/images/posts/chalk_to_stylus.png){: style="width:90%;height:auto;"}
+<div style="text-align: center;"><span style="color:grey;">Figure 1. Initial setup for online teaching</span></div>
+
+
+## Getting Ready
+
+ The course assigned to me was 'Signals & Systems', a second-year undergraduate course. Though I have taught the course multiple times in the past, I was facing a new class, whom I have not taught/seen before. I usually follow the *teaching-by-questioning* methodology that requires active participation from the students. Normally when I teach a class for the first time, it takes a few lectures to break the ice before the students start participating actively in the discussions.  I was afraid that in the online mode it might take longer than usual.   So, before the beginning of the semester, I contacted the class representative of their senior batch (whom I taught the same course last year). Through him, I conveyed to the class the importance of the course and the need for their active participation in the lectures.
+
+## Testing and Tweaking the Setup
+
+Once the initial setup was ready, dry runs were conducted with the help of my colleague Prof. Brijesh Kumar. The objective was to get a feel of video and audio quality at the students' end (particularly in the case of poor internet connectivity) and to fine-tune the setup.  One major issue observed was the annoying loud noise due to the ongoing construction activities in the Department.  I found a workaround by installing KRISP, a real-time noise cancellation App, to remove the background noise (thanks to the free limited-time license provided for teachers by KRISP).
+
+I was using the MS Teams platform for delivering live video lectures. After a few lectures, I realized that MS Teams lacks (at that point in time) some features, that in my view, are important for live teaching. One of the features was the breakout rooms, a useful tool for conducting tutorials. Another important feature was the flexibility in adjusting the video layout at the students' end. The MS Teams does not allow the students to change video layout when the instructor presents in the screen sharing mode. There is a fixed layout in which the instructor's thumbnail video is displayed along with students’ thumbnail videos. This layout, also used in the recording mode, reduces the effective screen space.  After exploring various alternatives, I switched over to Zoom, which was the only platform offering these features at that time. I particularly liked the flexible video layout feature, where students have an option to watch the online whiteboard and only the video of the instructor (Figure 2). It is also possible for the students to resize and drag to reposition the instructor's video. For the remainder of the course, I used Zoom for delivering live lectures. In my experience, the live-streamed video quality of Zoom is superior to that offered by MS Teams.
+
+![pic2](/images/posts/chalk_to_stylus_2.png){: style="width:90%;height:auto;"}
+<div style="text-align: center;"><span style="color:grey;">Figure 2. Video Layout of Zoom</span></div> 
+
+## The Final Setup
+The initial three-monitor setup was taking the entire space on my table.  Later  I upgraded my iMac and scaled-down the setup to that shown in Figure 3. While the students’ videos were displayed on the iMac, the feedback video for the real-time monitoring of video quality (at the students’ end) was displayed on my mobile phone.
+![pic2](/images/posts/chalk_to_stylus_3.jpg){: style="width:90%;height:auto;"}
+<div style="text-align: center;"><span style="color:grey;">Figure 3. Final setup for online teachings</span></div>
+
+## The Teaching Experience
+Thanks to the active participation of the students, the lectures were more interactive than I anticipated.  Though I initially insisted that students switch on the videos, after a few lectures I realized that privacy is a major concern. Most of the students do not have private study rooms, and hence I made it optional to switch on their videos. Gradually, the number of students switching on their videos decreased. Once adapted to this scenario, I experienced no difficulty in teaching the class without seeing their faces.  The attendance was not mandatory and there was no weightage for attendance in CWS.  The attendance (the number of students logged-in, not necessarily listening) trend was similar to that in my offline classes.  In the initial phase, I delivered only live lectures and then many students started requesting video recordings. I began sharing the recorded videos with them since I thought some students would benefit from it, especially after seeing the network connectivity issues many students face.  I thought that sharing the recording will reduce the number of students attending live lectures, and hence I used to share the video only 2-3 days after a lecture.  Later, I started sharing the video immediately after the lecture, and to my surprise, there was no noticeable decline in the number of students attending the online live classes.
+
+## Evaluation and Student Feedback
+The lectures went well as I planned, and the entire syllabus was completed on time. Being a math-heavy course, it also has a vital tutorial component. When in the offline mode, I usually interact with the students in smaller groups rather than explaining the solutions of tutorial problems to the entire batch in one go. The students are first encouraged to solve the problems by themselves in groups, and then I used to discuss with each group separately. This approach helps me to identify and reach out to students who require further guidance. Although I tried my best to emulate the same approach in the online mode, it did not work well and I had to explain tutorial solutions to the entire class together. For awarding CWS marks, I decided to take individual viva of the students in addition to an online exam of 45 minutes duration.  The viva of all the 98 students took 3 weeks, by dedicating 1.5 hours per day for the same.  On average, each student was allotted 15 minutes, out of which 10 minutes were for viva.  The rest five minutes were spent for discussion to understand their view on the effectiveness of online classes and the difficulties they faced. The discussion also helped me to understand their motivation to attend online live lectures even if there was no marks for the attendance and they had access to the recorded videos.  The vast majority of the students said they attended the live lectures because they prefer to study on a fixed schedule rather than watch the recordings later.
+
+## Overall Experience
+To sum up, it was a hectic semester as I also had to handle the hardware/software issues. Such issues that were causing a lot of frustration during the initial phase were eventually dealt with and all the efforts have culminated in a smooth setup. The students' active participation and enthusiasm motivated me to put extra effort to fine-tune the lectures in the best way possible.   It was an enriching experience; however, I would reserve the acquired teaching skills only for online teaching in emergencies. I am eagerly waiting for the chalk & talk lectures in lively classrooms. 
+

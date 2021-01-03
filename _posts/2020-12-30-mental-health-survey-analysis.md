@@ -9,7 +9,7 @@ excerpt: ""
 
 ---
 
-**This survey analysis is part of an article series on Mental Health by Watch Out!. The first installation of this series was an interview with mental health professionals from the Wellness Centre IITR, which can be found [<span style="color:blue"><ins>here</ins></span>](http://watchout.iitr.ac.in/2020/09/in-conversation-with-the-wellness-center).**
+**This survey analysis is part of an article series on Mental Health by Watch Out!. The first installation of this series was an interview with mental health professionals from the Wellness Centre IITR, which can be found [<span style="color:blue"><ins>here</ins></span>](http://watchout.iitr.ac.in/2020/09/in-conversation-with-the-wellness-center).The third installment is a primer/resource collection that can be found [<span style="color:blue"><ins>here</ins></span>](http://watchout.iitr.ac.in/2021/01/mental-health-primer).**
 
 *<b>\*\*</b>This survey analysis is based on the data gathered by Watch Out! through  the circulation of a Google Form. The survey garnered around 150 responses. As a result, it is NOT a complete or fair indicator of IITR’s mental health literacy. However, we believe it might offer key insights about the thought processes of Roorkee’s populace, and in any case, serves as an excellent portal for us to do away with certain kinds of myths regarding mental illnesses. <b>This analysis has been vetted by, and is brought to you in conjunction with, Wellness Centre IIT Roorkee.</b>* 
 

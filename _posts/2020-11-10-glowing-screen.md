@@ -3,7 +3,7 @@ layout: post
 title: "Tiny Glowing Screens: The Future of The Spring Semester?"
 image: iitr.png
 tags: [wona]
-category: coverstory
+category: bigstory
 excerpt: "In the past couple of weeks, a number of institutes have come out with definitive plans for 2021"
 ---
 

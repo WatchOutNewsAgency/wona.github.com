@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call me sire: Senior complex in R"
-image: "call_me_sire.jpg"
+image: "call_me_sire.png"
 tags: [wona,column] 
 category: bigstory
 excerpt: ""

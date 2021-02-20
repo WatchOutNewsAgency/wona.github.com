@@ -3,7 +3,7 @@ layout: post
 title: "Quarantine Diaries "
 image: "quarantine_diaries1.png"
 tags: [wona]
-authors: Surya Raman  
+author: "Surya Raman"  
 category: editorial
 excerpt: ""
 

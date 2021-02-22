@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Inaugration of the Drone Research Centre"
+title: "The Inauguration of the Drone Research Centre"
 image: "drone-research-center.jpg"
 tags: [wona]
 author: "Spandan, Sanjana, Nishitha"  

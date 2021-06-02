@@ -2,7 +2,7 @@
 layout: post
 title: "Insti Elections: Your Handbook to the IITR Student Council"
 image: "insti-elections.jpg"
-author: "Ayan, Anvita, Shreya, Jasleen, Wagisha, Vidhi, Nishitha, Akshara"
+author: ""
 tags: [wona]
 category: sac
 excerpt: "As the deserted corridors of the white marvel stand amidst sprawling lawns, it is for the first time in 175 years that there is such tranquillity on the campus."

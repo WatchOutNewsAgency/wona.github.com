@@ -25,7 +25,6 @@ The Senate’s round table has 7 general secretaries.
     <li> Acts as a mediator between the faculty head and the cultural groups. Conveys proposals for organizing an event or for funding.</li>
     <li> They also have the responsibility of preparing the Inter-IIT contingent of the institute.</li>
     </ul>
-    General Secretary Cultural Affairs is a usual sight in the  SAC meetings giving reports of the Cultural Council and  making the action plan for organizing “Thomso” or for the Inter-IIT cultural meet. In the online semester however both   these events were cancelled, and thus there wasn’t much to do.  
     </li><br>
    <li>
     <b>General Secretary (Academic Affairs, UG):</b>
@@ -134,7 +133,5 @@ Elections for SAC and department level representation usually took place in the 
 All full time students whose current CGPA was more than the lower limit for the respective position and have had no back paper/semester/year and no disciplinary actions taken against them were eligible for contesting in the elections. Each candidate contesting for elections had to provide a manifesto, and once approved by the presiding officers were eligible for contesting. The voting for both Bhawan level and insti level positions were conducted in the Bhawan premises and votes were cast in an assigned computer system/ Ballot box.<br>
 A week before the election candidates made use of the public addressing system in Bhawans to put forth their manifesto and answer questions, with Chief Wardens moderating the process. The candidates were allowed to create promotional videos to be shared on the intranet and door-to-door campaigning was quite common.<br>
 Additionally,distribution of pamphlets, gifts to the electorate in cash or kind, funding from any source, and any form of debate were strictly prohibited to ensure a decorous and fair election.
-
-**The administration has a stronghold over every decision of  SAC, with the ultimate decision being made by them. The SAC just acts as a bridge. SAC meetings are usually held at least four times a year, no such meetings were seen this year, having less say in the actual functioning of the semester.**
 
 **For more details or contacts refer to the [<span style="color:blue"><u>IITR official site</u></span>](https://www.iitr.ac.in/administration/pages/Administration+Students__Affairs_Council.html) or ping the GenSecs on Facebook. Watch Out! for our next article as we analyse the need for an online election.**

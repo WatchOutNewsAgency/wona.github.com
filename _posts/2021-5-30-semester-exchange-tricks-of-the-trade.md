@@ -154,7 +154,7 @@ In the rest of the world (including Japan/South Korea):	Up to Rs. 1,00,000/-
 - Visits for training programs/schools etc., will not be supported.
 - During an academic program, the total support available to a student from all the funding schemes of the institute put together would not exceed Rs. 1.5 lakhs.
 
-This was just a summary of the semester exchange and research internship programs offered by premiere institutes worldwide. Students are advised to check out the [<span style="color:blue"><u>IR cell’s website</u></span>](https://ir.iitr.ac.in/OutboundStudents) and website of the specific program they may be interested in for further details and updates. 
+This was just a summary of the semester exchange and research internship programs offered by premiere institutes worldwide. Students are advised to check out the [<span style="color:blue"><u>IR website</u></span>](https://ir.iitr.ac.in/OutboundStudents) and website of the specific program they may be interested in for further details and updates. 
 
 For any subsequent queries, you can contact IR cell members:<br>
 Kartik Modi:		**+91 81047 77500**<br>

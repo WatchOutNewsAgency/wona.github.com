@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Turing the Enigma: <i>Unearthing the mysterious underground cult at IITR</i>"
-image: "enigma1.jpeg"
+title: "Turing the Enigma: Unearthing the mysterious underground cult at IITR"
+image: "enigma1.png"
 author: "Akshara Singh, Anurag Srivastava, Kushagra Agarwal, Pritika Mishra, Nishanth R, Riya Elizabeth John, Sarthak Sharma"
 tags: [wona]
 category: phekingnews

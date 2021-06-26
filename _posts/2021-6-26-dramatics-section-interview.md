@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DRAMATICS Section INTERVIEW: Hamare Kuch Sawaal Hain"
+title: "Dramatics Section Interview: Hamare Kuch Sawaal Hain"
 image: "dramatics_interview.png"
 tags: [wona]
 category: verbatim

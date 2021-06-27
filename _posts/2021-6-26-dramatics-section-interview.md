@@ -9,7 +9,7 @@ excerpt: "Watch Out! had a chance to talk with the director and the cast of Dram
 Watch Out! had a chance to talk with the director and the cast of Dramatics Section’s upcoming play “Hamare Kuch Sawaal Hain”. Here are a few excerpts where they share their experience of staging an online play.
 
 **WO:** How was the experience of preparing for the play online, different from the offline mode? What were some of the challenges that you faced?\\
-**Drams:** The process was pretty challenging. It starts from Day 0, many of us are quite naive. We get the script, we get the characters. Usually, people have a very different perception of their characters and as time passes but as the plot develops we begin to enjoy it and start relating to the characters more. It's usually fun. Although online mode has problems of its own like internet issues, sound lagging issues, you need to face a camera instead of an audience. Engaging the audience in online mode is a mammoth task. We tried our best and hope the audience likes it. 
+**Drams:** The process was pretty challenging. It starts from Day 0, many of us are quite naive. We get the script, we get the characters. During the early stages of the play it's hard to portray characters that are strangers to you but as time passes we really step into their shoes and begin to enjoy the whole experience. Although online mode has problems of its own like internet issues, sound lagging issues, you need to face a camera instead of an audience. Engaging the audience in online mode is a mammoth task. We tried our best and hope the audience likes it. 
 
 
 **WO:** How does the process of writing a play work offline? How was it different online?\\

@@ -3,7 +3,7 @@ layout: post
 title: "Online Exams & The Spring Semester"
 image: "online-exams-and-the-spring-semester.jpg"
 tags: [wona] 
-category: coverstory
+category: bigstory
 excerpt: ""
 
 ---

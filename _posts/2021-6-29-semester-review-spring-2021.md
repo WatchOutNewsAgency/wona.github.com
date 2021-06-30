@@ -3,7 +3,7 @@ layout: post
 title: "Semester Review: Spring 2021"
 image: "semester-review-spring.jpg"
 tags: [wona]
-category: bigstory
+category: coverstory
 excerpt: "The Spring Semester of 2021 brought along many uncertainties in almost every aspect related to the institute."
 ---
 The Spring Semester of 2021 brought along many uncertainties in almost every aspect related to the institute. It started late in February, was compressed to merely three months, came with six-day working weeks, and saw the end term exams cancelled just weeks before the end of the semester. A revamped academic calendar, a different mode of instruction, and frequent changes in grading policies each led to the rise of a new set of concerns. With the shrinking academic calendar, most lab components a bygone dream, aggravated by the inevitable technical and mental hiccups, the academic experiences seem strange and scary, different from anything we could have imagined.

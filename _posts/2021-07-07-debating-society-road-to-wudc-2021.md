@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debating Society: Road to WUDC 2021"
-image: "debsoc_interview.png"
+image: "debsoc-interview.png"
 tags: [wona]
 category: verbatim
 excerpt: "The World Universities Debating Championship (WUDC) is the world's largest debating tournament, and one of the largest annual international student events in the world. Watch Out! decided to interview the members of the contingent: Deep Behal and Aditya Ramkumar about the function of the society and the stakes behind the tournament.

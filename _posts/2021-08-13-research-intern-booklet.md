@@ -10,6 +10,6 @@ Watch Out! IIT Roorkee brings to you the 'Research Intern Booklet.' An extensive
 
 Disclaimer: Despite several hours of work by multiple members, we cannot claim this document to be error-free. The timelines, dates, and other details are for reference sake only. They may vary, primarily due to the pandemic. Please refer to the official websites of the relevant programs to get the updated information.
 
-<a href="/BookletIntern.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Booklet Here!</button></a>
+<a href="/Research_intern_Booklet.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Booklet Here!</button></a>
 
 **Design Credits**:- Janani

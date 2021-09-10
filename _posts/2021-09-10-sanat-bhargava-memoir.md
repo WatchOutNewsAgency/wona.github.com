@@ -3,7 +3,7 @@ layout: post
 title: "Deform to Form a Star"
 category: memoirs
 author: "Sanat Bhargava"
-image: Sanat_Memoir.png
+image: Sanat Memoir.jpeg
 tags: [wona]
 excerpt: "As I set about the task of writing this memoir, I find myself plagued by the melancholy realization that nothing I ever write will do justice to my time at Roorkee"
 ---

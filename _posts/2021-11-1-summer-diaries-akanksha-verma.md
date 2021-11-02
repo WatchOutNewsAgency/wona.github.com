@@ -5,7 +5,7 @@ category: summer2021
 author: "Akanksha Verma"
 image: summer_Akanksha.png
 tags: [wona]
-excerpt: "With the pandemic spreading worldwide, there were little to no opportunities for good internships in 2020. By the time  2021 began, I had become very excited about working at a good firm."
+excerpt: "It still feels like a dream to me, but yes, this summer, I worked at Google as a STEP Hardware Intern.I was teamed up with my co-step intern... "
 ---
 
 ![pic0](/images/posts/summer_akanksha_1.jpeg)

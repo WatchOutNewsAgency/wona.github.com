@@ -3,11 +3,12 @@ layout: post
 title: "Summer Diaries: Adobe Research"
 category: summer2021
 author: "Harsh Kesarwani"
-image: harsh_kesarwani.jpg
+image: website - Harsh.png
 tags: [wona]
 excerpt: "Joining IITR as a Civil Engineering student, switching to Electrical, maintaining a good CGPA, bagging a research internship at Adobe, and eventually getting a PPO"
 ---
 
+![pic0](/images/posts/harsh_kesarwani.jpg)
 
 ### **Some background**
 

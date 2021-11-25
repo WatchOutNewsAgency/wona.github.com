@@ -8,7 +8,7 @@ tags: [wona]
 excerpt: "Joining IITR as a Civil Engineering student, switching to Electrical, maintaining a good CGPA, bagging a research internship at Adobe, and eventually getting a PPO"
 ---
 
-![pic0](/images/posts/harsh_kesarwani.jpg)
+![pic0](/images/posts/harsh_kesarwani5.jpg)
 
 ### **Some background**
 

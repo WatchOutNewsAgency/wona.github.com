@@ -1,0 +1,109 @@
+---
+layout: post
+title: "Last Call/Time’s Arrow"
+category: memoirs
+author: "Surya Raman"
+image: Surya_Memoir.png
+tags: [wona]
+excerpt: "This is the last piece I will write for Watch Out!, I figured in for a penny, in for a pound. Proceed at your own peril"
+---
+
+***Author’s Note : This is a fairly long and uncomfortable read. Since this is the last piece I will write for Watch Out!, I figured in for a penny, in for a pound. Proceed at your own peril.**
+
+*“He woke up to a morning sultry and blue*<br>
+*With opalescent leaves and midges askew*<br>
+*He soaked it all in, the harbingers of day*<br>
+*He’d miss it, or would he? - he wondered anew”*<br>
+
+Why do we all figure that while we’re all viscerally the same, deep down we’re different? Do we somehow perversely find refuge in that? And if we all believe that, aren’t we the same in that regard as well? Momus sure had the last laugh.
+
+As twilight engulfs the city and crepuscular animals charge the skies with their motley chants, I find myself inevitably reminiscing, nostalgic about the teardrop in my heart, Roorkee. It is that serene and mystical period just before dawn, when you don’t need acid to be in silent awe of the transcendent and ineffable sky, as it goes haywire and changes colour by the minute - now pitch black, now an unreproducible hue of violet - an otherworldly dance of sorts, an almost occult-like dalliance with the gods. And the twilit sky of Roorkee is one of a kind, magical in its magnificence.
+
+And it is under this twilight sky, far far away from Roorkee, that I perch under to write this, in the hope that the sky will be a mute guide of sorts, for who or what has observed every second I’ve spent in Roorkee - the smiles and the laughter, the sighs and the tears - if not the wondrous sky?
+
+### *Of Passions and Distractions*
+When you’re 17 and besotted, you're certainly thick and dozy. Unlike a lot of other people, I was not particularly happy about being here. Not because I had wanted to get into a “better” college like IIT Bombay or Madras or Delhi - but because I was morose about the notion of being separated. However being a 17 year old kid helped, as did the fact that I was majoring in physics - a subject that according to me, along with philosophy, asks just the right questions about the universe. And a semester and a few hazy nights later, I had moved on. I wasn’t just ambivalent about being here, I was positively aglow.
+
+I had been a dilettante in the fields of music and literature a long time before I was hurled into Roorkee by fate, and it didn't take me long before I found myself entrenched in the cultural activities at Roorkee. I shall remain eternally grateful to both Watch Out!, and the Music Section - both provided me with ample opportunities to indulge in the things I loved most besides physics. In two regards I have been particularly lucky - I have known what I have liked doing for a while now, and while I had close to zilch opportunities during my school life to indulge in them, I was constantly involved in them at IITR. 
+
+While the second half of the preceding sentence is fairly obvious, the first half, I believe, is worth elaborating on. Throughout my four years in college, I have often come across these weary, sapped souls in eternal languor and torpor, owing primarily to the morbid reality that they aren’t passionate about anything. Now I have warily chosen not to write an editorial so far on what - according to me - is the true face of passion. But I would be remiss not to give the reader a glimpse of it here. 
+
+I have long loathed the term “passion” and prefer instead the much more grounded term “distraction”. The usage of the term “passion” implies something specific to the listener, and always leaves the impression of longevity, which is remarkably untrue, at least in my case. Music, literature and physics are immensely useful sources of distraction and have helped me during my darkest days and when I have been at my lowest. However I firmly believe that love dies out, passion changes form, shape and colour throughout life, and the old adage rings true - change is the only constant. And the sooner you make peace with this adage, the sooner you will be able to lead a significantly less anxious life. Chasing after the unreachable, ephemeral island of passion, which is always on the horizon, always just out of reach, whilst dangling precariously on the raft of distraction is a perfect recipe for prolonged misery. It is far more reasonable - again I stress that all this is according to me - to accept a life in the raft. 
+
+I am a huge fan of the animated TV show Bojack Horseman for a multitude of reasons, but one of the reasons is the vast number of quotable scenes it has left behind in its wake. This is one by Who’s-That-Dog-Mr.-Peanutbutter : 
+
+**“The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead."**
+
+This is one of the lessons I have picked up across the four odd years of my college life. You are not defined by your passions or your love interests. You are more than just the distractions that serve to engage your senses. You are the gestalt. Multiple distractions serve to nourish multiple facets of your personality and it behooves you to cherish them all. It is prudent to make peace with the fact that you have multiple distractions, and that it is absolutely okay to make a career out of one of them. You are not your passions, and neither are you your profession. And it is perfectly alright for your distractions and by extension your job to change with time. We humans are constantly in flux and it makes sense to embrace that reality.
+
+### *Of Hazy Nights and Smoky Rooms*
+
+*“With bitten fingernails he fought the corkscrew*<br>
+*Past smoke and sleep the sky changed hue*<br>
+*And as the day subsided and the candy wore off*<br>
+*His smile would wither, and fade, he knew”*<br>
+
+My sophomore and junior years in college are a haze. They were spent mostly in smoky rooms and corridors, and were primarily a cascading stairwell of disappointments in my personal, professional and academic life. I was still passing all my courses, but I was barely achieving average grades - which is not a healthy benchmark to set when you want to pursue a career in research. I snagged a small intern right at the very end of my sophomore year, thereby building up a somewhat presentable research profile. I loved and I lost. And I was also massively disappointed in my colleagues (in my club life). 
+
+Roorkee will do that to you. It might not seem that way when you read a bunch of memoirs written by people 4 years after they coursed through the crapstorm, but Roorkee almost undoubtedly has the potential to drive a cold, uncaring sword through your heart, leaving you bereft and adrift - and Roorkee will not look back at the hollow husk of a human being it leaves behind in its wake. This can take the form and shape of academic pressure, social alienation, a general feeling of crippling anxiety about the future, romantic endeavours, etcetera. After 4 years, I’m still barely equipped to deal with any of that, but a general tip : when you see that cute girl smiling at you, take 2 seconds to confirm if she was actually looking at the guy past you.  
+
+I still distinctly remember how I spent all my afternoons and evenings in Roorkee during those 2 years. I was either in the dimly lit squalor of my room in Ravindra Bhawan, glass in one hand, a death stick in the other, mentally playing out the warmest memories of my life on the dismal canvas of my dilapidated wall. And the mental films always ended with a serene peace, as I blissfully stepped into the dark, embracing the long, cold arms of death. I came close once or twice, but eh. If not my room, I was to be found perennially in the green dungeons, slowly sipping on my fourth, fifth, sixth mug, with probably Murakami, Dostoevsky or one of my best friends to keep me company. 
+
+Unsurprisingly, I was soon diagnosed with a severe mental health disorder. There are hereditary and environmental reasons for my mental illness, and it can be a combination of anything else for you. The reasons don’t really matter at the moment (they do matter for psychotherapeutic reasons). But a major roadblock to me taking steps towards getting better, or even seeking help, was the fact that I didn’t, and sometimes still don’t, see the point in getting better. I’ve mentioned this before in my Internship Diary, but it is pertinent here - being existential is something of a character trope with me. But it gets unbearably dark. I run the risk here of sounding run-off-the-mill and boring, but I will quote Nietzsche anyway :
+
+**“If you stare long enough into the abyss, the abyss stares back into you.”**
+
+As I stared into the heart of darkness, this is precisely the question that tripped me up : if I’m just an insignificant conglomeration of carbon, floating pointlessly in space, and will never amount to anything, why am I burdened with the capacity to feel, to suffer? Is not the suffering meaningless then? And if it is, what on god’s green earth (yes, humour, I have it too) is the point of expending all that effort in getting better, when there is absolutely no value to life?
+
+It is precisely this train of thought that inevitably brings you face to face with - according to Camus - the most important question in philosophy, the question of suicide. An aside - I furtively avoided answering a glaring question : If music, literature and physics are distractions, what are they distracting me from? I can answer this question now : not only do I prefer the term “distraction” because the term “passion” erroneously indicates longevity, but also because these activities primarily serve to distract me from the aforementioned gloomy and morbid train of thought (that leads to the question of suicide).
+
+### *Of Philosophers and Something IDK*
+
+I will leave you with a few sources of refuge that I clinged on to for dear life (yes, humour again). Firstly, I believe in living for others (friends and family). On the face of it, this seems like an extremely selfless and stupid thing to do. An obvious problem is : what will you do when you stop caring enough about others and care more about your own suffering? The key thing to remember here is that almost everyone else (at least those who have thought about this) is also existing for similar, precarious reasons. It helps me to often remind myself that I would absolutely fly off the handle if I were to lose a loved one. If things truly didn’t mean anything in the slightest, someone’s passing shouldn’t matter either should it? But the mere thought of it pokes my innards and leaves me anxious. And therein lies the human condition. At least so far, I have not transcended the human domain. So on a particularly rainy day, when the darkness comes a-calling, and the aforementioned conundrum arises, I call up a friend, or read something, or listen to something, until the wave of negativity recedes, because it always does.
+
+Secondly, Dostoevsky famously wrote “What is hell? I maintain that it is the suffering of being unable to love.” This is more or less related to the first point. Make the effort and find people to love, and I don’t just mean romantically. The day may be long, hard and utterly painful, but you can look forward to the night when you have someone to share it with. In his seminal work *The Brothers Karamazov*, Dostoevsky poses a simple solution to the fundamental problem of suffering and evil : just the fact that there are humans who are able to love unconditionally, and who are not superhuman (Father Zosima for those of you who have read the book) - in the sense that they too are fraught with flaws - is testament to the fact that even in the face of abject misery and suffering, there is peace to be found. I primarily refer to certain authors in this memoir because these are the authors and philosophies I most relate to, but I strongly encourage you to find your own little world in these books, for they are ripe with philosophies waiting to be consumed by you. 
+
+Lastly, I have always found it incredibly hard to answer the question “What makes your life worth living? And if it is not, why are you still here?” The fact that I pose this question to myself most often is hardly redeeming. I do not wish to answer this personally, but the fact remains that after any traumatic event, if you choose to look at things completely rationally, you will find that life was almost as shitty before the traumatic event as it is now. And while it may sound counterintuitive, this is actually a calming realisation. For if you could associate any sense of worth to your life in this cold, dark, uncaring void before, with time, you almost certainly will find the required tools to carry on.
+
+As my good friend Neil wrote in his memoir, it is unbearably, unimaginably hard to imagine yourself being better when you’re so frightfully depressed. But no matter how absolutely pitch black it gets, and how ridiculously alone you find yourself, trust me, there is light to be found at the end of the tunnel, and there are shadows in the dark, and outside the wall, patiently waiting for your call.  And no matter how painfully hard it gets now, it will get easier. 
+
+Do not get me wrong - in no way or sense am I saying that it will ALL get better. I have often disliked the phrase “light at the end of tunnel” that I have so carelessly used myself. You might espouse a fatalistic philosophy that looks at life as a series of closing doors - I know I often find myself doing this. But time and time again I have found life to be more akin to an endless tunnel, a bottomless pit, with a few cracks and crevices along the way that let in light. It’s an endless series of traumatic events with bits of “Oh you know what, hmm, that’s not too bad”.
+
+I still often find myself stranded in the darkness. But psychological help, the companionship of loved ones and friends, books, music etcetera go a long way in increasing the frequency with which you come across these crevices in life. And that is the extent to which I will expose the dark recesses of my mind in this memoir.
+
+*“Ash lay strewn across photographs*<br>
+*A polaroid heart where their love passed*<br>
+*And there lay the redolent remnants of day suspended*<br>
+*A pocket of warmth in the darkest past”*<br>
+
+### *Of Journalism and Music*
+
+Notwithstanding my debilitating disorder and all the associated ordeals, I am fairly pleased with myself for having run Watch Out!, in exactly the way I wanted to. I was particularly lucky to have run it with some of my closest friends in college, and while we dealt with our fair share of vacuous crap, the payoff was immeasurably humongous. I have rarely been as satisfied as I was during that one, ecstatic year. I do not wish to repeat a lot of what my friends have already said about Watch Out! as part of this memoir series, but perhaps the most rewarding experience of my college life was the large number of editorials I got to write with one of my esoteric and prolific friends (and ex Chief Editor of Watch Out!). We spent innumerable hours in my room, listening to OK Computer, cherishing our glasses, as we discussed everything under the sun, and slowly transcended the land of the living. 
+
+I did not get to indulge in this kind of ecstatic toil as the Additional Secretary of Music Section, primarily because of the pandemic. However some of my fondest memories always will be of the uncountable number of hours spent in practice at the Section, as well as the MAC Auditorium. While I have found like minded individuals in my branch, my year and in other clubs, I have never quite found a niche group of individuals who have the same esoteric music tastes as me, like I did here at Music Section. This was lucky, because as a result, I got to sing and perform in some of my absolute favourites - *Shine On You Crazy Diamond, Celestial Elixir, Time etcetera*. The number of endorphins released during those 17 minutes on stage during the Celestial Elixir performance is perhaps larger than the cumulative number of endorphins released throughout my life, and I remain eternally grateful to Roorkee for that. These individuals are also directly responsible for my foray into the wondrous world of music theory; by the end of my junior year, I had learned enough to compose and record my own music (albeit not produce it well - I am still working on this).
+
+
+### \<Insert Cool Heading Regarding Lockdown\>
+
+Most of my senior year was spent in lockdown, and is well documented as part of Watch Out!’s Internship Diaries series [<span style="color:blue"><u>http://watchout.iitr.ac.in/2020/12/summer-diaries-tifr-and-tu-dresden</u></span>](http://watchout.iitr.ac.in/2020/12/summer-diaries-tifr-and-tu-dresden). A word of counsel (for those of you who suffer bouts of mental illnesses) : get a boatload of work done when the tides of negativity are at bay, and give yourself time to recover when you’re drowning. It sounds simple, but I’ve often come across people who force themselves to work when they’re depressed and while away their time when they’re okay. I would advise readers to at least try changing that. This is primarily the reason why I was able to land 2 internship offers in my senior year, and then see them through, along with my Bachelor Thesis Project.
+
+ I’ve stressed this in my Internship Diary but I will stress it again : an average or below average grade point (that you may well be working with owing to a plethora of reasons) does not render you out of the game of research (or even placements for that matter). There are a string of decisions you can take *after* the dust has settled, and with a spot of luck (that you may or may not have - the universe is cruel that way) you are very likely to do well in the field of pursuit that you have chosen. I run the risk here of sounding vain, but I sincerely hope the takeaway is obvious : you *can* do just as well as your peers who don’t suffer mental health disorders. You don’t cure them, you learn to live with them.
+
+An insidious sickness consumes almost all the residents of IITR by the time they get through with their four years in college - the notion that they need to have figured out what they would be doing with their lives for the foreseeable future. My memoir is already awfully long so I will not spend much time on this, but I will say this : this is a load of horse crap engendered by self indulgent, delusional pricks. Please take your time; your time with these pricks will end after your four years but you will still need to live with the consequences of what you decide. So don’t be hasty. 
+
+We did get to return to campus during my final year for a few silent, solemn and depraved months, and we reminisced about the time that had gone by, and shared in our fears about the time that was to come. I made sure to walk through my escapist haunts one last time - the professor’s square, CBRI, Nescafe, and of course the river. I would highly recommend you find such haunts too - where music sounds holistic, each colour hitting a different note, fireflies appearing and fading in perfect tempo, as a world of colour and sound coalesces into one grand wave of emotion that stops time and punches the wind out of you. (If by chance you think you’ve read something similar somewhere, this is what I wrote for Watch Out’s Freshman Guide, so sike, I plagiarised myself).
+
+
+### *Family*
+![pic0](/images/posts/last_call_time1.jpg)
+
+Perhaps most of all, I am thankful for the dozen or so recherche and arcane group of individuals I found here in Roorkee - these individuals are to me the very essence of Roorkee; when I close my eyes and  think of Roorkee, it is the beautiful, floating images of these individuals that presses against the dark, rosy inner side of my eyelids. I spent most of my time with these individuals, doing things both cretinous and intellectual, vapid and stimulating, inane and meaningful. Most of it has been outright absurd, and I choose to carefully censor the details. Calling them friends, or even brothers would be an understatement. But for the lack of a better word, they are family in the truest sense of the word. That’s the magical aspect of college life (or maybe life in general) - once you leave home, you get to define a unique set of individuals as your family, your home. For the first time in your life, you get to choose who gets to be your family. 
+
+Deep down, you might want to be different, and you might even find refuge in that, and you may very well be right. But there is no denying that there is great joy to be found in seeing your reflection in another soul. If you think this means shared interests and the works, you don’t yet know what I’m talking about. I sincerely hope you find out.
+
+Someday, I hope to meet them again, and discuss the mind-boggling absurdity of life, as we pass around green and white death sticks, seated on luxurious leather sofas that face a wall of mahogany, decorated from floor to ceiling with books from around the world. As my soliloquy of sorts comes to an end and my curtain falls, I pray and hope to sit with them all someday on a cold winter’s night, with nothing but pandemonic smiles and beautiful memories to keep us warm.  
+
+*“A brief moment of panic, but it didn’t last*<br>
+*A calm set in - no longer was he aghast*<br>
+*A fistful of pills and rum in a glass*<br>
+*And he smiled strangely, stepping into the dark”*<br>

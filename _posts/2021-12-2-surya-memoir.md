@@ -3,7 +3,7 @@ layout: post
 title: "Last Call/Time’s Arrow"
 category: memoirs
 author: "Surya Raman"
-image: Surya_Memoir.png
+image: last_call_time.jpg
 tags: [wona]
 excerpt: "This is the last piece I will write for Watch Out!, I figured in for a penny, in for a pound. Proceed at your own peril"
 ---

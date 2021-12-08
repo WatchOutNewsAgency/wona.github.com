@@ -37,6 +37,8 @@
   subcategories:
 - name: phekingnews
   title: Pheking News
+  name: report
+  title: Report
   subcategories:
 - name: verbatim
   title: Verbatim

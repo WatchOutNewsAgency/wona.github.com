@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The golden jubilee reunion 2021"
+title: "Golden Jubilee Reunion 2021"
 category: report
 image: the-golden-jubilee-2021.jpg
 tags: [wona]

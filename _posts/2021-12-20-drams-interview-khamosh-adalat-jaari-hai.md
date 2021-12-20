@@ -19,7 +19,7 @@ Here are a few excerpts from the session.
 
 WO: Given the very “meta” nature of the play, in the sense that you guys play characters playing characters. How did you guys deal with the fact that you are playing a play in play? How was the experience?
 
-Director: Everything started with a play but as things unfolded certain secrets came up that changed the entire course of the story. The beautiful thing about this play is there are eight characters involved and all eight of them are present on the stage throughout the course of the play. The most typical character I found was the lawyer, who isn't a lawyer by profession but is just focused on prosecuting someone.
+Director: Everything started with a play but as things unfolded certain secrets came up that changed the entire course of the story. The beautiful thing about this play is there are eight characters involved and all eight of them are present on the stage throughout the course of the play. The most difficult character I found to direct was the lawyer, who isn't a lawyer by profession but is just focused on prosecuting someone.
 
 Cast: Playing characters inside the play was very challenging. We have people who over act in real life and then we have people who over act on stage. But playing an overactor on stage playing an overactor was both challenging and interesting at the same time.<br>
 Essentially we’re playing 2 characters in the play. We focused a lot on the contrast in our voices, facial expressions and body language. The audience has to be able to distinguish between the character that we’re playing and the character that the character is playing. The whole process was difficult, but we were helped by our seniors throughout the course of the 21 days we were here.<br>
@@ -28,7 +28,7 @@ Our directors helped us too in understanding what we should expect from the char
 
 WO: This was an offline play after quite a very long time. How was your experience putting up and preparing everything? How are things different from what it used to be during lockdown?
 
-Drams: The experience was great, it was fun setting up everything from stage to dialogues. Things are a bit different as we’re short of first year right now so fourth yearites are trying to give us their time. In general, during lockdown we missed sitting with each other discussing the plays and scripts. During lockdown we did organise plays but since those were online, dialogue delivery was the only thing that mattered. Here, on an actual stage, it becomes important to work on our body language, in accordance with the dialogues. Along with that, we have to set up the stage ourselves. Each element of the experience - lights, music, placement of props et cetera, has to be prepared and checked. Online had a lot less problems, but with everyone's help we are able to keep up with things.
+Drams: The experience was great, it was fun setting up everything from stage to dialogues. Things are a bit different as we’re short of first year right now so fourth yearites are trying to give us their time. In general, during lockdown we missed sitting with each other discussing the plays and scripts. During lockdown we did organise plays but since those were online, dialogue delivery was the only thing that mattered. Here, on an actual stage, it becomes important to work on our body language, in accordance with the dialogues. Along with that, we have to set up the stage ourselves. Each element of the experience - lights, music, placement of props et cetera, has to be prepared and checked. Online had its set of different problems, and like always, with everyone's help we are able to keep up with all the challenges that came.
 
 
 WO: For sophomores this was their first on stage play. What was their experience like?
@@ -50,7 +50,7 @@ WO: What kind of other works can we expect in future?
 
 Director: Stage and street plays are our forte but we are not going to shy away from exploring. We did explore with the online play earlier this year and we're organising a mime act soon.  For those who are waiting, we're also planning to organise the Friends of Section as soon as we get required permissions from the authorities. Just stay tuned for what's to come!
 
-Watch Out! also got to interview the cast and director of 'Be Your Dream', a mime act which they are going to perform at the same venue, the OP Jain auditorium two days after the stage play, on the 23rd of December at 6 PM. Here are a few excerpts from that interview:
+Watch Out! also got to interview the cast and director of 'Be Your Dream', a mime act which they are going to perform at the MAC Auditorium two days after the stage play, on the 23rd of December at 6 PM. Here are a few excerpts from that interview:
 
 WO: Starting from the basics, what exactly is a mime act?
 

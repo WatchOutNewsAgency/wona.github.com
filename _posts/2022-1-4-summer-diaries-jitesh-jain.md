@@ -63,6 +63,7 @@ You may read more in detail about my research experience and learnings on <a hre
 - Since I was the lead in the research projects at both labs, it got hard to manage the workload, which sometimes led to feeling overwhelmed. It worked well in the long run, though. I can manage multiple research projects efficiently now.
 - When you research DL, the models take a lot of time to train (sometimes even days), so it’s hard to take the mind off research and not think about the next steps. It’s essential to balance life and research, which took me months to settle.
 - Sometimes, things don’t work out even after months of efforts (happened with me). At this time, it’s essential to halt the current project, contend with the learning experience and move on to better research goals.
+
 ### **Pointers**
 
 - **Persevere:** Research requires a lot of patience and perseverance where something may not work for months for two reasons: it’s not possible, or your execution is wrong. Either way, it’s important not to feel depressed and remain calm during the research journey.

@@ -3,7 +3,7 @@ layout: post
 title: "OGLE NOT OGRE"
 category: coverstory
 tags: [wona]
-image: website_1.png
+image: ogle_not_ogre1.png
 excerpt: "Like most IITs, the Roorkee campus has also been paraded and celebrated as being a safe haven where students could go about their everyday activities in peace without worrying about their safety. However, recent events beg to differ. There has been a rise in the number of catcalling incidents being brought to light on campus."
 ---
 Like most IITs, the Roorkee campus has also been paraded and celebrated as being a safe haven where students could go about their everyday activities in peace without worrying about their safety. However, recent events beg to differ. There has been a rise in the number of catcalling incidents being brought to light on campus.  

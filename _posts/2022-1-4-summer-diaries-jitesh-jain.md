@@ -38,7 +38,7 @@ During our 1st meeting, Prof Shi asked me to prepare a presentation on a researc
 
 ![pic0](/images/posts/summer-diaries-jitesh-jain2.jpg)
 
-I have always found CP a boring, purposeless, and mundane activity. Nonetheless, I knew I had to practice coding questions and DSA if I were to sit for on-campus interns during the 2021 intern season. As I was already working on a research project at SHI Lab, I lightly studied a few things on Interviewbit as per the norm. Still, I was looking for paid research opportunities (my remote intern at SHI Lab being unpaid). Driven by the unwanted burden of CP, I asked Prof. Shi if we would be willing to provide me with financial assistance or recommend another professor for an intern. To my surprise, he offered me a research intern position at the recently founded Picsart AI Research, where he works as the Chief Scientist. So, I was fortunate enough to opt-out of the on-campus intern season (or rather the rat race).
+I have always found CP a boring, purposeless, and mundane activity. Nonetheless, I knew I had to practice coding questions and DSA if I were to sit for on-campus interns during the 2021 intern season. As I was already working on a research project at SHI Lab, I lightly studied a few things on Interviewbit as per the norm. Still, I was looking for paid research opportunities (my remote intern at SHI Lab being unpaid). Driven by the unwanted burden of CP, I asked Prof. Shi if he would be willing to provide me with financial assistance or recommend another professor for an intern. To my surprise, he offered me a research intern position at the recently founded Picsart AI Research, where he works as the Chief Scientist. So, I was fortunate enough to opt-out of the on-campus intern season (or rather the rat race).
 
 TLDR: Let your research advisor know when you are in a problem. They are there to help you and ensure you focus on your research.
 
@@ -63,6 +63,7 @@ You may read more in detail about my research experience and learnings on <a hre
 - Since I was the lead in the research projects at both labs, it got hard to manage the workload, which sometimes led to feeling overwhelmed. It worked well in the long run, though. I can manage multiple research projects efficiently now.
 - When you research DL, the models take a lot of time to train (sometimes even days), so it’s hard to take the mind off research and not think about the next steps. It’s essential to balance life and research, which took me months to settle.
 - Sometimes, things don’t work out even after months of efforts (happened with me). At this time, it’s essential to halt the current project, contend with the learning experience and move on to better research goals.
+
 ### **Pointers**
 
 - **Persevere:** Research requires a lot of patience and perseverance where something may not work for months for two reasons: it’s not possible, or your execution is wrong. Either way, it’s important not to feel depressed and remain calm during the research journey.

@@ -41,7 +41,7 @@ Thereafter, Prof. Sanjeev Manhas (Department of ECE) talked about outreach and p
 
 ### **Arranging visits to IIT ROORKEE for school students.**
 
-Mr. Anshul Sachdeva, a 3rd-year Undergraduate at the Department of Civil Engineering, IIT Roorkee introduced a schene of 20 one-day trips for school students in and around Roorkee during the entire 175th year. An additional 40 underprivileged students in a fair ratio will be invited to IIT Roorkee where they will be given complete exposure to what IIT Roorkee has to offer along with career-counseling sessions.
+Mr. Anshul Sachdeva, a 3rd-year Undergraduate at the Department of Civil Engineering, IIT Roorkee introduced a schene of 20 one-day trips for school students in and around Roorkee during the entire 175th year. A total of 40 exemplary and underprivileged students, both boys and girls in a fair ratio shall be invited to IIT Roorkee where they will be given complete exposure to what IIT Roorkee has to offer along with career-counseling sessions.
 
 
 ### **Unveiling the Logo and the Tagline** 

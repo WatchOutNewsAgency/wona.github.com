@@ -13,7 +13,7 @@ It’s that time of the year again. A sizable chunk of IITR Junta stares with dr
  
 The young ones (freshers as they call themselves) fervently partake in this digital flower exchange extravaganza. Being a hormonal mess coupled with an inbuilt thirst to win this rat race makes them the more enthusiastic participants.
  
-While the wise sage's way of going through the week would be climbing the leaderboard by urging friends to provide them with imaginary points, there is this bizarre variant of a certain hominid species classified in the chargesheet as a generic geek. The description says that the IITR junta of this variant (contrary to popular belief) think very highly of themselves.
+While the wise sage's way of going through the week would be climbing the leaderboard by ~~begging~~ urging friends to provide them with imaginary points, there is this bizarre variant of a certain hominid species classified in the chargesheet as a generic geek. The description says that the IITR junta of this variant (contrary to popular belief) think very highly of themselves.
  
 One such geek dawdled away the whole day on his PC, cursing his empty bouquet, the internet speed, his failing grades, and lack of friends. After reaching the pinnacle of boredom, he decided to check every nook and corner of the famed portal, clicking on every link however shady it looks and scanning the entirety of the portal. Fifteen minutes into it, he clicked with the speed of sound, link to link, page to page, unaware and mindless of what was to come.
 
@@ -29,7 +29,7 @@ Suddenly he heard a low growl, eventually realising that it was his own belly ru
 The thought of fried Maggi from Govind canteen had his mouth watering. Sulking and grumbling in frustration, he smacked his keyboard with his fist. Suddenly the pink screen faded into a cryptic video, reproducing the glitch that he was working on the entire day.<br>
 Breathless with excitement, our reporter scurried away to the canteen, because obviously, *food first*.
 
-A recruitment post was in circulation by the newly formed group named “Sashakt Single Dal” on Whatsapp, along with an account on Instagram. A couple of freshers craved drama enough to contact Watch Out! asking about the group. Thus, WO! decided to interview the Secretary of the Group over a video call, who wished to remain anonymous for their personal reasons. Here is an excerpt from the interview.
+A <a href="http://forms.gle/DbSDgKYtHmn8CbyN9" style="color:blue" ><u>recruitment post</u></a> was in circulation by the newly formed group named “Sashakt Single Dal” on Whatsapp, along with an account on <a href="https://instagram.com/ssd_iitr?utm_medium=copy_link" style="color:blue" ><u>Instagram</u></a>. A couple of freshers craved drama enough to contact Watch Out! asking about the group. Thus, WO! decided to interview the Secretary of the Group over a video call, who wished to remain anonymous for their personal reasons. Here is an excerpt from the interview.
 
 **WO!:** What is the purpose of the group?<br>
 **SSD Secy:** Our purpose is to free the innocent and pure R Junta from the poisonous affection and lust that tends to ail hormone-filled individuals. We wish to create an atmosphere free from the so-called “Love in the Air”. Thus, we want to provide a platform that supports single people of the institute and encourage others who are committed to break free from the binding chains of young love and live a pure happy life. A safe haven for the single and the sulking. 

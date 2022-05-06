@@ -3,7 +3,7 @@ layout: post
 title: "The Blood Donation Camp"
 category: report
 tags: [wona]
-image: blood_donation_camp.jpeg
+image: blood_donation_camp.jpg
 excerpt: "On the occasion of World Health Day, National Social Summit, the IIT Roorkee chapter and National Cadet Corps, IIT Roorkee organised a Blood Donation Camp."
 ---
 

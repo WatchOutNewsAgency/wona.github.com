@@ -4,6 +4,7 @@ title: Annual Report Analysis
 tags: [wona, column]
 category: bigstory
 image: annual-report-cover.jpg 
+author: "Vansh Mehra, Sampanna, Nancy Lakra, Sarthak Sharma, Akshara Singh"
 ---
 
 Annual Report is a comprehensive document outlining the activities of an establishment. Every IIT releases an annual report outlining budgetary allocation, achievements and activities of the institute. Sounds boring right?  Watch Out! brings to you a crisp and easy-to-read analysis of the available annual reports of IIT Roorkee and other IITs. The annual report for the years after 2019-20 have not been released and hence have not been included. 
@@ -18,7 +19,7 @@ The Ministry of Human Resource and Development(MHRD), now renamed the Ministry o
 
 #### **1. Year on Year comparison of the MHRD grants.**
 
-### ![pic](/images/posts/annual-report-01.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-01.jpg){: style="width:80%;height:auto;"}
  
 * It is observed that the grants received were **fairly constant** till FY 2016-17 and after that they have been **increasing** from FY 2016-17 to FY 2019-20.
 * The Compounded Annual Growth Rate (CAGR) of these grants is around **6.36%**, which is comparable with what other IITS get.
@@ -29,7 +30,7 @@ The Ministry of Human Resource and Development(MHRD), now renamed the Ministry o
 
 Based on the total amount of grants received in FY 19-20 it can be concluded that the top ranked IITs receive a **similar** amount of funding with **IIT Delhi** receiving the highest funding. IIT Kharagpur, being an outlier because of its size and area, wasn’t included in this analysis.
 
-### ![pic](/images/posts/annual-report-03.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-03.jpg){: style="width:80%;height:auto;"}
 
 * **More than 50%** of the Central Government’s funds for Higher Education, in the last three years, go to students of IITs, IIMs and IIITs, which encompass just **3%** (approximately) of the country’s students. These institutes are significantly **more well funded** than other institutes of the country.
 * The reason for the **IITs** getting a lion’s share of the total grants was because of the hierarchical system that exists in the Indian education system where a majority of the state-funded universities have to run on self funding while universities like the IITs, which make it to the world rankings every year, get both fundings and attention from the central government.
@@ -40,7 +41,7 @@ Based on the total amount of grants received in FY 19-20 it can be concluded tha
 
 #### **3. How the institute actually spends these grants.**
 
-### ![pic](/images/posts/annual-report-10.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-10.jpg){: style="width:80%;height:auto;"}
 
 The **majority** of the expenses go to Establishment Expenses, followed by scholarships at **11.5%** and Laboratories, Academic Library and Educational expenses, Hostel and Departments being roughly at around **8%** each, while **11.5%** of the grants are given out in the form of scholarships. These establishment expenses consist of various types of Employee Allowances, Pensions, and Security. A meagre **0.3%** is spent on student amenities, which has a major scope for improvement. This segregation is more or less similar for all the top ranked IITs.
 
@@ -51,7 +52,7 @@ The student-faculty ratio refers to the number of students for every faculty in 
 
 #### **1. Student to Professor Ratio in various departments of IIT Roorkee**
 
-### ![pic](/images/posts/annual-report-04.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-04.jpg){: style="width:80%;height:auto;"}
 
 * Comparing the student-to-professor ratio in different departments of IIT-Roorkee, we find that the highest ratio is in **Computer Science and Engineering** (36.15), while the lowest is in **Chemistry department** (5.64).
 * The ratio for the Civil department in IIT Roorkee is 23 which is 36% less than the CSE department. Surprisingly, the students' size for CSE is 470, whereas, for Civil, it's over 1000, much higher than CSE. The reason that makes the ratio so high for CSE is the small number of faculty available (only **13** faculties are there). For civil, the faculty strength is **47**, which makes a huge difference.
@@ -61,9 +62,9 @@ The student-faculty ratio refers to the number of students for every faculty in 
 
 The department-wise Student to Prof Ratio for IIT Roorkee, IIT Delhi, IIT Bombay, and IIT Madras for the year 2019-2020 is given here:
 
-### ![pic](/images/posts/annual-report-05.jpg){: style="width:80%;height:auto;"}
-### ![pic](/images/posts/annual-report-06.jpg){: style="width:80%;height:auto;"}
-### ![pic](/images/posts/annual-report-07.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-05.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-06.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-07.jpg){: style="width:80%;height:auto;"}
 
 * It can be seen that the mechanical department in IIT Madras has a large student-to-prof ratio, it is due to the fact that the students' size for a year in the mechanical department is over 1500 (including all batches of UG, PG). Although the size of students in the Electrical department is also around 1400, the high number of faculties in the department lowered the ratio.
 * Some departments like chemistry, HSS, and physics have a meagre ratio in all institutes. The simple reason is that **they don't have many UG students.** The department offers more Mtech and PhD courses.
@@ -82,7 +83,7 @@ The department-wise Student to Prof Ratio for IIT Roorkee, IIT Delhi, IIT Bombay
 
 #### **1. Number of International Students admitted by program**
 
-### ![pic](/images/posts/annual-report-09.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-09.jpg){: style="width:80%;height:auto;"}
 
 * The total number of international students at IIT-Roorkee has seen an **upward trend** over the years, with the number of international students increasing from just **97** in the year 2015-2016 to **219** students in the year 2020-2021. This number has seen a slight decline for the first time in 5 years, with the current number of international students being **202**. This trend is most likely because of the COVID-19 Pandemic and the resulting travel bans which have discouraged students from pursuing international degrees across the globe. 
 * IIT Roorkee admitted **108** international students in the year 2020-2021 as compared to 88 students in the previous year.
@@ -95,7 +96,7 @@ The department-wise Student to Prof Ratio for IIT Roorkee, IIT Delhi, IIT Bombay
 
 #### **2. Funding of IR Cell in FY 2019-2020**
 
-### ![pic](/images/posts/annual-report-02.png){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-02.png){: style="width:80%;height:auto;"}
 
 * The International Relations Promotional Account(IRPA) with an initial budget of Rs. 50 lakh was created in June 2019, its expenditures for FY 2019-2020 are as shown. The same grant was also issued for the year 2020-2021.
 * In the year 2019-2020, the funds were majorly spent on travel for promotion of international relations ( 24.9%) and work hire (22.8%) as can be seen on the pie chart above.
@@ -103,7 +104,7 @@ The department-wise Student to Prof Ratio for IIT Roorkee, IIT Delhi, IIT Bombay
 
 #### **3. IIT Roorkee’s Standing in QS World University Ranking Indicator: International Students**
 
-### ![pic](/images/posts/annual-report-11.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-11.jpg){: style="width:80%;height:auto;"}
 
 1. A high performance in this particular metric of the QS World University rankings implies that the university has a tremendous global outlook. It demonstrates an ability to attract faculty and students from across the world. It also shows that these universities have a multinational environment, which facilitates a better exchange of ideas.
 2. In the QS World University Ranking Indicator for International Students, IIT Roorkee has a ratio of 2.6 which is the highest among the top ranked 5 IITs as can be seen in the graph.
@@ -112,10 +113,12 @@ The department-wise Student to Prof Ratio for IIT Roorkee, IIT Delhi, IIT Bombay
 
 #### **4. IIT Roorkee’s performance in Newton-Bhabha PhD Placement Program**
 
-### ![pic](/images/posts/annual-report-12.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/annual-report-12.jpg){: style="width:80%;height:auto;"}
 
 1. The British Council India, the Department of Science and Technology (DST), the Department of Biotechnology (DBT) and Indian Higher Education Institutes (HEIs) sponsored the Newton Bhabha Fund to support short-term PhD placements between UK and Indian institutes
 2. The program has two main aims-
     1. To develop individual capacity through international training and development opportunities.
     2. To Increase the number of trained researchers in the UK and India to foster research and innovation in the two countries.  
 3. 11 Students from IIT Roorkee were selected for this program in the year 2019-2020, which was the highest from any Indian University. This was followed by IIT Delhi with 10 students who qualified for the same.
+
+_Design credits: Nehal Chechani, Khushi Tomar, Amresh Gupta_

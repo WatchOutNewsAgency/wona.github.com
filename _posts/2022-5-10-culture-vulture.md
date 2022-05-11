@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CULTURE VULTURE :- An Analysis of the aftermath of the COVID 19 Pandemic on the student culture of IIT Roorkee"
+title: "CULTURE VULTURE – An Analysis of the aftermath of the COVID 19 Pandemic on the student culture of IIT Roorkee"
 category: editorial
 author: "Paarangi, Anvita, Vansh, Ayan, Akshara, Kushagra, Sarthak, Pritika"
 tags: [wona]

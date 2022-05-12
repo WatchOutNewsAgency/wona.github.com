@@ -26,7 +26,7 @@ Mr Heera Lal: It is said that agriculture is a loss making business. This is the
 
 WO: What was your contribution in the Model Gaon project?
 
-Mr Heera Lal: I was the collector in the village of Bandha for 1.5 years. Through the initiatives along with active participation of the public, Bandha showed a massive improvement of 18.5% in crop production. The situation of malnutrition also improved. Also, there was a 10.5% increase in the voter turnout in the Lok Sabha election of 2019, which was one of the highest in Uttar Pradesh. The level of groundwater rose by 1.34 cm. This facilitated the creation of Bandha as a model gaon. We aim to extend this project to various villages, and spread these benefits around the country. 
+Mr Heera Lal: I was the collector of Banda for 1.5 years. Through the initiatives along with active participation of the public, Banda showed a massive improvement of 18.5% in crop production. The situation of malnutrition also improved. Also, there was a 10.5% increase in the voter turnout in the Lok Sabha election of 2019, which was one of the highest in Uttar Pradesh. The level of groundwater rose by 1.34 cm. This facilitated the creation of Banda as a model gaon. We aim to extend this project to various villages, and spread these benefits around the country. 
 
 WO: What is the main idea and philosophy behind the Model Gaon Project?
 
@@ -41,7 +41,7 @@ WO: How has the implementation of the project been ensured?
 
 Mr Heera Lal: The project was launched on Jan 1,2022. Since then, we have been trying to grab the attention of various people, by conducting webinars and contacting the heads of various departments in a village. We also enlighten the people of Anganwadi movement, NRLM, teachers and the youth of today about the project and its objectives. After gaining sufficient knowledge about the same, people try to implement itt in their villages. We help them by connecting them with experts and relevant authorities. So, gradually, due to the active participation of the villagers the development of villages starts. 
 
-WO: You started your career in 1948 as a government official. What according to you is the importance of a government official in the development of our country?
+WO: You started your career in 1994 as a government official. What according to you is the importance of a government official in the development of our country?
 
 Mr Heera Lal: We aspire to be a developed country which will not be possible until the majority of our population is developed. And this majority of the population, approximately 70%, resides in rural areas.So, due to this very fact, Gandhi focused on republic villages, and we started the Model Gaon Project. Even the population in urban areas is very much dependent on the rural areas for most of the things. Thus,for the progress of the country, rural development cannot be ignored.
 

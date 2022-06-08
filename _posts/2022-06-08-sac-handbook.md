@@ -32,8 +32,6 @@ This year, the elections are being held for the following posts:
     * Student head of the Cultural Council under which come the 14 cultural groups of the institute. The cinema club however is not included in it.
     * Responsible for the cultural activities involving students inside the campus.
     * Acts as a mediator between the faculty head and the cultural groups conveys proposals for organizing an event or for funding.
-    * Responsible for preparing the Inter-IIT contingent of the institute.
-    * SAC representative in Thomso Organizing Committee.
 
 2. **General Secretary (Academic Affairs, UG)**
     
@@ -48,7 +46,6 @@ This year, the elections are being held for the following posts:
     * Mainly interacts with the Dean of Academic Affairs and three other associate Deans for Curriculum, Evaluation, and Admission
     * Responsibilities include introducing new provisions and solving students’ academic-related issues, suggesting institute electives, new courses, labs, etc. to Dean Academics through DOSW
     * Student Representative in Institute Academic Programme Committee (IAPC).
-    * Student Representative in Library Advisory Committee
 
 3. **General Secretary (Academic Affairs, PG)**
     
@@ -75,7 +72,6 @@ This year, the elections are being held for the following posts:
     Roles and responsibilities:
     * Student head of the Sports Council of the institute (The sports council is an independent body headed by the Chairman, wherein the Chief Sports Officer, the Faculty Advisor, the Coaches, and the GS work in tandem to look after the plethora of sports activities that the institute has to offer)
     * Responsible for sports activities involving students inside the campus. Oversees the formation, and requirements as well as monitors the progress of the student teams participating in various sports competitions.
-    * SAC representative in Inter-IIT Sports
 
 5. **General Secretary (Technical Affairs)**
 
@@ -87,9 +83,6 @@ This year, the elections are being held for the following posts:
     Roles and responsibilities:
     * Heads the Technical Council of the institute, a student body that functions independently of the SAC.
     * Responsible for facilitating coordination between various technical  groups (except IMG) for the organization of institute level activities and organization and coordination of Inter-Bhawan Technical Fest in Autumn Semester under the aegis of DOSW 
-    * Also oversees information dissemination and collection related to the internet and available software licenses procured by the institute.
-    * Student Coordinator of IITR in Annual Inter-IIT Tech Meet.
-    * SAC representative in the Cognizance organizing team.
 
     Note: Though Technical groups under Technical Council may have faculty advisors separately, they only carry advisory powers. The final authority rests with Dean-SRIC. Cognizance, the annual tech fest, is independent of the GS or the Technical council.
 
@@ -100,6 +93,7 @@ This year, the elections are being held for the following posts:
     * UG 2nd Year onwards, PG & Ph.D. 1st Year Onwards
 
     Roles and responsibilities:
+    * The major responsibility of the GS Entrepreneurship Affairs involves infrastructural improvements from building of incubation spaces to visitations of the investors whilst disseminating knowledge about startups and the entrepreneurial world. 
     * Major responsibilities include working in tandem with the Training and Placement Office to help them in the “training” the students for their internships and placements and facilitating career guidance and counseling for students to help them become professionally sound.
     * Also responsible for collaboration with Institute groups like EDC, Consulting Club, Finance Club, CIG, etc. for the organization of institute-level events.
 

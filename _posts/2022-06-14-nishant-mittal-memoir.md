@@ -40,9 +40,9 @@ Before you know it, the good’ol days of the first year are over. The internshi
 
 My journey in finance has taught me a great many things about the markets and life in general, the most important being that the only alpha (outperformance) in our lives comes from the risks we take. Looking back, the risks and the grind seem to have worked out, Civil probably wasn’t such a bad idea after all!
 
-## Chapter 3
+## Chapter 4
 
-This part of my life, this part right here, is called happiness. No amount of words or exquisite vocabulary will ever be able to capture the emotions of the last 7 months of my life. I can even go so far as to say that whenever I will refer to my college life in general, these past 7 months are specifically what I am talking about. Don’t get me wrong, it isn’t to say that the rest of my campus life hasn’t been eventful or memorable enough. It's just that the memories of my final year overshadow anything and everything I have experienced in my life ever before.
+This part of my life, this part right here, is called happyness. No amount of words or exquisite vocabulary will ever be able to capture the emotions of the last 7 months of my life. I can even go so far as to say that whenever I will refer to my college life in general, these past 7 months are specifically what I am talking about. Don’t get me wrong, it isn’t to say that the rest of my campus life hasn’t been eventful or memorable enough. It's just that the memories of my final year overshadow anything and everything I have experienced in my life ever before.
 
 Covid stole more than a year worth of our college life to say the least, but I’ll leave that rant to some other day (or some other memoir, who knows?). The only lesson I took from this entire misadventure was that life is short, and unpredictable. Enjoying life must not be left up to tomorrow, for there might not be one. In hindsight, I feel glad I learned this lesson just in time and have no regrets or half wishes left. Although _jitna bhi try karlo bunny, kuch na kuch to chootega hi,_ but I think I got most of my checklist checked off by the time I left.
 

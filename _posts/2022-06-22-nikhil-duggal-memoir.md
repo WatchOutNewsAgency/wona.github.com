@@ -92,10 +92,10 @@ Lost in memories, I’m finishing up this writing. With thousands of exquisite j
 
 ![pic](/images/posts/nikhil-duggal-14.png){: style="width:80%;height:auto;"}
 
-![pic](/images/posts/nikhil-duggal-09.jpg){: style="width:80%;height:auto;"}<center><em><small>General painting get-up</small></em></center><br />
+![pic](/images/posts/nikhil-duggal-15.png){: style="width:80%;height:auto;"}<center><em><small>General painting get-up</small></em></center><br />
 
-![pic](/images/posts/nikhil-duggal-09.jpg){: style="width:80%;height:auto;"}<center><em><small>SPIC MACAY Fam</small></em></center><br />
+![pic](/images/posts/nikhil-duggal-16.png){: style="width:80%;height:auto;"}<center><em><small>SPIC MACAY Fam</small></em></center><br />
 
-![pic](/images/posts/nikhil-duggal-09.jpg){: style="width:80%;height:auto;"}<center><em><small>Fine Arts Fam</small></em></center><br />
+![pic](/images/posts/nikhil-duggal-17.png){: style="width:80%;height:auto;"}<center><em><small>Fine Arts Fam</small></em></center><br />
 
-![pic](/images/posts/nikhil-duggal-09.jpg){: style="width:80%;height:auto;"}<center><em><small>First NASA Convention, Kerala</small></em></center><br />
+![pic](/images/posts/nikhil-duggal-18.png){: style="width:80%;height:auto;"}<center><em><small>First NASA Convention, Kerala</small></em></center><br />

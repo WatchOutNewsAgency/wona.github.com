@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bang for the Buck: Placements 21-22"
+author: "Aditya Rajput, Gauri Garg, Jithin Cleetus, Lokesh Kolhe, Pratham Kailashya"
 tags: [wona, column]
 image: placement-analysis-cover.jpeg
 category: bigstory

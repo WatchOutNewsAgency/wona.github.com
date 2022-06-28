@@ -87,7 +87,7 @@ The following graphs give detailed information about the CTCs:
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/7RwXCMmW5/" title="Branch-wise Average CTC (UG + IMSc + IMT)" style="border: 0; width: 100%; height: 600px"></iframe>
 
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/sXkifiRzk/" title="Branch-wise Average CTC (PG)" style="border: 0; width: 100%; height: 1000px"></iframe>
+<iframe class="everviz-iframe" src="https://app.everviz.com/embed/sXkifiRzk/" title="Branch-wise Average CTC (PG)" style="border: 0; width: 100%; height: 800px"></iframe>
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/v9x-aW1bQ/" title="Branch-wise Average CTC (PhD)" style="border: 0; width: 100%; height: 400px"></iframe>
 

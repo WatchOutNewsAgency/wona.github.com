@@ -77,9 +77,7 @@ As always, most of the offers were for the role of SDE, with 498 placements bein
 
 ## CTCs
 
-Coming to the much coveted CTCs, for which students grind day and night. The average CTC across all branches and profiles turned out to be **19.84 lakh INR**. The highest CTC was offered by **Uber International (SDE)**, a whopping **2.16 crores INR**. Branch-wise analysis revealed that **CSE** had the highest average CTC of **36.74 lakh INR**, followed by **ECE** with **27.56 lakh INR**.
-
-Companies hiring for **SDE** profiles offered high CTCs with an average of **24.11 lakh INR**.
+Coming to the much coveted CTCs, for which students grind day and night. The average CTC across all branches and profiles turned out to be **19.84 lakh INR**. The highest CTC was offered by **Uber International (SDE)**, a whopping **2.16 crores INR**. Branch-wise analysis revealed that **CSE** had the highest average CTC of **36.68 lakh INR**, followed by **IMSc Applied Mathematics** with **36 lakh INR**. Companies hiring for **SDE** profiles offered high CTCs with an average of **24.11 lakh INR**.
 
 The following graphs give detailed information about the CTCs:
 

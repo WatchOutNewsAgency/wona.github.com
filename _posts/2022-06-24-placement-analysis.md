@@ -103,4 +103,4 @@ There are many things the junta needs to know about the workings of the PIC, lik
 
 We hope this serves as a helpful reference for the next batch of students heading towards the placement season.
 
-Note: This analysis is based on data obtained from [<span style="color:blue"><u>results.channeli.in</u></span>](https://results.channeli.in) (Accessible only to final year students over campus Wi-Fi or VPN). There are a few sources that may introduce errors in the data, including but not limited to company naming conventions and companies not revealing their PPO CTCs. In case of discrepancies, contact us at [<span style="color:blue"><u>watchout@iitr.ac.in</u></span>](mailto:watchout@iitr.ac.in).
+Note: This analysis is based on data obtained from [<span style="color:blue"><u>results.channeli.in</u></span>](https://results.channeli.in) (Accessible only to final year students over campus Wi-Fi or VPN) and from PIC.

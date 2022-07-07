@@ -24,6 +24,8 @@ The placement process for the first phase starts when companies come to give pre
 
 As a trend for every year the percentage of students placed for circuital branches (CSE, ECE, EE) were the highest.
 
+**If the graphs' content isn't fully visible on your phone, switch to "Desktop Mode" or access this article using your PC.**
+
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/EsaQjP6jo/" title="Department-wise Placement Stats" style="border: 0; width: 100%; height: 500px"></iframe>
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/fZZm8mwZr/" title="Chart: " style="border: 0; width: 100%; height: 500px"></iframe>

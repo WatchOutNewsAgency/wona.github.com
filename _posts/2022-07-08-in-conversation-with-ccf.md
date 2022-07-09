@@ -144,4 +144,9 @@ I have always wanted to make this documentary about all the dogs on campus. Init
 
 **Pallavi:** Yeah it's also a thing we had a conversation regarding with the administration. They are also ok with giving out the certificates. But then we don't have students who are consistently working yet. 
 
+If you are interested in joining CCF, or if you want to have a friendly conversation, you can contact them at:<br />
+Email: **ccf@iitr.ac.in**<br />
+Instagram: **iitroorkee_cares**
+
+
 ![pic](/images/posts/ccf-interview-07.png){: style="width:80%;height:auto;"}

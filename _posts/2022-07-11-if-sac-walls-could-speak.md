@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "If SAC Walls Could Speak"
+author: "Ayan Shree, Kritika, Sneha Sundar, Vansh Mehra"
 category: editorial
 tags: [wona, column]
 image: if-sac-walls-could-speak-cover.jpg

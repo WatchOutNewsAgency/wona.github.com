@@ -3,7 +3,7 @@ layout: post
 title: "Filter Coffee: Akshay Subramanian"
 category: filtercoffee
 tags: [wona]
-image: filter-coffee-akshay-s-cover.png
+image: filter-coffee-akshay-s-cover.jpg
 excerpt: "Akshay Subramanian is a 2021 graduate from the Metallurgy and Material Sciences department. He has won the Director’s Gold Medal and Department Gold Medal for being the best all-rounder amongst all graduating students at IIT-R."
 ---
 
@@ -52,8 +52,6 @@ I can’t speak much about jobs because I don’t have much experience. But from
 **WO!**: Considering the fact that you have interned in both an Indian and a foreign university, so according to you, how is interdisciplinary research proceeding? Is it going in the right direction both in India and abroad?
 
 **Akshay**: I think, especially in the area of ML applied to Material Science, in India, there aren’t many groups working on this, and even the job opportunities are bleak. The center of research, at least in this area, is mostly in the USA and Europe and for computational material science, going abroad is definitely a good option to get exposed to cutting-edge research, but also important to have and promote this interdisciplinary research in India. Right now, what I see is like in each department, there are professors working in a particular field of research, and there isn’t much intermingling between the departments in doing collaborations on interdisciplinary areas. Like I would love to see some collaboration between profs in the metallurgy department and those in CS, because the combination of this expertise would make for some really good and exciting research in these areas, so definitely I would like to see collaboration improve in the future both in other groups within the university as well as industry collaborations which are much more common in universities abroad. The project which I will be working on to start off my Ph.D. at MIT will be in collaboration with an industry in Japan. I think these kinds of opportunities are unique, and universities in India should also try and get some industry experience both in India as well as abroad.
-
-![pic0](/images/posts/filter-coffee-akshay-s-01.jpg)
 
 **WO!**: You’ve interned in IISC, Berkeley Lab, and even grabbed the MITACS intern. First off, were they remote interns? How did you apply? and how was your experience in each of them?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call Me Out"
-category: editorial
+category: coverstory
 tags: [wona, column]
 image: call-me-out-cover.gif
 excerpt: "In a country where people are obsessed with the idea of merit, classism and casteism thrives in India’s “elite” institutions. With more than half of the populace coming from privileged backgrounds, they bestow upon themselves a responsibility to maintain this idea of meritocracy."

@@ -5,7 +5,7 @@ category: summer2022
 tags: [wona, column]
 author: "Sajag Swami"
 image: sajag-s-intern-cover.png
-excerpt: "I cold-mailed a few profs whose work had piqued my interest and got a research internship for the summer of 2021. This internship gave me a good insight into the fundamentals of research."
+excerpt: "I gained more insight into what goes into research than I ever thought possible in a 12-week-long internship."
 ---
 
 ## Background

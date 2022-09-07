@@ -54,4 +54,4 @@ To anyone who’s preparing for ITC, prepare hard, but remember to think about s
 
 To anyone who’s not landing interns, please remember that a late intern in a field you like is probably better than an early intern in a field that you might not like.
 
-PS: If you’ve landed the intern and are experiencing delays in getting an offer letter or project brief or anything, fret not. In my experience clubbed with my co-interns, ITC can be very slow at times (Its Sep 4 and PPOs are yet to be announces so).
+PS: If you’ve landed the intern and are experiencing delays in getting an offer letter or project brief or anything, fret not. In my experience clubbed with my co-interns, ITC can be very slow at times (It's Sep 4 as I'm writing this and PPOs are yet to be announced so).

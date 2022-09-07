@@ -4,7 +4,7 @@ title: "Summer Diaries: ITC KITES Internship"
 category: summer2022
 tags: [wona, column]
 author: "Kushagra Agarwal"
-image: kushagra-a-intern-cover.jpg
+image: kushagra-a-intern-cover.png
 excerpt: "I appreciated the work at ITC, and could see how someone could flourish in such an environment, however, I found myself out-of-place over there. The 2 months I spent working there taught me a lot about what I don't want to do."
 ---
 

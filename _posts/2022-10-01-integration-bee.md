@@ -39,7 +39,7 @@ We also came 2nd in every round, qualifiers, eliminators, and even were team num
 
 It feels really great now. It was especially mentally exhausting during the finals and the semis. It is definitely one of the best days of my college. 
 
-![pic](/images/posts/integration-bee-03.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/integration-bee-04.jpg){: style="width:80%;height:auto;"}
 
 **2nd RUNNER UP : Math π-rates**
 
@@ -51,7 +51,7 @@ The preparation behind the competition must be specially commended.
 
 **From the Organizing Committee**
 
-![pic](/images/posts/integration-bee-04.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/integration-bee-03.jpg){: style="width:80%;height:auto;"}
 
 There are very few math related competitions happening on our campus. We knew about MIT Integration Bee, having watched videos of the same. Our main motive was to organize such competitions to bring forward students who were interested in Mathematics. We want to encourage more Mathematics related stuff in our campus in general.
 

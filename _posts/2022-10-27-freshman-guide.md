@@ -4,7 +4,7 @@ title: "The Ultimate Freshman's Guide to IIT Roorkee"
 tags: [wona]
 category: academics
 image: freshman-guide-22-cover.png
-description: The complete, wholesome and perfect reference book to IIT Roorkee!
+excerpt: "The complete, wholesome and perfect reference book to IIT Roorkee!"
 ---
 
 College has a lot to offer, which is probably why you feel a little clueless and intimidated right now. You might wake up in the morning every other day and feel a little nauseated and dizzy, even though your amazing mental strength got you through one of the toughest examination of the world. And that’s alright!

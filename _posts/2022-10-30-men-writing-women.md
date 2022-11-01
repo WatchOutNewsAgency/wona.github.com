@@ -2,7 +2,7 @@
 layout: post
 title: "Can Men Write Women?"
 category: editorial
-author: "Aadi Jeevaraj"
+author: ""
 tags: [wona,column]
 image: men-writing-women-cover.png
 excerpt: "There’s a thin line between being born with a uterus and being dragged through the world’s fixed ideas of womanhood. There’s an even thinner line between what it means to be a woman to oneself, and what it means to be a woman to the world, to men, or even to your mother."

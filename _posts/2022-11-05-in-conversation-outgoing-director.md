@@ -10,6 +10,10 @@ excerpt: "As our former Director neared the end of a successful tenure, we spoke
 
 As our former Director neared the end of a successful tenure, we spoke to him regarding a variety of topics ranging from his time at Roorkee, what the future holds for us and the need for changes in IITR. In a candid conversation that ensued, Prof. A.K. Chaturvedi let loose on how he sees IITR and also bid goodbye to the student population, accompanied with the feelings of nostalgia and a sense of accomplishments.
 
+<div style="text-align: center;">
+  <iframe width="720" height="415" align="center" src="https://www.youtube.com/embed/8lUoNA0jADs"></iframe>
+</div>
+
 **WO!: From January 2017 to October 2022, how has your experience as the Director of IIT-Roorkee been?**
 
 **Professor A.K. Chaturvedi:** You have asked a question which needs a long reply. This is a period that spans close to six years. If, in 2017, somebody would have asked me questions about what I would want to accomplish in my tenure, I am sure I would have prepared a wish list. Although, honestly speaking, this question wasn’t asked in the first place. 

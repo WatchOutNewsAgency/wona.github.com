@@ -10,8 +10,6 @@ excerpt: "People generally assume that folks majoring in plain sciences are not 
 
 Idk man, it was a fucking mixed bag.
 
-![pic](/images/posts/saurabh-t-intern/1.jpg){: style="width:80%;height:auto;"}<center><em><small>One at my table :)</small></em></center><br />
-
 ## Context
 
 I am Saurabh Thokade, an Integrated M.Sc. Physics Undergrad at IIT Roorkee. I interned in the Controllers Modelling Team at Goldman Sachs in the Summers of 2022. People generally assume that folks majoring in plain sciences are not well-equipped to pursue a “non-core” career because it’s just not plain-sciency. Well, I get this question a lot, and tbh one of the reasons I am writing this intern diary is for fixing this bug!

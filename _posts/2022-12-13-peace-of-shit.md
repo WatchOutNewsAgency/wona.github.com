@@ -2,7 +2,7 @@
 layout: post
 title: "Peace of Shit"
 category: phekingnews
-author: "Aastha Khaitan, Apoorva Jain, Astha Jain, Khushi Tomar, Shivanshi Arora, Ayan Shree"
+author: "Aastha Khaitan, Apoorva Jain, Astha Jain, Khushi Tomar, Shivanshi Arora, Nikita Sarangal, Ayan Shree"
 tags: [wona,column]
 image: peace-of-shit/cover.png
 excerpt: "When an anonymous green text sparks an internal investigation in Watch Out! the findings might mess up your mind. Read with caution!"

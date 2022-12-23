@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anglo-Sax-Off: Language Barrier at R"
-author: "Akshara, Anvita, Ayan, Kritika, Kushagra, Nancy, Pratham, Riya, Sarthak, Shivanshi, Shreya"
+author: "Akshara, Anvita, Ayan, Kritika, Kushagra, Nancy, Pratham, Riya, Sarthak, Shivanshi, Shreya, Sneha"
 tags: [wona, column]
 image: anglo-sax-off/cover.png
 category: bigstory

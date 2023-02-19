@@ -15,7 +15,7 @@ The competition was fierce, with each team given just twelve minutes to pitch th
 
 The judges, made up of the members of the Hult Prize organising committee, were impressed by the high quality of the presented ideas. The first round went on for more than five hours. After each of the teams pitched their idea, the judges shared their thorough feedback on how to improve their ideas or pitches.
 
-![pic](/images/posts/hult-prize/1.jpg){: style="width:80%;height:auto;"}
+![pic](/images/posts/hult-prize/1.jpg){: style="width:100%;height:auto;"}
 
 Only four teams from the participants’ pool, namely Blahsters, Baazigars, Ever-Grin, and Hulters, have moved forward to the next and final round of the competition, which will be held on 19th February. 
 

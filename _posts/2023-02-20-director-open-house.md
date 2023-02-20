@@ -7,7 +7,7 @@ image: director-open-house/cover.jpg
 excerpt: "WO! had the opportunity to interview the newly elected Director, Professor K. K. Pant on 8th February 2023."
 ---
 
-<iframe width="720" height="415" src="https://www.youtube.com/embed/pIwBGvl5WeY"> </iframe>
+<iframe width="720" height="415" src="https://www.youtube.com/embed/pIwBGvl5WeY"> </iframe><br /><br />
 
 WO! Had the opportunity to interview the newly elected Director, Professor K K Pant on 8th February 2023. You can watch the full recording using the embed above. The interview in the text form is available below.
 
@@ -39,7 +39,7 @@ _Dean(Student’s Welfare): We have complete transparency in the system and beli
 
 Director: Prof. Barua, do you think that we have this problem in hostel affairs?
 
-_Dean (Student’s Welfare): No. We have hostel committees for all hostels, which consist of student representatives. In all committees of the institute, we have student representatives. You will not find any committee without student representation. _
+_Dean (Student’s Welfare): No. We have hostel committees for all hostels, which consist of student representatives. In all committees of the institute, we have student representatives. You will not find any committee without student representation._
 
 Audience: Earlier, we had NPTEL courses for OEC’s which were removed recently. As you said that you take opinions from the students, none of the student representatives to the Senate agreed. What are your thoughts on this?
 
@@ -99,7 +99,7 @@ _Dean(Student’s Welfare): We also plan to provide space given to Cogni and Tho
 
 Director: Give us some time, we will find suitable space using space audit.
 
-WO!: Moving to the next question, post Covid, many of the cultural activities saw a setback. The Electoral procedure has been disrupted along with the elections of DAPC’s . Last year, the Convocation was not held. So what steps would you take to ensure that we go to the same position where we were before covid.
+WO!: Moving to the next question, post Covid, many of the cultural activities saw a setback. The Electoral procedure has been disrupted along with the elections of DAPC’s. Last year, the Convocation was not held. So what steps would you take to ensure that we go to the same position where we were before covid.
 
 Director: Yes, this is right. Covid has impacted various activities of all academic institutes. We should be ready for these types of man-made or natural calamity. They also taught us methods of online teaching and NPTEL. Having said that, I understand Convocation is still not done. We are communicating with different ministries to get the date but we still haven’t been given a gate. We are still hoping that our honorable Prime Minister will grace the event. But if he doesn’t come, we are looking for alternatives also. Probably in March , we will conduct Convocation.
 
@@ -141,11 +141,7 @@ Director: In such cases, I would say that you attend both. There might be many t
 
 Audience: What about the students who are interested in entrepreneurship? You stated that we are aiming for 10 unicorns in the coming decades. What are the steps we are going to take in this regard?
 
-Director: Unicorn will take time. I want that IIT-R alumni should be capable enough to donate the amount the institute needs. That’s why we started with start-up activities. Presently there are 2 unicorns from IIT-R. IIT-D has 20 unicorns. So, I would like to see something similar from here. Our vision and mindset are important. 
-
- 
-
- 
+Director: Unicorn will take time. I want that IIT-R alumni should be capable enough to donate the amount the institute needs. That’s why we started with start-up activities. Presently there are 2 unicorns from IIT-R. IIT-D has 20 unicorns. So, I would like to see something similar from here. Our vision and mindset are important.
 
 Audience: Sir I don’t understand why the 75% attendance rule is given so much importance. I run my own business and I would rather spend my time designing rather than attending lectures which are not coherent with my goals. I would not gain anything out of attending lectures I didn’t even opt for myself. I didn’t choose my branch, my JEE rank did. But I do get to choose my passion and goals. The attendance rule is a hindrance to that.
 

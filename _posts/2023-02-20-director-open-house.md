@@ -9,7 +9,7 @@ excerpt: "WO! had the opportunity to interview the newly elected Director, Profe
 
 <iframe width="720" height="415" src="https://www.youtube.com/embed/pIwBGvl5WeY"> </iframe><br /><br />
 
-WO! Had the opportunity to interview the newly elected Director, Professor K K Pant on 8th February 2023. You can watch the full recording using the embed above. The interview in the text form is available below.
+WO! had the opportunity to interview the newly appointed Director, Professor K K Pant on 8th February 2023. You can watch the full recording using the embed above. The interview in the text form is available below.
 
 Disclaimer: Since a lot of the audience questions were not directly spoken into the microphone, they are inaudible in the video. However, you can find them in the transcript.
 

@@ -13,19 +13,15 @@ After noting the various grievances faced by students daily during academic hour
 
 Summarized below are the major issues that we could identify, along with several testimonials (marked in italics) and changes that the respondents proposed. Since the issues vary greatly over students from different departments and in different years of their study, we have classified them into smaller subsections for the sake of clarity. 
 
-[TOC]
-
 ## A. NPTEL Courses
 
 In a recent notice issued by the Academic Affairs Office on January 3, 2023, the option to choose NPTEL courses as part of the academic evaluation was discontinued w.e.f. Spring Semester 2022-2023, except for certain special conditions. This was decided without taking the student community in confidence. As the students could not put forth their point of view, the decision has caused several grievances:
-
 
 <p style="margin-left: 30px"><strong>A.1</strong> Students who wished to take up elective courses based on their interests are now bound to take up courses from a predefined list which may not be very relevant to them.</p>
 
 _“The main issue [...] is that many elective courses mentioned in our course structures are often scrapped, forcing us to take other electives which are not relevant to our interests [...] The discontinuation of NPTEL Courses has made the situation even worse. Beyond electives, even some of the core courses are irrelevant.”_
 
 **NOTE: WO! found out that students in other IITs, such as IIT Kanpur and IIT Kharagpur**, cannot take NPTEL courses as their minors. All courses are to be done within the institute coursework.
-
 
 <p style="margin-left: 30px"><strong>A.2</strong> The decision directly affects the final-year students who had saved their NPTEL courses for their last semester to reduce their time commitment and better focus on reducing their time commitment and better focus on placements. It is also unfair to them as many students already took NPTEL courses in the preceding semesters.</p>
 
@@ -111,7 +107,9 @@ In the survey conducted by Watch Out! We also asked the students how they would 
 
 <p style="margin-left: 30px"><strong>G.2</strong> Department and inter-departmental courses should be introduced from the second year itself, allowing students to shape their career as they want to; whilst also providing them with incentives to maintain a good CGPA to be offered their preferred courses each semester. Another suggestion was to introduce more HSS-MEC courses in 2nd year, as the few provided usually force students to choose the one which gets them grades easily, as opposed to the ones they’re actually interested in.</p>
 
-<p style="margin-left: 30px">For example, due to a lack of effective choices, students from the Economics branch took up HSS-01 as their preferred choice, despite being taught similar course contents in a more advanced manner in previous semesters. This made it a redundant course for the students of the Economics branch as well as unfair for students of other departments taking this up for the first time and facing relative grading with others. The limitation of choices is a very real issue which must be resolved soon. <strong>Appendix-A</strong> contains the conversation WO! had with IITK and IITKgP in this regard.</p>
+<p style="margin-left: 30px">For example, due to a lack of effective choices, students from the Economics branch took up HSS-01 as their preferred choice, despite being taught similar course contents in a more advanced manner in previous semesters. This made it a redundant course for the students of the Economics branch as well as unfair for students of other departments taking this up for the first time and facing relative grading with others. The limitation of choices is a very real issue which must be resolved soon.</p>
+
+<p style="margin-left: 30px"><strong>Appendix-A</strong> contains the conversation WO! had with IITK and IITKgP in this regard.</p>
 
 <p style="margin-left: 30px"><strong>G.3</strong> “During the chaos that followed the NPTEL and minor selection time, what was apparent was the stringent nature of the Acad department and their unapproachability.” It was noted by many students that the academic section does listen to their grievances but there are no real efforts made to change it so that the students are at their convenience; and it often feels like they’re unreceptive to the students’ needs.</p>
 
@@ -141,10 +139,11 @@ Some miscellaneous suggestions regarding commonly faced issues within the academ
 
 5. Moreover, there should be an open choice of minor courses instead of selecting from a pool of 6/7 courses, as well as more departmental elective courses that are offered. Along with it, compulsory attendance in Minors should be scrapped.
 
-6. A more mathematics-intensive CSE curriculum is seen as necessary. (A detailed review on this is mentioned in **Appendix-B**)
+6. A more mathematics-intensive CSE curriculum is seen as necessary.
+
+    A detailed review on this is mentioned in **Appendix-B**
 
 **This article aimed to bring the grievances faced by students daily under convergence and address them efficiently. From the responses we received in the survey, we have mentioned the changes students think should bring about a difference in their daily academic interactions. Moreover, we also talked to the academic office to dig deeper into the root cause of the problems pointed out. We got some great insights and found out valid reasons for some of the inconveniences; whilst also noticing a need for immediate change in certain areas.**
-
 
 ## Appendix A: IITK & IITKGP Verbatim
 

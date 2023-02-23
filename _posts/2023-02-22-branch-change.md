@@ -55,7 +55,7 @@ To put things into perspective, we now follow up with a diagram based on last ye
 
 As mentioned earlier, the rules for this procedure have been considerably relaxed, but the entry into the “much coveted” circuit branches(CSE, ECE, and EE) remains an uphill task. The required SGPA last year was as follows:
 
-|Branch | Opening Rank | Closing Rank |
+|Branch | Opening CGPA | Closing CGPA |
 |-------|:------------:|:------------:|
 | CSE   |           10 |         9.67 |
 | Eph   |           10 |          8.6 |
@@ -97,7 +97,7 @@ The truth is that changing your branch is by no means easy, but consistency and 
 
 **Aditya Tiwari, 2nd Year, Branch Changer from Metallurgy to ECE**<br>
 
-“I just hated metallurgy as a subject and as a branch I guess that's about it lol. Anyways this point is true to some extent but Meta and mech mei hoke bhi acchi intern aur placement laga sakte. It's just a matter of your dedication and whatever. But yes circuital mei it's far easier. I still get asked about my cg and when I tell them my cg they are like "fuckkk kitna drop hua" and there's obviously the "online mei branch change ki isne toh" But imo still the plus overpowers the minus definitely.”
+“I just hated metallurgy as a subject and as a branch I guess that's about it lol. Anyways this point is true to some extent but Meta and mech mei hoke bhi acchi intern aur placement laga sakte. It's just a matter of your dedication and whatever. But yes circuital mei it's far easier. I still get asked about my cg and when I tell them my cg they are like "f**k kitna drop hua" and there's obviously the "online mei branch change ki isne toh" But imo still the plus overpowers the minus definitely.”
 
 **Saiyam Arora, 2nd Year, Branch Changer from Chem to EE**<br>
 

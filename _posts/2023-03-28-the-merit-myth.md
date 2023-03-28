@@ -9,7 +9,7 @@ excerpt: "Through this article we aim to understand what casteism is, how it is 
 
 <p style="margin-left: 30px">“Once you clear the minds of the people of this misconception and enable them to realise that what they are told is religion is not religion, but that it is really law, you will be in a position to urge its amendment or abolition.”</p>
 
-<p align="center">― <strong>B.R. Ambedkar, <a href="https://www.goodreads.com/work/quotes/13388715">Annihilation of Caste</a></strong></p>
+<p align="center">― <strong>B.R. Ambedkar, Annihilation of Caste</strong></p>
 
 In July 2021, Vipin P. Veetil, an assistant Professor at IIT Madras,  resigned, alleging caste-based discrimination. According to him, the discrimination came from all individuals in power, irrespective of their political affiliations or gender. This incident sums up how caste is perceived and how caste-based discrimination exists in the elite institutions of the country, like the IITs and the IIMs.
 
@@ -77,9 +77,11 @@ Among the few who do understand the need for reservation for the marginalised co
 
 ## 3. Looking at Caste in IITs through Statistics
 
+<br/>
+
 58% of students who lose their lives to suicide in IITs, NITs and other central institutions belong to these marginalized communities. Most dropouts and students who were expelled are also either Dalits or Bahujans. Instead of examining the conditions that lead to such statistics, people are very quick to claim that this is why reservations are bad even for those who avail them.
 
-As recently as April 2021, a video circulated on the internet. A professor from IIT-KGP was seen abusing SC/ST students in an online class. They were even taunting students to complain about them to the SC/ST Ministry. This clearly shows that the professor is confident that the upper-caste dominated administration would protect them. Another blatantly casteist incident is the closing of Krishna Gate. In late 2019, IIT-M shut the gate connecting the campus to Vellacherry, a Dalit populated area. More about this - [IIT Madras Under Fire For Casteism After Shutting Off Gate Leading To Dalit Community | HuffPost News](https://www.huffpost.com/archive/in/entry/iit-madras-casteism-gate-dalit-community_in_5e380cb1c5b611ac94d86d64)
+As recently as April 2021, a video circulated on the internet. A professor from IIT-KGP was seen abusing SC/ST students in an online class. They were even taunting students to complain about them to the SC/ST Ministry. This clearly shows that the professor is confident that the upper-caste dominated administration would protect them. Another blatantly casteist incident is the closing of Krishna Gate. In late 2019, IIT-M shut the gate connecting the campus to Vellacherry, a Dalit populated area. More about this - [IIT Madras Under Fire For Casteism After Shutting Off Gate Leading To Dalit Community](https://www.huffpost.com/archive/in/entry/iit-madras-casteism-gate-dalit-community_in_5e380cb1c5b611ac94d86d64)
 
 In 2011, Manish Kumar, a Dalit student of IIT-R, commited suicide ‘due to depression’ as stated by the police. However, Manish’s family claims that casteist abuses from their peers, inaction of administration and being forced to live outside of campus instead of acting on their complaints lead him to completely losing faith and henceforth, ending their life. Source - [The Death of Merit: Manish Kumar (IIT Roorkee) [A Documentary]](https://thedeathofmeritinindia.wordpress.com/2011/07/06/the-death-of-merit-manish-kumar-iit-roorkee/)
 

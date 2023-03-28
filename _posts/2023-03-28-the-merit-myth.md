@@ -9,7 +9,7 @@ excerpt: "Through this article we aim to understand what casteism is, how it is 
 
 <p style="margin-left: 30px">“Once you clear the minds of the people of this misconception and enable them to realise that what they are told is religion is not religion, but that it is really law, you will be in a position to urge its amendment or abolition.”</p>
 
-― **B.R. Ambedkar, [Annihilation of Caste](https://www.goodreads.com/work/quotes/13388715)**
+<p align="center">― <strong>B.R. Ambedkar, [Annihilation of Caste](https://www.goodreads.com/work/quotes/13388715)</strong></p>
 
 In July 2021, Vipin P. Veetil, an assistant Professor at IIT Madras,  resigned, alleging caste-based discrimination. According to him, the discrimination came from all individuals in power, irrespective of their political affiliations or gender. This incident sums up how caste is perceived and how caste-based discrimination exists in the elite institutions of the country, like the IITs and the IIMs.
 

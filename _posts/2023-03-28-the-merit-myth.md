@@ -41,7 +41,7 @@ The casteist foundations of Hinduism continue to be glorified in an environment 
 ## 2. Affirmative Action
 #### A. Why should reservations exist?
 
-The denial of casteism and the discrimination that marginalised communities face is almost always from people with generations of privilege who are protected from the realities of the world. An individual with one Dalit friend who could afford to go to the same school as them comes to the conclusion that all Dalits hold the same privilege as an upper caste person, that t. They’re only pretending to be oppressed so as to benefit from reservations.
+The denial of casteism and the discrimination that marginalised communities face is almost always from people with generations of privilege who are protected from the realities of the world. An individual with one Dalit friend who could afford to go to the same school as them comes to the conclusion that all Dalits hold the same privilege as an upper caste person, that they’re only pretending to be oppressed so as to benefit from reservations.
 
 Even before freshers start packing up for offline college, a particular murmur tends to punctuate general discussions- the roommate question. Rooms  are allotted according to ranks and not branches, and so, obviously, reservation started being discussed. On campus, the awkwardly skirted around subject of reservations lays out bare how students perceive merit, worth, and have an innate difficulty comprehending the way intangible privilege works. Most critics of social justice dismiss it as petty, material consolation. Social justice has a more ‘structural’ purpose- the redistribution of privilege. 
 

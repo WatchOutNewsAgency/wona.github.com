@@ -4,13 +4,13 @@ title: "Gender Survey: in collaboration with GATI"
 category: bigstory
 tags: [wona, column]
 author: "Shashwat Sharma, Pratham Kailasiya, Vansh Mehra"
-image: gati-survey/cover.png
-excerpt: "TODO"
+image: gati-survey/cover.jpg
+excerpt: "This survey was conducted with the aim of mapping the gender biases and gender-based discrimination that exists in IIT-Roorkee and how it affects the people of the institute. This survey was conducted in collaboration with GATI, IIT Roorkee (Gender Advancement for Transforming Institutions) which is a pilot project by the Department of Science and Technology (DST) to promote gender sensitization and gender equity across institutions in India."
 ---
 
 **Disclaimer:**
 
-1. This survey was conducted January of 2023, with us receiving 82 responses. Of these 19.5 percent came from Ph.D Scholars, another 14.2 percentage came from Masters Students and the rest came from students pursuing their Bachelors Degree. 
+1. This survey was conducted in January of 2023, with us receiving 82 responses. Of these, 19.5 percent came from Ph.D Scholars, another 14.2 percentage came from Masters Students and the rest came from students pursuing their Bachelors Degree. 
 
 2. The survey was conducted with the aim of mapping the gender biases and gender-based discrimination that exists in IIT-Roorkee and how it affects the people of the institute. This survey was conducted in collaboration with GATI, IIT Roorkee (Gender Advancement for Transforming Institutions) which is a pilot project by the Department of Science and Technology (DST) to promote gender sensitization and gender equity across institutions in India.
 
@@ -34,7 +34,7 @@ When asked about the availability of opportunities based on gender, most of the 
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/qsgsNquFi/" style="border: 0; width: 100%; height: 500px"></iframe>
 
-##### A. Importance & Requirement of Gender Specific Hiring:
+#### A. Importance & Requirement of Gender Specific Hiring:
 
 Gender Specific Hiring is a form of affirmative action, where a disadvantaged group- women in this case, either have exclusive opportunities available to them, or are preferred over others in hirings. This is done in order to provide equity of opportunities to women in the workplace, especially in a field like technology, where women have been vastly underrepresented. Moreover, they also aim to acknowledge the stereotyping and barriers that women face in educational institutions, workplaces, and even from their families. 
 
@@ -42,15 +42,7 @@ Gender specific hiring has tangible and measurable benefits, including but not l
 
 However, at IITR Gender Specific Hiring is perceived to be a form of ‘discrimination’ against men. What often starts as a feeling of discontent, often transforms itself into extreme misogyny, with some individuals equating all achievements of women to be a virtue of their gender. This narrative that female students are able to smoothly sail their way through internship/placement season because of their gender exposes them to a number of snide remarks – be it directly, or indirectly in the form of online discourse and memes. A number of female respondents shared how this often leads them to a feeling under-confident about their abilities and achievements.
 
-Instagram Pages like IITR Memes and Honest Confessions sharing such content are the living proof of how harsh, crass and harmful this misogyny and bigotry can get.  
-
-![pic](/images/posts/gati-survey/1.jpg){: style="width:80%;height:auto;"}
-
-![pic](/images/posts/gati-survey/2.jpg){: style="width:80%;height:auto;"}
-
-These are the screenshots of a post recently shared by IITR Memes that was widely liked and shared by the students.
-
-##### B. The need for women representation in STEM Education.
+#### B. The need for women representation in STEM Education.
 
 A really concerning trend was finally addressed a few years back - the percentage of women studying in IITs being less than a meagre 10% . Joint Admissions Board of the IITs constituted a committee to investigate this gap and make suggestions to increase the number of women joining the IITs. One of the crucial recommendations that the committee made was the addition of supernumerary seats in IITs for women, to which the Board did agree.
 
@@ -72,63 +64,63 @@ Fields like Mechanical Engineering and Civil Engineering traditionally perceived
 
 Majority of the people do not believe that there exists an institutional barrier(from professors and in campus clubs) in our institute which leads to gender specific bias in the day to day working.Here we could divide the problem at hand into 3 major aspects:  representation in tech groups and preferential treatment by professors
 
-##### A. The Group Question: What our tech groups have to say? 
+#### A. The Group Question: What our tech groups have to say? 
 
 About the campus groups, especially the tech groups there is a belief that gender-specific recruitments happen with the aim to maintain a gender ratio within themselves. This topic though is much more nuanced, so we have additionally gathered testimonials from members of various campus groups to understand if gender-specific recruitments are indeed happening in campus groups. 
 
-_When it comes to recruitments, we recruit solely on the basis of skill assessment._
+_"When it comes to recruitments, we recruit solely on the basis of skill assessment._
 
-_In recent years we have seen a good turnout from female applicants hence it (maintaining gender representation) was not felt needed. That being said, members (on a personal level) regularly reach out to female mentees and encourage/guide them to participate in our events if interested._
+_In recent years we have seen a good turnout from female applicants hence it (maintaining gender representation) was not felt needed. That being said, members (on a personal level) regularly reach out to female mentees and encourage/guide them to participate in our events if interested."_
 
 \- **_MDG Space_**
 
-_Well as far as QCG is concerned, quantum computing is not as popular a field amongst UG students as software dev, robotics, etc is. Moreover, it is still in its developing stage and therefore, is primarily research oriented.  Hence, the number of interested students applying for recruitments itself is very low. In such a situation, implementing any kind of gender criteria is difficult. We purely look for students who are interested in learning and exploring the field along with promoting it on campus._
+_"Well as far as QCG is concerned, quantum computing is not as popular a field amongst UG students as software dev, robotics, etc is. Moreover, it is still in its developing stage and therefore, is primarily research oriented.  Hence, the number of interested students applying for recruitments itself is very low. In such a situation, implementing any kind of gender criteria is difficult. We purely look for students who are interested in learning and exploring the field along with promoting it on campus."_
 
 \- **_Quantum Computing Group (QCG)_**
 
-_During our recruitment process what we focus on more is how much the student is interested in joining the group and wants to learn things. We don't have gender specifications._
+_"During our recruitment process what we focus on more is how much the student is interested in joining the group and wants to learn things. We don't have gender specifications."_
 
 \- **_IMG_**
 
-_We do not consider gender while recruiting. No active efforts are made to maintain the gender ratio. This is also very evident in the fact that some of the tech groups have just one or two female members. We consider the skills and passion of the applicants for the concerned field is more important. Hence we recruit people on the basis of skills and, in the past, we've always got a good response from girls. But we do make efforts to make sure it's a safe and healthy environment for everyone._
+_"We do not consider gender while recruiting. No active efforts are made to maintain the gender ratio. This is also very evident in the fact that some of the tech groups have just one or two female members. We consider the skills and passion of the applicants for the concerned field is more important. Hence we recruit people on the basis of skills and, in the past, we've always got a good response from girls. But we do make efforts to make sure it's a safe and healthy environment for everyone."_
 
 \- **_SDSLabs_**
 
-_About gender diversity during the recruitments, we do not keep a specific ratio in hand, but we do consider specific practical cases. Like the case of the latest recruitment drive the number of female candidates selected in the pool was really really low. This number points to the systemic barriers in the length we are adopting during the recruitments. The next time we considered a fresh and more inclusive process, we were able to get a good number of female candidates, doing pretty well in the group currently. Same goes for promotion, these systemic barriers are constantly brought into notice and addressed so that there is no blatant skew in the number while keeping all deserving candidates, irrespective of gender, up for promotions. This helps in having decent gender diversity in the group for encouraging more people to apply and also getting a multitude of ideas in the process._
+_"About gender diversity during the recruitments, we do not keep a specific ratio in hand, but we do consider specific practical cases. Like the case of the latest recruitment drive the number of female candidates selected in the pool was really really low. This number points to the systemic barriers in the length we are adopting during the recruitments. The next time we considered a fresh and more inclusive process, we were able to get a good number of female candidates, doing pretty well in the group currently. Same goes for promotion, these systemic barriers are constantly brought into notice and addressed so that there is no blatant skew in the number while keeping all deserving candidates, irrespective of gender, up for promotions. This helps in having decent gender diversity in the group for encouraging more people to apply and also getting a multitude of ideas in the process."_
 
 \- **_ShARE IITR_**
 
-_Basically BlocSoc tries to maintain a good ratio of girls and boys, we try there are girls in the group, although only a few girls apply for the recruitments so we don't have much choice but usually we try to ensure that there is a good ratio._
+_"Basically BlocSoc tries to maintain a good ratio of girls and boys, we try there are girls in the group, although only a few girls apply for the recruitments so we don't have much choice but usually we try to ensure that there is a good ratio."_
 
 \- **_BlocSoc IITR_**
 
-_The teams do consider recruiting at least a couple of girls. But it’s a general trend we have seen that under equal testing parameters girls don’t perform that well in recruitments. One major reason for this can be lack of passion for motorsports. But again those who are passionate do perform well and end up getting recruited. But that number is low. Sometimes we have to bend our recruitment procedure to take in girls._
+_"The teams do consider recruiting at least a couple of girls. But it’s a general trend we have seen that under equal testing parameters girls don’t perform that well in recruitments. One major reason for this can be lack of passion for motorsports. But again those who are passionate do perform well and end up getting recruited. But that number is low. Sometimes we have to bend our recruitment procedure to take in girls."_
 
 \- **_IITR MotorSports_**
 
-_Infosec is an open group so it does not hold the recruitments._
+_"Infosec is an open group so it does not hold the recruitments._
 
-_The core team is dynamic and at any given point, is formed by people who have been active for the past few six months or so. There might be something to say about this being a metric that's harder for girls given the lack of existing female members in the group but as far as an organizational level, there's no recruitment considerations in place since there are no recruitments._
+_The core team is dynamic and at any given point, is formed by people who have been active for the past few six months or so. There might be something to say about this being a metric that's harder for girls given the lack of existing female members in the group but as far as an organizational level, there's no recruitment considerations in place since there are no recruitments."_
 
 \- **_InfoSec IITR_**
 
-_Recruitments are basically based on candidates having shared values and performing well in the recruitment tests and technical interviews. The shared values include willingness to contribute to the club, taking initiative, risk-taking to pursue something else, and spreading the culture of finance in the campus._
+_"Recruitments are basically based on candidates having shared values and performing well in the recruitment tests and technical interviews. The shared values include willingness to contribute to the club, taking initiative, risk-taking to pursue something else, and spreading the culture of finance in the campus."_
 
 \- **_Finance Club_**
 
-_In our senior years there were not many active girls in DSG, in my year as well I remember I was the only one selected in the first recruitment. This poses a concern with no proper representation of women in the tech clubs, which manifests into trouble for those girls who are selected and now have to work in the group surrounded only by boys. Though we don't keep a special bar for girls, and seek recruitment purely based on skills and knowledge. But thankfully this year the number of female applicants were sizable and the recruitments were based only on experience in the concerned field._
+_"In our senior years there were not many active girls in DSG, in my year as well I remember I was the only one selected in the first recruitment. This poses a concern with no proper representation of women in the tech clubs, which manifests into trouble for those girls who are selected and now have to work in the group surrounded only by boys. Though we don't keep a special bar for girls, and seek recruitment purely based on skills and knowledge. But thankfully this year the number of female applicants were sizable and the recruitments were based only on experience in the concerned field."_
 
 \- **_DSG _**
 
-_In my experience at ArIES, the no. of female members interested in recruitment is quite low to begin with, but we have recruited a good fraction of these students. We have also given them adequate representation, and they have played pivotal roles in important tech events. The issue isn't with disregarding the gender ratio at the time of recruitment, but the fact that a very low number of female students are interested in tech groups to begin with, and even out of those, only a fraction possess the prerequisites that some clubs require._
+_"In my experience at ArIES, the no. of female members interested in recruitment is quite low to begin with, but we have recruited a good fraction of these students. We have also given them adequate representation, and they have played pivotal roles in important tech events. The issue isn't with disregarding the gender ratio at the time of recruitment, but the fact that a very low number of female students are interested in tech groups to begin with, and even out of those, only a fraction possess the prerequisites that some clubs require."_
 
 \- **_ArIES_**
 
-_At VLG, we most value one's interest and passion for AI research and its applications regarding recruitment for the core team. VLG, an open group, also recruits people who regularly attend its discussions. In other words, we focus on skills, knowledge, and interests while recruiting. We do not care about any other factor while recruiting for our team._
+_"At VLG, we most value one's interest and passion for AI research and its applications regarding recruitment for the core team. VLG, an open group, also recruits people who regularly attend its discussions. In other words, we focus on skills, knowledge, and interests while recruiting. We do not care about any other factor while recruiting for our team."_
 
 \- **_VLG _**
 
-_We try to take in members based on skills mostly, their interest and dedication to the club is the deciding factor. If more people cross the benchmark, we try to balance the ratio by either recruiting more or removing some selected candidates in case of no vacant positions available._
+_"We try to take in members based on skills mostly, their interest and dedication to the club is the deciding factor. If more people cross the benchmark, we try to balance the ratio by either recruiting more or removing some selected candidates in case of no vacant positions available."_
 
 \- **_Enactus IITR_**
 
@@ -136,7 +128,7 @@ While the members of most groups ascertain that gender-specific recruitments do 
 
 _My selection in IIT is always looked down upon by many because I am a girl. Also all my selection in different clubs is also always looked down on by saying things like "you were selected because you are a girl."_
 
-##### B. Preferential treatment by Professors
+#### B. Preferential treatment by Professors
 
 A lot of our respondents reported instances of preferential treatment towards girls by some professors. There’s a sentiment present among male respondents that professors and lab instructors tend to be ‘lenient’ with female students and that their female batchmates receive preferential treatment when being awarded marks. Again the root cause of the problem here is the patriarchy deeply ingrained in our institutions that patronizes women and fosters a culture where men tend to help women as they believe women themselves are not competent enough.
 

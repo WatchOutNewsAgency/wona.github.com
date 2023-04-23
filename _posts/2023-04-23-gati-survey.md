@@ -110,7 +110,7 @@ _"Recruitments are basically based on candidates having shared values and perfor
 
 _"In our senior years there were not many active girls in DSG, in my year as well I remember I was the only one selected in the first recruitment. This poses a concern with no proper representation of women in the tech clubs, which manifests into trouble for those girls who are selected and now have to work in the group surrounded only by boys. Though we don't keep a special bar for girls, and seek recruitment purely based on skills and knowledge. But thankfully this year the number of female applicants were sizable and the recruitments were based only on experience in the concerned field."_
 
-\- **_DSG _**
+\- **_DSG_**
 
 _"In my experience at ArIES, the no. of female members interested in recruitment is quite low to begin with, but we have recruited a good fraction of these students. We have also given them adequate representation, and they have played pivotal roles in important tech events. The issue isn't with disregarding the gender ratio at the time of recruitment, but the fact that a very low number of female students are interested in tech groups to begin with, and even out of those, only a fraction possess the prerequisites that some clubs require."_
 
@@ -118,7 +118,7 @@ _"In my experience at ArIES, the no. of female members interested in recruitment
 
 _"At VLG, we most value one's interest and passion for AI research and its applications regarding recruitment for the core team. VLG, an open group, also recruits people who regularly attend its discussions. In other words, we focus on skills, knowledge, and interests while recruiting. We do not care about any other factor while recruiting for our team."_
 
-\- **_VLG _**
+\- **_VLG_**
 
 _"We try to take in members based on skills mostly, their interest and dedication to the club is the deciding factor. If more people cross the benchmark, we try to balance the ratio by either recruiting more or removing some selected candidates in case of no vacant positions available."_
 

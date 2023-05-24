@@ -2,7 +2,7 @@
 layout: post
 title: "The best they've been doing"
 category: bigstory
-author: "Aastha Khaitan, Khyati Joshi, Akshara Singh, Manasvi Bathula, Khushi Tomar, Shivanshi Arora, Gauri Garg,"
+author: "Aastha Khaitan, Khyati Joshi, Akshara Singh, Manasvi Bathula, Khushi Tomar, Shivanshi Arora, Gauri Garg"
 tags: [wona,column]
 image: the-best-they-doing/cover.png
 excerpt: "The following article follows this article:<http://watchout.iitr.ac.in/2021/12/the-best-we-could-do>
@@ -12,14 +12,14 @@ An article for Himalaya bhawan coming up soon at:<http://watchout.iitr.ac.in/202
 Hostels are an indispensable part of any student’s life and the monumental amount of time spent in hostel rooms (begrudgingly or otherwise) have an enormous impact. Hostels, fondly referred to as bhawans, are the most frequented structures on campus. With an enormous number of residents comes an immense responsibility of their health, safety and general well-being. Like any other institution, our sanctuary of learning isn't immune to their fair share of challenges, with students encountering a plethora of hostel issues that are exceedingly important to address. 
 
 Watch Out! surveyed the girls hostel populace of IITR to gauge and understand the issues faced by them in their hostels and further segregated the issues for a deeper analysis. 
-![Respondents](/images/posts/the-best-they-doing/resp-stats.png)
+<iframe class="everviz-iframe" src="https://app.everviz.com/embed/SFUpdqP6d/?v=2" title="Chart: Respondents' Proportion" style="border: 0; width: 100%; height: 500px;"></iframe>
 Our survey collected responses from 142 residents across all girl’s hostels and above are the proportion of respondents from each hostel.
 
 #### A MESS(Y) DILEMMA: Navigating the mess issues 
 Mess, one of the most quintessential areas of a hostel, often becomes a sentiment. It is in this spirit and sense that the mess be handled carefully, ensuring all residents get nourishing and sustaining food on their plates for every meal, sans questions asked. Leaving the utopian vision for a moment, after talking to the residents of the hostels, we realized that some serious issues did exist in the mess and/or its functioning which needed to be addressed. 
 ![mess](/images/posts/the-best-they-doing/problems.png)
-
 Above are the issues faced by bhawan residents with the mess facilities.The most commonly complained about problems were the repetitive and similar items on the menu with very few healthy options.
+*Few responses were omitted as they were reflecting of bad faith*
 
 **“Mess menu set up is too heavy on stomach and there is hardly any option for people with dietary restrictions”**- A resident of SB
 
@@ -67,7 +67,7 @@ A resident from KB tells us, **“They don't even take care of the computers in 
 
 **In Kasturba Bhawan**
 - **“Limited or No Connectivity”** - Wi-Fi routers were being installed but ICC had stopped the installation suddenly saying that it would first happen in Himalaya Bhawan. Only after that, installation will resume in Kasturba Bhawan. They didn’t give a clear answer as to why this action was taken. Regarding LAN, almost all bhawans are facing issues with it because of some maintenance issues by ICC. The only thing students can do is raise a ticket or talk to the Technical Secretary who’ll direct their complaint to ICC.
-- **Cyper room computers** - This comes under maintenance issues. The initial plan was to shut down these systems completely and convert the cyber room into a study room as most students use their own laptops.
+- **Cyber room computers** - This comes under maintenance issues. The initial plan was to shut down these systems completely and convert the cyber room into a study room as most students use their own laptops.
 
 #### RECREATION (with) ROADBLOCKS: Navigating the recreational issues
 

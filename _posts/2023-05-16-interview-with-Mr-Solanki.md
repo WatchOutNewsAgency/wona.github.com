@@ -76,7 +76,7 @@ How many people understand from the depth of their heart that it is now a questi
 
   
 
-**Watch Out: A lot of us in some years are going to be in government or some corporations or something. What do you think governments and corporations can implement into this world?  **
+**Watch Out: A lot of us in some years are going to be in government or some corporations or something. What do you think governments and corporations can implement into this world?**
   
 
   

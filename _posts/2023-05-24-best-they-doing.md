@@ -12,7 +12,9 @@ An article for Himalaya bhawan coming up soon at:<http://watchout.iitr.ac.in/202
 Hostels are an indispensable part of any student’s life and the monumental amount of time spent in hostel rooms (begrudgingly or otherwise) have an enormous impact. Hostels, fondly referred to as bhawans, are the most frequented structures on campus. With an enormous number of residents comes an immense responsibility of their health, safety and general well-being. Like any other institution, our sanctuary of learning isn't immune to their fair share of challenges, with students encountering a plethora of hostel issues that are exceedingly important to address. 
 
 Watch Out! surveyed the girls hostel populace of IITR to gauge and understand the issues faced by them in their hostels and further segregated the issues for a deeper analysis. 
+
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/SFUpdqP6d/?v=2" title="Chart: Respondents' Proportion" style="border: 0; width: 100%; height: 500px;"></iframe>
+
 Our survey collected responses from 142 residents across all girl’s hostels and above are the proportion of respondents from each hostel.
 
 #### A MESS(Y) DILEMMA: Navigating the mess issues 

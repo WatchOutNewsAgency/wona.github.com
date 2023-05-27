@@ -3,7 +3,7 @@ layout: post
 title: "Placement experience in IITR"
 category: placement2023
 tags: [wona, column]
-author: "Balangesh Manikandan"
+author: "Balaganesh Manikandan"
 image: placement-diaries/balangesh/cover.png
 excerpt: "My placement journey was by no means an easy one; filled with ups and downs all the way. Additionally, it had some major differences from the internship drive."
 ---

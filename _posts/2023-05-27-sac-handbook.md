@@ -127,14 +127,14 @@ The elections are being held for the following posts:
 
 ### Election Committee
 
-##### Team Structure -
+#### Team Structure -
 The Election Commission, IITR will have the following structure -
 1. Convener - ADOSW (SA)
 2. Head, Vigilance - ADOSW (B&M)
 3. Head, Awareness - ADOSW (SW)
 4. Head, Technical - Prof I/C ICC
 
-##### 8 Appointed Student Representatives:
+#### 8 Appointed Student Representatives:
 1. Chief Election Officer (1)
 2. Managers, Technical (2)
 3. Managers, Vigilance (2)
@@ -144,20 +144,20 @@ The Election Commission, IITR will have the following structure -
 
 The **Duties** and **Responsibilities** of these members are as follows -
 
-###### Chief Election Officer
+##### Chief Election Officer
 - The Chief Election Officer is responsible for the overall supervision of the Electoral Process and point of contact between the admin and student teams.
 
-###### Managers, Technical
+##### Managers, Technical
 - Responsible for maintaining and updating the EC portal under the supervision of the Head, Technical.
 
-###### Managers, Vigilance
+##### Managers, Vigilance
 - Responsible for enforcing the Code of Conduct and bringing matters related to breach of CoC to the Convener and the Head, Vigilance, who then decides on the action to be taken.
 
-###### Manager, Public Address
+##### Manager, Public Address
 - Responsible for conducting debates before elections ensuring that decorum is maintained.
 
-###### Managers, Design
+##### Managers, Design
 - Responsible for designing the Election Commission portal and poster regarding important announcements.
 
-###### Manager, Social Media
+##### Manager, Social Media
 - Handles social media pages to spread awareness regarding important electoral process announcements and keep the students' community updated.

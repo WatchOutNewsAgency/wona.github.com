@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019-2023: NOTHING LESS THAN A MOVIE"
+title: "2019-2023:Nothing Less Than A Movie"
 tags: [wona, column]
 image: kambli.jpg
 category: memoirs

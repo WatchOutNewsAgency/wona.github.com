@@ -79,7 +79,7 @@ After placements were done, I tried to get max out of the remaining college life
 ![1st year](/images/posts/praharsh/14.jpeg)
 <b>The scheduled meet of Designoors on my last day</b>
                                        
-![1st year](/images/posts/praharsh/15.jpeg)
+cc
 <b>To drop off friends @Railway station</b>
 
                                        

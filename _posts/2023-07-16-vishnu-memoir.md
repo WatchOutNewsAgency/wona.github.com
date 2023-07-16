@@ -17,11 +17,14 @@ I breathed the air like it was the last time, I never closed my eyes for I did n
 
 The countless sleepless nights I had spent, I had wandered the campus, for I refused to allow the stars to paint their cosmic wonders upon the sky without my witness. Nor did I wish to miss the gentle blossoming of love in the hidden corners of this ethereal abode.
 
-	And as I embarked upon the precipice of departure, in the depths of my soul, tears welled up, for what I left behind was not mere experience, but a tapestry woven with threads of irreplaceable relationships. Alas, never would my eyes gaze upon those familiar faces, never again would
- I bask in the warmth of their presence.
+And as I embarked upon the precipice of departure, in the depths of my soul, tears welled up, for what I left behind was not mere experience, but a tapestry woven with threads of irreplaceable relationships. Alas, never would my eyes gaze upon those familiar faces, never again would
+
+I bask in the warmth of their presence.
+
 I am sure not a day will pass for the rest of my life without a day spent not thinking about this place at least for a second. One thing that no one can deny or take away from me are those memories of some special moments which will be locked deep in my bosoms till  I breathe my last.
 
-	I owe my existence henceforth to this campus making me realize, I am alive.
+I owe my existence henceforth to this campus making me realize, I am alive.
 
 To quote the words of William Wordsworth, "Bliss it was in that dawn to be alive, but to be young was very heaven."
- Thank you.
+
+Thank you.

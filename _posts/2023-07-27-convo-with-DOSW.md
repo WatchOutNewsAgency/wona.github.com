@@ -48,15 +48,15 @@ WatchOut!: Initially, there was this decision that some girls would stay in Saro
 
 **DOSW:** Yeah appropriate decision will be taken. But now the good news is that the first-year girls will not be put in triple accommodation. 
 
-WatchOut: No, sir, I was talking about the second-year girls. Is this decision still going to happen because GenSec Hostel Affairs mentioned that this decision was still under your consideration?
+**WONA:** No, sir, I was talking about the second-year girls. Is this decision still going to happen because GenSec Hostel Affairs mentioned that this decision was still under your consideration?
 
 **DOSW:** So as to ensure minimum shifting, we planned to shift only 88 girls to Kasturba Bhawan. I think that’s a better decision. Otherwise, students would have complained about why is everyone benign shifted, so we have tried to minimize shifting. I think in the last five years; this is the first time that it is happening that all first-year girls will be put in double accommodation.
 
-WatchOut: So, sir, since the fact that some of the second-year girls will be staying in Kasturba and there will be first-year students there, and it is the policy of the institute that the first-year students are not kept with their immediate seniors to prevent ragging. So are there any measures you are going to take to ensure that this doesn't happen
+**WONA:** So, sir, since the fact that some of the second-year girls will be staying in Kasturba and there will be first-year students there, and it is the policy of the institute that the first-year students are not kept with their immediate seniors to prevent ragging. So are there any measures you are going to take to ensure that this doesn't happen
 
 **DOSW:** Yes, we have a committee in place. Also, I hope that our girls are mature enough so they would treat their first-year girls just like their younger sisters.
 
-WatchOut: Sir coming to the boys' hostel. The boys are staying in Rajendra Bhawan because they have not been allotted rooms in Jawahar Bhawan and are using Cautley mess. Not to mention the first-year students will be here 1st of August, and Jawahar Bhawan washrooms in many blocks are under construction. also, there is the issue of leakage in some of the rooms.
+**WONA:** Sir coming to the boys' hostel. The boys are staying in Rajendra Bhawan because they have not been allotted rooms in Jawahar Bhawan and are using Cautley mess. Not to mention the first-year students will be here 1st of August, and Jawahar Bhawan washrooms in many blocks are under construction. also, there is the issue of leakage in some of the rooms.
 
 **DOSW:** yes, I am aware of the construction work ongoing in the Jawahar Bhawan, and I ensured that by the 30th of this month, all the washrooms are fully prepared. We have to keep RJB ready for first-year students by the 28th or 29th of this month; only then can we assign them to the 1st of August. There are a lot of complications when it comes to shifting, but I hope by 1st week of August, everything will be resolved.  There is an acute shortage of boys' accommodation now. This year in PG, we have 1000 admissions, 250 more than last year. Yesterday 20 MTech students were temporarily placed in Married accommodation. So, right now wherever there is space, we are giving. That is what we are ensuring, that accommodation should be made available on a priority basis, and the effect is that we won't be able to provide accommodation to married research scholars. But we will make some arrangements for them too. We are listening to the needs of all different categories of students and trying to accommodate all of them. 
 

@@ -72,6 +72,6 @@ WatchOut!: Initially, there was this decision that some girls would stay in Saro
 
 **DOSW:** Actually, that doesn’t come under the jurisdiction of DOSW either. Whenever students approach me, I contact Dean Infrastructure, So I am just a medium between students and Dean Infrastructure. 
 
-**WONA:** Thank you, sir. These are just some of the WONAueries we had. Thank you for your time. 
+**WONA:** Thank you, sir. These are just some of the queries we had. Thank you for your time. 
 
 **DOSW:** Thank you 

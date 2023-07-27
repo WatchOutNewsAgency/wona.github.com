@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Interview with Prof. M.K. Baria regarding Hostel Allocation"
+title: "An Interview with Prof. M.K. Barua regarding Hostel Allocation"
 category: verbatim
 tags: [wona, column]
 image: MKB-hostel.jpg

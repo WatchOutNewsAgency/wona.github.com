@@ -60,7 +60,7 @@ I miss the community, I miss belonging. Maybe it’s just the rose-tinted glasse
 
 As someone who has experienced growth post-religion, and even accepted that he *is* a lil’ fucked in the head, I thought I was over this shit. I had a method of dealing with what my family said. Sticks and stone and whatnot. But Chekov wasn’t done with me yet!
 
-People who know me will know that my family had an honest-to-God exorcism performed on me. I was told eight days before summer break started; it was the first task after I landed. I won’t lie, this cut me off at the knee, brought down all defences and decimated any pretences of indifference. As utterly fascinating to experience 48 hours of fusion Hindu-Christian rituals, it was as if I’d regressed to eleven-year-old me, drowning in my parents’ immense and unshakable faith, while I had none of my own.
+People who know me will know that my family had an honest-to-God exorcism performed on me. I was told eight days before summer break started; it was the first task after I landed. I won’t lie, this cut me off at the knee, brought down all defences and decimated any pretences of indifference. As utterly fascinating it was to experience 48 hours of fusion Hindu-Christian rituals, it felt like I’d regressed to eleven-year-old me, drowning in my parents’ immense and unshakable faith, while I had none of my own.
 
 <br />
 

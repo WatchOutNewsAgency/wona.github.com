@@ -48,7 +48,7 @@ These are some learnings that I can pass on to my juniors.
 - Try everything unconditionally, whether you want it or not, you will gain experience. But do remember to make it a habit ‘consciously’.
 - Don’t sit idly in your room, just go for a walk alone, if you don’t have anything else to do.
 - And the last and most important -  **Invest in friendships.**
-- 
+
 This journey is not plain, there will be ditches, hills and rivers as well. When rivers take you away, hold onto the shore to see if anyone is left behind. When ditches are there, grab your friends tight and jump together. And when you have to climb hills, climb together. Take out time from your busiest days for a tea break. Take out tears from my heavy eyes to ease your heart. Whenever you feel low, just hug someone, it does work as an instant therapy. IITR is home for everyone that stays there, not because of the place but because of the people. 
 Just remember, everything that is happening around you is teaching something, seize it!!!
 
@@ -56,31 +56,46 @@ Just remember, everything that is happening around you is teaching something, se
 **MESSAGES**
 
 FOR MY FRIENDS:- 
+
 **‘The Buddies’** - I had 3 mothers in college and you all didn’t make me forget this even for a second. My girl gang was indeed my comfortable space and I hope will always be.
 
 **‘Let’s Do Something’** - You were my stress and my stress buster as well. All the outings, trips, fights and masti will always stay with me and with that, you all. My college life revolves around you and whatever I got from it, is because of you all. Love you all to the moon and back.
 ![1st year](/images/posts/aayushi-memoir/4.jpg)
 
 **‘The Trio’** - You all are the ‘bestest’ people that any place can offer anyone. You hold me like the ocean that takes every drop of rain, irrespective of how harsh it is. Stay there always <3
+
+
 **‘Extended_RR_Cheer’** - Having all-nighters with you all had its own fun. You were the ‘Spice Box’ of my college that added too many flavours to it. I will always cherish the time I spent with you.
+
+
 **‘14th trip’** - I don’t even remember the name but this is the group, I am a part of without being a part of. Thanks for welcoming me with open arms. I hope I will be remembered.
+
+
 **‘Machana Hai’** - The information centre, the wellness centre and the chit-chat centre, it was all in one. Please let me stay there even if I don’t watch the suggested movies or I am too lazy to read and reply. #puppy_face
 
 And the last, to two special girls, who gave me the warmest hugs when I needed them the most. You stay directly in my heart without sharing it with anyone. 
 
 FOR MY SENIORS:- 
+
+
 I hope I was successful in passing the love and care to my juniors that I got from you. You were the reason that I can call this place my home, from my first day. Thanks for being there.
 
 FOR MY JUNIORS:- 
 
 **‘Fab 5’** - You all are awesome, not to forget my fav junior of labs. Stay the same <3.
 All I can say to you all is-
+
+
 *”Take it with a smile, live it with heart and return it back multifolds. We are leaving behind the heritage for you, cherish it with all you have and I assure you that it will never fail you.”*
 
 FOR MY PROFESSORS:- 
+
+
 I met some of the best and worst teachers here. I hope I will be able to absorb what you all taught me. Maybe someday, I will make you proud.
 
 FOR IIT ROORKEE:- 
+
+
 You gave me much more than what I had expected. You gave me memories, lessons, tests, confidence and my lifelines. You taught me that it’s okay to fall. You taught me that it’s tough but you can always get up. *“You made me what I am and I am proud of that.”*
 
 Sitting under your shade in front of your heart (the main building), where you shared some of your deepest secrets and hardest lessons, will always be my favourite memory of you. You are reflected in me. I will be forever grateful to you for gifting ‘myself’ to me.
@@ -88,6 +103,9 @@ Sitting under your shade in front of your heart (the main building), where you s
 ![1st year](/images/posts/aayushi-memoir/5.jpg)
 
 With this, a Boring girl signing off as a Beamer !!! 
+
+
+
 (You will be missed a lot, IITR)
 
 

@@ -13,4 +13,4 @@ Watch Out brings to you the painful yet insanely awesome realities of college li
 
 We have all the answers, so dive in!
 
-<a href="/FreshmanGuidetoIITR_2023.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>
+<a href="/FreshmanGuideToIITR_2023.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Memoirs: ITC KITES Internship"
+title: "K-ON!! [Season 2, Episode 24] (19:43)"
 category: memoirs
 tags: [wona, column]
 author: "Kushagra Agarwal"

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "In conversation with **ESports**"
+title: "In conversation with ESports"
 category: report
 tags: [wona]
-image: esports/cover.png
-excerpt: "  WatchOut! Covered Arcade Kaishi , a Walk-In Event by **ESports** IITR which was conducted on 13th August, 2023 in SAC building. We also got the opportunity to interview a couple of senior members of the group."
+image: esports/1.jpg
+excerpt: "WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was conducted on 13th August, 2023 in SAC building. We also got the opportunity to interview a couple of senior members of the group."
 ---
 
+WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was conducted on 13th August, 2023 in SAC building. We also got the opportunity to interview a couple of senior members of the group.
 
-![](/images/posts/esports/1.jpg)
 
 **Watch Out!**-  Before we talk about the event, as ESports is a new group, please tell us a little about the work you do and how it is bringing a different experience for the campus junta.
 

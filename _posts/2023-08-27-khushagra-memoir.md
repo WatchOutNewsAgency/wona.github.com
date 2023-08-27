@@ -5,7 +5,7 @@ category: memoirs
 tags: [wona, column]
 author: "Kushagra Agarwal"
 image: KhushMemoir/cover.png
-excerpt: "I appreciated the work at ITC, and could see how someone could flourish in such an environment, however, I found myself out-of-place over there. The 2 months I spent working there taught me a lot about what I don't want to do."
+excerpt: "I'd felt this memoir would be a collection of regrets and nothing more, an overwhelming majority of ramblings and hindsight and things I could do better. But actually, writing this and looking back, I realise it was much more than that. The regrets that overwhelm me now will not remain, and I will grow further and further from here."
 ---
 
 Working out my feelings through a preponed convocation and with rains hindering the long and heavy meetups, which could have made the fact even more firm: the famed undergraduate life was over, and we were now graduates. Meandering through the monsoon-filled streets, I bid farewell to an abode which supported me for four long years and moved onto a journey I can only pretend to comprehend. Having been given a chance to understand at least the four years, sifting through the memories, and writing them out, I feel like I have to do this year to year, only to not bias my memoir to the regrets I hold on to.

@@ -1,243 +1,77 @@
 ---
 layout: post
-title: "Weapons and Equipment Display"
+title: "In conversation with **ESports**"
 category: report
 tags: [wona]
-image: weapons/cover.jpeg
-excerpt: "Garhwal Rifles along with Associate Dean of Corporate Interaction Office organised a Weapons and Equipment Display for the students of IIT Roorkee on 14th August, 2023 at the Roorkee Cantonment. The event was organised to provide the students with an opportunity to understand and explore the diverse weapons and equipment used by the Garhwal Rifles. Team Watch Out! got the opportunity to attend and cover the event."
+image: esports/cover.png
+excerpt: "  WatchOut! Covered Arcade Kaishi , a Walk-In Event by **ESports** IITR which was conducted on 13th August, 2023 in SAC building. We also got the opportunity to interview a couple of senior members of the group."
 ---
 
 
-Garhwal Rifles along with Associate Dean of Corporate Interaction Office organised a Weapons and Equipment Display for the students of IIT Roorkee on 14th August, 2023 at the Roorkee Cantonment. The event was organised to provide the students with an opportunity to understand and explore the diverse weapons and equipment used by the Garhwal Rifles. Team Watch Out! got the opportunity to attend and cover the event.
+![](/images/posts/esports/1.jpg)
 
-  
-
-![](/images/posts/weapons/1.jpeg)
+**Watch Out!**-  Before we talk about the event, as ESports is a new group, please tell us a little about the work you do and how it is bringing a different experience for the campus junta.
 
 
-The Garhwal Rifles is an esteemed infantry regiment of the Indian Army, with a rich history dating back to its establishment in 1887. Originating from the picturesque region of Garhwal in the northern Indian state of Uttarakhand, the regiment has a deep connection to the local culture and traditions.
-
-  
-
-Over the years, the Garhwal Rifles have distinguished themselves in numerous military campaigns and conflicts, showcasing their valor, discipline, and dedication. They have actively participated in both World Wars as well as various post-independence operations, including counter-insurgency missions and peacekeeping endeavors.
-
-![](/images/posts/weapons/2.jpeg)
-
-  
-
-The event was managed and organised by the 15th Battalion of The Garhwal Rifles. Around 450 students reached the exhibition site seated in army buses and trucks. The crowd seemed extremely excited to experience what it felt like to travel in a military vehicle.
-
-  
-
-![](/images/posts/weapons/3.jpeg)
-![](/images/posts/weapons/4.jpeg)
-
-  
-
-At the exhibition site various short and long range weapons and assisting equipments were displayed with Army personnels stationed at every stall explaining the workings of the equipment. A brief summary of the displayed equipments are mentioned below:
-
-![](/images/posts/weapons/5.jpeg)
+**ESports**- As part of our initiative, we aim to create a thriving gaming community on campus, which will allow students to showcase their gaming skills and engage in healthy competition. Our club not only offers entertainment but also fosters teamwork, strategic thinking, and problem-solving skills among the members. Through our events, we strive to create a unique and inclusive experience that resonates with the campus junta, offering them a chance to connect, compete, and have fun in the world of ESports.
 
 
--   AGS -30 Grenade Launcher :
-    
+**Watch Out!**- What did the inception of the group look like, and what hurdles did you face while doing so?
 
-    -   Country of Origin: Russia
-    
-    -   Used in Russia during 1975, brought to India in year 2000
-    
-    -   Has a 30 Grenade Round.
-    
-    -   Grenade launched kills anyone in its 7m range and affects a 150m range.
-    
-    -   The Launcher has a range of 50m-2100m.
-    
-    -   Has rotate left to right to 410  and a maximum elevation of 670.
-    
 
-  
+**ESports**-The inception of ESports IITR began with a shared passion for gaming among students. Initially organizing small events, we faced challenges in obtaining funding and convincing the administration of ESports value. Dedication, persuasive communication, and showcasing benefits helped us secure sponsorships and grow the community. With support from students, faculty, and sponsors, we overcame obstacles and expanded our reach, hosting larger successful events.
 
--   7.62mm MMG:
-    
 
-    -   Country of Origin: Belgium
-        
-    -   Has a 3600 rotation,i.e., can fire in any direction.
-        
-    -   Has a round of 1000 bullets, which are bound by a belt.
-        
-    -   Can fire around 600-1000 RPM.
-        
-    -   Every fifth bullet glows, which can be used to mark an enemy or observe where the bullets are fired.
-        
-    -   Has a killing range of 1800m and a Maximum range of 3900m.
-        
-    -   It is controlled by 3 “Jawaans” -
-    
+**Watch Out!**-  Considering the opportunities ESports is giving us, what culture change is expected among the students at IITR?
 
-        -   Jawaan 1: pulls the trigger
-            
-        -   Jawaan 2: controls the belt of ammo
-            
-        -   Jawaan 3: observers the Enemy
-    
 
-    -   It is gas operated, the gas produced while firing is collected to use it again for firing.
-    
+**ESports**-Students at IITR are likely to experience a cultural shift due to the emergence of ESports. This transformation could manifest in several ways, such as fostering stronger teamwork, encouraging strategic thinking, and enhancing digital proficiency. A heightened sense of competition may also lead to increased social interactions among students during gaming events. The importance of maintaining a well-rounded lifestyle and prioritizing academic pursuits must also be emphasized, however.
 
-  
 
--   51mm Mortar:
-    
+![](/images/posts/esports/3.jpg)
 
-    -   Country of Origin: India
-        
-    -   Maximum range: 1080 meters
-        
-    -   Has three kinds of shot:
-        
 
-        -   One that explodes and kills the enemy
-            
-        -   One that shatters and spreads the shrapnels to a larger radius causing maximum damage
-            
-        -   One that flares up at night and is used to observe the enemy at night
-            
+**Watch Out!**- How is life for a student in this Group?
 
-    -   Muzzle loading is done using tripwires
-    
 
-  
+**ESports**- Being part of the ESports club at IITR offers students a dynamic and engaging experience. They become part of a passionate gaming community, engage in thrilling tournaments, and cultivate skills in teamwork, strategy, and leadership. The group fosters connections among fellow gamers, facilitating experience sharing and learning.Students also have the opportunity to organize a variety of ESports events throughout the year, which adds another layer of leadership and engagement.Achieving a well-rounded experience necessitates a harmonious balance between academics, gaming, and other activities.
 
--   INSAS (Indian Small Arms System):
-    
+![](/images/posts/esports/4.jpg)
+![](/images/posts/esports/5.jpg)
 
-    -   Country of Origin: India
-        
-    -   It belongs to a family consisting of Assault Rifle and Light Machine Guns.
-        
-    -   Uses 5.56mm Ammunition.
-        
-    -   Gas powered assault rifle that uses the pressure from the exhaust gases to load the the next round.
-    
 
-  
+**Watch Out!**- Coming back to what we came for, please describe the event Arcade Kaisihi.
 
--   84mm MK-III:
-    
 
-    -   Country of Origin: Sweden
-        
-    -   Fires 84mm rockets
-        
-    -   Weighs around 10 kg
-        
-    -   Mainly used against tanks or heavy machinery
-        
-    -   Two men are required to operate the equipment:
-    
+**ESports**- The name of the Event is Arcade Kaishi 2.0. “Kaishi” means “to begin beginning to start initial”, as this event is exclusively for UG and PG freshers. This is the second edition of the event. The first edition was conducted last year and this year we are giving better goodies and gifts. Five games are being played in this year’s event: Rocket League, Tekken, FIFA, Jumpforce and Forza. The criteria for the leaderboard ranking depends on the count of consecutive victories and the shortest race completion time.
 
-        -   One who loads the rocket in the launcher
-            
-        -   One who takes the aim and fires
-    
 
-    -   The explosive exhaust gases can travel upto 60 metres behind the weapon and can cause harm to anybody who stands directly behind it.
-        
+**Watch Out!**- What are the prizes that the winners are going to get?
 
-  
 
--   7.62mm Negev LMG:
-    
+**ESports**- We will determine the Top 3 players who will each receive a Kreo Falcon Gaming Mouse as a gift. But that's not all – every participant will also receive stickers, and those who top in other activities also win T-shirts, caps, and additional stickers through giveaways. Exciting giveaways of various goodies by ESports IITR will also take place through Instagram campaign too.
 
-    -   Country of Origin: Israel
-        
-    -   It is gas operated
-        
-    -   Has a maximum firing range of 1200m
-        
+![](/images/posts/esports/2.jpg)
 
-  
 
--   7.62mm Dragunov Sniper Rifle:
-    
+**Watch Out!**- What is the future timeline for the Group?  
 
-    -   Country of Origin: Russia
-        
-    -   Effective firing range: 800m
-        
-    -   Supports a variety of sights for better observation.
-        
 
--   Anti-Tank guided Missile Launcher Unified
-    
+**ESports**- In the future we are planning to conduct more exciting and thrilling events. In the coming month we are going to conduct our flagship event Resurrection which we introduced this very first time. This is going to happen after the MTEs so that the students can enjoy this event as much as possible. We chose this event because after MTEs and especially the intern season, we as a club and a  part of the gaming community, try to help our campus gamers to enjoy and move out the stress. And after this we will go for the recruitment of various verticals for this year and hunt for the passionate gamers and peoples who are very excited and passionate to grow the gaming culture in our campus. So, in the future we are coming up with more big events and workshops but for now i think we have the whole right to keep up the hype and excitement for the next.
 
-    -   Country of origin: Russia (Currently manufactured in Bharat Dynamics Limited, Hyderabad)
-        
-    -   The missiles used are called Konkurs
-        
-    -   These are wire guided missiles that can be programmed to chase a moving target upto a range of 12 km.
-        
-    -   The programmes to guide the missile are relayed through the wire.
-        
-    -   The launcher is agile and can be adjusted both vertically and horizontally to accurately guide the missile.
-        
-    -   The scope fitted in the launcher has a periscope which helps spot enemy movement without compromising our position.
-        
 
--   PNVB (Passive Night Vision Binocular):
-    
 
-    -   Country of Origin: India
-        
-    -   Used for observation of enemy, cars, etc at Night.
-        
-    -   Although this can be mounted on rifles, it is generally used without mounting.
-        
-    -   Has a 4 times zoom capability.
-        
 
-  
+**Watch Out!**-What else can we expect from ESports IITR in future? Any future plans?
 
--   TDLS 5.56mm INSAS RIF (Telescopic Day Light Sight):
-    
 
-    -   Country of Origin: India
-        
-    -   It is used to observe enemies, cars, etc during daylight hours.
-        
-    -   This can also be mounted on rifles.
-        
-    -   Has a 4 times zoom capability.
-        
+**ESports**-The future vision of ESports IITR is to develop an extensive gaming community at IIT Roorkee, featuring large tournaments, collaborations with other universities, skill-based competitions with industry insights, a dedicated gaming space, and an active gaming community. IIT Roorkee's organization strives to build a culture of competitive excellence and camaraderie among gamers through the creation of skilled rosters for inter-collegiate tournaments. As a trailblazing presence in collegiate ESports, ESports IITR is positioned to forge a pioneering path through innovative initiatives and the implementation of strategic initiatives.
 
-  
+**Watch Out!**- What are some of the notable Achievements of IITR ESports?
 
--   HHLRF(Hand Held LASER. Range Finder) :
-    
 
-    -   Country of Origin: India
-        
-    -   Can be used to observe a range of 80m-20km.
-        
-    -   Has a 6 times zoom capability.
-        
+**ESports**-During the Inter-IIT Cultural Meet 5.0 held in January 2023, ESports was introduced for the first time, featuring two ESports titles: Valorant and FIFA. In Valorant, we assembled two rosters from IIT Roorkee, selecting players based on their past tournament performances. Our efforts resulted in securing a gold medal in Valorant with a resounding one-sided victory. Additionally, we achieved a bronze medal in FIFA. As this marked the inaugural introduction of ESports in the Inter-IIT Cultural meet, our performance exceeded expectations. We are determined to maintain this level of excellence in the upcoming Inter-IIT events.
 
-  
 
--   Spotter Scope:
-    
 
-    -   Country of Origin: USA
-        
-    -   It is used to observe enemies, cars, etc.
-        
 
-  
-
-![](/images/posts/weapons/7.jpeg)
-![](/images/posts/weapons/8.jpeg)
-
-  
-
-The event was a success as the students returned with a deeper understanding of the weapons and equipments used by the Indian Army. It was a hot topic of debate during the return journey, who had used which gun in the FPS games that they planned online. ADCI office said that it will continue organising such events in the future also and will try to allot slots so that the event is hassle free and everyone can learn about the mighty weapons in a detailed manner.

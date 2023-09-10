@@ -5,7 +5,7 @@ category: report
 author: "Govind S"
 tags: [wona]
 image: guiding/1.jpg
-excerpt: "Guarding hope : A candid conversation with a wellness expert on world suicide prevention day" explores WHO's theme of "creating hope through action" .Shining a light of hope In our recent interview with the wellness pro, we explored the power of resilience and community on Suicide Prevention Day. Let's keep inspiring positive change. 💪💚"
+excerpt: "Guarding hope : A candid conversation with a wellness expert on world suicide prevention day" explores WHO's theme of "creating hope through action" .Shining a light of hope In our recent interview with the wellness pro, we explored the power of resilience and community on Suicide Prevention Day. Let's keep inspiring positive change."
 ---
 
 As I raced down the path, my phone chimed like an impatient orchestra conductor with a missed call from Ashfak Sir and another from Shivani Ma’am. I practically sprinted towards the Wellness Centre, where the signboard promised serenity and bliss – though my phone’s incessant alerts begged to differ.

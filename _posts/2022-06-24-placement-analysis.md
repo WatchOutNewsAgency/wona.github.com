@@ -77,21 +77,6 @@ As always, most of the offers were for the role of SDE, with 498 placements bein
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/zJ4mWz_9i/" title="Branch-wise Profile Distribution" style="border: 0; width: 100%; height: 700px"></iframe>
 
-## CTCs
-
-Coming to the much coveted CTCs, for which students grind day and night. The average CTC across all branches and profiles turned out to be **19.84 lakh INR**. The highest CTC was offered by **Uber International (SDE)**, a whopping **2.16 crores INR**. Branch-wise analysis revealed that **CSE** had the highest average CTC of **36.68 lakh INR**, followed by **IMSc Applied Mathematics** with **36 lakh INR**. Companies hiring for **SDE** profiles offered high CTCs with an average of **24.11 lakh INR**.
-
-The following graphs give detailed information about the CTCs:
-
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/FsgGe0558/" title="Profile-wise Average CTC" style="border: 0; width: 100%; height: 300px"></iframe>
-
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/7RwXCMmW5/" title="Branch-wise Average CTC (UG + IMSc + IMT)" style="border: 0; width: 100%; height: 600px"></iframe>
-
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/sXkifiRzk/" title="Branch-wise Average CTC (PG)" style="border: 0; width: 100%; height: 800px"></iframe>
-
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/v9x-aW1bQ/" title="Branch-wise Average CTC (PhD)" style="border: 0; width: 100%; height: 400px"></iframe>
-
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/iVxAyJuMW/" title="Degree-wise Average CTC" style="border: 0; width: 100%; height: 250px"></iframe>
 
 Placements for the year 2021 were impressively on an upswing compared to the past year. However, the immutable issue of having not enough diversity among the profiles remained as it is, the software profiles eclipse the various other profiles still. Providing later slots/dates to Analyst or Consultant profiles leads to companies reducing their pay figures. This makes students gravitate towards software roles.
 
@@ -99,7 +84,7 @@ The campus culture helps students explore a wide range of career options and pro
 
 On-campus placements definitely have an edge in comparison to off-campus placements due to a straightforward, transparent and simplified process. The tasks of emailing and approaching the company are done by the PIC, and most of the major firms recruit through campus placements. But students interested in other profiles, due to lack of offers, choose to dive into the chaotic rigmarole of off-campus placements by a variety of methods, approaching their alumni networks or through LinkedIn, among other methods. In these matters, the PIC needs to take concrete steps to accommodate the needs of the students. The PIC has the sole power and authority to approach the companies, talk to the HRs and negotiate the hiring date and offers. Big firms and reputed brands fight over earlier slots and provide fairly high enumeration only when given the slot of higher priority. Certain firms do not come for hiring even after taking the test and shortlisting the candidates. When given a lower priority, reputed firms either refuse from recruiting or reduce their pay packages. In the end, it is the student community that suffers.
 
-Unquestionably the placements hold much importance in a student’s life, but it is vital to keep in mind that they are not the only metric for a ‘successful college life’. A lot many things can go not so well on the interview day, and it is easy to fumble up under an immense rush and peer pressure or standing up for your own expectations. The starting CTCs may not represent all your skills you have developed in this prestigious institution.
+Unquestionably the placements hold much importance in a student’s life, but it is vital to keep in mind that they are not the only metric for a ‘successful college life’. A lot many things can go not so well on the interview day, and it is easy to fumble up under an immense rush and peer pressure or standing up for your own expectations.
 
 There are many things the junta needs to know about the workings of the PIC, like the workings of the current system and the problems students face during placements and internships. WO! will continue to report on these issues.
 

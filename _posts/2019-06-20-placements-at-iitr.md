@@ -113,26 +113,6 @@ The next infographic gives an insight into the kinds of profile offered by the c
  
  <iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/n6GkGWQfF/" style="border: 0; width: 800px; height: 500px"></iframe>
 
-Students grind day and night throughout their college lives to get that coveted  Day 1/2/3 jobs that usually guarantees fat pay cheques and fancy profiles. A high paying job is something that everyone fancies even before coming to the campus. This year the overall average CTC turned out to be **14.727 Lakh INR. Microsoft Redmond** and **Uber International** offered the highest paying packages of **INR 1.5 crores** and **INR 1.20 Crores** respectively. App Dynamics, Squarepoint Capital, Uber India, Microsoft, JP Morgan, Mercari were among the other high payers with packages **above 30 Lakh INR**. 
-
-Companies that come to hire for software profiles pay a very substantial remuneration (average of **INR 23.15 Lakhs**) and are awarded an earlier recruitment day whereas core engineering profiles offering an average CTC of **INR 10.19 Lakhs**, have to settle for a later date. Conversely, providing a later slots/date to finance or consult profiles leads to companies reducing their pay figures. This potentially creates a bias which makes students gravitate towards software roles, as seen in the heavy coding culture on campus. The following graphs give detailed information about the CTCs:
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/g5qOETUzj/" style="border: 0; width: 800px; height: 500px; " scrolling="no" ></iframe>
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/k-Pi4NM5Y/" style="border: 0; width: 800px; height: 800px" scrolling="no"></iframe>
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/62cp8DUI0/" style="border: 0; width: 800px; height: 350px" scrolling="no"></iframe>
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/EjTFdL_Mz/" style="border: 0; width: 800px; height: 500px"></iframe>
-
-There seems to be almost negligible difference between the average CTC of Male and Female of the campus. Profile wise, maximum females took jobs in the Core Engineering (31) followed by Software Development (**21**).
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/uycTqHq49/" style="border: 0; width: 800px; height: 500px" scrolling="no"></iframe>
-
-<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/L-FpRhjZK/" style="border: 0; width: 800px; height: 650px" scrolling="no"></iframe>
-
-<i> **\*Note**: We have analysed the data on the basis of students placed not the number of offers made by the companies. In case you want to go through the data we used, you can visit **Placement Online** on **Channeli** wherein under the **Extra** Section you will find Branch-wise, Company-Wise and Department-Wise offers made. The data we present here excludes all the duplicate and rejected offers mentioned on the portal. The CTCs used for the analysis along with the profiles were obtained from **Channeli Notice Board**. Due to the unavailability of data of PPOs, we weren’t able to analyse the same in detail. There have been major issues in availing proper data due to lack of provisions and measures in the system to keep a detailed record. We have tried our best to provide as authentic trends as possible. In case you find any discrepancy, feel free to write to us.</i>
-
 
 ## Bridging The Gap
 The Placements 2018-19 fared well for the students with a total of **1005** students **accepting** the offers. The lack of diversity and variety of job profiles during placement season has been pointed out since long, TPO claims that as compared to last year, this time many new companies visited for Finance (**8 companies**), Quantitative Research and Analyst roles (**3 companies**), but still, the number of students placed in these profiles are very low (**33 and 8 respectively**). Google, JP Morgan, AQR Capital, Appdynamics, Sprinklr, Squarepoint Capital, Udaan and Fractal Analytics were a few top names that recruited for the first time from our campus.

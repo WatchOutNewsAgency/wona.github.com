@@ -14,30 +14,15 @@ We conducted primary research by circulating a google form on 23rd January 2024 
 
 Through this article, we aim to tackle these issues by trying to get information from members of these clubs as well as the Faculty Advisors of these clubs. This article will serve the dual purpose of answering these questions and will also act as a repository of information for future batches.
 
-## Contents
-
-1.  A brief introduction to the clubs
-    
-2.  Insights from the survey
-    
-3.  Common concerns raised by students
-
-4.  Verbatim with Faculty Advisor: NSS & NCC
-    
-5.  Verbatim with Gensec Sports Affairs
-    
-6.  Verbatim with Deputy General Secretary, NCC
-    
-
 ##   A brief introduction to the clubs
 
 
-**NSS: Shaping Character Through Service;** embodies "Education through Service," fostering qualities like community understanding, problem-solving, and civic responsibility. It bridges campus and community, instilling leadership and democratic values while promoting national integration and social harmony. NSS offers a holistic platform, equipping students with skills to contribute meaningfully to society and fostering unity with the broader community.  
+**NSS: National Service Scheme;** embodies the value of "Not for me, but for the Nation", with a vision to proliferate social harmony. It aims to develop students into accomplished social leaders & administrators. NSS IIT Roorkee is an organisation comprising over 1000 active & dedicated members striving for the betterment of India by fully indulging themselves in the service of mankind.  
 
-**NCC: Fostering Leadership and Duty;** is a voluntary youth movement focusing on holistic development through values like duty, commitment, and discipline. It offers diverse activities emphasising social service, adventure training, and leadership cultivation. Positioned as educational, not military, it nurtures character and leadership, preparing youth for diverse leadership roles with its motto "UNITY AND DISCIPLINE."  
+**NCC: National Cadet Corps;** is a youth development movement focusing on promoting overall development of the youth through values like duty, commitment, and discipline. NCC IITR falls under the unit 3 UK Composite Technical Regiment National Cadet Corps of the Indian Army and is one of the oldest NCC units in the country. It offers diverse activities emphasising social service, adventure training, and leadership cultivation. Positioned as educational, not military, this student unit of NCC nurtures character and leadership, preparing youth for diverse leadership roles with its motto "UNITY AND DISCIPLINE.  
 
 
-**NSO: Promoting Sporting Culture;** is backed by the Government of India and promotes athletics, sports among youth. It enhances infrastructure, sports management, and coaching, emphasising values like teamwork and discipline. Encouraging active participation in sports, NSO fosters individual growth, camaraderie, and sportsmanship, shaping well-rounded individuals for academic and personal success.
+**NSO: National Sports Organisation;**  is a Government of India backed scheme, launched in 2007-08 to spread awareness of physical fitness and importance of sports among students. Its operation is handled by the Institute Sports Council (ISC). Encouraging active participation in sports, NSO enhances individual growth, camaraderie, and sportsmanship, shaping well-rounded individuals for academic and personal success. It also improves infrastructure, sports management, and coaching.
 
 
 ## Some insights from the survey
@@ -66,7 +51,7 @@ Of the students we surveyed, about 1 in 5 students did not choose the club volun
 
 ## Common concerns raised by students
 
-1.  ### Compulsory Participation in NSO, NCC, or NSS
+-  **Compulsory Participation in NSO, NCC, or NSS**
     
 
 In adherence to the curriculum of 2023, students are necessarily required to choose one among NSO, NCC, and NSS during their first year. Selection processes would vary, with NSO focusing on sports capabilities and NCC employing its own criteria.
@@ -82,7 +67,7 @@ Regarding the same, Ankit Dhaka, General Secretary (Sports Affairs) mentioned:
 
 The presence of students in any one out of NSO, NSS, NCC is akin to a formal curriculum for first-year students, hence their obligatory attendance. This also explains the enforcement of attendance regulations for NSO. First-year students allocate more time to technical clubs than to NSO, NSS, and NCC activities.
 
-2.  ### Random selection procedure
+-  **Random selection procedure**
     
 
 Several students mentioned problems with the selection procedure of these clubs. According to some students, they were assigned the club at random and different from the choice that they initially opted for. This led to students having to work in an area which is different from their interest for almost a year, defeating the purpose of compulsory participation in these clubs. In addition, some students reported glaring flaws in the selection process within these clubs with some students being preferred over the others because of good relations with seniors.
@@ -93,14 +78,14 @@ This was especially reported by students who are a part of NSS where according t
 
   
 
-3.  ### Lack of clarity regarding credits associated with these clubs
+-  **Lack of clarity regarding credits associated with these clubs**
     
 
 Students complained of being threatened to attend practices and meetings of these clubs otherwise they would be “failed” in this subject. It is however unclear how credits for these clubs will be evaluated. In the mail sent by ADOSW Prof. MV Sunil Krishna, it is mentioned that compulsory participation in either of NSS, NSO or NCC will count for Non-Credit Elements (NCE) of respective courses, which have been introduced under the New Education Policy. This will be assessed by respective mentors and faculty advisors. A minimum of 4 and a maximum of 8 non credit elements are allocated for these clubs.
 
   
 
-4.  ### Irregular Time Commitments
+-  **Irregular Time Commitments**
     
 
 Out of 102 responses for the question regarding time commitment expected for their vertical in NSS/NSO/NCC, about 35% students mentioned that they are required to be present 1-2 times a week. 33% of students are called 3-4 times a week, while 19% have commitments less than once a week. The remaining 13% students had mixed responses.
@@ -113,13 +98,13 @@ Such extreme disparity in the time needed to be allotted caused a lot of confusi
 
 1.  Ankit Dhaka, General Secretary (Sports Affairs) for NSO:  
     While we acknowledge our demands on their time, students haven't dedicated sufficient time to these activities. Only a handful of sports, such as hockey, receive adequate time allocation by students.  
-    When questioned about why certain sports required more time, he responded, "It's part of the curriculum, so we have the flexibility to manage it as we see fit."
+    *When questioned about why certain sports required more time, he responded*, "It's part of the curriculum, so we have the flexibility to manage it as we see fit."
     
 
   
 
 2.  Professor Diptimayee Nayak, Faculty Advisor NSS, NCC:  
-    When asked about a section of students who didn't join any of the three clubs in their first semester, Prof Nayak responded, “It’s the responsibility of students to join and also engage themselves actively in the activities of these clubs. Many of the students would just want to enrol but would not like to take responsibility by being members of the group.”
+    *When asked about a section of students who didn't join any of the three clubs in their first semester, Prof Nayak responded*, “It’s the responsibility of students to join and also engage themselves actively in the activities of these clubs. Many of the students would just want to enrol but would not like to take responsibility by being members of the group.”
     
 
 ## Verbatim with Professor Diptimayee Nayak, Faculty Advisor NSS and NCC
@@ -136,7 +121,7 @@ Based on the data collected from the responses of first-year students, we interv
 
 **Watch Out!:** NCC becomes hectic for students at the time of Republic Day and Independence Day, and NSS at the time of the Social Summit. Are there any significant activities of these clubs other than the mentioned time?
 
-**Prof. Nayak**: There are many significant activities in NSS, but they are not as familiar or popular as Social Summit (in this, all students are involved, which is not the case in others). There are annual events such as blood donation camps, medicine donation drives, and cloth donations, especially during the last week of October, the 1st week of November, and April end, the 1st week of May (some of the students also stay here for some days in their holidays to distribute the collected clothes). They also work in the women empowerment cell,in which they visit villages (Hastinapur) and train them in e-trading for handicrafts or other things that help them sell and earn money. They also visit orphanages, where they act as education tutors or encourage students in cultural and artistic aspects and provide assistance to them by providing required materials such as brushes, paints, etc. They also engage in voluntary teaching. NSS works on the environment, health, education, etc. They are also active in the JEE cell, where last year 5 students could crack the JEE exam without any coaching from the guidance of IITr students. Even the students were physically called here for guidance. Last year, during the flood, students were called for assistance (there was a call from the army containment head to the faculty). Within three days, students ran a campaign and raised the donation, and they were also responsible for distributing the raised money. They collaborate with NGOs, ministries, and health departments as well. Only 50–60 members are actively involved in the group. Messages regarding the activities would be put in the group by faculty and other heads, but it’s the responsibility of students to actively engage in those.  
+**Prof. Nayak**: There are many significant activities in NSS, but they are not as familiar or popular as Social Summit (in this, all students are involved, which is not the case in others). There are annual events such as blood donation camps, medicine donation drives, and cloth donations, especially during the last week of October, the 1st week of November, and April end, the 1st week of May (some of the students also stay here for some days in their holidays to distribute the collected clothes). They also work in the women empowerment cell,in which they visit villages (Hastinapur) and train them in e-trading for handicrafts or other things that help them sell and earn money. They also visit orphanages, where they act as education tutors or encourage students in cultural and artistic aspects and provide assistance to them by providing required materials such as brushes, paints, etc. They also engage in voluntary teaching. NSS works on the environment, health, education, etc. They are also active in the JEE cell, where last year 5 students could crack the JEE exam without any coaching from the guidance of IITR students. Even the students were physically called here for guidance. Last year, during the flood, students were called for assistance (there was a call from the army containment head to the faculty). Within three days, students ran a campaign and raised the donation, and they were also responsible for distributing the raised money. They collaborate with NGOs, ministries, and health departments as well. Only 50–60 members are actively involved in the group. Messages regarding the activities would be put in the group by faculty and other heads, but it’s the responsibility of students to actively engage in those.  
 On the other hand, NCC is directed towards incorporating discipline and patriotic orientation in students. Every 6 months, there will be a blood donation camp, one by NCC and another by NSS. They run awareness campaigns and half- or full-marathons.
 
 **Watch Out!:** Do you think it’s fair if the students have to miss lectures for practice drills and groundwork for Summit during these times? Could you also share insights into the considerations behind this scheduling and whether there are measures in place to support students in managing both their external and academic commitments effectively?
@@ -164,7 +149,7 @@ Additionally, there has been a recent change where credits were removed from NSO
 
 **Gensec Sports**:  We seek commitment from individuals. While those participating in inter-IIT competitions may not necessarily need to focus solely on fitness due to the comprehensive facilities provided at the camp, we do expect them to demonstrate discipline in return for these amenities. This same expectation of sincerity is upheld here as well. Additionally, these sessions occur only once or twice a week, totaling around 7-8 times overall, which is manageable.
 
-## Insights from the NCC Head Interview
+## Verbatim with Deputy General Secretary of NCC
 
 In order to understand the workings of **NCC** better, we engaged in conversation with the Deputy General Secretary of NCC, **Himanshu Ranjan**. Through this discussion, we gained valuable insights.
 
@@ -182,7 +167,7 @@ In order to understand the workings of **NCC** better, we engaged in conversatio
 
   
 
-**HR**: There are only 202 vacancies in the NCC in IIT Roorkee so only 202 students can be accommodated in NCC. This year, a total 260+ forms were filled but due to limitation of the vacancies only 202 were taken into the NCC. And this vacancy is maintained by the Govt. of India. It is not in their control.
+**HR**: There are only 202 vacancies in the NCC in IIT Roorkee so only 202 students can be accommodated in NCC. This year, a total 260+ forms were filled but due to limitation of the vacancies only 202 were taken into the NCC. And this vacancy is maintained by the Govt. of India. It is not in our control.
 
 **Watch Out!**: How are recruitments for NCC done? Some students complained of not being informed of the recruitment process in advance. By what means students are informed about the timing? Additionally, it's unclear how information about the timing and requirements for recruitment is communicated to the students.
 
@@ -192,7 +177,7 @@ In order to understand the workings of **NCC** better, we engaged in conversatio
 
 **HR**: There are 4-5 classes a month for NCC which are 2 hours long. Here, a generic knowledge about tactics and instruments is given. Along with that refreshments are also provided. During Republic and Independence Day, not all cadets are forced to join the parade (60-70 among 202 are needed), so not all were forced to come.
 
-These are days of national pride as well as college importance and it is the responsibility of an NCC Cadet to be available on such occasions. It was only for a couple days when students were asked to leave classes and attend the parade. It was the final rehearsal with band before 26th of January.
+These are days of national pride as well as college importance and it is the responsibility of an NCC Cadet to be available on such occasions. It was only for a couple days when students were asked to leave classes and attend the parade. It was the final rehearsal with band before the 26th of January.
 
 **Watch Out**!: Certain students experience boredom as a result of the repetitive nature of drills in their routine. In addition to parades, are there any recreational or sports activities available for students to engage in? Don’t you think introducing a variety of activities beyond drills can contribute to a more dynamic and engaging experience for students, fostering a more enjoyable and well-rounded environment.
 

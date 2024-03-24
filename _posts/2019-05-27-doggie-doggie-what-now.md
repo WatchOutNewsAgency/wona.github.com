@@ -74,6 +74,6 @@ This issue can be dealt with if the dogs are treated properly. The campus has a 
 
 The Dog Menace Committee meets every month, so any rule/initiatives which may have loopholes are expected to be revamped. Roorkee’s pup fiction will need an active contribution from the campus junta to have a happy and warm ending.
 
-<span style="text-decoration:underline">[Minutes of Meeting of the Dog Menace Committee Meeting, 15 th April 2019 (PDF)]({{ site.url }}/{{ "notice240420192.pdf" }})</span>
+<span style="text-decoration:underline">[Minutes of Meeting of the Dog Menace Committee Meeting, 15 th April 2019 (PDF)]({{ site.url }}/{{ https://drive.google.com/file/d/1Ro59qPApmDfeWm5k_YyI3-p5jzWroQFa/view?usp=sharing }})</span>
 
 ![pic](/images/posts/doggoz2.png){: style="width:70%;height:auto"}

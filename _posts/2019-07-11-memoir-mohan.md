@@ -8,4 +8,4 @@ author: "Mohan Agrawal"
 excerpt: "Closure is a made up thing invented by Steven Speilberg to sell movie tickets."
 ---
 
-<a href="/MohanMemoir.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Click here to read the memoir</button></a>
+<a href="https://drive.google.com/file/d/1nbzxbZUrkZ5G2CL47KHke-pAh_xKMvaB/view?usp=sharing" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Click here to read the memoir</button></a>

@@ -10,4 +10,4 @@ It is pretty difficult to choose a field of study that you might have to stick w
 
 ![pic](/images/posts/branch-guide-23.png){: style="width:100%;height:auto"}
 
-<a href="/WatchOutsGuidetoBranches2023.pdf" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>
+<a href="https://drive.google.com/file/d/1EV3Z-E7koxBlYd9gFWXtOjMevqKYBcvp/view?usp=sharing" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>

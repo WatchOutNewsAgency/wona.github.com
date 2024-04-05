@@ -3,7 +3,7 @@ layout: post
 title: "In conversation with ESports"
 category: report
 tags: [wona]
-image: esports/1.jpg
+image: https://lh3.googleusercontent.com/drive-viewer/AKGpihZtIz8I3EeqThBp3p53OOPtbFJWd50p59WLNJzxzGrWBEm70y61OxLo49QGOQaMR-d8Z8mE_eHGhViKf_U1X-sd6r-FoAcv9Yc=s1600-v0
 excerpt: "WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was conducted on 13th August, 2023 in SAC building. We also got the opportunity to interview a couple of senior members of the group."
 ---
 
@@ -28,7 +28,7 @@ WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was cond
 **ESports**-Students at IITR are likely to experience a cultural shift due to the emergence of ESports. This transformation could manifest in several ways, such as fostering stronger teamwork, encouraging strategic thinking, and enhancing digital proficiency. A heightened sense of competition may also lead to increased social interactions among students during gaming events. The importance of maintaining a well-rounded lifestyle and prioritizing academic pursuits must also be emphasized, however.
 
 
-![](/images/posts/esports/3.jpg)
+![](https://lh3.googleusercontent.com/drive-viewer/AKGpihY6ETEnSmQLttksinDevRBlCPxA5bclELk_tRuX-4JcKH15krMAaoHRkFmPOPWDxaVTXxK50-s_Jy7Tr2GhoA0n6dHh-VNqJAA=s1600-v0)
 
 
 **Watch Out!**- How is life for a student in this Group?
@@ -36,8 +36,8 @@ WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was cond
 
 **ESports**- Being part of the ESports club at IITR offers students a dynamic and engaging experience. They become part of a passionate gaming community, engage in thrilling tournaments, and cultivate skills in teamwork, strategy, and leadership. The group fosters connections among fellow gamers, facilitating experience sharing and learning.Students also have the opportunity to organize a variety of ESports events throughout the year, which adds another layer of leadership and engagement.Achieving a well-rounded experience necessitates a harmonious balance between academics, gaming, and other activities.
 
-![](/images/posts/esports/4.jpg)
-![](/images/posts/esports/5.jpg)
+![](https://lh3.googleusercontent.com/drive-viewer/AKGpihYN6OcRXB2ZvmQlAYBarD9AqcnYr2S57ODs4TOJIIBffynv9BAMI7_eVi7C2j_PVTxJk4yY7jgfP4bu8KY6XdXEgU42O5vINSQ=s1600-v0)
+![](https://lh3.googleusercontent.com/drive-viewer/AKGpihaYLIuxusQFt2BsRG-YemSFO1I8zMzC_8oCsxmy_bRn-_cIrnrMzrZKsTpwnGLoc3lHv0xm---6yndzmyY6Z0N-TB0vNlwhVLs=s1600-v0)
 
 
 **Watch Out!**- Coming back to what we came for, please describe the event Arcade Kaisihi.
@@ -51,7 +51,7 @@ WatchOut! Covered Arcade Kaishi , a Walk-In Event by ESports IITR which was cond
 
 **ESports**- We will determine the Top 3 players who will each receive a Kreo Falcon Gaming Mouse as a gift. But that's not all – every participant will also receive stickers, and those who top in other activities also win T-shirts, caps, and additional stickers through giveaways. Exciting giveaways of various goodies by ESports IITR will also take place through Instagram campaign too.
 
-![](/images/posts/esports/2.jpg)
+![](https://lh3.googleusercontent.com/drive-viewer/AKGpihbaV9D-RsGHHuk95RqkiyAjVKCWY3D8KEV8y9Y9j_es_jRFmMhJ3aWlt1XLoR2eSahPf60CDjyL08gM6hQFXlBuUMWohnwchx4=s1600-v0)
 
 
 **Watch Out!**- What is the future timeline for the Group?  

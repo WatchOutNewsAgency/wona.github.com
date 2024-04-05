@@ -3,7 +3,7 @@ layout: post
 title: The place that had all the magic I needed...
 tags: [wona, column]
 category: memoirs
-image: ifra-adil-cover.png
+image: https://drive.google.com/uc?id=1TWk1txJ570yWqZ9_G0fhsAwznFHQyUHJ
 author: "Ifra Adil"
 ---
 

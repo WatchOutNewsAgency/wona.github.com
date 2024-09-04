@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlacePulse: Placements 23-24"
+title: "Peeping into Placements: Placements 23-24"
 author: " Aaditya Agarwal,Animesh Kumar Maitreya, Gauri Garg, Kriti Garg, Madhupriya,Rajdeep Aher,Varun Mallya,Vamshi,Yash Singhal"
 tags: [wona, column]
 image: analysis-image.jpg

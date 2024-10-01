@@ -25,9 +25,9 @@ As a trend for every year the percentage of students placed for circuital branch
 
 **If the graphs' content isn't fully visible on your phone, switch to "Desktop Mode" or access this article using your PC.**
 
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/2ufJBlTkf/?v=3" title="Department-wise Placement Stats" style="border: 0; width: 100%; height: 500px"></iframe>#
+<iframe class="everviz-iframe" src="https://app.everviz.com/embed/2ufJBlTkf/?v=3" title="Department-wise Placement Stats" style="border: 0; width: 100%; height: 500px"></iframe>
 
-<iframe class="everviz-iframe" src="https://app.everviz.com/embed/Qnk1K93o7/?v=2" title="Branch-wise PPOs" style="border: 0; width: 100%; height: 500px"></iframe>#
+<iframe class="everviz-iframe" src="https://app.everviz.com/embed/Qnk1K93o7/?v=2" title="Branch-wise PPOs" style="border: 0; width: 100%; height: 500px"></iframe>
 
 <iframe class="everviz-iframe" src="https://app.everviz.com/embed/L4HHAJhng/?v=4" title="PPO vs Department " style="border: 0; width: 100%; height: 500px"></iframe>
 

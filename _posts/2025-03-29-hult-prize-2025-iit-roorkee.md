@@ -26,7 +26,7 @@ social impact. Industry veterans and past participants shared valuable
 experiences, helping students refine their ideas and strengthen their
 business models.
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
     <img src="/images/posts/hult-prize-2025/image4.png" style="width:2.14583in;height:2.98958in" />
     <img src="/images/posts/hult-prize-2025/image5.png" style="width:2.125in;height:2.97917in" />
 </div>

@@ -7,10 +7,6 @@ image: hult-prize-2025/image1.png
 excerpt: "The Hult Prize, one of the world’s most prestigious student entrepreneurship competitions, offers $1M in funding to startups with transformative social impact."
 ---
 
-<img src="/images/posts/hult-prize-2025/image4.png"
-style="width:2.14583in;height:2.98958in" /><img src="/images/posts/hult-prize-2025/image5.png"
-style="width:2.125in;height:2.97917in" />
-
 <!-- **Hult** **Prize** **On-Campus** **at** **IIT** **Roorkee** **2025:**
 **A** **Journey** **of** **Innovation** **and** **Sustainability** -->
 
@@ -29,6 +25,11 @@ workshops, providing insights into entrepreneurship, sustainability, and
 social impact. Industry veterans and past participants shared valuable
 experiences, helping students refine their ideas and strengthen their
 business models.
+
+<div style="display: flex;">
+    <img src="/images/posts/hult-prize-2025/image4.png" style="width:2.14583in;height:2.98958in" />
+    <img src="/images/posts/hult-prize-2025/image5.png" style="width:2.125in;height:2.97917in" />
+</div>
 
 **Engaging** **the** **Student** **Community**
 
@@ -52,8 +53,8 @@ advance:
 
 <img src="/images/posts/hult-prize-2025/image1.png" style="width:6.5in;height:6.5in" />
 
-🥇 **1st** **Place:** *Viridi* *Kranti* 🥈 **2nd** **Place:**
-*Ittakestwo* 🥉 **3rd** **Place:** *Jeevam*
+🥇 **1st** **Place:** _Viridi_ _Kranti_ 🥈 **2nd** **Place:**
+_Ittakestwo_ 🥉 **3rd** **Place:** _Jeevam_
 
 **The** **Grand** **Finale:** **IIT** **Roorkee’s** **Champion**
 

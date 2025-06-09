@@ -38,7 +38,7 @@ As a trend for every year, the percentage of students placed for circuital branc
 
 <div style="max-width: 600px; overflow-x: auto;">
   <div id="everviz-table-cu_MEDXPU">
-    <script src="https://app.everviz.com/inject/cu_MEDXPU/?v=9" defer="defer"></script>
+    <script src="https://app.everviz.com/inject/cu_MEDXPU/?v=12" defer="defer"></script>
   </div>
 </div>
 <!-- GRAPH 3: Profile-wise company count -->

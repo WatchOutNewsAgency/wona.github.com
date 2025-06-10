@@ -27,7 +27,7 @@ As a trend for every year, the percentage of students placed for circuital branc
 **If the graphs’ content isn’t fully visible on your phone, switch to “Desktop Mode” or access this article using your PC.**
 
 <!-- GRAPH 1: Statistics and numbers -->
-~<div id="everviz-0Jm4JceTf" class="everviz-0Jm4JceTf">
+<div id="everviz-0Jm4JceTf" class="everviz-0Jm4JceTf">
   <script src="https://app.everviz.com/inject/0Jm4JceTf/?v=16" defer="defer"></script>
 </div>
 

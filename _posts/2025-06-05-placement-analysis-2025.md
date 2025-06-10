@@ -18,32 +18,32 @@ In the first phase, companies begin with short presentations. Then they shortlis
 
 ## Numbers
 
-**Number of PPOs** = 221  
-**Number of Offers Made (including PPOs)** = 724  
-**Number of Companies that Recruited** = 162  
+**Number of PPOs** = 222  
+**Number of Offers Made (including PPOs)** = 742  
+**Number of Companies that Recruited** = 163  
 
 As a trend for every year, the percentage of students placed for circuital branches (CSE, ECE, EE) were the highest.
 
 **If the graphs’ content isn’t fully visible on your phone, switch to “Desktop Mode” or access this article using your PC.**
 
 <!-- GRAPH 1: Statistics and numbers -->
-<div id="everviz-0Jm4JceTf" class="everviz-0Jm4JceTf">
-  <script src="https://app.everviz.com/inject/0Jm4JceTf/?v=14" defer="defer"></script>
+~<div id="everviz-0Jm4JceTf" class="everviz-0Jm4JceTf">
+  <script src="https://app.everviz.com/inject/0Jm4JceTf/?v=16" defer="defer"></script>
 </div>
 
 <!-- GRAPH 2: PPO vs department -->
 <div id="everviz-KIhpC0Ev6" class="everviz-KIhpC0Ev6">
-  <script src="https://app.everviz.com/inject/KIhpC0Ev6/?v=6" defer="defer"></script>
+  <script src="https://app.everviz.com/inject/KIhpC0Ev6/?v=9" defer="defer"></script>
 </div>
 
 <div style="max-width: 600px; overflow-x: auto;">
   <div id="everviz-table-cu_MEDXPU">
-    <script src="https://app.everviz.com/inject/cu_MEDXPU/?v=12" defer="defer"></script>
+    <script src="https://app.everviz.com/inject/cu_MEDXPU/?v=15" defer="defer"></script>
   </div>
 </div>
 <!-- GRAPH 3: Profile-wise company count -->
 <div id="everviz-CvtHFCQCo" class="everviz-CvtHFCQCo">
-  <script src="https://app.everviz.com/inject/CvtHFCQCo/?v=4" defer="defer"></script>
+  <script src="https://app.everviz.com/inject/CvtHFCQCo/?v=5" defer="defer"></script>
 </div>
 
 Some noteworthy companies that offered PPOs were Google (16), Texas Instruments (15), Goldman Sachs (9), Microsoft (5), Jaguar (5), Samsung Research Institute (13), Oracle (9), JP Morgan (5), Adobe (6).
@@ -68,12 +68,12 @@ The number of offers from design companies remains relatively low at 1. However,
 
 <!-- GRAPH 4: Branch-wise profile distribution -->
 <div id="everviz-6hreEnYK_" class="everviz-6hreEnYK_">
-  <script src="https://app.everviz.com/inject/6hreEnYK_/?v=6" defer="defer"></script>
+  <script src="https://app.everviz.com/inject/6hreEnYK_/?v=11" defer="defer"></script>
 </div>
 
 <!-- GRAPH 5: Profile-wise offers -->
 <div id="everviz-HGsA8aCeI" class="everviz-HGsA8aCeI">
-  <script src="https://app.everviz.com/inject/HGsA8aCeI/?v=4" defer="defer"></script>
+  <script src="https://app.everviz.com/inject/HGsA8aCeI/?v=8" defer="defer"></script>
 </div>
 
 As in previous years, Software Development (SDE) roles remained dominant-attracting the largest number of companies and generating the highest number of offers. Core engineering and Data Science roles maintained a consistent presence, though offers remained lower compared to SDE. Consulting offers saw an increase this year, reflecting growing interest in this profile across recruiters.

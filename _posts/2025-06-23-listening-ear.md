@@ -55,8 +55,8 @@ Want to stay anonymous? Absolutely your choice. Your story and all details stay 
 You’ve got two ways to reach us:
 	
 - **Drop into a Sunday Call Session**  
-	Join our private Google Meet call any Sunday between 10:00 AM and 11:30 AM. You can choose your mentor, and the conversation will be personal, comfortable, and shaped around what you need.  
-	👉 [Google Meet Link](https://meet.google.com/yxo-xhyh-dhp)
+	Join our private Google Meet call any **Sunday between 10:00 AM and 11:30 AM**. You can choose your mentor, and the conversation will be personal, comfortable, and shaped around what you need.  
+	👉 **[Google Meet Link](https://meet.google.com/yxo-xhyh-dhp)**
 	
 - **Prefer scheduling?**  
 	Just send us a quick email at **ncriitraa@gmail.com** with your preferred date, time, and mentor. We’ll share a private call link and ensure everything is ready for you.

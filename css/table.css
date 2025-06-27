@@ -1,105 +1,19 @@
 .mbtablestyle {
   border-collapse: collapse;
   margin-top: 5rem;
-  width: 100%;
-  max-width: 100%;
 }
 
 .mdtablestyle {
   border-collapse: collapse;
   margin: 2rem 0;
-  width: 100%;
-  max-width: 100%;
 }
 
 .mbtablestyle td,
 .mbtablestyle th,
 .mdtablestyle td,
 .mdtablestyle th {
-  border: 1px solid black;
+	border: 1px solid black;
   padding: 0.5rem 1.5rem;
   padding-bottom: 2rem;
   vertical-align: top;
-  word-wrap: break-word;
-}
-
-/* Mobile table styles for the articles and stuff */
-@media (max-width: 768px) {
-  .mbtablestyle,
-  .mdtablestyle {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    font-size: 12px;
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-    -webkit-overflow-scrolling: touch;
-  }
-  
-  .mbtablestyle td,
-  .mbtablestyle th,
-  .mdtablestyle td,
-  .mdtablestyle th {
-    padding: 0.25rem 0.75rem;
-    padding-bottom: 1rem;
-    min-width: 100px;
-  }
-  
-  /* Alternative responsive table approach - stacked layout */
-  .responsive-table {
-    display: block;
-    width: 100%;
-  }
-  
-  .responsive-table thead {
-    display: none;
-  }
-  
-  .responsive-table tbody,
-  .responsive-table tr,
-  .responsive-table td {
-    display: block;
-    width: 100%;
-  }
-  
-  .responsive-table tr {
-    border: 1px solid #ccc;
-    margin-bottom: 10px;
-    padding: 10px;
-  }
-  
-  .responsive-table td {
-    border: none;
-    position: relative;
-    padding-left: 50% !important;
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  
-  .responsive-table td:before {
-    content: attr(data-label) ": ";
-    position: absolute;
-    left: 6px;
-    width: 45%;
-    font-weight: bold;
-    white-space: nowrap;
-  }
-}
-
-@media (max-width: 480px) {
-  .mbtablestyle,
-  .mdtablestyle {
-    font-size: 11px;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  
-  .mbtablestyle td,
-  .mbtablestyle th,
-  .mdtablestyle td,
-  .mdtablestyle th {
-    padding: 0.2rem 0.5rem;
-    padding-bottom: 0.5rem;
-    min-width: 80px;
-  }
 }

@@ -10,202 +10,348 @@
   .container {
     padding-left: 15px;
     padding-right: 15px;
+    max-width: 100%;
   }
   
-  /* Pre-nav and Navigation */
+  /* Pre-nav and Navigation - Fixed positioning with LEFT ALIGNMENT */
   .pre-nav, .pre-footer {
     height: auto;
     min-height: 80px;
     padding: 15px 0;
     position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
   }
   
   .pre-nav .brand,
   .pre-footer .brand {
-    display: block;
+    display: flex; 
     float: none;
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
+    position: relative;
+    width: auto; 
+    align-items: center;
+    flex-shrink: 0; 
   }
   
-  .pre-nav .social,
-  .pre-footer .social {
-    display: block;
-    float: none;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 10px;
+  /* Logo and text container alignment */
+  .pre-nav .brand .logo {
+    height: 50px;
+    margin-right: 15px; 
   }
   
-  .pre-nav .social > *,
-  .pre-footer .social > * {
-    margin: 0 5px;
+  .pre-nav .name-container {
+    text-align: left; 
+    padding-left: 10em;
   }
   
   .pre-nav .name-container .name {
     font-size: 16px;
+    margin: 0; 
   }
   
   .pre-nav .name-container .desc {
     font-size: 12px;
+    margin: 0; 
   }
   
-  .pre-nav .logo {
-    height: 50px;
+  .pre-nav .social {
+    display: none; 
   }
   
-  /* Mobile Toggle Button Styles */
+  .mobile-social {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    border-top: 1px solid #eee;
+    width: 100%;
+  }
+  
+  .mobile-social > * {
+    margin: 0 5px;
+    display: inline-block;
+  }
+  
   .navbar-toggle {
     position: absolute;
     right: 15px;
-    top: 25px;
+    top: 50%;
     transform: translateY(-50%);
     border: 1px solid #ddd;
-    background-color: transparent;
-    padding: 4px 6px;
+    background-color: #fff;
+    padding: 8px 10px;
     border-radius: 4px;
     cursor: pointer;
-    z-index: 1000;
+    z-index: 1002;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
   
   .navbar-toggle:hover,
   .navbar-toggle:focus {
     background-color: #f5f5f5;
     border-color: #bbb;
+    outline: none;
   }
   
   .navbar-toggle .icon-bar {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: #888;
+    background-color: #333;
     border-radius: 1px;
     margin: 4px 0;
     transition: all 0.3s ease;
   }
   
-  /* Hide original navbar on mobile */
-  .navbar {
-    display: none;
+  /* Hamburger animation */
+  .navbar-toggle.active .icon-bar:nth-child(2) {
+    opacity: 0;
   }
   
-  /* Mobile Navigation Menu Styles */
-  .mobile-nav {
-    display: none;
-    margin-top: 10px;
-    border-top: 1px solid #e5e5e5;
-    padding-top: 15px;
-    clear: both;
+  .navbar-toggle.active .icon-bar:nth-child(3) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  .navbar-toggle.active .icon-bar:nth-child(4) {
+    transform: rotate(-45deg) translate(7px, -6px);
+  }
+  
+  /* Hide desktop navbar completely on mobile */
+  .navbar.navbar-default {
+    display: none !important;
+  }
+  
+  /* Mobile Navigation Overlay */
+  .mobile-nav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+  }
+  
+  .mobile-nav-overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  /* Mobile Navigation Slider */
+  .mobile-nav {
+    position: fixed;
+    top: 0;
+    right: -320px;
+    width: 320px;
+    height: 100%;
+    background: #fff;
+    z-index: 1001;
+    overflow-y: auto;
+    transition: right 0.3s ease;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
   }
   
   .mobile-nav.show {
-    display: block;
-    animation: slideDown 0.3s ease-out;
+    right: 0;
   }
   
-  @keyframes slideDown {
-    from {
-      opacity: 0;
-      transform: translateY(-10px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  .mobile-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .mobile-nav li {
-    margin-bottom: 0;
-  }
-  
-  .mobile-nav a {
-    display: block;
-    padding: 12px 15px;
-    text-decoration: none;
-    color: #333;
+  .mobile-nav-header {
+    padding: 20px;
     border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f9fa;
+    flex-shrink: 0;
+  }
+  
+  .mobile-nav-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .mobile-nav-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #666;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
     transition: background-color 0.2s ease;
   }
   
-  .mobile-nav a:hover {
-    background-color: #f5f5f5;
-    text-decoration: none;
-    color: #333;
+  .mobile-nav-close:hover {
+    background-color: #e9ecef;
   }
   
-  /* Mobile Dropdown Styles */
+  .mobile-nav .nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mobile-nav .nav > li {
+    margin: 0;
+    border-bottom: 1px solid #eee;
+    display: block;
+    width: 100%;
+  }
+  
+  .mobile-nav .nav > li:last-child {
+    border-bottom: none;
+  }
+  
+  .mobile-nav .nav a {
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: #333;
+    transition: all 0.2s ease;
+    font-weight: 500;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .mobile-nav .nav a:hover {
+    background-color: #f8f9fa;
+    text-decoration: none;
+    color: #007bff;
+    padding-left: 25px;
+  }
+  
+  /* Mobile Dropdown Stylesas */
+  .mobile-nav .dropdown {
+    position: relative;
+    display: block;
+    width: 100%;
+  }
+  
   .mobile-nav .dropdown-menu {
     position: static;
     display: none;
     float: none;
-    width: auto;
-    margin-top: 0;
+    width: 100%;
+    margin: 0;
     background-color: #f9f9f9;
     border: none;
     border-radius: 0;
     box-shadow: none;
-    padding-left: 0;
+    padding: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    list-style: none;
   }
   
   .mobile-nav .dropdown.open .dropdown-menu {
     display: block;
+    max-height: 300px;
+  }
+  
+  .mobile-nav .dropdown-menu li {
+    border-bottom: 1px solid #e9ecef;
+    margin: 0;
+    display: block;
+    width: 100%;
+  }
+  
+  .mobile-nav .dropdown-menu li:last-child {
+    border-bottom: none;
   }
   
   .mobile-nav .dropdown-menu a {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 15px 30px;
     background-color: #f9f9f9;
-    font-size: 13px;
-    text-align: center;
+    font-size: 15px;
+    color: #666;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .mobile-nav .dropdown-menu a:hover {
-    background-color: #f0f0f0;
+    background-color: #e9ecef;
+    color: #333;
+    padding-left: 35px;
+  }
+  
+  .mobile-nav .dropdown-toggle {
+    position: relative;
+    display: block;
+    width: 100%;
   }
   
   .mobile-nav .dropdown-toggle::after {
-    content: ' ▼';
-    font-size: 10px;
-    float: right;
-    margin-top: 2px;
-    transition: transform 0.2s ease;
+    content: '▼';
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    transition: transform 0.3s ease;
   }
   
   .mobile-nav .dropdown.open .dropdown-toggle::after {
-    transform: rotate(180deg);
+    transform: translateY(-50%) rotate(180deg);
   }
   
-  /* Navbar */
-  .navbar-nav {
-    margin: 0;
-    font-size: 14px;
-  }
-  
-  .navbar-nav > li {
-    display: block;
-    float: none;
-    margin-bottom: 0;
-  }
-  
-  .navbar-nav > li > a {
-    padding: 10px 15px;
+  /* Social Links in Mobile Nav */
+  .mobile-nav-social {
+    padding: 20px;
+    border-top: 1px solid #eee;
     text-align: left;
+    background: #f8f9fa;
+    flex-shrink: 0;
   }
   
-  .navbar-collapse {
-    border-top: 1px solid #e5e5e5;
-    margin-top: 10px;
-    padding-top: 10px;
+  .mobile-nav-social a {
+    display: inline-block;
+    margin: 5px 10px 5px 0;
+    padding: 8px;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    /* padding: 14em;
+    text-decoration: none;
+    color: #333;
+    font-size: 26em; */
+    transition: color 0.2s ease;
   }
   
-  /* Header Styles */
+  .mobile-nav-social a:hover {
+    color: #007bff;
+  }
+  
+  .mobile-nav-social img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-left: 5px;
+  }
+  
+  .mobile-nav-social br {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  /* Header Style */
   #header {
     margin-bottom: 20px;
   }
@@ -214,11 +360,14 @@
     height: auto;
     min-height: 250px;
     border-radius: 0;
+    display: flex;
+    flex-direction: column;
   }
   
   #header .cover-image {
     height: 200px;
     order: 1;
+    width: 100%;
   }
   
   #header .cover-details {
@@ -229,6 +378,7 @@
   #header .title {
     font-size: 20px;
     margin-bottom: 15px;
+    line-height: 1.3;
   }
   
   #header .cover-title-label {
@@ -238,6 +388,7 @@
   #header .cover-excerpt {
     font-size: 13px;
     line-height: 1.4;
+    margin-top: 10px;
   }
   
   /* Category Header */
@@ -246,9 +397,10 @@
     margin-bottom: 15px;
   }
   
-  /* New Articles Section */
+  /* New Articles Section - Fixed positioning */
   #new-articles {
     margin-bottom: 30px;
+    position: relative;
   }
   
   #new-articles .container-title {
@@ -257,25 +409,39 @@
     margin-bottom: 15px;
     padding: 10px 15px;
     text-align: center;
+    background: #fafafa;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
   
   #new-articles .article-col {
     padding: 5px 0;
     margin-bottom: 15px;
+    width: 100%;
   }
   
   #new-articles .article {
     height: 250px;
     margin-top: 0;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
   }
   
   #new-articles .details {
     padding: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.7));
+    color: white;
   }
   
   #new-articles .details .title {
     font-size: 16px;
     line-height: 1.3;
+    margin-bottom: 5px;
   }
   
   #new-articles .details .date {
@@ -285,29 +451,35 @@
   }
   
   /* Article Horizontal Layout */
-  .article-horiozntal {
+  .article-horizontal {
     height: auto;
     margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
   }
   
-  .article-horiozntal .img-container {
+  .article-horizontal .img-container {
     height: 150px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .article-horizontal .details-container {
+    padding-left: 0;
+    flex: 1;
+  }
+  
+  .article-horizontal .title {
+    font-size: 16px;
+    line-height: 1.4;
     margin-bottom: 10px;
   }
   
-  .article-horiozntal .details-container {
-    padding-left: 0;
-  }
-  
-  .article-horiozntal .title {
-    font-size: 16px;
-    line-height: 1.4;
-  }
-  
-  .article-horiozntal .excerpt {
+  .article-horizontal .excerpt {
     font-size: 13px;
     line-height: 1.4;
     margin-top: 10px;
+    color: #666;
   }
   
   /* Post Styles */
@@ -327,6 +499,8 @@
   .post .cover-img {
     height: 200px;
     margin-bottom: 20px;
+    width: 100%;
+    object-fit: cover;
   }
   
   .post .header .title {
@@ -351,6 +525,8 @@
   #more-articles .article {
     height: 120px;
     margin-bottom: 15px;
+    border-radius: 6px;
+    overflow: hidden;
   }
   
   #more-articles .details {
@@ -367,15 +543,16 @@
     margin-top: 15px;
   }
   
-  .category-posts .article-horiozntal {
+  .category-posts .article-horizontal {
     margin-bottom: 20px;
   }
   
   /* Bootstrap Grid Fixes */
-  .col-md-4, .col-md-8, .col-sm-3, .col-sm-6 {
+  .col-md-4, .col-md-8, .col-sm-3, .col-sm-6, .col-lg-4, .col-lg-8 {
     width: 100%;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 20px;
   }
   
   /* Facebook Plugin Responsiveness */
@@ -388,11 +565,8 @@
     width: 100% !important;
   }
   
-  /* Hide Facebook sidebar on mobile */
-  .post .col-md-4 {
-    display: none;
-  }
-  
+  /* Hide sidebars on mobile */
+  .post .col-md-4,
   .category-posts .col-md-4 {
     display: none;
   }
@@ -401,6 +575,8 @@
   .post .col-md-8,
   .category-posts .col-md-8 {
     width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
   }
   
   /* Images Responsiveness */
@@ -418,12 +594,13 @@
   /* Footer */
   footer {
     margin-top: 30px;
-    padding-top: 20px;
+    padding: 20px 15px;
   }
   
   .copyright {
     text-align: center;
     font-size: 12px;
+    padding-top: 15px;
   }
   
   /* Utility Classes */
@@ -435,28 +612,41 @@
     display: block !important;
   }
   
+  .hidden-xs {
+    display: none !important;
+  }
+  
+  .visible-xs {
+    display: block !important;
+  }
+  
   /* Text adjustments */
-  h1 { font-size: 24px; }
-  h2 { font-size: 20px; }
-  h3 { font-size: 18px; }
-  h4 { font-size: 16px; }
-  h5 { font-size: 14px; }
-  h6 { font-size: 13px; }
+  h1 { font-size: 24px; line-height: 1.2; }
+  h2 { font-size: 20px; line-height: 1.3; }
+  h3 { font-size: 18px; line-height: 1.3; }
+  h4 { font-size: 16px; line-height: 1.4; }
+  h5 { font-size: 14px; line-height: 1.4; }
+  h6 { font-size: 13px; line-height: 1.4; }
   
   /* Remove margins and padding that cause horizontal scroll */
   .row {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: -15px;
+    margin-right: -15px;
   }
   
   .outer-row {
-    margin-left: -5px;
-    margin-right: -5px;
+    margin-left: 0;
+    margin-right: 0;
   }
   
   /* Ensure no horizontal scroll */
   html, body {
     max-width: 100%;
+    overflow-x: hidden;
+  }
+  
+  /* Fix container overflow */
+  .container {
     overflow-x: hidden;
   }
 }
@@ -473,12 +663,27 @@
     padding-right: 10px;
   }
   
+  .pre-nav {
+    padding: 10px 0;
+    min-height: 70px;
+  }
+  
+  .pre-nav .brand .logo {
+    height: 45px;
+    margin-right: 12px;
+  }
+  
   #header .title {
     font-size: 18px;
   }
   
   #new-articles .details .title {
     font-size: 14px;
+  }
+  
+  #new-articles .container-title {
+    font-size: 16px;
+    padding: 8px 12px;
   }
   
   .post .header .title {
@@ -489,12 +694,8 @@
     font-size: 15px;
   }
   
-  #new-articles .container-title {
-    font-size: 16px;
-  }
-  
   .container-title {
-    font-size: 20px;
+    font-size: 18px;
   }
   
   .pre-nav .name-container .name {
@@ -505,10 +706,10 @@
     font-size: 11px;
   }
   
-  /* Adjust togge button for smaller screens */
+  /* Adjust toggle button for smaller screens */
   .navbar-toggle {
     right: 10px;
-    padding: 3px 5px;
+    padding: 6px 8px;
   }
   
   .navbar-toggle .icon-bar {
@@ -517,16 +718,337 @@
     margin: 3px 0;
   }
   
-  /* Mobile nav adjustments for small screensss */
-  .mobile-nav a {
-    padding: 10px 12px;
-    font-size: 14px;
+  /* Mobile nav adjustments for small screens */
+  .mobile-nav {
+    width: 280px;
+    right: -280px;
+  }
+  
+  .mobile-nav .nav a {
+    padding: 15px 18px;
+    font-size: 15px;
   }
   
   .mobile-nav .dropdown-menu a {
-    padding-left: 25px;
-    padding-right: 25px;
-    font-size: 12px;
+    padding: 12px 25px;
+    font-size: 14px;
+  }
+  
+  /* Smaller article cards */
+  #new-articles .article {
+    height: 220px;
+  }
+  
+  .article-horizontal .img-container {
+    height: 130px;
+  }
+}
+
+/* Fix desktop dropdown z-index issues */
+@media (min-width: 769px) {
+  .navbar .dropdown-menu {
+    z-index: 1050;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+  }
+  
+  .navbar .dropdown.open .dropdown-menu {
+    display: block;
+  }
+  
+  /* Ensure proper stacking context */
+  .navbar {
+    z-index: 1000;
+  }
+  
+  /* Fix the "New Articles" positioning */
+  #new-articles .container-title {
+    position: absolute;
+    top: -2.25em;
+    left: -0.5em;
+    z-index: 10;
+  }
+}
+
+@media (max-width: 768px) {
+  
+  /* Featured Articles Container - Mobile specific */
+  #featured-articles-container {
+    margin-bottom: 30px;
+  }
+  
+  #featured-articles-container .container-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
     text-align: center;
+    background: #fafafa;
+    border-radius: 4px;
+  }
+  
+  #featured-articles-container .col-md-8,
+  #featured-articles-container .col-md-4 {
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 20px;
+  }
+  
+  /* Featured Articles - Prevent conflicts with other articles */
+  #featured-articles .article-horizontal {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  #featured-articles .article-horizontal .col-md-4 {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 0;
+    padding: 0;
+  }
+  
+  #featured-articles .article-horizontal .col-md-8 {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+  }
+  
+  #featured-articles .article-horizontal .details .title {
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 8px;
+  }
+  
+  #featured-articles .article-horizontal .details .tag {
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+  
+  #featured-articles .article-horizontal .details .date {
+    font-size: 11px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  
+  #featured-articles .article-horizontal .details .excerpt {
+    font-size: 13px;
+    line-height: 1.4;
+    color: #666;
+  }
+  
+  /* Video Container - Mobile specific styling */
+  #yt-videos-container {
+    margin-bottom: 30px;
+    padding: 0 15px;
+  }
+  
+  #yt-videos-container .container-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    text-align: center;
+    background: #fafafa;
+    border-radius: 4px;
+  }
+  
+  #yt-videos-container .row {
+    margin: 0;
+  }
+  
+  #yt-videos-container .col-md-8 {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  #yt-videos-container .col-md-4 {
+    width: 100%;
+    padding: 0;
+  }
+  
+  /* Main Video Player - Mobile */
+  #yt-videos-container .video-container {
+    margin-bottom: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  #yt-videos-container .embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  #yt-videos-container .embed-responsive-16by9 {
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  }
+  
+  #yt-videos-container .embed-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  
+  /* Video Caption - Mobile */
+  #yt-videos-container .video-caption {
+    padding: 15px;
+    background: #fff;
+    border-radius: 0 0 8px 8px;
+    margin-top: -5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  #yt-videos-container .video-caption .caption {
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+    color: #333;
+    font-weight: 600;
+  }
+  
+  /* Video List - Mobile specific*/
+  #yt-videos-container .video-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  #yt-videos-container .video-list .list-video {
+    margin: 0 0 20px 0;
+    padding: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    background: #fff;
+    display: block;
+  }
+
+  #yt-videos-container .video-list .list-video a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  #yt-videos-container .video-list .list-video .row {
+    margin: 0;
+    display: flex;
+    flex-direction: column; 
+  }
+
+  #yt-videos-container .video-list .list-video .col-md-6 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  
+  #yt-videos-container .video-list .list-video .img-container {
+    width: 100%;
+    height: 150px; 
+    overflow: hidden;
+    position: relative;
+  }
+
+  #yt-videos-container .video-list .list-video .img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  #yt-videos-container .video-list .list-video .caption {
+    padding: 15px;
+    width: 100%;
+  }
+
+  #yt-videos-container .video-list .list-video .caption span {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #333;
+    display: block;
+    font-weight: 500;
+  }
+  /* Hover effects for video list items */
+  #yt-videos-container .video-list .list-video:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+  }
+  
+  /* Facebook widget in video section */
+  #yt-videos-container .fb-page {
+    width: 100% !important;
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  /* Remove any conflicting styles base.scss is too jumbled to figure out the conflicts */
+  #yt-videos-container .center-both,
+  #yt-videos-container .img-center-fill,
+  #yt-videos-container .center-vertical {
+    position: static;
+    transform: none;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+  }
+  
+  /* Ensure proper spacing between sections */
+  #featured-articles-container + #yt-videos-container {
+    margin-top: 40px;
+  }
+}
+
+/* Extra small devices adjustments */
+@media (max-width: 480px) {
+  
+  #yt-videos-container .container-title,
+  #featured-articles-container .container-title {
+    font-size: 16px;
+    padding: 8px 12px;
+  }
+  
+  #yt-videos-container .video-caption .caption {
+    font-size: 15px;
+  }
+  
+  #featured-articles .article-horizontal .details .title {
+    font-size: 15px;
+  }
+  
+  #featured-articles .article-horizontal .details .excerpt {
+    font-size: 12px;
+  }
+  
+  #yt-videos-container .video-list .list-video .img-container {
+    width: 100px;
+    height: 70px;
+  }
+  
+  #yt-videos-container .video-list .list-video .caption {
+    padding: 12px;
+  }
+  
+  #yt-videos-container .video-list .list-video .caption span {
+    font-size: 13px;
   }
 }

@@ -10,14 +10,14 @@
   </a>
   
   <!-- Mobile toggle button -->
-  <button type="button" class="navbar-toggle" id="mobile-menu-toggle">
+  <button type="button" class="navbar-toggle visible-xs" id="mobile-menu-toggle">
     <span class="sr-only">Toggle navigation</span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
   </button>
   
-  <div class="social pull-right">
+  <div class="social pull-right hidden-xs">
     <a href="/about">About</a>
     <a href="/guide">Guide</a>
     <a href="/getinvolved">Get Involved</a>
@@ -25,31 +25,49 @@
     <a href="https://www.youtube.com/channel/UCthZ7tKOzy4EJpuVxtdcp1A"><img src="/images/youtube-play.svg"></a>
     <a href="mailto:watchout@iitr.ac.in"><img src="/images/email.png" width="16px"></a>
   </div>
+</div>
+
+<!-- Mobile navigation overlay -->
+<div class="mobile-nav-overlay visible-xs" id="mobile-nav-overlay"></div>
+
+<!-- Mobile navigation slider -->
+<div class="mobile-nav visible-xs" id="mobile-nav">
+  <div class="mobile-nav-header">
+    <span class="mobile-nav-title">Menu</span>
+    <button class="mobile-nav-close" id="mobile-nav-close">&times;</button>
+  </div>
   
-  <!-- Mobile navigation menu -->
-  <div class="mobile-nav" id="mobile-nav">
-    <ul class="nav">
-      {% for cat in site.data.categories %}
-      {% if cat.subcategories != nil %}
-      <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-category="{{ cat.name }}">{{ cat.title }}</a>
-        <ul class="dropdown-menu">
-          {% for subcat in cat.subcategories %}
-          {% if site.categories[subcat.name] != nil %}
-          <li><a href="/category/{{ subcat.name }}/">{{ subcat.title }}</a></li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-      </li>
-      {% elsif site.categories[cat.name] != nil%}
-      <li><a href="/category/{{ cat.name }}/">{{ cat.title }}</a></li>
-      {% endif %}
-      {% endfor %}
-    </ul>
+  <ul class="nav">
+    {% for cat in site.data.categories %}
+    {% if cat.subcategories != nil %}
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-category="{{ cat.name }}">{{ cat.title }}</a>
+      <ul class="dropdown-menu">
+        {% for subcat in cat.subcategories %}
+        {% if site.categories[subcat.name] != nil %}
+        <li><a href="/category/{{ subcat.name }}/">{{ subcat.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+    {% elsif site.categories[cat.name] != nil%}
+    <li><a href="/category/{{ cat.name }}/">{{ cat.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <div class="mobile-nav-social">
+    <a href="/about">About</a>
+    <a href="/guide">Guide</a>
+    <a href="/getinvolved">Get Involved</a>
+    <br><br>
+    <a href="http://fb.com/watchoutiitr"><img src="/images/fb-logo.svg" alt="Facebook"></a>
+    <a href="https://www.youtube.com/channel/UCthZ7tKOzy4EJpuVxtdcp1A"><img src="/images/youtube-play.svg" alt="YouTube"></a>
+    <a href="mailto:watchout@iitr.ac.in"><img src="/images/email.png" width="20px" alt="Email"></a>
   </div>
 </div>
 
-<nav class="navbar navbar-default" data-spy="affix" data-offset-top="110">
+<nav class="navbar navbar-default hidden-xs" data-spy="affix" data-offset-top="110">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
@@ -59,15 +77,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <!-- <a class="navbar-brand" href="/">Watch Out!</a> -->
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right hacky-css">
         {% for cat in site.data.categories %}
         {% if cat.subcategories != nil %}
         <li class="dropdown">
-          <a class="hover-underline" href="#" class="dropdown-toggle" data-toggle="dropdown">{{ cat.title }} <span
-              class="caret"></span></a>
+          <a class="hover-underline dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ cat.title }} <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for subcat in cat.subcategories %}
             {% if site.categories[subcat.name] != nil %}
@@ -82,20 +98,73 @@
         {% endfor %}
       </ul>
     </div>
-    <!--/.nav-collapse -->
   </div>
 </nav>
 
-<!-- Mobile Navigation JavaScript -->
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Mobile menu toggle functio
+    // Mobile menu elements
     const mobileToggle = document.getElementById('mobile-menu-toggle');
     const mobileNav = document.getElementById('mobile-nav');
+    const mobileNavOverlay = document.getElementById('mobile-nav-overlay');
+    const mobileNavClose = document.getElementById('mobile-nav-close');
     
-    if (mobileToggle && mobileNav) {
-        mobileToggle.addEventListener('click', function() {
-            mobileNav.classList.toggle('show');
+    // Function to open mobile menu
+    function openMobileMenu() {
+        if (mobileNav && mobileNavOverlay) {
+            mobileNav.classList.add('show');
+            mobileNavOverlay.classList.add('show');
+            mobileToggle.classList.add('active');
+            document.body.style.overflow = 'hidden'; // Prevent body scroll
+        }
+    }
+    
+    // Function to close mobile menu
+    function closeMobileMenu() {
+        if (mobileNav && mobileNavOverlay) {
+            mobileNav.classList.remove('show');
+            mobileNavOverlay.classList.remove('show');
+            mobileToggle.classList.remove('active');
+            document.body.style.overflow = ''; // Restore body scroll
+            
+            // Close all open dropdowns
+            const openDropdowns = document.querySelectorAll('.mobile-nav .dropdown.open');
+            openDropdowns.forEach(function(dropdown) {
+                dropdown.classList.remove('open');
+            });
+        }
+    }
+    
+    // Mobile menu toggle functionality
+    if (mobileToggle) {
+        mobileToggle.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            
+            if (mobileNav.classList.contains('show')) {
+                closeMobileMenu();
+            } else {
+                openMobileMenu();
+            }
+        });
+    }
+    
+    // Close button functionality
+    if (mobileNavClose) {
+        mobileNavClose.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            closeMobileMenu();
+        });
+    }
+    
+    // Overlay click to close
+    if (mobileNavOverlay) {
+        mobileNavOverlay.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            closeMobileMenu();
         });
     }
 
@@ -104,9 +173,10 @@ document.addEventListener('DOMContentLoaded', function() {
     dropdownToggles.forEach(function(toggleBtn) {
         toggleBtn.addEventListener('click', function(e) {
             e.preventDefault();
+            e.stopPropagation();
             const dropdown = this.parentElement;
             
-            // Close other open dropdowns jab some other dropdown is clicked
+            // Close other open dropdowns
             const otherDropdowns = document.querySelectorAll('.mobile-nav .dropdown.open');
             otherDropdowns.forEach(function(otherDropdown) {
                 if (otherDropdown !== dropdown) {
@@ -118,11 +188,26 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Close mobile menu when clicking outside
-    document.addEventListener('click', function(e) {
-        if (mobileNav && !mobileNav.contains(e.target) && !mobileToggle.contains(e.target)) {
-            mobileNav.classList.remove('show');
+    // Close mobile menu when window is resized to desktop
+    window.addEventListener('resize', function() {
+        if (window.innerWidth > 768) {
+            closeMobileMenu();
         }
     });
+    
+    // Handle navigation clicks (close menu after navigation)
+    const mobileNavLinks = document.querySelectorAll('.mobile-nav a[href^="/"]');
+    mobileNavLinks.forEach(function(link) {
+        link.addEventListener('click', function() {///delaye
+            setTimeout(closeMobileMenu, 100);
+        });
+    });
+    
+    // Prevent menu from closing when clicking inside the nav
+    if (mobileNav) {
+        mobileNav.addEventListener('click', function(e) {
+            e.stopPropagation();
+        });
+    }
 });
 </script>

@@ -26,10 +26,6 @@ $article-cover-img-height: 190px;
 $carousel-bg-color: #333;
 $carousel-height: 625px;
 
-// Mobile breakpoints
-$mobile-breakpoint: 768px;
-$small-mobile-breakpoint: 480px;
-
 // =============== /VARS ===============//
 
 @import "bootstrap";
@@ -60,17 +56,6 @@ $small-mobile-breakpoint: 480px;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1);
 }
 
-@mixin mobile {
-  @media (max-width: #{$mobile-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin small-mobile {
-  @media (max-width: #{$small-mobile-breakpoint}) {
-    @content;
-  }
-}
 
 // ============== /MIXINS ============== //
 
@@ -95,12 +80,6 @@ $small-mobile-breakpoint: 480px;
   src: local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v7/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
- 
-// Base styles with mobile-first approach (very impotant)
-html {
-  overflow-x: hidden;
-  max-width: 100%;
-}
 
 body {
 	font-size: 13px;
@@ -108,49 +87,21 @@ body {
 	background: #fff;
 	font-family: Lato, Merriweather, Open Sans, sans-serif;
 	@include box-sizing();
-  overflow-x: hidden;
-  max-width: 100%;
-  
-  @include mobile {
-    font-size: 14px;
-  }
-  
-  @include small-mobile {
-    font-size: 13px;
-  }
 }
 
 *{
 	font-family: Lato, Merriweather, Open Sans, sans-serif;
-  box-sizing: border-box;
 }
 
-// Ensure all containers don't overflow
-.container, .container-fluid {
-  max-width: 100%;
-  overflow-x: hidden;
-}
 
 // ================ NAV ================//
 .pre-nav, .pre-footer  {
   height: $pre-nav-logo-height * 1.6;
   border-bottom: 1px solid #f3f3f3;
 
-  @include mobile {
-    height: auto;
-    padding: 15px 0;
-    text-align: center;
-  }
-
   .brand {
     height: 100%;
     padding: $pre-nav-logo-height * .3 0;
-    
-    @include mobile {
-      float: none;
-      display: block;
-      padding: 10px 0;
-    }
   }
 
   .name-container {
@@ -158,11 +109,6 @@ body {
     position: relative;
     margin-left: 2em;
     line-height: 1;
-    
-    @include mobile {
-      margin-left: 1em;
-      height: auto;
-    }
 
     .name {
       position: absolute;
@@ -170,15 +116,6 @@ body {
       width: 7em;
       font-size: 18px;
       color: $navbar-default-brand-color;
-      
-      @include mobile {
-        position: static;
-        font-size: 16px;
-      }
-      
-      @include small-mobile {
-        font-size: 14px;
-      }
     }
 
     .desc {
@@ -187,26 +124,12 @@ body {
       position: absolute;
       bottom: 0;
       color: #ababab;
-      
-      @include mobile {
-        position: static;
-        font-size: 12px;
-        margin-top: 5px;
-      }
-      
-      @include small-mobile {
-        font-size: 11px;
-      }
     }
   }
 
   .logo {
     height: $pre-nav-logo-height;
     float: left;
-    
-    @include mobile {
-      height: 50px;
-    }
   }
 
   .social {
@@ -218,19 +141,9 @@ body {
 
     > * {
       margin-left: 1em;
-      
-      @include mobile {
-        margin: 0 5px;
-      }
-    }
-    
-    @include mobile {
-      float: none;
-      display: block;
-      padding: 10px 0;
-      margin-top: 10px;
     }
   }
+
 }
 
 nav {
@@ -246,10 +159,6 @@ nav {
     width: 100%;
     position: relative;
     left: -15px;
-    
-    @include mobile {
-      left: 0;
-    }
   }
 
   &.affix {
@@ -280,28 +189,14 @@ nav {
   float: none;
   margin-bottom: -100%; // Hack to fix the spacing between header and navbar
 
-  @include mobile {
-    display: block;
-    margin-bottom: 0;
-  }
-
   &:first-of-type a {
     padding-left: 0;
-    
-    @include mobile {
-      padding-left: 15px;
-    }
   }
 
   &:last-of-type a {
     padding-right: 0;
-    
-    @include mobile {
-      padding-right: 15px;
-    }
   }
 }
-
 .navbar-nav {
 	font-size: 16px;
   text-align: justify;
@@ -311,23 +206,6 @@ nav {
     width: 100%; /* Ensures justification for single lines */
     display: inline-block;
   }
-  
-  @include mobile {
-    font-size: 14px;
-    text-align: left;
-    
-    > li > a {
-      padding: 10px 15px;
-    }
-  }
-}
-
-.navbar-collapse {
-  @include mobile {
-    border-top: 1px solid #e5e5e5;
-    margin-top: 10px;
-    padding-top: 10px;
-  }
 }
 
 // ================ /NAV ================//
@@ -336,10 +214,6 @@ nav {
 
 #header {
   font-size: 12px;
-  
-  @include mobile {
-    margin-bottom: 20px;
-  }
 
   .header-row {
     position: relative;
@@ -349,14 +223,7 @@ nav {
     overflow: hidden;
     color: white;
     box-shadow: $home-header-shadow;
-    
-    @include mobile {
-      height: auto;
-      min-height: 250px;
-      border-radius: 0;
-      display: flex;
-      flex-direction: column;
-    }
+
   }
 
   .row {
@@ -365,20 +232,10 @@ nav {
 
   .cover-image {
     height: $home-header-height;
-    
-    @include mobile {
-      height: 200px;
-      order: 1;
-    }
   }
 
   .cover-details {
     padding: 2em 1.5em;
-    
-    @include mobile {
-      order: 2;
-      padding: 20px 15px;
-    }
   }
 
   .cover-link {
@@ -393,10 +250,6 @@ nav {
   .cover-title-label {
     font-size: 14px;
     font-weight: bold;
-    
-    @include mobile {
-      font-size: 12px;
-    }
   }
 
   .title {
@@ -404,15 +257,6 @@ nav {
     font-weight: bold;
     margin-top: 0;
     margin-bottom: 20px;
-    
-    @include mobile {
-      font-size: 20px;
-      margin-bottom: 15px;
-    }
-    
-    @include small-mobile {
-      font-size: 18px;
-    }
   }
 }
 
@@ -421,12 +265,6 @@ nav {
 
   .cover-image {
     border-radius: 10px;
-    
-    @include mobile {
-      height: 150px;
-      margin-bottom: 15px;
-      border-radius: 0;
-    }
   }
 
   .title {
@@ -449,11 +287,6 @@ nav {
 
 .cover-excerpt {
   margin-top: 12px;
-  
-  @include mobile {
-    font-size: 13px;
-    line-height: 1.4;
-  }
 }
 // ============= /HOME-HEADER ============= //
 
@@ -462,10 +295,6 @@ nav {
   color: white;
   margin-bottom: 60px;
   position: relative;
-  
-  @include mobile {
-    margin-bottom: 30px;
-  }
 
   .container-title {
     position: absolute;
@@ -613,7 +442,7 @@ nav {
 
 }
 
-.article-horiozntal {
+.article-horizontal {
   height: 10em;
   margin-bottom: 3.5em;
   margin-left: 0;

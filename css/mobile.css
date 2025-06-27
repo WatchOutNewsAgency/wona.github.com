@@ -160,8 +160,10 @@
   
   .mobile-nav .dropdown-menu a {
     padding-left: 30px;
+    padding-right: 30px;
     background-color: #f9f9f9;
     font-size: 13px;
+    text-align: center;
   }
   
   .mobile-nav .dropdown-menu a:hover {
@@ -523,6 +525,8 @@
   
   .mobile-nav .dropdown-menu a {
     padding-left: 25px;
+    padding-right: 25px;
     font-size: 12px;
+    text-align: center;
   }
 }

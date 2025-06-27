@@ -13,8 +13,7 @@
     max-width: 100%;
   }
   
-  /* Pre-nav and Navigation - Fixed positioning with LEFT ALIGNMENT */
-  .pre-nav, .pre-footer {
+  .pre-nav {
     height: auto;
     min-height: 80px;
     padding: 15px 0;
@@ -25,8 +24,7 @@
     justify-content: flex-start;
   }
   
-  .pre-nav .brand,
-  .pre-footer .brand {
+  .pre-nav .brand {
     display: flex;
     float: none;
     text-align: left;
@@ -35,31 +33,35 @@
     width: auto;
     align-items: center;
     flex-shrink: 0;
-    gap: 0px; /* Add gap between logo and text */
+    gap: 10px; /* Reduced gap between logo and text */
   }
 
-  /* Logo and text container alignment - FIXED */
+  /* Logo - FIXED: Removed excessive padding */
   .pre-nav .brand .logo {
     height: 50px;
-    padding-left: 50px;
-    margin-right: 0; /* Remove margin, using gap instead */
-    flex-shrink: 0; /* Prevent logo from shrinking */
+    padding-left: 15px; /* Changed from 50px to 15px */
+    margin-right: 0;
+    flex-shrink: 0;
   }
 
   .pre-nav .name-container {
     text-align: left;
-    padding-left: 0; /* Remove excessive padding */
-    flex-grow: 0; /* Don't grow */
+    padding-left: 0;
+    flex-grow: 0;
+    margin-left: 0; /* Ensure no extra margin */
   }
   
   .pre-nav .name-container .name {
     font-size: 16px;
-    margin: 0; 
+    margin: 0;
+    line-height: 1; /* Tighter line height */
   }
   
   .pre-nav .name-container .desc {
-    font-size: 12px;
-    margin: 0; 
+    font-size: 20px;
+    margin: 0;
+    line-height: 1.2; /* Tighter line height */
+    margin-top: 4px; /* Small gap between name and desc */
   }
   
   .pre-nav .social {
@@ -557,6 +559,7 @@
     padding-left: 15px;
     padding-right: 15px;
     margin-bottom: 20px;
+
   }
   
   /* Facebook Plugin Responsiveness */
@@ -595,17 +598,7 @@
     object-fit: cover;
   }
   
-  /* Footer */
-  footer {
-    margin-top: 30px;
-    padding: 20px 15px;
-  }
   
-  .copyright {
-    text-align: center;
-    font-size: 12px;
-    padding-top: 15px;
-  }
   
   /* Utility Classes */
   .hidden-mobile {
@@ -674,7 +667,22 @@
   
   .pre-nav .brand .logo {
     height: 45px;
-    margin-right: 12px;
+    padding-left: 10px; /* Even less padding for small screens */
+  }
+  
+  .pre-nav .brand {
+    gap: 8px; /* Smaller gap on very small screens */
+  }
+  
+  .pre-nav .name-container .name {
+    font-size: 14px;
+    line-height: 1;
+  }
+  
+  .pre-nav .name-container .desc {
+    font-size: 19px;
+    line-height: 1.2; /* FIXED: Better readability on small screens */
+    margin-top: 3px; /* FIXED: Adjusted spacing for smaller screens */
   }
   
   #header .title {
@@ -700,14 +708,6 @@
   
   .container-title {
     font-size: 18px;
-  }
-  
-  .pre-nav .name-container .name {
-    font-size: 14px;
-  }
-  
-  .pre-nav .name-container .desc {
-    font-size: 11px;
   }
   
   /* Adjust toggle button for smaller screens */
@@ -1091,4 +1091,62 @@
       font-size: 13px;
     }
   }
+}
+
+
+.facebook-widget-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start !important;
+  width: 100% !important;
+  padding: 0 15px !important;
+  text-align: center !important;
+}
+
+.facebook-widget-container .fb-page {
+  margin: 0 auto !important;
+  display: block !important;
+  text-align: center !important;
+}
+
+
+
+/* Mobile specific centering - FORCED */
+@media (max-width: 768px) {
+  .facebook-widget-container {
+    padding: 0 !important;
+    margin-top: 20px !important;
+    justify-content: center !important;
+    display: flex !important;
+    text-align: center !important;
+    width: 100% !important;
+  }
+  
+  .facebook-widget-container .fb-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+  }
+}
+
+/* For smaller screens - FORCED */
+@media (max-width: 480px) {
+  .facebook-widget-container {
+    padding: 0 10px !important;
+    display: flex !important;
+    justify-content: center !important;
+    text-align: center !important;
+    width: 100% !important;
+  }
+}
+
+
+/* Specific override for the featured articles container */
+#featured-articles-container .col-md-4 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start !important;
+  text-align: center !important;
+  width: 100% !important;
 }

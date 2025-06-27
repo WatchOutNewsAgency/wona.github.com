@@ -1,2 +1,27 @@
-_site
-.sass-cache
+_site/
+.sass-cache/
+
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependencies
+vendor/
+.bundle/
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore by editors/IDEs
+.vscode/
+.idea/
+*.iml

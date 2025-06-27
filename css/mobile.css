@@ -27,25 +27,29 @@
   
   .pre-nav .brand,
   .pre-footer .brand {
-    display: flex; 
+    display: flex;
     float: none;
     text-align: left;
     padding: 10px 0;
     position: relative;
-    width: auto; 
+    width: auto;
     align-items: center;
-    flex-shrink: 0; 
+    flex-shrink: 0;
+    gap: 0px; /* Add gap between logo and text */
   }
-  
-  /* Logo and text container alignment */
+
+  /* Logo and text container alignment - FIXED */
   .pre-nav .brand .logo {
     height: 50px;
-    margin-right: 15px; 
+    padding-left: 50px;
+    margin-right: 0; /* Remove margin, using gap instead */
+    flex-shrink: 0; /* Prevent logo from shrinking */
   }
-  
+
   .pre-nav .name-container {
-    text-align: left; 
-    padding-left: 10em;
+    text-align: left;
+    padding-left: 0; /* Remove excessive padding */
+    flex-grow: 0; /* Don't grow */
   }
   
   .pre-nav .name-container .name {
@@ -904,151 +908,187 @@
     border: 0;
   }
   
-  /* Video Caption - Mobile */
+  /* Video Caption - Mobile - Fixed spacing */
   #yt-videos-container .video-caption {
-    padding: 15px;
-    background: #fff;
-    border-radius: 0 0 8px 8px;
-    margin-top: -5px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 20px 15px !important;
+    background: transparent !important;
+    border-radius: 0 !important;
+    margin-top: 10px !important;
+    box-shadow: none !important;
   }
-  
+
   #yt-videos-container .video-caption .caption {
-    font-size: 16px;
-    line-height: 1.4;
-    margin: 0;
-    color: #333;
-    font-weight: 600;
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    color: #333 !important;
+    font-weight: 600 !important;
+    text-align: center !important;
   }
   
-  /* Video List - Mobile specific*/
+  /* Video List - Mobile specific - FORCED LAYOUT FIX */
   #yt-videos-container .video-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    width: 100%;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
   }
 
   #yt-videos-container .video-list .list-video {
-    margin: 0 0 20px 0;
-    padding: 0;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    background: #fff;
-    display: block;
+    margin: 0 0 20px 0 !important;
+    padding: 0 !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1) !important;
+    background: #fff !important;
+    display: block !important;
+    width: 100% !important;
   }
 
   #yt-videos-container .video-list .list-video a {
-    display: block;
-    text-decoration: none;
-    color: inherit;
+    display: block !important;
+    text-decoration: none !important;
+    color: inherit !important;
+    width: 100% !important;
   }
 
+  /* FORCE VERTICAL LAYOUT - Override all conflicting styles */
   #yt-videos-container .video-list .list-video .row {
-    margin: 0;
-    display: flex;
-    flex-direction: column; 
+    margin: 0 !important;
+    display: block !important;
+    width: 100% !important;
   }
 
   #yt-videos-container .video-list .list-video .col-md-6 {
-    padding: 0;
-    margin: 0;
-    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    float: none !important;
+    display: block !important;
+    position: relative !important;
   }
 
-  
+  /* Video List Image Container - FULL WIDTH FORCED */
   #yt-videos-container .video-list .list-video .img-container {
-    width: 100%;
-    height: 150px; 
-    overflow: hidden;
-    position: relative;
+    width: 100% !important;
+    height: 160px !important;
+    overflow: hidden !important;
+    position: relative !important;
+    margin-bottom: 0 !important;
+    display: block !important;
   }
 
   #yt-videos-container .video-list .list-video .img-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
   }
 
+  /* Video List Caption - BELOW IMAGE FORCED */
   #yt-videos-container .video-list .list-video .caption {
-    padding: 15px;
-    width: 100%;
+    padding: 15px !important;
+    width: 100% !important;
+    text-align: center !important;
+    display: block !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    background: #fff !important;
+    min-height: 60px !important;
   }
 
   #yt-videos-container .video-list .list-video .caption span {
-    font-size: 14px;
-    line-height: 1.4;
-    color: #333;
-    display: block;
-    font-weight: 500;
+    font-size: 15px !important;
+    line-height: 1.4 !important;
+    color: #333 !important;
+    display: block !important;
+    font-weight: 600 !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    text-align: center !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
   }
-  /* Hover effects for video list items */
-  #yt-videos-container .video-list .list-video:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    transition: all 0.3s ease;
+
+  /* Ensure the link text shows */
+  #yt-videos-container .video-list .list-video a {
+    color: #333 !important;
+    text-decoration: none !important;
   }
-  
-  /* Facebook widget in video section */
-  #yt-videos-container .fb-page {
+
+  #yt-videos-container .video-list .list-video a:hover {
+    color: #007bff !important;
+    text-decoration: none !important;
+  }
+
+  /* Remove any center-both, center-vertical classes that might be interfering */
+  #yt-videos-container .video-list .center-both,
+  #yt-videos-container .video-list .center-vertical,
+  #yt-videos-container .video-list .img-center-fill {
+    position: static !important;
+    transform: none !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
     width: 100% !important;
-    margin-top: 20px;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    height: 100% !important;
   }
-  
-  /* Remove any conflicting styles base.scss is too jumbled to figure out the conflicts */
-  #yt-videos-container .center-both,
-  #yt-videos-container .img-center-fill,
-  #yt-videos-container .center-vertical {
-    position: static;
-    transform: none;
-    top: auto;
-    left: auto;
-    right: auto;
-    bottom: auto;
+
+  /* FIX 1: Center-align the main video caption */
+  #yt-videos-container .video-caption .caption {
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    color: #333 !important;
+    font-weight: 600 !important;
+    text-align: center !important;
   }
-  
+
   /* Ensure proper spacing between sections */
   #featured-articles-container + #yt-videos-container {
     margin-top: 40px;
   }
-}
 
-/* Extra small devices adjustments */
-@media (max-width: 480px) {
-  
-  #yt-videos-container .container-title,
-  #featured-articles-container .container-title {
-    font-size: 16px;
-    padding: 8px 12px;
-  }
-  
-  #yt-videos-container .video-caption .caption {
-    font-size: 15px;
-  }
-  
-  #featured-articles .article-horizontal .details .title {
-    font-size: 15px;
-  }
-  
-  #featured-articles .article-horizontal .details .excerpt {
-    font-size: 12px;
-  }
-  
-  #yt-videos-container .video-list .list-video .img-container {
-    width: 100px;
-    height: 70px;
-  }
-  
-  #yt-videos-container .video-list .list-video .caption {
-    padding: 12px;
-  }
-  
-  #yt-videos-container .video-list .list-video .caption span {
-    font-size: 13px;
+  /* Extra small devices adjustments */
+  @media (max-width: 480px) {
+    
+    #yt-videos-container .container-title,
+    #featured-articles-container .container-title {
+      font-size: 16px;
+      padding: 8px 12px;
+    }
+    
+    #yt-videos-container .video-caption .caption {
+      font-size: 15px;
+    }
+    
+    #featured-articles .article-horizontal .details .title {
+      font-size: 15px;
+    }
+    
+    #featured-articles .article-horizontal .details .excerpt {
+      font-size: 12px;
+    }
+    
+    #yt-videos-container .video-list .list-video .img-container {
+      height: 140px;
+    }
+    
+    #yt-videos-container .video-list .list-video .caption {
+      padding: 12px;
+    }
+    
+    #yt-videos-container .video-list .list-video .caption span {
+      font-size: 13px;
+    }
   }
 }

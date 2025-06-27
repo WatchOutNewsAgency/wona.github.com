@@ -32,10 +32,11 @@ title: "Watch Out, IIT Roorkee"
         <div class="embed-responsive embed-responsive-16by9">
           <iframe class="youtube-video" id="youtube-video-{{ video.id }}" data-id="{{ video.id }}" src="https://www.youtube.com/embed/{{ video.id }}?enablejsapi=1&showinfo=0" allowfullscreen></iframe>
         </div>
+        <div class="video-caption" id="youtube-title-{{ video.id }}" data-id="{{ video.id }}">
+          <h2 class="caption">{{ video.title }}</h2>
+        </div>
       </div>
-      <div class="video-caption" id="youtube-title-{{ video.id }}" data-id="{{ video.id }}">
-        <h2 class="caption">{{ video.title }}</h2>
-      </div>
+      
     </div> <!-- col-md-8 -->
     <ul class="col-md-4 video-list">
       {% for video in site.data.youtube offset: 1 limit: 4 %}

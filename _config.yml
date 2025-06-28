@@ -21,9 +21,9 @@ defaults:
       is_category_page: true
       layout: category
 
-name: Watch Out, IIT Roorkee
+title: Watch Out, IIT Roorkee
 url: http://watchout.iitr.ac.in
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 description: The official news magazine of IIT Roorkee.
 paginate: 10
 paginate_path: "/page/:num"

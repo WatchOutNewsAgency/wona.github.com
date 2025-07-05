@@ -105,17 +105,20 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu elements
-    const mobileToggle = document.getElementById('mobile-menu-toggle');
+  
     const mobileNav = document.getElementById('mobile-nav');
     const mobileNavOverlay = document.getElementById('mobile-nav-overlay');
     const mobileNavClose = document.getElementById('mobile-nav-close');
-    
+    const mobileToggle = document.getElementById('mobile-menu-toggle');
     // Function to open mobile menu
     function openMobileMenu() {
         if (mobileNav && mobileNavOverlay) {
             mobileNav.classList.add('show');
             mobileNavOverlay.classList.add('show');
-            mobileToggle.classList.add('active');
+            const toggle = document.getElementById('mobile-menu-toggle');
+            if (toggle) {
+                toggle.parentElement.removeChild(toggle);
+            }
             document.body.style.overflow = 'hidden'; // Prevent body scroll
         }
     }
@@ -125,9 +128,29 @@ document.addEventListener('DOMContentLoaded', function() {
         if (mobileNav && mobileNavOverlay) {
             mobileNav.classList.remove('show');
             mobileNavOverlay.classList.remove('show');
-            mobileToggle.classList.remove('active');
             document.body.style.overflow = ''; // Restore body scroll
-            
+            if (!document.getElementById('mobile-menu-toggle')) {
+              const newToggle = document.createElement('button');
+              newToggle.type = 'button';
+              newToggle.id = 'mobile-menu-toggle';
+              newToggle.className = 'navbar-toggle visible-xs position-fixed top-0 end-0 m-3 z-1030';
+              newToggle.innerHTML = `
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              `;
+
+              const container = document.querySelector('.pre-nav');
+              if (container) container.appendChild(newToggle);
+
+              newToggle.addEventListener('click', function(e) {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  openMobileMenu();
+              });
+            }
+
             // Close all open dropdowns
             const openDropdowns = document.querySelectorAll('.mobile-nav .dropdown.open');
             openDropdowns.forEach(function(dropdown) {

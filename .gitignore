@@ -1,5 +1,16 @@
+# Ignore everything in _site
 _site/
+
+# allow this
+!_site/images/posts/summer2025.png
+
+# parent directories are not ignored
+!_site/images/
+!_site/images/posts/
 .sass-cache/
+
+
+
 
 .jekyll-cache/
 .jekyll-metadata

@@ -4,7 +4,7 @@ title: "Fortune Faded"
 category: summer2025
 tags: [wona, column]
 author: "Chandramouli Koushik"
-image: summer2025.png
+image: chandramouli-k-intern-cover.png
 excerpt: "I didn’t have the strongest CGPA, wasn’t from a core intern-heavy branch, and wasn’t exactly a fan of coding. But I stayed consistent, showed up for every opportunity, and kept learning from each setback. In the end, it all came together. If there’s one thing I’d say to anyone going into intern or placement season, it’s this: prepare well, trust your effort, and don’t count yourself out too early"
 ---
 

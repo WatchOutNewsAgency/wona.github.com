@@ -144,7 +144,7 @@ Our internship kicked off with a grand induction at ITC Sonar, Kolkata — a fiv
 After the induction, we were escorted to our respective project locations. Now, let me tell you — ITC’s Bhadrachalam Unit is massive. It’s the largest integrated pulp and paperboard manufacturing unit in India. As a mechanical engineer, it felt like I had stepped into an engineering paradise.
 
 
-<img src="/images/posts/ayush-p-intern-01.png" style="width:6.5in;height:6.5in" />
+<img src="/images/posts/ayush-p-intern-01.png" style="width:6.5in;height:3.5in" />
 There was everything — turbines, turbo-generators, pumps, motors, heat exchangers, cooling towers, chillers — all with Industry 4.0 technologies implemented across the plant. I could finally see in reality what I had only read about in textbooks. 
 
 My accommodation was shared (which I initially grumbled about), but that too turned out to be a blessing in disguise. My roommate — a sharp, easygoing guy from IIT Kharagpur — became a great friend, and together we made some of the best memories of our internship.

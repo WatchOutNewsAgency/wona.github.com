@@ -3,7 +3,7 @@ layout: post
 title: "The Ultimate Freshman's Guide to IIT Roorkee"
 tags: [wona]
 category: academics
-image: freshman-guide-23-cover.png
+image: freshman-guide-25-cover.png
 excerpt: "The complete, wholesome and perfect reference book to IIT Roorkee!"
 ---
 
@@ -13,4 +13,4 @@ Watch Out brings to you the painful yet insanely awesome realities of college li
 
 We have all the answers, so dive in!
 
-<a href="https://drive.google.com/file/d/1lj5P4O5bAH8nRYja4heDd3yUUBtKa_5j/view?usp=sharing" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>
+<a href="https://drive.google.com/file/d/1oUc1ssTKRMQk5ytKLkwIlmdiQ_rDWAfI/view?usp=sharing" style="text-align: center"><button type="button" class="btn btn-primary btn-block btn-lg">Download the Guide Here!</button></a>

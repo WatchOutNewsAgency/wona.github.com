@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why You Need at Least 3 Pairs of Shoes Before the World Ends - EXTENDED"
-image: 3pair.jpg
+title: "Why You Need at Least 3 Pairs of Shoes Before the World Ends"
+image: 3pairmore.png
 tags: [wona, column]
 category: editorial
 tags: [wona, column]

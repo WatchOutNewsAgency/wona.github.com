@@ -22,13 +22,13 @@ Today, we must discuss something of dire importance. Not taxes, not the inevitab
 This is about why, before the world descends into fiery oblivion, slow bureaucratic decay and credit card debt, you need at least *three pairs of shoes*.
 
 As the great inventor, Steve Jobs might have said if he'd focused more on footwear and less on Macs:
-*"Innovation distinguishes between a leader and a follower - and nothing innovates your survival chances like proper arch support."*
+*"Innovation distinguishes between a leader and a follower — and nothing innovates your survival chances like proper arch support."*
 
 ## The Duality of Shoes: Survival and Swagger
 
 Since the dawn of time, humanity has been obsessed with two things: not dying, and looking good while not dying. Shoes, my friend, are the ultimate expression of that duality.
 
-Nietzsche almost said, "He who has a why to live can bear almost any how—especially if the 'how' involves waterproof boots."
+Nietzsche almost said: *"He who has a why to live can bear almost any how—especially if the 'how' involves waterproof boots."*
 
 Not only do they protect you from rogue Lego bricks (toddler-engineered pain traps), but they’re also a message to your better-off friends: _"Hey, I’ve got my life together too. Look at these laces. Look at this arch support on my crisp Nike Air Force 1s. I am a functioning adult (early 20s btw)."_
 
@@ -95,10 +95,10 @@ _Act 2_
 
 Imelda Marcos, who famously (and controversially) owned 1,060 pairs of shoes, understood this. They were never about feet. They were about fear. Fear of scarcity, fear of being outshone, fear that somewhere, someone had a pair you didn’t.
 
-Coco Chanel nailed the blend of need and narcissism: "The best things in life are free. The second best are very, very expensive."
+Coco Chanel nailed the blend of need and narcissism: _"The best things in life are free. The second best are very, very expensive."_
 Love, friendship, sunsets-these are priceless. But survival instinct? Free. Surviving in style? That’s a Visa transaction.
 
-Chanel forgot to mention the corollary: "The third-best things are on sale, the fourth-best are in landfills, and the fifth-best will strangle you with their laces during the riot."
+Chanel forgot to mention the corollary: _"The third-best things are on sale, the fourth-best are in landfills, and the fifth-best will strangle you with their laces during the riot."_
 
 It's funny how irrational our consumer logic becomes under pressure. It's funny, absurd and sad just like capitalism, which, like bad footwear, narrows your choices until "dignity" means choosing which blisters to ignore.
 
@@ -125,7 +125,7 @@ So now, take my advice, and before next Tuesday, do yourself a favor and buy thr
 
 When you will be watching the last Twitter server blink out, you'll understand what Plato really meant when he said _"Our need will be the real creator"_ and your need, dear reader, is three damn pairs of shoes.
 
-Because in the end, as the Buddha nearly said while shopping at Adidas: _"Pain is inevitable - blisters are optional." Choose wisely._
+Because in the end, as the Buddha nearly said while shopping at Adidas: _"Pain is inevitable — blisters are optional." Choose wisely._
 
 If you remain enough of a lunatic to argue that the world won’t end, well then you’ve got yourself a wonderful wardrobe and a lifetime to spend flaunting your newly bought shoes on dates that will never end happily.
 

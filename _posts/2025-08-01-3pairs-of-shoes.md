@@ -22,7 +22,7 @@ Today, we must discuss something of dire importance. Not taxes, not the inevitab
 This is about why, before the world descends into fiery oblivion, slow bureaucratic decay and credit card debt, you need at least *three pairs of shoes*.
 
 As the great inventor, Steve Jobs might have said if he'd focused more on footwear and less on Macs:
-*"Innovation distinguishes between a leader and a follower - and nothing innovates your survival chances like proper arch support."*
+*"Innovation distinguishes between a leader and a follower — and nothing innovates your survival chances like proper arch support."*
 
 ## The Duality of Shoes: Survival and Swagger
 
@@ -125,7 +125,7 @@ So now, take my advice, and before next Tuesday, do yourself a favor and buy thr
 
 When you will be watching the last Twitter server blink out, you'll understand what Plato really meant when he said _"Our need will be the real creator"_ and your need, dear reader, is three damn pairs of shoes.
 
-Because in the end, as the Buddha nearly said while shopping at Adidas: _"Pain is inevitable - blisters are optional." Choose wisely._
+Because in the end, as the Buddha nearly said while shopping at Adidas: _"Pain is inevitable — blisters are optional." Choose wisely._
 
 If you remain enough of a lunatic to argue that the world won’t end, well then you’ve got yourself a wonderful wardrobe and a lifetime to spend flaunting your newly bought shoes on dates that will never end happily.
 

@@ -38,13 +38,16 @@ Because as Sun Tzu might observe if he'd written _The Art of War_ as a Shein Mar
 
 Now, let’s simulate doomsday scenarios:
 
-**Scenario 1**: You’re sprinting from a pack of feral dogs. Your only shoes? Crocs (war mode activated). 
+**Scenario 1**: You’re sprinting from a pack of feral dogs. Your only shoes? Crocs (war mode activated).
+
 **Verdict:** Dead.
 
 **Scenario 2**: Trekking across a radioactive wasteland. Your only shoes? Stilettos. 
+
 **Verdict:** Dead (but fabulously).
 
 **Scenario 3**: Trying to impress the last surviving human. Your only shoes? Toe shoes. 
+
 **Verdict**: Emotionally deceased.
 
 You see the pattern. One pair is a liability. Two’s a compromise. But three? Three pairs is _wisdom._
@@ -59,7 +62,8 @@ Shoes carry the energy of where you’ve been and where you’re headed. So, you
 
 ## Capitalism’s Eulogy, As told by its ghosts
 
-_Act 1_
+_**Act 1**_
+
 Here’s what the silent witnesses of civilization have to say about the Three-Shoe Principle:
 
 _**1. A Sentient, Deeply Traumatized Shoe Rack**_
@@ -90,8 +94,8 @@ The library book knows the truth: survival manuals go unread until the fire is a
 
 **Capitalism sells the dream of preparedness, but stocks only enough for those who can outrun the rush.**
 
-
-_Act 2_
+---
+_**Act 2**_
 
 Imelda Marcos, who famously (and controversially) owned 1,060 pairs of shoes, understood this. They were never about feet. They were about fear. Fear of scarcity, fear of being outshone, fear that somewhere, someone had a pair you didn’t.
 

@@ -28,7 +28,7 @@ As the great inventor, Steve Jobs might have said if he'd focused more on footwe
 
 Since the dawn of time, humanity has been obsessed with two things: not dying, and looking good while not dying. Shoes, my friend, are the ultimate expression of that duality.
 
-Nietzsche almost said, "He who has a why to live can bear almost any how—especially if the 'how' involves waterproof boots."
+Nietzsche almost said: *"He who has a why to live can bear almost any how—especially if the 'how' involves waterproof boots."*
 
 Not only do they protect you from rogue Lego bricks (toddler-engineered pain traps), but they’re also a message to your better-off friends: _"Hey, I’ve got my life together too. Look at these laces. Look at this arch support on my crisp Nike Air Force 1s. I am a functioning adult (early 20s btw)."_
 
@@ -38,13 +38,16 @@ Because as Sun Tzu might observe if he'd written _The Art of War_ as a Shein Mar
 
 Now, let’s simulate doomsday scenarios:
 
-**Scenario 1**: You’re sprinting from a pack of feral dogs. Your only shoes? Crocs (war mode activated). 
+**Scenario 1**: You’re sprinting from a pack of feral dogs. Your only shoes? Crocs (war mode activated).
+
 **Verdict:** Dead.
 
 **Scenario 2**: Trekking across a radioactive wasteland. Your only shoes? Stilettos. 
+
 **Verdict:** Dead (but fabulously).
 
 **Scenario 3**: Trying to impress the last surviving human. Your only shoes? Toe shoes. 
+
 **Verdict**: Emotionally deceased.
 
 You see the pattern. One pair is a liability. Two’s a compromise. But three? Three pairs is _wisdom._
@@ -59,7 +62,8 @@ Shoes carry the energy of where you’ve been and where you’re headed. So, you
 
 ## Capitalism’s Eulogy, As told by its ghosts
 
-_Act 1_
+_**Act 1**_
+
 Here’s what the silent witnesses of civilization have to say about the Three-Shoe Principle:
 
 _**1. A Sentient, Deeply Traumatized Shoe Rack**_
@@ -90,15 +94,15 @@ The library book knows the truth: survival manuals go unread until the fire is a
 
 **Capitalism sells the dream of preparedness, but stocks only enough for those who can outrun the rush.**
 
-
-_Act 2_
+---
+_**Act 2**_
 
 Imelda Marcos, who famously (and controversially) owned 1,060 pairs of shoes, understood this. They were never about feet. They were about fear. Fear of scarcity, fear of being outshone, fear that somewhere, someone had a pair you didn’t.
 
-Coco Chanel nailed the blend of need and narcissism: "The best things in life are free. The second best are very, very expensive."
+Coco Chanel nailed the blend of need and narcissism: _"The best things in life are free. The second best are very, very expensive."_
 Love, friendship, sunsets-these are priceless. But survival instinct? Free. Surviving in style? That’s a Visa transaction.
 
-Chanel forgot to mention the corollary: "The third-best things are on sale, the fourth-best are in landfills, and the fifth-best will strangle you with their laces during the riot."
+Chanel forgot to mention the corollary: _"The third-best things are on sale, the fourth-best are in landfills, and the fifth-best will strangle you with their laces during the riot."_
 
 It's funny how irrational our consumer logic becomes under pressure. It's funny, absurd and sad just like capitalism, which, like bad footwear, narrows your choices until "dignity" means choosing which blisters to ignore.
 

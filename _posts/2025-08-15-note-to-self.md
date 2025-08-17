@@ -16,7 +16,7 @@ I remember driving past the main gate a day before the first official day of col
 
 ## SUPPORT FROM HOME
 
-### To Jaiswal, Abhy, Kevin "fuck linked list" Mathalai, Muski, Susuhani, Mouse and Wudu
+#### To Jaiswal, Abhy, Kevin "f**k linked list" Mathalai, Muski, Susuhani, Mouse and Wudu
 
 It feels a tiny bit wrong to put you guys on the closing credits, y'all deserve to be on the opening titles. But it would be a greater gaffe not to have you in at all. It was (and still is) so reassuring that even upon the most minor of inconveniences, I could call any of you and let out a rant. You've all been constants in my life for so long now, which has been a massive reason for me getting through college in a sane fashion. You're the 4lyfers. I'm so grateful to have had you in my life until now, and exultant that I have you in my life till infinity.
 
@@ -24,7 +24,7 @@ It feels a tiny bit wrong to put you guys on the closing credits, y'all deserve 
 
 ## BASKETBALL PEOPLE
 
-### To Budhwar, Sarthak, Saksham, Shailu, Tejas, Deepak, Adi, Rishabh, Ani, Madhav, Coach Sir, Chander, Rajjo, Kush and all the juniors
+#### To Budhwar, Sarthak, Saksham, Shailu, Tejas, Deepak, Adi, Rishabh, Ani, Madhav, Coach Sir, Chander, Rajjo, Kush and all the juniors
 
 I walked onto campus thinking there wouldn't be any great basketball players in an IIT. Boy, was I proven wrong quickly.
 
@@ -42,7 +42,7 @@ There's no place on the campus that I've felt happier in than the court. Thank y
 
 ## THE "MECHANICAL" PEOPLE
 
-### To Lone Wolf Sigma Male (LWSM), Nemon, Nyaa, Soham, Sajag, Bhindi,
+#### To Lone Wolf Sigma Male (LWSM), Nemon, Nyaa, Soham, Sajag, Bhindi,
 
 The first thing I did when I reached campus in March 2022 was scout out all the people from Bangalore (that's where I'm from). I met Bhindi first. Never in a million years would I have guessed the extent to which she and her classmates/former classmates would influence my college life and shape me as a whole. The dinner we had at Peppery, the grass we had in Jawahar, me identifying the AJ Styles bag, me forcing Soham to come for HIS OWN convocation- I share so many core memories with you guys.
 
@@ -75,5 +75,5 @@ A fair bit of soul-stirring happens in me whenever anything I'm watching ends; f
 
 ---
 
-### "XOXO"
+##### "XOXO"
 **Mooli**

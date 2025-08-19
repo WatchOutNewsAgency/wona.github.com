@@ -3,7 +3,7 @@ layout: post
 title: "Note to Self"
 category: memoirs
 tags: [wona, column]
-author: "Mooli"
+author: "Chandramouli"
 image: moolicover.jpg
 excerpt: "I remember driving past the main gate a day before the first official day of college. It felt surreal. I never planned to make it to any IIT, never mind the most beautiful one I've seen."
 ---
@@ -76,4 +76,4 @@ A fair bit of soul-stirring happens in me whenever anything I'm watching ends; f
 ---
 
 ##### "XOXO"
-**Mooli**
+**Chandramouli**

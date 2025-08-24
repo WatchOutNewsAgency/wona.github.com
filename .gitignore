@@ -22,6 +22,6 @@ Thumbs.db
 *.swo
 
 # Ignore by editors/IDEs
-.vscode/
 .idea/
 *.iml
+config.bat

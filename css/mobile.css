@@ -267,7 +267,7 @@
   
   .mobile-nav .dropdown.open .dropdown-menu {
     display: block;
-    max-height: 300px;
+    max-height: 500px;
   }
   
   .mobile-nav .dropdown-menu li {

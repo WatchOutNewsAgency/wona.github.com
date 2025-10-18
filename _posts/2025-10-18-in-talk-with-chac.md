@@ -2,10 +2,9 @@
 layout: post
 title: In Talk with CHAC
 tags: [wona, column]
-category:  
+category: coverstory
 image: talk_with_chac.jpg
 excerpt: "To address the concerns recently voiced by students regarding the institute hospital and pharmacy, Watch Out! spoke with Prof. Ankik Kumar Giri, Chairman of the Hospital Advisory Committee."
----
 ---
 
 To address the concerns recently voiced by students regarding the institute hospital and pharmacy, Watch Out! spoke with Prof. Ankik Kumar Giri, Chairman of the Hospital Advisory Committee. The transcript of our conversation is provided below:\

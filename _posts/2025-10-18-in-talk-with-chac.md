@@ -8,7 +8,7 @@ excerpt: "To address the concerns recently voiced by students regarding the inst
 ---
 
 To address the concerns recently voiced by students regarding the institute hospital and pharmacy, Watch Out! spoke with Prof. Ankik Kumar Giri, Chairman of the Hospital Advisory Committee. The transcript of our conversation is provided below:\
-(Note: Hereafter, ‘pharmacy’ refers to the one outside the hospital entrance.)
+***(Note: Hereafter, ‘pharmacy’ refers to the one outside the hospital entrance.)***
 
 
 **Q1: Who is in charge of running the institute's pharmacy right now? Does the institute itself directly operate these pharmacy services?**
@@ -65,3 +65,4 @@ To make things easier for students, the institute is also working on bringing mo
 
 **A:** When you go to the emergency ward, ensure that there is at least one doctor, one staff nurse, one attendant, and one pharmacist present. If you need help, ask for the doctor right away. \
 If you feel you are not being treated properly in the emergency ward, first note down the doctor's details. Next, ask the doctor to call a senior doctor or the Chief Medical Officer to address your concern. If you are still not satisfied or believe there was mishandling, report the issue to the chairman with all the information you have gathered.
+

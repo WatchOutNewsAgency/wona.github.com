@@ -4,6 +4,7 @@ title: What’s the point?
 tags: [wona, column]
 category: editorial
 image: point.png
+author: Paavni Khattri, Divya Agrawal and Shivansh Goyal
 excerpt: "Aarav entered the world screaming, startled by its brightness. The hospital smelled of disinfectant and beginnings; outside, life hurried on, buses honked, sunlight spilt over concrete, and people scurried with unreadable urgency."
 ---
 

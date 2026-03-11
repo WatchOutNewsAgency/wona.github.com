@@ -3,7 +3,7 @@ layout: post
 title: "Hult Prize On-Campus at IIT Roorkee 2026: Innovating for a Sustainable Tomorrow"
 category: coverstory
 tags: [wona, column]
-image: hult-prize-2026/image5.png
+image: hult-prize-2026/image7.png
 excerpt: "The Hult Prize, one of the world’s most prestigious student entrepreneurship competitions, offers $1M in funding to startups with transformative social impact."
 ---
 

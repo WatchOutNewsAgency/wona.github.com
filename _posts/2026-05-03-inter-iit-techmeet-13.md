@@ -3,7 +3,7 @@ layout: post
 title: "INTER IIT TECH MEET 13.0: THE FALLOUT"
 category: coverstory
 tags: [wona]
-image: X.png
+image: the-ship-of-theseus.png
 excerpt: "Inter IIT Tech Meet 13.0 $ write something"
 ---
 *Inter IIT Tech Meet 13.0 represented another chapter in a competition that has, over the years, come to mean a great deal to students across the country. IIT Roorkee's participation this year was no different in that regard. Students gave significant time, effort, and thought to their work, and that commitment deserves to be acknowledged before anything else.*

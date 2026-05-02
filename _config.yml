@@ -25,5 +25,6 @@ title: Watch Out, IIT Roorkee
 url: http://watchout.iitr.ac.in
 plugins: [jekyll-paginate]
 description: The official news magazine of IIT Roorkee.
+timezone: Asia/Kolkata
 paginate: 10
 paginate_path: "/page/:num"

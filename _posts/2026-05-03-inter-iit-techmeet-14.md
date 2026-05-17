@@ -3,11 +3,11 @@ layout: post
 title: "INTER IIT TECH MEET 14.0: THE FALLOUT"
 category: coverstory
 tags: [wona, column]
-author: Watch Out News Agency
-excerpt: "A structured reflection on IIT Roorkee's participation in Inter IIT Tech Meet 14.0—what worked, the challenges faced, and the path forward."
+author: Shivansh Goyal, Sanatan Gupta, Rajdeep Aher, Gowri D V
+excerpt: "With an ever-declining performance at Inter IIT Tech reduced to seeing no gold plaques, we thought our worst at tech was over, only to realize what this performance hides behind it."
+image: "inter_iit_14_cover1.png"
 ---
 
-**Note: This article is currently under review and is unfinished.**
 
 *Inter IIT Tech Meet 14.0 represented another chapter in a competition that has, over the years, come to mean a great deal to students pan-IITs. IIT Roorkee's participation this year was no different in that regard. Students gave significant time, effort, and thought to their work, and that commitment deserves to be acknowledged.*
 
@@ -20,13 +20,15 @@ excerpt: "A structured reflection on IIT Roorkee's participation in Inter IIT Te
 <iframe title="IITR Inter IIT Tech Performance (2022 - 25)" aria-label="Stacked column chart" id="datawrapper-chart-IFIvN" src="https://datawrapper.dwcdn.net/IFIvN/3/" scrolling="no" frameborder="0" style="width: 100%; min-width: 100% !important; border: none; margin: 2em 0;" height="437" data-external="1"></iframe>
 <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: -1em; margin-bottom: 2em;"><em>Note: For Inter IIT Tech Meet 12.0 (2023), the official leaderboard did not publish the final medal tally. The data represented for that year relies on internal participant accounts and word of mouth.</em></p>
+
 ## Selection
 
 Views on team selection varied across problem statements (PSs). It has been widely reported that for several PSs, including the ones with lower preparation, the selection process lacked sufficient rigor, with decisions occasionally based on 'connections' rather than demonstrated competence. In contrast, teams from more structured PSs reported thorough interviews and merit-based selection.
 
 ### Structural Factors
 
-The timing of General Secretary elections compounded these issues. Team selections had concluded before new student leadership was elected, limiting their ability to ensure consistency. The role of "PS Leads" also created confusion: whether these were leadership positions or simply administrative points of contact remained unclear to many participants. 
+The timing of General Secretary elections compounded these issues. Team selections for most PSs had concluded before new student leadership was elected, limiting their ability to ensure consistency. The role of "PS Leads" also created confusion: whether these were leadership positions or simply administrative points of contact remained unclear to many participants. 
 
 When questioned about the selection and exact responsibilities of PS Leads, the Contingent Leadership clarified that:
 
@@ -81,9 +83,9 @@ The response received from leadership was:
 <em>“The contentions we raised were eventually accepted, except in three cases where faults were clearly on our side. In those instances, we took accountability.”</em>
 </blockquote>
 
-### A Note on the ISRO PS
+### A Note on the ISRO VLSI PS
 
-One particular instance that drew significant attention was the ISRO problem statement, where the contingent's medal outcome was reportedly revised from Gold to Silver after the closing ceremony.  The change was communicated without explanation, bypassing board meetings or any formal dispute resolution mechanism. It is also alleged that the administration was not able to support the team adequately during this situation, leaving participants feeling abandoned after months of intensive work.
+One particular instance that drew significant attention was the ISRO VLSI problem statement, where the contingent's medal outcome was reportedly revised from Gold to Silver after the closing ceremony.  The change was communicated without explanation, bypassing board meetings or any formal dispute resolution mechanism. It is also alleged that the administration was not able to support the team adequately during this situation, leaving participants feeling abandoned after months of intensive work.
 
 <blockquote style="background-color: #f9f9f9; padding: 15px 20px; border-left: 5px solid #e74c3c; margin: 1.5em 0;">
 <em>Even after the CL meetings concluded and contentions were mutually decided, changes continued to be made after we had left Patna. This included IIT Roorkee being demoted from gold to silver in the ISRO problem statement. Contentions are meant to be resolved transparently during CL meetings in the presence of representatives from all IITs, and post-meet changes undermine this process. We submitted written complaints regarding this issue, but the organizing committee justified the changes citing recalculation errors or re-evaluation by judges<br><br>~ CL</em>
@@ -93,9 +95,15 @@ One particular instance that drew significant attention was the ISRO problem sta
 <em>Rankings for medal allocation underwent multiple revisions and recalculations after the closing ceremony. In the ISRO PS case, an incorrect contention against IIT Madras was initially accounted for but later removed during revisions, leading to a change in rankings. This development was communicated to the admin teams on Discord.<br><br>~ DCL</em>
 </blockquote>
 
+Despite the medal reversal, the technical merit of the contingent's submission found independent validation. Members of the ISRO PS team subsequently published their solution at ISVLSI 2026, an international IEEE conference. One of the team members commented:
+
+<blockquote style="background-color: #f9f9f9; padding: 15px 20px; border-left: 5px solid #e74c3c; margin: 1.5em 0;">
+<em>“When we were looking at other teams' results, we realised that our chip power and area were way better—half of the second best team. We had really good innovations in the digital domain, improving on existing literature with an idea that hadn't been implemented before. After withstanding the cross-questioning from the judges at Inter IIT, we thought this work was worth publishing. We spent some time writing the paper and got it accepted in ISVLSI 2026.”</em>
+</blockquote>
+
 ## Logistics
 
-Upon arriving at IIT Patna, the contingent faced immediate logistical hurdles. Security at the main gate lacked the arrival list, forcing students to wait in their buses for nearly an hour and a half. When they were finally admitted, participants found unclean rooms missing basic necessities like sheets, blankets, pillows, and mattresses. 
+Upon arriving at IIT Patna, the contingent faced immediate logistical hurdles. Security at the main gate lacked the arrival list, forcing students to wait in their buses for nearly an hour and a half. When they were finally admitted, participants found unclean rooms missing basic necessities like sheets, blankets, pillows, and mattresses. Some participants complained about leaky toilets too.
 
 *The Contingent Leader and DCL escalated these issues and received a formal apology from the Inter IIT Patna Organizing Committee, which attributed the severe shortfalls to vendor supply failures. Separately, the internal allocation of specific software and computational resources for niche problem statements during the preparation phase remains a point of dispute among contingent members. Despite these on ground challenges, participants reported that the travel arrangements handled by the IIT Roorkee administration were smooth and free of issues.*
 
@@ -113,18 +121,23 @@ A concerning pattern emerged in participant responses: multiple participants sta
 
 It is equally important to acknowledge what Inter IIT Tech does genuinely well. Participants consistently valued the exposure to unique, industry-relevant problem statements, the depth of technical growth that comes from working under real pressure, and the opportunity to collaborate and connect with peers from institutions across the country. These are meaningful outcomes that should not be overlooked.
 
-This section is not intended as an indictment of Inter IIT Tech Meet, which has long served as a meaningful platform for technical development and inter-institutional exchange. It is offered in the spirit of constructive reflection with the belief that a competition of this stature deserves processes that match the dedication its participants bring to it. Participants invest significant time and energy in Inter IIT, often balancing it against academic and personal commitments, because they trust that the process is designed to reward genuine excellence. Strengthening the transparency and consistency of evaluation, selection, and contention handling would go a long way in reinforcing that trust.
 
 ## Our Two Cents
 
 Whether the final results were technically correct is ultimately unknowable without access to complete evaluation records. Results announced with finality were reversed without transparency, contentions were handled inconsistently, and participants were left with legitimate grievances regardless of the outcome's technical merit.
 
-Before concluding, it is essential to acknowledge the Contingent Leader and Deputy Contingent Leaders who stewarded this contingent through unprecedented logistical and procedural challenges. They operated within severe constraints: unclear rules, compressed timelines, and limited institutional leverage and yet chose to lead with integrity. They escalated concerns when needed. When their own decisions could have been better, they said so. What stands out most is their willingness to speak candidly about what happened: where the system failed, where they fell short, and what their teams deserved but did not receive. This transparency, offered after the event when silence would have been easier, is accountability in its truest form.
+A competition loses its reputation when the charm of ‘giving it all’ fades away in participants. This is where Inter IIT often finds itself. With increasing opacity, participants are unable to reconcile the results with their efforts and submissions. This report is our attempt to recognize the importance this competition holds for all students and how the processes must match that bar.
 
-The participants who carried this contingent deserve honest acknowledgment. Many of them put in months of sustained work alongside exams and placements, often picking up slack left by teammates who contributed little or nothing. Imbalance is clearly visible. They did not get the environment they deserved, and in several cases, they did not get the teammates they deserved either. It cost teams both morale and output. But the ones who showed up and stayed committed did so knowing the process around them was flawed. 
+This section is not intended as an indictment of Inter IIT Tech Meet, which has long served as a meaningful platform for technical development and inter-institutional exchange. It is offered in the spirit of constructive reflection with the belief that a competition of this stature deserves processes that match the dedication its participants bring to it. Participants invest significant time and energy in Inter IIT, often balancing it against academic and personal commitments, because they trust that the process is designed to reward genuine excellence. Strengthening the transparency and consistency of evaluation, selection, and contention handling would go a long way in reinforcing that trust.
 
-This report exists because both leadership and participants chose candor over silence. The problems identified here: in selection, evaluation, contention handling, and post-event transparency should be viewed as structural and not personal. They are fixable.
+Before concluding, it is essential to acknowledge the Leadership who stewarded this contingent through unprecedented logistical and procedural challenges. They operated within severe constraints: unclear rules, compressed timelines, and limited institutional leverage and yet chose to lead with integrity. They escalated concerns when needed and took accountability for their decisions. What stands out most is their willingness to speak candidly about what happened: where the system failed, where they fell short, and what their teams deserved but did not receive. This transparency, offered after the event when silence would have been easier, is accountability in its truest form.
+The participants who carried this contingent deserve honest acknowledgment. Many of them put in months of sustained work alongside exams and placements, often picking up slack left by teammates who contributed little or nothing. They did not get the environment they deserved, and in several cases, they did not get the teammates they deserved either. It cost teams both morale and output. But the ones who showed up and stayed committed did so knowing the process around them was flawed.
+
+This report exists because both leadership and participants chose candor over silence. The problems identified here: in selection, evaluation, contention handling, and post-event transparency should be viewed as structural and not personal. They are also fixable. What remains is the institutional will to address them.
 
 <iframe title="" aria-label="Split Bars" id="datawrapper-chart-E0r82" src="https://datawrapper.dwcdn.net/E0r82/11/" scrolling="no" frameborder="0" style="border: none;" width="600" height="557" data-external="1"></iframe>
 
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){e[r].style.height=a.data["datawrapper-height"][t]+"px"}}}))}();</script>
+
+
+*Watch Out! would like to thank all the participants who shared their experiences with us, including those who chose to remain anonymous. We also extend our gratitude to the leadership, past participants, and former Contingent Leaders who not only set a high bar for future contingents, but also provided the data needed to bring this article to life.*

@@ -157,6 +157,7 @@ Each Bhawan also has a **Vigilance Committee**, headed by the Chief Warden, with
 
 
 ### Campaigning
+
 * Candidates must follow the prescribed campaign timings.  
 * **iitr.ac.in** email IDs and Institute platforms cannot be used for campaigning.  
 * Clubs, groups and club resources cannot be used for individual campaigns.  

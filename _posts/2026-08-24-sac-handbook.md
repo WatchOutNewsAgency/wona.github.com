@@ -221,6 +221,7 @@ Any attempt to access or tamper with the online voting system can lead to immedi
 ## Offline Debates
 Where mandated by the EC:
 
+* If any candidate fails to appear for the scheduled offline debate, their candidature will be cancelled by the Election Commission (EC).
 * Debates will be held only at approved venues and times.  
 * An EC-appointed moderator will oversee proceedings.  
 * Personal attacks and abusive language are prohibited.  

@@ -156,7 +156,7 @@ Each Bhawan also has a **Vigilance Committee**, headed by the Chief Warden, with
 **Disclaimer: This is a simplified summary for quick reference**. It **does not** replace the official rules. All candidates and students are strictly bound by the comprehensive [**Official Election Code of Conduct**](https://election.iitr.ac.in/5bf74ad4-6af9-40ca-85a1-d3545614393d/guidelines#code-of-conduct). Claiming ignorance of a rule omitted from this summary will not be accepted as a defense. In any dispute, the Official CoC supersedes this guide. 
 
 
-#### Campaigning
+### Campaigning
 * Candidates must follow the prescribed campaign timings.  
 * **iitr.ac.in** email IDs and Institute platforms cannot be used for campaigning.  
 * Clubs, groups and club resources cannot be used for individual campaigns.  
@@ -166,15 +166,15 @@ Each Bhawan also has a **Vigilance Committee**, headed by the Chief Warden, with
 * Candidates must stick to their approved manifestos.
 
 
-#### No identity politics
+### No identity politics
 Religion, region, language, caste, community, course, branch or stream cannot be used to solicit votes.
 
 
-#### No malicious anti-campaigning
+### No malicious anti-campaigning
 Deliberately spreading false information, personal defamation or tampering with another candidate’s campaign material is prohibited.
 
 
-#### Silence & Polling Period Rules
+### Silence & Polling Period Rules
 During the campaign silence period **(and through the voting period where applicable)**: 
 
 * No social-media campaigning, mass messaging, or organized canvassing.   
@@ -183,7 +183,7 @@ During the campaign silence period **(and through the voting period where applic
 * Movement between Bhawans is strictly restricted from the end of the campaigning period until polling closes. Only EC members with official ID cards are exempt. 
 
 
-#### A few more things to remember
+### A few more things to remember
 * No campaigning in LHC, the Library or Departments, or disruption of ongoing classes/tutorials/practicals.  
 * No non-current student, including alumni, can participate in campaigning.  
 * Office-bearers cannot support or criticize candidates.  

@@ -3,7 +3,7 @@ layout: post
 title: "Branch Change 101: Cutoffs, Rules, and Advices"
 image: "branch_change_101.png"
 tags: [wona, column]
-category: coverstory
+category: [coverstory, academics]
 excerpt: "Discover the realities of the branch change process at IIT Roorkee. We break down the official rules, analyze past year cutoffs, and share essential advice from seniors who successfully navigated the journey."
 
 ---

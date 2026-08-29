@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Branch Change 101: Cutoffs, Rules, and Advices"
-image: "branch-change/cover.jpg"
+image: "branch_change_101.png"
 tags: [wona, column]
-category: bigstory
-excerpt: ""
+category: coverstory
+excerpt: "Discover the realities of the branch change process at IIT Roorkee. We break down the official rules, analyze past year cutoffs, and share essential advice from seniors who successfully navigated the journey."
 
 ---
 
 The IITs are considered to be the most coveted institutions for undergraduate studies across the country. The fact that only around 1% of the candidates appearing in the entrance exam manage to secure a seat in these institutions is a testament to the quality of students that manage to get through.
 
-But added to this is the disadvantage that your fate is left in the hands of that little amount of magic that you produce during the 6 hrs of one of the most difficult and strenuous examinations across the globe. The incredible load of expectations of all those who surround the examinee sometimes leads to blunders that can cost the candidate his/her dreams. However, the system itself provides the candidates with another chance to deem themselves worthy of their dreams, with the opportunity to change their branch in their freshman year.
+But added to this is the disadvantage that your fate is left in the hands of that little amount of magic that you produce during the 6 hrs of one of the most difficult and strenuous examinations across the globe. The incredible load of expectations of all those who surround the examinee sometimes leads to blunders that can cost the candidate his/her dreams. However, the institute offers a second chance to pursue your desired path: the opportunity for a branch change during your freshman year.
 
 In the oldest technical institute of the country, this opportunity presents itself at the end of the first semester. The best part about it? The students compete as equals with nothing but merit separating them from their dreams—that, and of course, their JEE rank that comes back to haunt some of the candidates. Most of the freshmen find themselves struggling to strike that sweet spot of balance between exploring the plethora of opportunities that the campus has to offer and studying “hard enough” in order to have a better shot at changing the cards they were dealt with.
 
@@ -88,16 +88,16 @@ The truth is that changing your branch is by no means easy, but consistency and 
 
 **Paras Agarwal, 2nd Year, Branch Changer from BSMSCY to CSE**<br>
 
-“Its honestly not that hard to get a branch change if you are disciplined. You dont need to overwork but be disciplined in general for example about submitting assignments on time and studying for quizzes. Have fun throughout the semester but please know your limits. Also being curious for courses like PHI-101 and MAI-101 makes it easier. Just dont leave your studying for the last minute and avoid getting caught up in toxic competition with your friends and classmates since there is a high chances thats bound to happen.”
+“Its honestly not that hard to get a branch change if you are disciplined. You don't need to overwork but be disciplined in general for example about submitting assignments on time and studying for quizzes. Have fun throughout the semester but please know your limits. Also being curious for courses like PHI-101 and MAI-101 makes it easier. Just don't leave your studying for the last minute and avoid getting caught up in toxic competition with your friends and classmates since there is a high chances that's bound to happen.”
 
 **Ishaan Bansal, 2nd Year, Branch Changer from EE to ECE**<br>
 
-“Don't obsess over changing your branch, try for it, if it happens then its great, if not then still its ok, also try other things, like give Hackathons, learn to code, try other things which interest you, CTFs, ML, dont get super obsessed over competitive programming from the beginning”
+“Don't obsess over changing your branch, try for it, if it happens then its great, if not then still its ok, also try other things, like give Hackathons, learn to code, try other things which interest you, CTFs, ML, don't get super obsessed over competitive programming from the beginning”
 
 **Mehual Yadav, 2nd Year, Branch Changer from BSMSCY to EPH**<br>
 
-“Take admission here with the mindset that I would try my best for branch change if you didnt get what you wanted but I am also ready to study XYZ for 4/5 years happily if that didnt happen because that is what I got. And be proud of your jee advanced rank. This is result of your efforts. And rest for those who do want to branch change, just work hard in semester 1, keep good friend circle of people who are also motivated enough, rest its also a little bit of luck but like I said at beginning come here with mindset of I am happy with what I got here. And of course if you happen to pick BSMS Chemical Science we seniors would be happy to guide you cause from our branch this year, 3 people changed their branch to CSE! (Thats a new record and also meant it was even more competitive than previous year). Do read all about the policies related to branch change, all the rules etc.”
+“Take admission here with the mindset that I would try my best for branch change if you didnt get what you wanted but I am also ready to study XYZ for 4/5 years happily if that didnt happen because that is what I got. And be proud of your jee advanced rank. This is result of your efforts. And rest for those who do want to branch change, just work hard in semester 1, keep good friend circle of people who are also motivated enough, rest its also a little bit of luck but like I said at beginning come here with mindset of I am happy with what I got here. And of course if you happen to pick BSMS Chemical Science we seniors would be happy to guide you cause from our branch this year, 3 people changed their branch to CSE! (That's a new record and also meant it was even more competitive than previous year). Do read all about the policies related to branch change, all the rules etc.”
 
 **Rudra Goyal, 2nd Year, Branch Changer from IN to ME**<br>
 
-“The only advice I would give to juniors is that don't always constantly keep thinking about branch change just go with the flow put efforts as much as you can, since luck plays a very big role in this game of branch change and you donot have control over it so just let destiny decide where you will end up finally, without constantly pressurising yourself in this game of branch change.”
+“The only advice I would give to juniors is that don't always constantly keep thinking about branch change just go with the flow put efforts as much as you can, since luck plays a very big role in this game of branch change and you do not have control over it so just let destiny decide where you will end up finally, without constantly pressurising yourself in this game of branch change.”

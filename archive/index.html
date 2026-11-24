@@ -11,15 +11,18 @@ title: "Archive"
   {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
   <nav class="archive-years-nav" aria-label="Filter articles by year">
+    <a class="archive-year-pill active" href="#all" data-filter="all" aria-pressed="true">
+      All <span class="count">({{ site.posts | size }})</span>
+    </a>
     {% for year in posts_by_year %}
-      <a class="archive-year-pill" href="#year-{{ year.name }}">
+      <a class="archive-year-pill" href="#year-{{ year.name }}" data-filter="year-{{ year.name }}" aria-pressed="false">
         {{ year.name }} <span class="count">({{ year.items | size }})</span>
       </a>
     {% endfor %}
   </nav>
 
   {% for year in posts_by_year %}
-    <section id="year-{{ year.name }}" class="archive-year">
+    <section id="year-{{ year.name }}" data-section="year-{{ year.name }}" class="archive-year">
       <div class="archive-year-header">
         <h2 class="archive-year-title">
           {{ year.name }}
@@ -53,3 +56,72 @@ title: "Archive"
     </section>
   {% endfor %}
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var page = document.querySelector('.archive-page');
+  if (!page) return;
+
+  var pills = page.querySelectorAll('.archive-year-pill[data-filter]');
+  var sections = page.querySelectorAll('.archive-year[data-section]');
+  var validFilters = {};
+  sections.forEach(function (sec) {
+    validFilters[sec.getAttribute('data-section')] = true;
+  });
+
+  var currentFilter = 'all';
+
+  function normalizeFilter(value) {
+    if (!value) return 'all';
+    if (validFilters[value]) return value;
+    if (validFilters['year-' + value]) return 'year-' + value;
+    return 'all';
+  }
+
+  function applyFilter(filter, updateHash) {
+    var target = normalizeFilter(filter);
+    currentFilter = target;
+
+    sections.forEach(function (sec) {
+      var show = target === 'all' || sec.getAttribute('data-section') === target;
+      sec.classList.toggle('is-filtered-out', !show);
+    });
+
+    page.classList.toggle('is-filtered', target !== 'all');
+
+    pills.forEach(function (pill) {
+      var isActive = pill.getAttribute('data-filter') === target;
+      pill.classList.toggle('active', isActive);
+      pill.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    });
+
+    if (updateHash && window.history && window.history.replaceState) {
+      var nextUrl = target === 'all'
+        ? window.location.pathname + window.location.search
+        : '#' + target;
+      window.history.replaceState(null, '', nextUrl);
+    }
+  }
+
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function (e) {
+      e.preventDefault();
+      var chosen = pill.getAttribute('data-filter');
+      var next = (chosen !== 'all' && chosen === currentFilter) ? 'all' : chosen;
+      applyFilter(next, true);
+    });
+  });
+
+  function syncFromHash() {
+    var hash = window.location.hash ? window.location.hash.slice(1) : '';
+    var target = normalizeFilter(hash);
+    applyFilter(target, false);
+    if (target !== 'all') {
+      window.scrollTo(0, 0);
+    }
+  }
+
+  syncFromHash();
+  window.addEventListener('hashchange', syncFromHash);
+});
+</script>

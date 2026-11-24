@@ -1,0 +1,55 @@
+---
+layout: layout
+title: "Archive"
+---
+
+<div id="top" class="container archive-header">
+  <h1 class="title">All Articles</h1>
+</div>
+
+<div class="container archive-page">
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+  <nav class="archive-years-nav" aria-label="Filter articles by year">
+    {% for year in posts_by_year %}
+      <a class="archive-year-pill" href="#year-{{ year.name }}">
+        {{ year.name }} <span class="count">({{ year.items | size }})</span>
+      </a>
+    {% endfor %}
+  </nav>
+
+  {% for year in posts_by_year %}
+    <section id="year-{{ year.name }}" class="archive-year">
+      <div class="archive-year-header">
+        <h2 class="archive-year-title">
+          {{ year.name }}
+          <span class="archive-year-count">{{ year.items | size }} {% if year.items.size == 1 %}article{% else %}articles{% endif %}</span>
+        </h2>
+        <a class="archive-back-top" href="#top">Back to top &uarr;</a>
+      </div>
+
+      <ul class="archive-list">
+        {% for post in year.items %}
+          <li class="archive-item">
+            <span class="archive-date">{{ post.date | date: "%b %d" }}</span>
+            <div class="archive-item-main">
+              <a class="archive-title" href="{{ post.url }}">{{ post.title }}</a>
+              {% if post.author %}
+                <span class="archive-author">by {{ post.author }}</span>
+              {% endif %}
+            </div>
+            <div class="archive-cats">
+              {% for cat in post.categories %}
+                {% if site.data.categories_name[cat] %}
+                  <a class="archive-cat" href="/category/{{ cat }}/">{{ site.data.categories_name[cat] }}</a>
+                {% else %}
+                  <span class="archive-cat archive-cat-unlinked">{{ cat }}</span>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>

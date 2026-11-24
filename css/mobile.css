@@ -103,6 +103,10 @@
     border-color: #bbb;
     outline: none;
   }
+
+  .navbar-toggle.is-hidden {
+    display: none !important;
+  }
   
   .navbar-toggle .icon-bar {
     display: block;

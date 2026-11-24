@@ -10,7 +10,7 @@
   </a>
   
   <!-- Mobile toggle button -->
-  <button type="button" class="navbar-toggle visible-xs" id="mobile-menu-toggle">
+  <button type="button" class="navbar-toggle visible-xs" id="mobile-menu-toggle" aria-expanded="false" aria-controls="mobile-nav">
     <span class="sr-only">Toggle navigation</span>
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
@@ -22,7 +22,8 @@
     <a href="/about">About</a>
     <a href="/guide">Guide</a>
     <a href="/getinvolved">Get Involved</a>
-    <a href="http://fb.com/watchoutiitr"><img src="/images/fb-logo.svg"></a>
+    <a href="https://www.facebook.com/watchoutiitr/"><img src="/images/fb-logo.svg"></a>
+    <a href="https://www.instagram.com/watchoutiitr/" aria-label="Instagram"><img src="/images/instagram-logo.svg" alt="Instagram"></a>
     <a href="https://www.youtube.com/channel/UCthZ7tKOzy4EJpuVxtdcp1A"><img src="/images/youtube-play.svg"></a>
     <a href="mailto:watchout@iitr.ac.in"><img src="/images/email.png" width="16px"></a>
   </div>
@@ -63,7 +64,8 @@
     <a href="/guide">Guide</a>
     <a href="/getinvolved">Get Involved</a>
     <br><br>
-    <a href="http://fb.com/watchoutiitr"><img src="/images/fb-logo.svg" alt="Facebook"></a>
+    <a href="https://www.facebook.com/watchoutiitr/"><img src="/images/fb-logo.svg" alt="Facebook"></a>
+    <a href="https://www.instagram.com/watchoutiitr/" aria-label="Instagram"><img src="/images/instagram-logo.svg" alt="Instagram"></a>
     <a href="https://www.youtube.com/channel/UCthZ7tKOzy4EJpuVxtdcp1A"><img src="/images/youtube-play.svg" alt="YouTube"></a>
     <a href="mailto:watchout@iitr.ac.in"><img src="/images/email.png" width="20px" alt="Email"></a>
   </div>
@@ -117,9 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (mobileNav && mobileNavOverlay) {
             mobileNav.classList.add('show');
             mobileNavOverlay.classList.add('show');
-            const toggle = document.getElementById('mobile-menu-toggle');
-            if (toggle) {
-                toggle.parentElement.removeChild(toggle);
+            if (mobileToggle) {
+                mobileToggle.classList.add('is-hidden');
+                mobileToggle.setAttribute('aria-expanded', 'true');
             }
             document.body.style.overflow = 'hidden'; // Prevent body scroll
         }
@@ -131,26 +133,9 @@ document.addEventListener('DOMContentLoaded', function() {
             mobileNav.classList.remove('show');
             mobileNavOverlay.classList.remove('show');
             document.body.style.overflow = ''; // Restore body scroll
-            if (!document.getElementById('mobile-menu-toggle')) {
-              const newToggle = document.createElement('button');
-              newToggle.type = 'button';
-              newToggle.id = 'mobile-menu-toggle';
-              newToggle.className = 'navbar-toggle visible-xs position-fixed top-0 end-0 m-3 z-1030';
-              newToggle.innerHTML = `
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              `;
-
-              const container = document.querySelector('.pre-nav');
-              if (container) container.appendChild(newToggle);
-
-              newToggle.addEventListener('click', function(e) {
-                  e.preventDefault();
-                  e.stopPropagation();
-                  openMobileMenu();
-              });
+            if (mobileToggle) {
+                mobileToggle.classList.remove('is-hidden');
+                mobileToggle.setAttribute('aria-expanded', 'false');
             }
 
             // Close all open dropdowns
@@ -234,5 +219,12 @@ document.addEventListener('DOMContentLoaded', function() {
             e.stopPropagation();
         });
     }
+
+    // Close mobile menu on Escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && mobileNav && mobileNav.classList.contains('show')) {
+            closeMobileMenu();
+        }
+    });
 });
 </script>

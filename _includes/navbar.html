@@ -20,7 +20,7 @@
   <div class="social pull-right hidden-xs">
     <a href="/archive/">Archive</a>
     <a href="/about">About</a>
-    <a href="/guide">Guide</a>
+    <a href="/guides/">Guides &amp; Resources</a>
     <a href="/getinvolved">Get Involved</a>
     <a href="https://www.facebook.com/watchoutiitr/"><img src="/images/fb-logo.svg"></a>
     <a href="https://www.instagram.com/watchoutiitr/" aria-label="Instagram"><img src="/images/instagram-logo.svg" alt="Instagram"></a>
@@ -40,6 +40,15 @@
   </div>
   
   <ul class="nav">
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-category="guides">Guides &amp; Resources</a>
+      <ul class="dropdown-menu">
+        <li><a href="/guides/">All Guides &amp; Resources</a></li>
+        {% for section in site.data.guides.sections %}
+        <li><a href="/guides/#{{ section.id }}">{{ section.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
     {% for cat in site.data.categories %}
     {% if cat.subcategories != nil %}
     <li class="dropdown">
@@ -61,7 +70,6 @@
   <div class="mobile-nav-social">
     <a href="/archive/">Archive</a>
     <a href="/about">About</a>
-    <a href="/guide">Guide</a>
     <a href="/getinvolved">Get Involved</a>
     <br><br>
     <a href="https://www.facebook.com/watchoutiitr/"><img src="/images/fb-logo.svg" alt="Facebook"></a>

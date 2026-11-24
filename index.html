@@ -31,6 +31,27 @@ title: "Watch Out, IIT Roorkee"
   </div>
 </div>
 
+<div id="guides-strip-container" class="container">
+  <div class="guides-strip-header">
+    <h1 class="container-title">Guides &amp; Resources</h1>
+    <a class="view-all-guides" href="/guides/">view all &rarr;</a>
+  </div>
+  <div class="row guides-strip-row">
+    {% for guide in site.data.guides.featured %}
+    <div class="col-sm-6 col-md-3 guide-card-col">
+      <a class="guide-card" href="{{ guide.url }}">
+        <div class="guide-card-meta">
+          <span class="guide-card-tag">{{ guide.tag }}</span>
+          <span class="guide-card-year">{{ guide.year }}</span>
+        </div>
+        <h3 class="guide-card-title">{{ guide.title }}</h3>
+        <p class="guide-card-summary">{{ guide.summary }}</p>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
 <div id="yt-videos-container" class="container">
   <h1 class="container-title">Videos</h1>
   <div class="row">

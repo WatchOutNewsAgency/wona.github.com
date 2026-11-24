@@ -887,7 +887,8 @@ footer {
   }
 
   &:hover,
-  &:focus {
+  &:focus,
+  &.active {
     background: #e7ce00;
     border-color: #e7ce00;
     color: #333333;
@@ -902,6 +903,10 @@ footer {
 .archive-year {
   margin-bottom: 36px;
   scroll-margin-top: 70px;
+
+  &.is-filtered-out {
+    display: none;
+  }
 }
 
 .archive-year-header {
@@ -1046,5 +1051,159 @@ footer {
   .archive-author {
     display: inline-block;
     margin-left: 0;
+  }
+}
+
+// ============== GUIDES & RESOURCES ============== //
+
+.guides-section {
+  margin-bottom: 36px;
+  scroll-margin-top: 70px;
+
+  &.is-filtered-out {
+    display: none;
+  }
+}
+
+.archive-page.is-filtered .archive-back-top {
+  display: none;
+}
+
+.guide-item {
+  align-items: flex-start;
+}
+
+.guide-summary {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #8b8b8b;
+  line-height: 1.45;
+}
+
+.guide-editions {
+  margin-top: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+.guide-editions-label {
+  font-size: 11px;
+  color: #8b8b8b;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#guides-strip-container {
+  padding-top: 20px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ededed;
+}
+
+.guides-strip-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 14px;
+
+  .container-title {
+    margin: 0;
+  }
+
+  .view-all-guides {
+    font-family: Merriweather;
+    font-style: italic;
+    font-size: 16px;
+    color: #ababab;
+    text-decoration: none;
+
+    &:hover {
+      color: #333333;
+      text-decoration: none;
+    }
+  }
+}
+
+.guides-strip-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.guide-card-col {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.guide-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 14px 16px;
+  background: #ffffff;
+  border: 1px solid #ededed;
+  border-top: 3px solid #e7ce00;
+  text-decoration: none;
+  color: #333333;
+  @include transition(background-color, 0.15s, ease);
+
+  &:hover,
+  &:focus {
+    background: #f7f7f7;
+    text-decoration: none;
+    color: #333333;
+
+    .guide-card-title {
+      text-decoration: underline;
+      text-decoration-color: #e7ce00;
+      text-decoration-thickness: 2px;
+    }
+  }
+}
+
+.guide-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.guide-card-tag {
+  color: #333333;
+  background: #f7f7f7;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.guide-card-year {
+  color: #8b8b8b;
+}
+
+.guide-card-title {
+  margin: 0 0 6px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.35;
+  color: #333333;
+}
+
+.guide-card-summary {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
+  color: #8b8b8b;
+}
+
+@media (max-width: 768px) {
+  .guides-strip-row {
+    display: block;
+  }
+
+  .guide-card-col {
+    display: block;
   }
 }
